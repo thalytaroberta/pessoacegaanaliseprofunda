@@ -1,415 +1,384 @@
-// JavaScript Application Logic for Pessoa Cega: Análise Profunda
+// ============================================================
+// PESSOA CEGA: ANÁLISE PROFUNDA — App Logic
+// All data is pre-loaded via js/db-data.js (window.ENCYCLOPEDIA_DB)
+// All markdown rendering via js/marked.local.js (window.marked)
+// NO fetch(), NO async, NO CORS issues.
+// ============================================================
 
-let db = {
-  project: "PESSOA CEGA: ANÁLISE PROFUNDA",
-  totalModules: 60,
-  modules: [],
-  syntheses: ""
-};
+(function() {
+  'use strict';
 
-let activeModuleId = 1;
-let synth = window.speechSynthesis;
-let utterance = null;
+  // ── State ──────────────────────────────────────────────────
+  var db = { modules: [], syntheses: '', project: '' };
+  var activeModuleId = null;
+  var ttsActive = false;
 
-// Initialize app when DOM is ready
-document.addEventListener('DOMContentLoaded', () => {
-  initDatabase();
-  initEvents();
-});
-
-function initDatabase() {
-  if (window.ENCYCLOPEDIA_DB && window.ENCYCLOPEDIA_DB.modules) {
-    db = window.ENCYCLOPEDIA_DB;
-  } else {
-    // Fallback fetch if db-data.js wasn't loaded
-    fetch('data/encyclopedia-db.json')
-      .then(res => res.json())
-      .then(data => {
-        db = data;
-        renderSidebar();
-        handleRoute();
-      })
-      .catch(err => console.error('Erro ao carregar dados:', err));
-  }
-
-  renderSidebar();
-  
-  // Listen for URL hash changes
-  window.addEventListener('hashchange', handleRoute);
-  handleRoute();
-}
-
-// Fallback Markdown Renderer
-function safeRenderMarkdown(text) {
-  if (!text) return '<p class="text-slate-400">Nenhum conteúdo disponível.</p>';
-  
-  if (window.marked && typeof window.marked.parse === 'function') {
+  // ── Markdown Renderer ──────────────────────────────────────
+  function renderMD(text) {
+    if (!text) return '<p style="color:#64748b">Nenhum conteúdo disponível.</p>';
     try {
-      return window.marked.parse(text);
+      // marked v14 (downloaded from CDN)
+      if (window.marked && typeof window.marked.parse === 'function') {
+        return window.marked.parse(text);
+      }
+      if (typeof window.marked === 'function') {
+        return window.marked(text);
+      }
     } catch (e) {
-      console.warn('marked.parse fallback:', e);
+      console.warn('marked error, using fallback:', e.message);
     }
-  } else if (typeof window.marked === 'function') {
-    try {
-      return window.marked(text);
-    } catch (e) {
-      console.warn('marked() fallback:', e);
-    }
+    // Plain fallback
+    return '<pre style="white-space:pre-wrap;color:#cbd5e1;font-size:14px;line-height:1.7;">' +
+      text.replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</pre>';
   }
 
-  // Pure JavaScript Fallback Markdown Parser
-  let html = text
-    .replace(/^## (.*$)/gim, '<h2 class="font-heading font-bold text-2xl text-white mt-8 mb-4 border-b border-slate-800 pb-2">$1</h2>')
-    .replace(/^# (.*$)/gim, '<h1 class="font-heading font-extrabold text-3xl text-indigo-400 mt-6 mb-4">$1</h1>')
-    .replace(/\*\*(.*?)\*\*/gim, '<strong class="text-white font-bold">$1</strong>')
-    .replace(/\*(.*?)\*/gim, '<em class="text-slate-200">$1</em>')
-    .replace(/^\> (.*$)/gim, '<blockquote class="border-l-4 border-indigo-500 pl-4 py-2 my-4 bg-indigo-950/30 text-indigo-200 rounded-r-lg">$1</blockquote>')
-    .replace(/^---$/gim, '<hr class="my-6 border-slate-800">')
-    .replace(/^\* (.*$)/gim, '<li class="ml-4 list-disc text-slate-300 my-1">$1</li>')
-    .replace(/^- (.*$)/gim, '<li class="ml-4 list-disc text-slate-300 my-1">$1</li>')
-    .replace(/\n\n/gim, '</p><p class="my-4 text-slate-300 leading-relaxed text-base">')
-    .replace(/\n/gim, '<br>');
+  // ── DOM Helpers ────────────────────────────────────────────
+  function el(id) { return document.getElementById(id); }
 
-  return `<div class="prose prose-invert max-w-none"><p class="my-4 text-slate-300 leading-relaxed text-base">${html}</p></div>`;
-}
-
-// Router
-function handleRoute() {
-  const hash = window.location.hash || '#/';
-
-  if (hash.startsWith('#/modulo/')) {
-    const target = hash.replace('#/modulo/', '');
-    const mod = db.modules.find(m => m.id == target || m.slug === target || m.number === target);
-    if (mod) {
-      renderModuleReadingView(mod.id);
-    } else {
-      renderCatalogView();
-    }
-  } else if (hash === '#/sinteses') {
-    renderSynthesesView();
-  } else {
-    renderCatalogView();
+  function setHTML(id, html) {
+    var node = el(id);
+    if (node) node.innerHTML = html;
   }
-}
 
-// Global Window Actions (Bound directly to buttons and cards)
-window.navigateToModule = function(id) {
-  window.location.hash = `#/modulo/${id}`;
-  renderModuleReadingView(id);
-};
+  // ── Category Colors ────────────────────────────────────────
+  var catColors = {
+    'História e Conceitos': '#f59e0b',
+    'Neuropsicologia e Alfabetização': '#818cf8',
+    'Estudo TECE e Vida Independente': '#10b981',
+    'Inclusão, Direitos e Inteligência Artificial': '#f472b6',
+    'Legislação, Esporte Paralímpico e Arte': '#38bdf8',
+    'Nordeste, Pernambuco e Pesquisa': '#fb923c'
+  };
 
-window.navigateToCatalog = function() {
-  window.location.hash = '#/';
-  renderCatalogView();
-};
-
-window.navigateToSyntheses = function() {
-  window.location.hash = '#/sinteses';
-  renderSynthesesView();
-};
-
-window.scrollToTopic = function(anchorId) {
-  const el = document.getElementById(anchorId);
-  if (el) {
-    el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-  } else {
-    console.warn("Tópico não encontrado:", anchorId);
+  function catColor(cat) {
+    return catColors[cat] || '#6366f1';
   }
-};
 
-function renderSidebar() {
-  const container = document.getElementById('sidebar-module-list');
-  if (!container || !db.modules) return;
+  // ── Sidebar ────────────────────────────────────────────────
+  function renderSidebar() {
+    var container = el('sidebar-list');
+    if (!container || !db.modules.length) return;
 
-  container.innerHTML = db.modules.map(m => `
-    <button type="button" onclick="navigateToModule(${m.id})" 
-       class="sidebar-mod-item w-full text-left p-2 rounded-xl border border-transparent hover:bg-slate-800 hover:border-slate-700 transition ${m.id === activeModuleId ? 'bg-indigo-600/20 text-indigo-300 font-semibold border-indigo-500/40' : 'text-slate-300'}">
-      <div class="flex items-center gap-2">
-        <span class="font-mono text-[10px] font-bold text-indigo-400 bg-indigo-500/10 px-1.5 py-0.5 rounded">Módulo ${m.number}</span>
-        <span class="truncate text-xs">${m.title}</span>
-      </div>
-    </button>
-  `).join('');
+    var html = db.modules.map(function(m) {
+      var active = m.id === activeModuleId;
+      var bg = active ? 'background:rgba(99,102,241,0.15);border-color:#6366f1;color:#a5b4fc;font-weight:600;' : '';
+      return '<button type="button" onclick="APP.openModule(' + m.id + ')" ' +
+        'style="width:100%;text-align:left;padding:6px 8px;border-radius:10px;border:1px solid transparent;' +
+        'background:transparent;cursor:pointer;color:#94a3b8;font-size:11px;transition:all 0.15s;' + bg + '" ' +
+        'onmouseover="if(' + m.id + '!==' + (activeModuleId||0) + ')this.style.background=\'rgba(30,41,59,0.8)\'" ' +
+        'onmouseout="if(' + m.id + '!==' + (activeModuleId||0) + ')this.style.background=\'transparent\'">' +
+        '<span style="font-family:JetBrains Mono,monospace;font-size:9px;font-weight:700;color:#818cf8;' +
+        'background:rgba(99,102,241,0.1);padding:1px 5px;border-radius:4px;margin-right:6px;">Módulo ' + m.number + '</span>' +
+        '<span>' + m.title + '</span>' +
+        '</button>';
+    }).join('');
 
-  // Sidebar Filter
-  const filterInput = document.getElementById('sidebar-filter');
-  if (filterInput) {
-    filterInput.addEventListener('input', (e) => {
-      const q = e.target.value.toLowerCase().trim();
-      const items = container.querySelectorAll('.sidebar-mod-item');
-      items.forEach(el => {
-        const txt = el.innerText.toLowerCase();
-        if (txt.includes(q)) {
-          el.style.display = 'block';
-        } else {
-          el.style.display = 'none';
-        }
+    container.innerHTML = html;
+
+    // Sidebar filter
+    var filterInput = el('sidebar-filter');
+    if (filterInput && !filterInput._hasListener) {
+      filterInput._hasListener = true;
+      filterInput.addEventListener('input', function() {
+        var q = this.value.toLowerCase();
+        var btns = container.querySelectorAll('button');
+        btns.forEach(function(btn) {
+          btn.style.display = btn.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+        });
       });
-    });
-  }
-}
-
-// ==========================================
-// 1. CATALOG VIEW (#/)
-// ==========================================
-function renderCatalogView() {
-  const mainArea = document.getElementById('main-reading-area');
-  if (!mainArea || !db.modules) return;
-  
-  // Group by categories
-  const categories = {};
-  db.modules.forEach(m => {
-    if (!categories[m.category]) categories[m.category] = [];
-    categories[m.category].push(m);
-  });
-
-  mainArea.innerHTML = `
-    <div class="space-y-10">
-      <!-- HERO BANNER -->
-      <div class="bg-gradient-to-r from-slate-900 via-indigo-950/40 to-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-10 space-y-4 shadow-2xl">
-        <div class="inline-flex items-center gap-2 bg-indigo-500/10 border border-indigo-500/30 text-indigo-400 font-mono text-xs font-semibold px-3 py-1 rounded-full">
-          <span>PESSOA CEGA</span> • <span>ANÁLISE PROFUNDA</span>
-        </div>
-        <h1 class="font-heading font-extrabold text-3xl sm:text-4xl lg:text-5xl text-white tracking-tight leading-tight max-w-4xl">
-          Dossiê Acadêmico, Histórico e Científico sobre Deficiência Visual
-        </h1>
-        <p class="text-sm sm:text-base text-slate-300 max-w-3xl leading-relaxed">
-          Selecione qualquer um dos <strong>60 Módulos de Estudo</strong> abaixo para ler o material de pesquisa completo, incluindo contextos históricos, neurociência, pedagogia tátil, tecnologia assistiva, IA e Pernambuco.
-        </p>
-      </div>
-
-      <!-- CATEGORIES AND MODULE CARDS -->
-      ${Object.keys(categories).map(catName => `
-        <section class="space-y-4">
-          <div class="flex items-center gap-3 border-b border-slate-800 pb-3">
-            <i data-lucide="book" class="w-5 h-5 text-indigo-400"></i>
-            <h2 class="font-heading font-bold text-xl sm:text-2xl text-white tracking-tight">${catName}</h2>
-            <span class="text-xs text-slate-500 font-medium bg-slate-900 border border-slate-800 px-2.5 py-0.5 rounded-full">${categories[catName].length} Módulos</span>
-          </div>
-
-          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-            ${categories[catName].map(m => `
-              <div onclick="navigateToModule(${m.id})" class="cursor-pointer bg-slate-900 border border-slate-800 hover:border-indigo-500/60 rounded-2xl p-5 hover:-translate-y-1 transition-all duration-200 shadow-lg flex flex-col justify-between group">
-                <div class="space-y-3">
-                  <div class="flex items-center justify-between">
-                    <span class="font-mono text-xs font-bold text-indigo-400 bg-indigo-500/10 border border-indigo-500/20 px-2 py-0.5 rounded-md">
-                      Módulo ${m.number}
-                    </span>
-                    <span class="text-[11px] text-slate-500">14 Tópicos</span>
-                  </div>
-
-                  <h3 class="font-heading font-bold text-base text-white group-hover:text-indigo-300 transition-colors">
-                    ${m.title}
-                  </h3>
-
-                  <p class="text-xs text-slate-400 line-clamp-3 leading-relaxed">
-                    ${m.summary}
-                  </p>
-                </div>
-
-                <div class="pt-4 mt-4 border-t border-slate-800/80 flex items-center justify-between">
-                  <span class="text-[11px] text-slate-500">Volume ${m.vol}</span>
-                  <button type="button" onclick="navigateToModule(${m.id})" class="text-xs font-semibold text-indigo-400 group-hover:translate-x-1 transition-transform flex items-center gap-1">
-                    Ler Módulo Completo →
-                  </button>
-                </div>
-              </div>
-            `).join('')}
-          </div>
-        </section>
-      `).join('')}
-    </div>
-  `;
-
-  window.scrollTo(0, 0);
-  if (window.lucide) lucide.createIcons();
-}
-
-// ==========================================
-// 2. DETAILED MODULE READING VIEW (#/modulo/:id)
-// ==========================================
-function renderModuleReadingView(moduleId) {
-  const mainArea = document.getElementById('main-reading-area');
-  const mod = db.modules.find(m => m.id == moduleId);
-
-  if (!mod) {
-    if (mainArea) mainArea.innerHTML = `<div class="p-8 text-white">Módulo ${moduleId} não encontrado.</div>`;
-    return;
+    }
   }
 
-  activeModuleId = mod.id;
-  renderSidebar();
+  // ── Search ─────────────────────────────────────────────────
+  function setupSearch(inputId, dropdownId) {
+    var input = el(inputId);
+    var dropdown = el(dropdownId);
+    if (!input) return;
 
-  const prevMod = db.modules.find(m => m.id === mod.id - 1);
-  const nextMod = db.modules.find(m => m.id === mod.id + 1);
+    input.addEventListener('input', function() {
+      var q = this.value.toLowerCase().trim();
+      if (!dropdown) return;
+      if (q.length < 2) { dropdown.style.display = 'none'; return; }
 
-  const renderedHTML = safeRenderMarkdown(mod.markdown);
+      var matches = db.modules.filter(function(m) {
+        return m.title.toLowerCase().includes(q) ||
+          m.summary.toLowerCase().includes(q) ||
+          m.category.toLowerCase().includes(q) ||
+          (m.markdown && m.markdown.toLowerCase().includes(q));
+      });
 
-  mainArea.innerHTML = `
-    <div class="space-y-8 max-w-4xl mx-auto">
-      
-      <!-- TOP NAVIGATION BAR INSIDE READING VIEW -->
-      <div class="flex flex-wrap items-center justify-between gap-4 border-b border-slate-800 pb-4">
-        <button type="button" onclick="navigateToCatalog()" class="text-xs font-semibold text-indigo-400 hover:text-indigo-300 flex items-center gap-1">
-          ← Voltar ao Catálogo de Módulos
-        </button>
-        <div class="flex items-center gap-2 text-xs text-slate-400">
-          <span>Volume ${mod.vol}</span> • <span>${mod.category}</span>
-        </div>
-      </div>
-
-      <!-- MODULE HEADER -->
-      <div class="bg-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-8 space-y-4 shadow-xl">
-        <div class="flex items-center gap-2">
-          <span class="font-mono text-xs font-bold text-indigo-400 bg-indigo-500/10 border border-indigo-500/30 px-3 py-1 rounded-lg">
-            MÓDULO ${mod.number} DE 60
-          </span>
-        </div>
-
-        <h1 class="font-heading font-extrabold text-2xl sm:text-3xl lg:text-4xl text-white tracking-tight">
-          ${mod.title}
-        </h1>
-
-        <p class="text-xs sm:text-sm text-slate-300 leading-relaxed border-l-2 border-indigo-500 pl-3">
-          ${mod.summary}
-        </p>
-      </div>
-
-      <!-- INTERACTIVE TOPIC INDEX (TABELA DE 14 TÓPICOS DO MÓDULO) -->
-      <div class="bg-slate-900/80 border border-slate-800 rounded-2xl p-5 space-y-3">
-        <h3 class="font-heading font-bold text-sm text-indigo-400 uppercase tracking-wider flex items-center gap-2">
-          <i data-lucide="list" class="w-4 h-4"></i> Tópicos deste Módulo (Clique para rolar até o tópico)
-        </h3>
-
-        <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
-          ${mod.topics.map(t => `
-            <button type="button" onclick="scrollToTopic('${t.anchor}')" 
-               class="text-left p-2 rounded-lg bg-slate-950 border border-slate-800 hover:border-indigo-500 text-slate-300 hover:text-white transition truncate flex items-center gap-2 focus:outline-none focus:ring-2 focus:ring-indigo-500">
-              <span class="w-2 h-2 rounded-full bg-indigo-500 flex-shrink-0"></span>
-              <span class="truncate">${t.title}</span>
-            </button>
-          `).join('')}
-        </div>
-      </div>
-
-      <!-- READING MATERIAL BODY -->
-      <article id="study-reading-body" class="markdown-body bg-slate-950 p-4 sm:p-8 rounded-3xl border border-slate-900 shadow-2xl">
-        ${renderedHTML}
-      </article>
-
-      <!-- BOTTOM MODULE NAVIGATION (PREV / NEXT) -->
-      <div class="pt-6 border-t border-slate-800 flex items-center justify-between gap-4">
-        ${prevMod ? `
-          <button type="button" onclick="navigateToModule(${prevMod.id})" class="bg-slate-900 border border-slate-800 hover:border-indigo-500 p-4 rounded-2xl text-left space-y-1 transition max-w-xs">
-            <span class="text-[11px] text-slate-500 font-semibold uppercase">Módulo Anterior</span>
-            <div class="text-xs font-bold text-white truncate">Módulo ${prevMod.number}: ${prevMod.title}</div>
-          </button>
-        ` : '<div></div>'}
-
-        ${nextMod ? `
-          <button type="button" onclick="navigateToModule(${nextMod.id})" class="bg-slate-900 border border-slate-800 hover:border-indigo-500 p-4 rounded-2xl text-right space-y-1 transition max-w-xs">
-            <span class="text-[11px] text-indigo-400 font-semibold uppercase">Próximo Módulo →</span>
-            <div class="text-xs font-bold text-white truncate">Módulo ${nextMod.number}: ${nextMod.title}</div>
-          </button>
-        ` : '<div></div>'}
-      </div>
-
-    </div>
-  `;
-
-  window.scrollTo(0, 0);
-  if (window.lucide) lucide.createIcons();
-}
-
-// ==========================================
-// 3. SYNTHESES VIEW (#/sinteses)
-// ==========================================
-function renderSynthesesView() {
-  const mainArea = document.getElementById('main-reading-area');
-  if (!mainArea) return;
-
-  mainArea.innerHTML = `
-    <div class="max-w-4xl mx-auto space-y-6">
-      <div class="flex items-center justify-between border-b border-slate-800 pb-4">
-        <h1 class="font-heading font-extrabold text-2xl text-white">Sínteses Finais & Tabelas do Conhecimento</h1>
-        <button type="button" onclick="navigateToCatalog()" class="text-xs text-indigo-400 hover:underline">← Voltar ao Catálogo</button>
-      </div>
-
-      <article class="markdown-body bg-slate-950 p-6 sm:p-8 rounded-3xl border border-slate-900 shadow-2xl">
-        ${safeRenderMarkdown(db.syntheses)}
-      </article>
-    </div>
-  `;
-  window.scrollTo(0, 0);
-  if (window.lucide) lucide.createIcons();
-}
-
-// ==========================================
-// SEARCH & AUDIO CONTROLS
-// ==========================================
-function initEvents() {
-  setupSearch('encyclopedia-search', 'search-results-box');
-  setupSearch('mobile-encyclopedia-search', 'search-results-box');
-
-  const btnAudio = document.getElementById('btn-audio-read');
-  if (btnAudio) {
-    btnAudio.addEventListener('click', () => {
-      if (!('speechSynthesis' in window)) {
-        alert('Seu navegador não suporta leitura em voz alta.');
-        return;
+      if (!matches.length) {
+        dropdown.innerHTML = '<div style="padding:16px;font-size:12px;color:#64748b;">Nenhum resultado para "' + q + '"</div>';
+      } else {
+        dropdown.innerHTML = matches.slice(0, 8).map(function(m) {
+          return '<button type="button" onclick="APP.openModule(' + m.id + ');document.getElementById(\'' + dropdownId + '\').style.display=\'none\';" ' +
+            'style="width:100%;text-align:left;padding:12px 16px;background:transparent;border:none;border-bottom:1px solid #1e293b;cursor:pointer;transition:background 0.15s;" ' +
+            'onmouseover="this.style.background=\'rgba(30,41,59,0.8)\'" onmouseout="this.style.background=\'transparent\'">' +
+            '<div style="font-size:10px;font-weight:700;color:#818cf8;text-transform:uppercase;letter-spacing:0.05em;margin-bottom:2px;">Módulo ' + m.number + ' · ' + m.category + '</div>' +
+            '<div style="font-size:13px;font-weight:600;color:#f8fafc;">' + m.title + '</div>' +
+            '</button>';
+        }).join('');
       }
+      dropdown.style.display = 'block';
+    });
+  }
 
-      if (synth.speaking) {
-        synth.cancel();
-        return;
+  // ── CATALOG VIEW ───────────────────────────────────────────
+  function renderCatalog() {
+    activeModuleId = null;
+    renderSidebar();
+
+    // Group by category
+    var groups = {};
+    db.modules.forEach(function(m) {
+      if (!groups[m.category]) groups[m.category] = [];
+      groups[m.category].push(m);
+    });
+
+    var html = '<div>' +
+
+      // Hero
+      '<div style="background:linear-gradient(135deg,rgba(30,27,74,0.8),rgba(15,23,42,0.9));' +
+      'border:1px solid #1e293b;border-radius:24px;padding:40px 48px;margin-bottom:40px;box-shadow:0 20px 60px rgba(0,0,0,0.4);">' +
+      '<div style="display:inline-flex;align-items:center;gap:8px;background:rgba(99,102,241,0.1);border:1px solid rgba(99,102,241,0.3);' +
+      'color:#818cf8;font-size:11px;font-weight:700;padding:4px 12px;border-radius:999px;margin-bottom:16px;letter-spacing:0.05em;">' +
+      'PESSOA CEGA · ANÁLISE PROFUNDA</div>' +
+      '<h1 style="font-family:Outfit,sans-serif;font-weight:800;font-size:clamp(24px,4vw,44px);color:#fff;line-height:1.2;margin-bottom:16px;">' +
+      'Dossiê Acadêmico, Histórico e Científico sobre Deficiência Visual</h1>' +
+      '<p style="font-size:15px;color:#94a3b8;max-width:720px;line-height:1.7;">' +
+      'Selecione qualquer um dos <strong style="color:#e2e8f0;">60 Módulos de Estudo</strong> abaixo para ler o material de pesquisa completo — ' +
+      'história, neurociência, pedagogia tátil, tecnologia assistiva, IA, Pernambuco e muito mais.</p>' +
+      '</div>' +
+
+      // Categories + cards
+      Object.keys(groups).map(function(cat) {
+        var mods = groups[cat];
+        var color = catColor(cat);
+        return '<section style="margin-bottom:40px;">' +
+
+          '<div style="display:flex;align-items:center;gap:12px;border-bottom:1px solid #1e293b;padding-bottom:12px;margin-bottom:20px;">' +
+          '<div style="width:8px;height:32px;background:' + color + ';border-radius:4px;"></div>' +
+          '<h2 style="font-family:Outfit,sans-serif;font-weight:700;font-size:20px;color:#fff;">' + cat + '</h2>' +
+          '<span style="font-size:11px;color:#64748b;background:#0f172a;border:1px solid #1e293b;padding:2px 10px;border-radius:999px;">' + mods.length + ' Módulos</span>' +
+          '</div>' +
+
+          '<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;">' +
+          mods.map(function(m) {
+            return '<div onclick="APP.openModule(' + m.id + ')" ' +
+              'style="background:#0f172a;border:1px solid #1e293b;border-radius:16px;padding:20px;cursor:pointer;' +
+              'transition:all 0.2s;display:flex;flex-direction:column;justify-content:space-between;" ' +
+              'onmouseover="this.style.borderColor=\'' + color + '\';this.style.transform=\'translateY(-2px)\';this.style.boxShadow=\'0 8px 32px rgba(0,0,0,0.3)\'" ' +
+              'onmouseout="this.style.borderColor=\'#1e293b\';this.style.transform=\'none\';this.style.boxShadow=\'none\'">' +
+
+              '<div>' +
+              '<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;">' +
+              '<span style="font-family:JetBrains Mono,monospace;font-size:10px;font-weight:700;color:' + color + ';' +
+              'background:rgba(99,102,241,0.08);border:1px solid rgba(99,102,241,0.2);padding:3px 8px;border-radius:6px;">' +
+              'Módulo ' + m.number + '</span>' +
+              '<span style="font-size:10px;color:#475569;">14 Tópicos</span>' +
+              '</div>' +
+              '<h3 style="font-family:Outfit,sans-serif;font-weight:700;font-size:15px;color:#f1f5f9;margin-bottom:8px;line-height:1.4;">' + m.title + '</h3>' +
+              '<p style="font-size:12px;color:#64748b;line-height:1.6;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">' + m.summary + '</p>' +
+              '</div>' +
+
+              '<div style="margin-top:16px;padding-top:12px;border-top:1px solid #1e293b;display:flex;align-items:center;justify-content:space-between;">' +
+              '<span style="font-size:10px;color:#475569;">Volume ' + m.vol + '</span>' +
+              '<span style="font-size:12px;font-weight:600;color:' + color + ';">Ler Módulo →</span>' +
+              '</div>' +
+              '</div>';
+          }).join('') +
+          '</div>' +
+          '</section>';
+      }).join('') +
+      '</div>';
+
+    setHTML('main', html);
+    window.scrollTo(0, 0);
+  }
+
+  // ── MODULE VIEW ────────────────────────────────────────────
+  function renderModule(moduleId) {
+    var mod = db.modules.find(function(m) { return m.id == moduleId; });
+    if (!mod) { renderCatalog(); return; }
+
+    activeModuleId = mod.id;
+    renderSidebar();
+
+    var prev = db.modules.find(function(m) { return m.id === mod.id - 1; });
+    var next = db.modules.find(function(m) { return m.id === mod.id + 1; });
+    var color = catColor(mod.category);
+
+    var topicGrid = mod.topics.map(function(t) {
+      return '<button type="button" onclick="APP.jumpTo(\'' + t.anchor + '\')" ' +
+        'style="text-align:left;padding:8px 12px;background:#020617;border:1px solid #1e293b;border-radius:10px;' +
+        'color:#94a3b8;font-size:11px;cursor:pointer;display:flex;align-items:center;gap:8px;transition:all 0.15s;white-space:nowrap;overflow:hidden;" ' +
+        'onmouseover="this.style.borderColor=\'' + color + '\';this.style.color=\'#f1f5f9\'" ' +
+        'onmouseout="this.style.borderColor=\'#1e293b\';this.style.color=\'#94a3b8\'">' +
+        '<span style="width:6px;height:6px;border-radius:50%;background:' + color + ';flex-shrink:0;"></span>' +
+        '<span style="overflow:hidden;text-overflow:ellipsis;">' + t.title + '</span>' +
+        '</button>';
+    }).join('');
+
+    var prevBtn = prev ?
+      '<button type="button" onclick="APP.openModule(' + prev.id + ')" ' +
+      'style="background:#0f172a;border:1px solid #1e293b;border-radius:14px;padding:14px 20px;text-align:left;cursor:pointer;transition:all 0.2s;max-width:260px;" ' +
+      'onmouseover="this.style.borderColor=\'#6366f1\'" onmouseout="this.style.borderColor=\'#1e293b\'">' +
+      '<div style="font-size:10px;color:#475569;font-weight:700;text-transform:uppercase;margin-bottom:4px;">← Módulo Anterior</div>' +
+      '<div style="font-size:12px;font-weight:600;color:#f1f5f9;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">Módulo ' + prev.number + ': ' + prev.title + '</div>' +
+      '</button>' : '<div></div>';
+
+    var nextBtn = next ?
+      '<button type="button" onclick="APP.openModule(' + next.id + ')" ' +
+      'style="background:#0f172a;border:1px solid #1e293b;border-radius:14px;padding:14px 20px;text-align:right;cursor:pointer;transition:all 0.2s;max-width:260px;" ' +
+      'onmouseover="this.style.borderColor=\'#6366f1\'" onmouseout="this.style.borderColor=\'#1e293b\'">' +
+      '<div style="font-size:10px;color:#818cf8;font-weight:700;text-transform:uppercase;margin-bottom:4px;">Próximo Módulo →</div>' +
+      '<div style="font-size:12px;font-weight:600;color:#f1f5f9;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">Módulo ' + next.number + ': ' + next.title + '</div>' +
+      '</button>' : '<div></div>';
+
+    var html = '<div style="max-width:900px;margin:0 auto;">' +
+
+      // Back + breadcrumb
+      '<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:24px;padding-bottom:16px;border-bottom:1px solid #1e293b;">' +
+      '<button type="button" onclick="APP.goHome()" style="background:none;border:none;cursor:pointer;color:#818cf8;font-size:12px;font-weight:600;display:flex;align-items:center;gap:6px;" ' +
+      'onmouseover="this.style.color=\'#a5b4fc\'" onmouseout="this.style.color=\'#818cf8\'">← Voltar ao Catálogo</button>' +
+      '<span style="font-size:11px;color:#475569;">Volume ' + mod.vol + ' · ' + mod.category + '</span>' +
+      '</div>' +
+
+      // Module header
+      '<div style="background:#0f172a;border:1px solid #1e293b;border-radius:24px;padding:32px;margin-bottom:24px;box-shadow:0 12px 40px rgba(0,0,0,0.3);">' +
+      '<div style="margin-bottom:12px;">' +
+      '<span style="font-family:JetBrains Mono,monospace;font-size:10px;font-weight:700;color:' + color + ';background:rgba(99,102,241,0.08);border:1px solid rgba(99,102,241,0.25);padding:4px 12px;border-radius:8px;">' +
+      'MÓDULO ' + mod.number + ' DE 60</span>' +
+      '</div>' +
+      '<h1 style="font-family:Outfit,sans-serif;font-weight:800;font-size:clamp(20px,3vw,36px);color:#fff;line-height:1.2;margin-bottom:12px;">' + mod.title + '</h1>' +
+      '<p style="font-size:13px;color:#94a3b8;line-height:1.7;border-left:3px solid ' + color + ';padding-left:12px;">' + mod.summary + '</p>' +
+      '</div>' +
+
+      // Topic index
+      '<div style="background:rgba(15,23,42,0.8);border:1px solid #1e293b;border-radius:18px;padding:20px;margin-bottom:24px;">' +
+      '<div style="font-size:11px;font-weight:700;color:' + color + ';text-transform:uppercase;letter-spacing:0.1em;margin-bottom:12px;">📋 Tópicos deste Módulo — Clique para ir diretamente</div>' +
+      '<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px;">' +
+      topicGrid +
+      '</div>' +
+      '</div>' +
+
+      // Article body
+      '<article id="article-body" style="background:#020617;border:1px solid #0f172a;border-radius:24px;padding:32px;margin-bottom:24px;box-shadow:0 20px 60px rgba(0,0,0,0.4);">' +
+      renderMD(mod.markdown) +
+      '</article>' +
+
+      // Prev/Next
+      '<div style="display:flex;align-items:center;justify-content:space-between;gap:16px;padding-top:24px;border-top:1px solid #1e293b;">' +
+      prevBtn + nextBtn +
+      '</div>' +
+      '</div>';
+
+    setHTML('main', html);
+    window.scrollTo(0, 0);
+  }
+
+  // ── SYNTHESES VIEW ─────────────────────────────────────────
+  function renderSyntheses() {
+    activeModuleId = null;
+    renderSidebar();
+
+    var html = '<div style="max-width:900px;margin:0 auto;">' +
+      '<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:24px;padding-bottom:16px;border-bottom:1px solid #1e293b;">' +
+      '<h1 style="font-family:Outfit,sans-serif;font-weight:800;font-size:28px;color:#fff;">Sínteses Finais & Tabelas do Conhecimento</h1>' +
+      '<button type="button" onclick="APP.goHome()" style="background:none;border:none;cursor:pointer;color:#818cf8;font-size:12px;font-weight:600;" ' +
+      'onmouseover="this.style.color=\'#a5b4fc\'" onmouseout="this.style.color=\'#818cf8\'">← Voltar ao Catálogo</button>' +
+      '</div>' +
+      '<article style="background:#020617;border:1px solid #0f172a;border-radius:24px;padding:32px;box-shadow:0 20px 60px rgba(0,0,0,0.4);">' +
+      renderMD(db.syntheses) +
+      '</article></div>';
+
+    setHTML('main', html);
+    window.scrollTo(0, 0);
+  }
+
+  // ── PUBLIC API (accessed via inline onclick) ───────────────
+  window.APP = {
+    openModule: function(id) { renderModule(id); },
+    goHome: function() { renderCatalog(); },
+    openSyntheses: function() { renderSyntheses(); },
+    jumpTo: function(anchorId) {
+      var target = document.getElementById(anchorId);
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
+    }
+  };
 
-      const textToRead = document.getElementById('study-reading-body')?.innerText || "Selecione um módulo para ouvir a leitura.";
-      utterance = new SpeechSynthesisUtterance(textToRead.slice(0, 5000));
-      utterance.lang = 'pt-BR';
-      synth.speak(utterance);
-    });
-  }
-
-  const btnPdf = document.getElementById('btn-pdf-print');
-  if (btnPdf) {
-    btnPdf.addEventListener('click', () => {
-      window.print();
-    });
-  }
-}
-
-function setupSearch(inputId, dropdownId) {
-  const input = document.getElementById(inputId);
-  const dropdown = document.getElementById(dropdownId);
-
-  if (!input || !dropdown) return;
-
-  input.addEventListener('input', (e) => {
-    const q = e.target.value.toLowerCase().trim();
-    if (q.length < 2) {
-      dropdown.classList.add('hidden');
+  // ── INIT ───────────────────────────────────────────────────
+  function init() {
+    // Load DB from pre-loaded script
+    if (window.ENCYCLOPEDIA_DB && window.ENCYCLOPEDIA_DB.modules && window.ENCYCLOPEDIA_DB.modules.length) {
+      db = window.ENCYCLOPEDIA_DB;
+      console.log('DB loaded:', db.modules.length, 'modules');
+    } else {
+      // Fetch fallback for web server
+      fetch('data/encyclopedia-db.json')
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+          db = data;
+          renderSidebar();
+          renderCatalog();
+        })
+        .catch(function(e) {
+          console.error('Fetch failed:', e);
+          setHTML('main', '<div style="padding:40px;text-align:center;color:#f87171;">Erro ao carregar os módulos.<br>Abra via servidor web ou verifique data/encyclopedia-db.json</div>');
+        });
       return;
     }
 
-    const matches = db.modules.filter(m => 
-      m.title.toLowerCase().includes(q) || 
-      m.summary.toLowerCase().includes(q) || 
-      m.category.toLowerCase().includes(q) ||
-      (m.markdown && m.markdown.toLowerCase().includes(q))
-    );
+    renderSidebar();
+    renderCatalog();
 
-    if (matches.length === 0) {
-      dropdown.innerHTML = `<div class="p-4 text-xs text-slate-400">Nenhum módulo encontrado para "${q}".</div>`;
-    } else {
-      dropdown.innerHTML = matches.slice(0, 10).map(m => `
-        <button type="button" onclick="navigateToModule(${m.id}); document.getElementById('${dropdownId}').classList.add('hidden');" 
-           class="w-full text-left block p-3 hover:bg-slate-800 border-b border-slate-800/60 last:border-0 transition">
-          <div class="text-[10px] text-indigo-400 font-bold uppercase">Módulo ${m.number} • ${m.category}</div>
-          <div class="text-sm font-semibold text-white">${m.title}</div>
-        </button>
-      `).join('');
+    // Header buttons
+    var btnHome = el('btn-home');
+    if (btnHome) btnHome.addEventListener('click', function() { APP.goHome(); });
+
+    var btnSyntheses = el('btn-syntheses');
+    if (btnSyntheses) btnSyntheses.addEventListener('click', function() { APP.openSyntheses(); });
+
+    var btnPdf = el('btn-pdf');
+    if (btnPdf) btnPdf.addEventListener('click', function() { window.print(); });
+
+    var btnAudio = el('btn-audio');
+    if (btnAudio) {
+      btnAudio.addEventListener('click', function() {
+        if (!('speechSynthesis' in window)) return;
+        if (window.speechSynthesis.speaking) {
+          window.speechSynthesis.cancel();
+          return;
+        }
+        var body = el('article-body');
+        if (!body) { alert('Abra um módulo primeiro para ouvir a leitura.'); return; }
+        var utt = new SpeechSynthesisUtterance(body.innerText.slice(0, 6000));
+        utt.lang = 'pt-BR';
+        utt.rate = 0.9;
+        window.speechSynthesis.speak(utt);
+      });
     }
-    dropdown.classList.remove('hidden');
-  });
-}
+
+    // Search
+    setupSearch('global-search', 'search-dropdown');
+    setupSearch('mobile-search', null);
+
+    // ESC closes dropdown
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') {
+        var dd = el('search-dropdown');
+        if (dd) dd.style.display = 'none';
+      }
+    });
+  }
+
+  // Wait for DOM
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+
+})();
