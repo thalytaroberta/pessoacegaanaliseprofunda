@@ -1,7 +1,7 @@
 // JavaScript Application Logic for Pessoa Cega: Análise Profunda
 
 let db = {
-  project: "",
+  project: "PESSOA CEGA: ANÁLISE PROFUNDA",
   totalModules: 60,
   modules: [],
   syntheses: ""
@@ -11,54 +11,54 @@ let activeModuleId = 1;
 let synth = window.speechSynthesis;
 let utterance = null;
 
-document.addEventListener('DOMContentLoaded', async () => {
-  await loadDatabase();
+// Initialize app when DOM is ready
+document.addEventListener('DOMContentLoaded', () => {
+  initDatabase();
   initEvents();
 });
 
-async function loadDatabase() {
-  try {
-    const res = await fetch('data/encyclopedia-db.json');
-    db = await res.json();
-    
-    renderSidebar();
-    
-    // Hash routing setup
-    window.addEventListener('hashchange', handleRoute);
-    handleRoute();
-
-  } catch (err) {
-    console.error('Erro ao carregar banco de dados:', err);
-    document.getElementById('main-reading-area').innerHTML = `
-      <div class="p-6 bg-red-950/60 border border-red-800 rounded-2xl text-red-300">
-        <h2 class="font-heading font-bold text-xl mb-2">Erro ao carregar o acervo acadêmico</h2>
-        <p class="text-sm">Certifique-se de que o arquivo <code>data/encyclopedia-db.json</code> foi gerado.</p>
-      </div>
-    `;
+function initDatabase() {
+  if (window.ENCYCLOPEDIA_DB && window.ENCYCLOPEDIA_DB.modules) {
+    db = window.ENCYCLOPEDIA_DB;
+  } else {
+    // Fallback fetch if db-data.js wasn't loaded
+    fetch('data/encyclopedia-db.json')
+      .then(res => res.json())
+      .then(data => {
+        db = data;
+        renderSidebar();
+        handleRoute();
+      })
+      .catch(err => console.error('Erro ao carregar dados:', err));
   }
+
+  renderSidebar();
+  
+  // Listen for URL hash changes
+  window.addEventListener('hashchange', handleRoute);
+  handleRoute();
 }
 
-// Robust Markdown Renderer Fallback
-function safeRenderMarkdown(markdownText) {
-  if (!markdownText) return '<p class="text-slate-400">Nenhum conteúdo disponível.</p>';
+// Fallback Markdown Renderer
+function safeRenderMarkdown(text) {
+  if (!text) return '<p class="text-slate-400">Nenhum conteúdo disponível.</p>';
   
   if (window.marked && typeof window.marked.parse === 'function') {
     try {
-      return window.marked.parse(markdownText);
+      return window.marked.parse(text);
     } catch (e) {
-      console.warn('marked.parse error, using fallback parser:', e);
+      console.warn('marked.parse fallback:', e);
     }
   } else if (typeof window.marked === 'function') {
     try {
-      return window.marked(markdownText);
+      return window.marked(text);
     } catch (e) {
-      console.warn('marked() error, using fallback parser:', e);
+      console.warn('marked() fallback:', e);
     }
   }
 
   // Pure JavaScript Fallback Markdown Parser
-  let html = markdownText
-    // Keep existing HTML tags intact (like <h3 id="...">)
+  let html = text
     .replace(/^## (.*$)/gim, '<h2 class="font-heading font-bold text-2xl text-white mt-8 mb-4 border-b border-slate-800 pb-2">$1</h2>')
     .replace(/^# (.*$)/gim, '<h1 class="font-heading font-extrabold text-3xl text-indigo-400 mt-6 mb-4">$1</h1>')
     .replace(/\*\*(.*?)\*\*/gim, '<strong class="text-white font-bold">$1</strong>')
@@ -73,6 +73,7 @@ function safeRenderMarkdown(markdownText) {
   return `<div class="prose prose-invert max-w-none"><p class="my-4 text-slate-300 leading-relaxed text-base">${html}</p></div>`;
 }
 
+// Router
 function handleRoute() {
   const hash = window.location.hash || '#/';
 
@@ -89,22 +90,45 @@ function handleRoute() {
   } else {
     renderCatalogView();
   }
-
-  window.scrollTo(0, 0);
 }
+
+// Global Window Actions (Bound directly to buttons and cards)
+window.navigateToModule = function(id) {
+  window.location.hash = `#/modulo/${id}`;
+  renderModuleReadingView(id);
+};
+
+window.navigateToCatalog = function() {
+  window.location.hash = '#/';
+  renderCatalogView();
+};
+
+window.navigateToSyntheses = function() {
+  window.location.hash = '#/sinteses';
+  renderSynthesesView();
+};
+
+window.scrollToTopic = function(anchorId) {
+  const el = document.getElementById(anchorId);
+  if (el) {
+    el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  } else {
+    console.warn("Tópico não encontrado:", anchorId);
+  }
+};
 
 function renderSidebar() {
   const container = document.getElementById('sidebar-module-list');
-  if (!container) return;
+  if (!container || !db.modules) return;
 
   container.innerHTML = db.modules.map(m => `
-    <a href="#/modulo/${m.id}" onclick="renderModuleReadingView(${m.id})" 
-       class="sidebar-mod-item block p-2 rounded-xl border border-transparent hover:bg-slate-800 hover:border-slate-700 transition ${m.id === activeModuleId ? 'bg-indigo-600/20 text-indigo-300 font-semibold border-indigo-500/40' : 'text-slate-300'}">
+    <button type="button" onclick="navigateToModule(${m.id})" 
+       class="sidebar-mod-item w-full text-left p-2 rounded-xl border border-transparent hover:bg-slate-800 hover:border-slate-700 transition ${m.id === activeModuleId ? 'bg-indigo-600/20 text-indigo-300 font-semibold border-indigo-500/40' : 'text-slate-300'}">
       <div class="flex items-center gap-2">
         <span class="font-mono text-[10px] font-bold text-indigo-400 bg-indigo-500/10 px-1.5 py-0.5 rounded">Módulo ${m.number}</span>
         <span class="truncate text-xs">${m.title}</span>
       </div>
-    </a>
+    </button>
   `).join('');
 
   // Sidebar Filter
@@ -130,6 +154,7 @@ function renderSidebar() {
 // ==========================================
 function renderCatalogView() {
   const mainArea = document.getElementById('main-reading-area');
+  if (!mainArea || !db.modules) return;
   
   // Group by categories
   const categories = {};
@@ -164,7 +189,7 @@ function renderCatalogView() {
 
           <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
             ${categories[catName].map(m => `
-              <div onclick="window.location.hash='#/modulo/${m.id}'; renderModuleReadingView(${m.id});" class="cursor-pointer bg-slate-900 border border-slate-800 hover:border-indigo-500/60 rounded-2xl p-5 hover:-translate-y-1 transition-all duration-200 shadow-lg flex flex-col justify-between group">
+              <div onclick="navigateToModule(${m.id})" class="cursor-pointer bg-slate-900 border border-slate-800 hover:border-indigo-500/60 rounded-2xl p-5 hover:-translate-y-1 transition-all duration-200 shadow-lg flex flex-col justify-between group">
                 <div class="space-y-3">
                   <div class="flex items-center justify-between">
                     <span class="font-mono text-xs font-bold text-indigo-400 bg-indigo-500/10 border border-indigo-500/20 px-2 py-0.5 rounded-md">
@@ -184,9 +209,9 @@ function renderCatalogView() {
 
                 <div class="pt-4 mt-4 border-t border-slate-800/80 flex items-center justify-between">
                   <span class="text-[11px] text-slate-500">Volume ${m.vol}</span>
-                  <span class="text-xs font-semibold text-indigo-400 group-hover:translate-x-1 transition-transform flex items-center gap-1">
+                  <button type="button" onclick="navigateToModule(${m.id})" class="text-xs font-semibold text-indigo-400 group-hover:translate-x-1 transition-transform flex items-center gap-1">
                     Ler Módulo Completo →
-                  </span>
+                  </button>
                 </div>
               </div>
             `).join('')}
@@ -196,6 +221,7 @@ function renderCatalogView() {
     </div>
   `;
 
+  window.scrollTo(0, 0);
   if (window.lucide) lucide.createIcons();
 }
 
@@ -207,14 +233,13 @@ function renderModuleReadingView(moduleId) {
   const mod = db.modules.find(m => m.id == moduleId);
 
   if (!mod) {
-    mainArea.innerHTML = `<div class="p-8 text-white">Módulo ${moduleId} não encontrado.</div>`;
+    if (mainArea) mainArea.innerHTML = `<div class="p-8 text-white">Módulo ${moduleId} não encontrado.</div>`;
     return;
   }
 
   activeModuleId = mod.id;
   renderSidebar();
 
-  // Find prev and next modules
   const prevMod = db.modules.find(m => m.id === mod.id - 1);
   const nextMod = db.modules.find(m => m.id === mod.id + 1);
 
@@ -225,9 +250,9 @@ function renderModuleReadingView(moduleId) {
       
       <!-- TOP NAVIGATION BAR INSIDE READING VIEW -->
       <div class="flex flex-wrap items-center justify-between gap-4 border-b border-slate-800 pb-4">
-        <a href="#/" class="text-xs font-semibold text-indigo-400 hover:text-indigo-300 flex items-center gap-1">
+        <button type="button" onclick="navigateToCatalog()" class="text-xs font-semibold text-indigo-400 hover:text-indigo-300 flex items-center gap-1">
           ← Voltar ao Catálogo de Módulos
-        </a>
+        </button>
         <div class="flex items-center gap-2 text-xs text-slate-400">
           <span>Volume ${mod.vol}</span> • <span>${mod.category}</span>
         </div>
@@ -258,7 +283,7 @@ function renderModuleReadingView(moduleId) {
 
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
           ${mod.topics.map(t => `
-            <button onclick="scrollToTopic('${t.anchor}')" 
+            <button type="button" onclick="scrollToTopic('${t.anchor}')" 
                class="text-left p-2 rounded-lg bg-slate-950 border border-slate-800 hover:border-indigo-500 text-slate-300 hover:text-white transition truncate flex items-center gap-2 focus:outline-none focus:ring-2 focus:ring-indigo-500">
               <span class="w-2 h-2 rounded-full bg-indigo-500 flex-shrink-0"></span>
               <span class="truncate">${t.title}</span>
@@ -275,17 +300,17 @@ function renderModuleReadingView(moduleId) {
       <!-- BOTTOM MODULE NAVIGATION (PREV / NEXT) -->
       <div class="pt-6 border-t border-slate-800 flex items-center justify-between gap-4">
         ${prevMod ? `
-          <a href="#/modulo/${prevMod.id}" onclick="renderModuleReadingView(${prevMod.id})" class="bg-slate-900 border border-slate-800 hover:border-indigo-500 p-4 rounded-2xl text-left space-y-1 transition max-w-xs">
+          <button type="button" onclick="navigateToModule(${prevMod.id})" class="bg-slate-900 border border-slate-800 hover:border-indigo-500 p-4 rounded-2xl text-left space-y-1 transition max-w-xs">
             <span class="text-[11px] text-slate-500 font-semibold uppercase">Módulo Anterior</span>
             <div class="text-xs font-bold text-white truncate">Módulo ${prevMod.number}: ${prevMod.title}</div>
-          </a>
+          </button>
         ` : '<div></div>'}
 
         ${nextMod ? `
-          <a href="#/modulo/${nextMod.id}" onclick="renderModuleReadingView(${nextMod.id})" class="bg-slate-900 border border-slate-800 hover:border-indigo-500 p-4 rounded-2xl text-right space-y-1 transition max-w-xs">
+          <button type="button" onclick="navigateToModule(${nextMod.id})" class="bg-slate-900 border border-slate-800 hover:border-indigo-500 p-4 rounded-2xl text-right space-y-1 transition max-w-xs">
             <span class="text-[11px] text-indigo-400 font-semibold uppercase">Próximo Módulo →</span>
             <div class="text-xs font-bold text-white truncate">Módulo ${nextMod.number}: ${nextMod.title}</div>
-          </a>
+          </button>
         ` : '<div></div>'}
       </div>
 
@@ -296,25 +321,18 @@ function renderModuleReadingView(moduleId) {
   if (window.lucide) lucide.createIcons();
 }
 
-function scrollToTopic(anchorId) {
-  const el = document.getElementById(anchorId);
-  if (el) {
-    el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-  } else {
-    console.warn(`Elemento com ID ${anchorId} não encontrado.`);
-  }
-}
-
 // ==========================================
 // 3. SYNTHESES VIEW (#/sinteses)
 // ==========================================
 function renderSynthesesView() {
   const mainArea = document.getElementById('main-reading-area');
+  if (!mainArea) return;
+
   mainArea.innerHTML = `
     <div class="max-w-4xl mx-auto space-y-6">
       <div class="flex items-center justify-between border-b border-slate-800 pb-4">
         <h1 class="font-heading font-extrabold text-2xl text-white">Sínteses Finais & Tabelas do Conhecimento</h1>
-        <a href="#/" class="text-xs text-indigo-400 hover:underline">← Voltar ao Catálogo</a>
+        <button type="button" onclick="navigateToCatalog()" class="text-xs text-indigo-400 hover:underline">← Voltar ao Catálogo</button>
       </div>
 
       <article class="markdown-body bg-slate-950 p-6 sm:p-8 rounded-3xl border border-slate-900 shadow-2xl">
@@ -322,6 +340,7 @@ function renderSynthesesView() {
       </article>
     </div>
   `;
+  window.scrollTo(0, 0);
   if (window.lucide) lucide.createIcons();
 }
 
@@ -332,28 +351,32 @@ function initEvents() {
   setupSearch('encyclopedia-search', 'search-results-box');
   setupSearch('mobile-encyclopedia-search', 'search-results-box');
 
-  // Audio Reader Button
-  document.getElementById('btn-audio-read').addEventListener('click', () => {
-    if (!('speechSynthesis' in window)) {
-      alert('Seu navegador não suporta leitura em voz alta.');
-      return;
-    }
+  const btnAudio = document.getElementById('btn-audio-read');
+  if (btnAudio) {
+    btnAudio.addEventListener('click', () => {
+      if (!('speechSynthesis' in window)) {
+        alert('Seu navegador não suporta leitura em voz alta.');
+        return;
+      }
 
-    if (synth.speaking) {
-      synth.cancel();
-      return;
-    }
+      if (synth.speaking) {
+        synth.cancel();
+        return;
+      }
 
-    const textToRead = document.getElementById('study-reading-body')?.innerText || "Selecione um módulo para ouvir a leitura.";
-    utterance = new SpeechSynthesisUtterance(textToRead.slice(0, 5000));
-    utterance.lang = 'pt-BR';
-    synth.speak(utterance);
-  });
+      const textToRead = document.getElementById('study-reading-body')?.innerText || "Selecione um módulo para ouvir a leitura.";
+      utterance = new SpeechSynthesisUtterance(textToRead.slice(0, 5000));
+      utterance.lang = 'pt-BR';
+      synth.speak(utterance);
+    });
+  }
 
-  // PDF Print Button
-  document.getElementById('btn-pdf-print').addEventListener('click', () => {
-    window.print();
-  });
+  const btnPdf = document.getElementById('btn-pdf-print');
+  if (btnPdf) {
+    btnPdf.addEventListener('click', () => {
+      window.print();
+    });
+  }
 }
 
 function setupSearch(inputId, dropdownId) {
@@ -373,18 +396,18 @@ function setupSearch(inputId, dropdownId) {
       m.title.toLowerCase().includes(q) || 
       m.summary.toLowerCase().includes(q) || 
       m.category.toLowerCase().includes(q) ||
-      m.markdown.toLowerCase().includes(q)
+      (m.markdown && m.markdown.toLowerCase().includes(q))
     );
 
     if (matches.length === 0) {
       dropdown.innerHTML = `<div class="p-4 text-xs text-slate-400">Nenhum módulo encontrado para "${q}".</div>`;
     } else {
       dropdown.innerHTML = matches.slice(0, 10).map(m => `
-        <a href="#/modulo/${m.id}" onclick="renderModuleReadingView(${m.id}); document.getElementById('${dropdownId}').classList.add('hidden');" 
-           class="block p-3 hover:bg-slate-800 border-b border-slate-800/60 last:border-0 transition">
+        <button type="button" onclick="navigateToModule(${m.id}); document.getElementById('${dropdownId}').classList.add('hidden');" 
+           class="w-full text-left block p-3 hover:bg-slate-800 border-b border-slate-800/60 last:border-0 transition">
           <div class="text-[10px] text-indigo-400 font-bold uppercase">Módulo ${m.number} • ${m.category}</div>
           <div class="text-sm font-semibold text-white">${m.title}</div>
-        </a>
+        </button>
       `).join('');
     }
     dropdown.classList.remove('hidden');

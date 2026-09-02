@@ -1,0 +1,4930 @@
+// Embedded Database for Pessoa Cega: Análise Profunda
+window.ENCYCLOPEDIA_DB = {
+  "project": "PESSOA CEGA: ANÁLISE PROFUNDA",
+  "subtitle": "Pesquisa Acadêmica, Histórica, Científica e Documental sobre a Deficiência Visual",
+  "totalModules": 60,
+  "modules": [
+    {
+      "id": 1,
+      "number": "01",
+      "title": "A Pessoa Antes da Deficiência",
+      "category": "História e Conceitos",
+      "vol": 1,
+      "slug": "01-a-pessoa-antes-da-deficiencia",
+      "summary": "A compreensão ontológica e epistemológica da pessoa com deficiência visual exige o deslocamento do foco do diagnóstico patológico para a subjetividade humana. O princípio fundante de que \"a pessoa não é a deficiência\" estabelece que a cegueira ou a baixa visão constituem apenas uma entre infinitas características constitutivas do indivíduo. Historicamente, contudo, a deficiência operou como uma \"identidade mestre\" (master status) sobreposta à individualidade, reduzindo sujeitos com trajetórias, habilidades e desejos singulares a meros objetos de caridade, tutela médica ou assistencialismo.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-1-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-1-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-1-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-1-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-1-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-1-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-1-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-1-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-1-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-1-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-1-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-1-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-1-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-1-14"
+        }
+      ],
+      "markdown": "## 01 — A PESSOA ANTES DA DEFICIÊNCIA\n\n<h3 id=\"topico-1-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA compreensão ontológica e epistemológica da pessoa com deficiência visual exige o deslocamento do foco do diagnóstico patológico para a subjetividade humana. O princípio fundante de que \"a pessoa não é a deficiência\" estabelece que a cegueira ou a baixa visão constituem apenas uma entre infinitas características constitutivas do indivíduo. Historicamente, contudo, a deficiência operou como uma \"identidade mestre\" (master status) sobreposta à individualidade, reduzindo sujeitos com trajetórias, habilidades e desejos singulares a meros objetos de caridade, tutela médica ou assistencialismo.\n\n<h3 id=\"topico-1-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\nA percepção social sobre a pessoa cega evoluiu através de paradigmas historicamente demarcados:\n- **Paradigma da Exclusão/Eliminação (Antiguidade)**: Abandono ou marginalização biológica e social.\n- **Paradigma Caritativo/Assistencialista (Idade Média ao Século XVIII)**: A cegueira encarada sob a ótica do sofrimento divino ou da expiação, enquadrando o cego como objeto passivo de esmola e caridade da Igreja.\n- **Paradigma da Institucionalização/Segregação (Séculos XIX e XX)**: Criação de asilos e institutos especializados que, embora propiciassem alfabetização, isolavam o indivíduo da convivência comunitária ampla.\n- **Paradigma da Integração (Meados do Século XX)**: Exigência de que a pessoa com deficiência se adaptasse às estruturas sociais vigentes (modelo médico da deficiência).\n- **Paradigma da Inclusão e Direitos Humanos (Final do Século XX até o presente)**: Declaração das Nações Unidas sobre os Direitos das Pessoas com Deficiência (2006), fundando a perspectiva biopsicossocial e o protagonismo político (\"Nada Sobre Nós, Sem Nós\").\n\n<h3 id=\"topico-1-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Identidade e Subjetividade**: Processo contínuo de autoconstrução em que a deficiência visual interage com gênero, raça, classe social e cultura, sem exauri-la.\n- **Autonomia vs. Independência**: Autonomia refere-se ao poder decisório, autodeterminação e liberdade de escolha sobre a própria vida (mesmo necessitando de auxílio); independência refere-se à capacidade física de realizar uma tarefa sem ajuda de terceiros.\n- **Protagonismo Social e Autodefesa (*Self-Advocacy*)**: Reconhecimento da pessoa com deficiência visual como sujeito ativo da própria história, formulador de políticas e agente de transformação.\n- **Modelo Biopsicossocial**: Matriz que compreende a deficiência como o resultado da interação entre impedimentos corporais (lesões visuais) e as barreiras atitudinais, arquitetônicas e comunicacionais do ambiente.\n\n<h3 id=\"topico-1-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Amir Lian (Ativista/Usuário, Brasil)**: Defensor dos direitos das pessoas com deficiência visual no Brasil, enfatizando a autodeterminação. (Fonte: Documentos históricos do movimento de pessoas com deficiência no Brasil).\n- **Rita de Cássia Pereira CandIDO (Pesquisadora/Educadora, Brasil)**: Estudiosa das questões de identidade e subjetividade na cegueira. (Fonte: Literatura acadêmica em Educação Inclusiva).\n- **Judi Heumann (Ativista, EUA, 1947–2023)**: Líder mundial do movimento pelos direitos das pessoas com deficiência, cuja militância impulsionou a Convenção da ONU. (Fonte: *Being Heumann: An Unrepentant Memoir of a Disability Rights Activist*, 2020).\n\n<h3 id=\"topico-1-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Organização das Nações Unidas (ONU)**: Emissora do Pacto Internacional dos Direitos Civis e Políticos e da CDPD (2006).\n- **União Mundial de Cegos (World Blind Union - WBU)**: Organização internacional não governamental representante de cerca de 253 milhões de pessoas cegas e com baixa visão no mundo.\n- **Organização Nacional dos Cegos do Brasil (ONCB)**: Entidade teto do movimento associativo das pessoas com deficiência visual no Brasil.\n\n<h3 id=\"topico-1-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, o debate migrou progressivamente da assistência social paternalista para o paradigma dos Direitos Humanos. A promulgação da Convenção sobre os Direitos das Pessoas com Deficiência pela ONU em 2006 consolidou juridicamente o princípio de que o ambiente inacessível é o gerador da deficiência, garantindo o direito ao exercício pleno da cidadania, do trabalho, da cultura e do lazer.\n\n<h3 id=\"topico-1-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, a trajetória do protagonismo cego teve marcos fundamentais na criação das primeiras associações autônomas de cegos em meados do século XX (como a Associação de Cegos de São Paulo em 1928 e a ADERATO). A Constituição Federal de 1988 e a Lei Brasileira de Inclusão (Lei nº 13.146/2015 - Estatuto da Pessoa com Deficiência) positivaram o modelo biopsicossocial e o direito à vida independente.\n\n<h3 id=\"topico-1-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nNa região Nordeste, o movimento associativo e educacional enfrentou historicamente assimetrias econômicas severas. Instituições comunitárias e associações regionais de cegos fundadas a partir da década de 1960 lutaram contra a visão assistencialista corriqueira das elites locais, pautando o acesso ao trabalho e à educação superior.\n\n<h3 id=\"topico-1-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, a transição da caridade para a inclusão jurídica pautou-se pela atuação pioneira de instituições no Recife (como o Instituto de Cegos do Recife / Sociedade de Assistência aos Cegos de Pernambuco, fundada em 1935) e, posteriormente, pelo protagonismo de estudantes cegas e cegos na Universidade Federal de Pernambuco (UFPE) e na Universidade de Pernambuco (UPE), demandando acessibilidade atitudinal e comunicacional na transição para o século XXI.\n\n### 10. Situação atual\nAté 2026, prevalece no discurso jurídico e acadêmico a perspectiva biopsicossocial do CIF (Classificação Internacional de Funcionalidade, Incapacidade e Saúde da OMS). Contudo, na prática social, persistem resquícios do modelo caritativo em programas assistenciais sem foco em autodeterminação ou inserção no mercado de trabalho formal.\n\n<h3 id=\"topico-1-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nExiste um debate intenso entre o \"orgulho cego\" (*Blind Pride*) — que defende a cegueira como uma variação neutra da experiência humana e uma identidade cultural — e a visão estritamente médica de que a limitação visual é uma perda funcional a ser curada ou compensada terapeuticamente.\n\n<h3 id=\"topico-1-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEscassez de pesquisas qualitativas de interseccionalidade no Brasil que analisem o impacto simultâneo de raça, gênero, classe socioeconômica e residência em áreas rurais do Nordeste na construção da identidade da pessoa com deficiência visual.\n\n<h3 id=\"topico-1-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se ao **Módulo 02** (Conceitos da Deficiência Visual), **Módulo 11** (Psicologia e Experiência da Cegueira), **Módulo 12** (A Pessoa por trás da Deficiência), **Módulo 39** (Modelos da Deficiência) e **Módulo 43** (Capacitismo).\n\n<h3 id=\"topico-1-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU). *Convenção sobre os Direitos das Pessoas com Deficiência*. Nova York: ONU, 2006. Available at: https://www.un.org/disabilities/documents/gadocs/cconvsubpor.pdf.\n- **Fonte Primária**: BRASIL. *Lei nº 13.146, de 6 de julho de 2015. Institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência)*. Brasília: Diário Oficial da União, 2015.\n- **Fonte Secundária**: SASSAKI, Romeu Kazumi. *Inclusão: construindo uma sociedade para todos*. 3. ed. Rio de Janeiro: WVA, 1999.\n- **Fonte Secundária**: DINIZ, Debora. *O que é deficiência*. São Paulo: Brasiliense, 2007. ISBN: 978-85-11-00125-9.\n\n---\n\n"
+    },
+    {
+      "id": 2,
+      "number": "02",
+      "title": "Conceitos e Classificações da Deficiência Visual",
+      "category": "História e Conceitos",
+      "vol": 1,
+      "slug": "02-conceitos-e-classificacoes",
+      "summary": "A conceituação da deficiência visual transita entre limites clínicos estritos (mensuração da acuidade e campo visual) e avaliações da funcionalidade no cotidiano. A correta classificação é determinante para o planejamento educacional, prescrição de tecnologias assistivas, garantia de direitos previdenciários e intervenção precoce.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-2-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-2-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-2-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-2-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-2-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-2-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-2-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-2-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-2-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-2-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-2-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-2-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-2-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-2-14"
+        }
+      ],
+      "markdown": "## 02 — CONCEITOS E CLASSIFICAÇÕES DA DEFICIÊNCIA VISUAL\n\n<h3 id=\"topico-2-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA conceituação da deficiência visual transita entre limites clínicos estritos (mensuração da acuidade e campo visual) e avaliações da funcionalidade no cotidiano. A correta classificação é determinante para o planejamento educacional, prescrição de tecnologias assistivas, garantia de direitos previdenciários e intervenção precoce.\n\n<h3 id=\"topico-2-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\nHistoricamente, a classificação clínica baseou-se na Tabela de Snellen (criada em 1862 pelo oftalmologista holandês Herman Snellen) para acuidade visual. No final do século XX, com as diretrizes da Organização Mundial da Saúde (OMS) e o desenvolvimento da CID (Classificação Internacional de Doenças) e da CIF (2001), passou-se a exigir a diferenciação entre *visão funcional* e dados estritamente optométricos.\n\n<h3 id=\"topico-2-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Acuidade Visual**: Capacidade do sistema visual de discriminar detalhes espaciais finos (medida no melhor olho com a melhor correção óptica).\n- **Campo Visual**: Amplitude da área espacial percebida enquanto os olhos fixam um ponto central (normalmente ~180° horizontalmente).\n- **Cegueira Clinica (OMS)**: Acuidade visual menor que 3/60 (0.05) no melhor olho com correção, ou campo visual inferior a 10° do ponto de fixação central.\n- **Baixa Visão (Visão Subnormal)**: Acuidade visual entre menor que 6/18 (0.3) e maior ou igual a 3/60 (0.05) no melhor olho com a melhor correção, ou campo visual entre 10° e 20°.\n- **Cegueira Congênita vs. Cegueira Adquirida**: Congênita presente ao nascimento ou ocorrida antes dos 5 anos de idade (sem memória visual consolidada); Adquirida ocorrida após a estruturação da memória cinestésico-visual.\n- **Surdocegueira**: Deficiência sensorial múltipla singular caracterizada pela perda concomitante da audição e da visão em graus variáveis, exigindo meios específicos de comunicação (como o sistema Tadoma ou Braille tátil).\n- **Visão Funcional**: Eficiência com que a pessoa utiliza o resíduo visual restante para realizar tarefas diárias sob diferentes condições de iluminação e contraste.\n\n<h3 id=\"topico-2-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Herman Snellen (Pesquisador/Médico, Holanda, 1834–1908)**: Oftalmologista criador da escala optométrica padronizada de acuidade visual. (Fonte: *Optotypi ad visum determinandum*, 1862).\n- **Natalie Barraga (Pesquisadora/Educadora, EUA)**: Pioneira mundial no desenvolvimento da avaliação e treino da *visão funcional* em crianças com baixa visão, demonstrando que a visão residual não se \"gasta\" pelo uso. (Fonte: *Visual Handicaps and Learning*, 1964).\n- **Lea Hyvärinen (Pesquisadora/Médica, Finlândia)**: Criadora dos testes visuais \"LEA Symbols\" e formuladora de metodologias de avaliação neurológica da deficiência visual cortical (CVI). (Fonte: *Visual Assessment in Pediatrics*, 1985).\n\n<h3 id=\"topico-2-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Organização Mundial da Saúde (OMS / WHO)**: Emissora da CID-11 e da CIF, estabelecendo os critérios globais de cegueira e baixa visão.\n- **International Council of Ophthalmology (ICO)**: Entidade que define os padrões de mensuração oftalmológica global.\n- **Instituto Benjamin Constant (IBC, Brasil)**: Centro de referência nacional na avaliação pedagógica e funcional de educandos com baixa visão e cegueira.\n\n<h3 id=\"topico-2-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nA publicação da CIF (OMS, 2001) provocou uma revolução global ao desatrelar a deficiência das causas estritamente etiológicas e focar na funcionalidade (atividades e participação). Países desenvolvidos integraram avaliações interdisciplinares (oftalmologistas, terapeutas ocupacionais e pedagogos) para classificar o grau de funcionalidade visual.\n\n<h3 id=\"topico-2-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, a Portaria do Ministério da Saúde e o Decreto Federal nº 5.296/2004 regulamentaram as definições médicas de cegueira e baixa visão para fins de políticas públicas. A aprovação da Lei nº 14.126/2021 reconheceu oficialmente a visão monocular como deficiência visual para todos os efeitos legais.\n\n<h3 id=\"topico-2-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nEstudos epidemiológicos conduzidos em centros universitários do Nordeste (como a Fundação Altino Ventura em Pernambuco e a Universidade Federal da Bahia) demonstraram elevada prevalência de cegueira por causas evitáveis (glaucoma, retinopatia diabética, toxoplasmose congênita e catarata não operada) em comparação com o Sudeste.\n\n<h3 id=\"topico-2-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nPernambuco destaca-se nacionalmente pelo trabalho da **Fundação Altino Ventura (FAV)** e do **Hospital das Clínicas da UFPE**, referências na prevenção, diagnóstico precoce e reabilitação visual de baixa visão e deficiências múltiplas associadas à Síndrome da Zika Congênita (microcefalia e alterações retiniana/corticais surgidas a partir da epidemia de 2015-2016).\n\n### 10. Situação atual\nAté 2026, consolida-se a diferenciação entre Deficiência Visual Cortical/Cerebral (CVI) — alteração no processamento cerebral visual com olhos estruturalmente sadios — e a Deficiência Visual Ocular. A CVI tornou-se uma das principais causas de deficiência visual infantil em países desenvolvidos e centros urbanos brasileiros.\n\n<h3 id=\"topico-2-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate entre a avaliação médica estrita (baseada na Tabela de Snellen) e a avaliação pedagógico-funcional para concessão de benefícios assistenciais (como o BPC) e cotas educacionais, visto que indivíduos com a mesma acuidade médica podem apresentar eficiências visuais funcionais drasticamente opostas.\n\n<h3 id=\"topico-2-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nSubnotificação de dados populacionais precisos sobre a prevalência exata da Surdocegueira e da Deficiência Visual Cortical (CVI) no agreste e sertão pernambucanos.\n\n<h3 id=\"topico-2-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se ao **Módulo 01** (A Pessoa), **Módulo 13** (Desenvolvimento Infantil), **Módulo 14** (Neurociência da Deficiência Visual) e **Módulo 35** (Educação Especial e AEE).\n\n<h3 id=\"topico-2-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: WORLD HEALTH ORGANIZATION (WHO). *International Classification of Functioning, Disability and Health (ICF)*. Geneva: WHO, 2001.\n- **Fonte Primária**: BRASIL. *Decreto nº 5.296, de 2 de dezembro de 2004*. Regulamenta as Leis nos 10.048/2000 e 10.098/2000. Brasília, 2004.\n- **Fonte Secundária**: BARRAGA, Natalie. *Visual Handicaps and Learning*. Austin: University of Texas, 1964.\n- **Fonte Secundária**: SÁ, Elisabet Dias de; CAMPOS, Izabel Maria Madeira; SILVA, Myrian Sartori. *Atendimento Educacional Especializado: Deficiência Visual*. Brasília: SEESP/MEC, 2007.\n\n---\n\n"
+    },
+    {
+      "id": 3,
+      "number": "03",
+      "title": "História da Deficiência Visual",
+      "category": "História e Conceitos",
+      "vol": 1,
+      "slug": "03-historia-da-deficiencia-visual",
+      "summary": "A historiografia da deficiência visual revela os mecanismos de poder, saber e controle social exercidos sobre os corpos não videntes ao longo dos séculos. O estudo longitudinal permite compreender as raízes do capacitismo e o nascimento dos primeiros esforços sistemáticos de emancipação intelectual.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-3-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-3-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-3-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-3-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-3-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-3-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-3-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-3-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-3-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-3-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-3-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-3-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-3-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-3-14"
+        }
+      ],
+      "markdown": "## 03 — HISTÓRIA DA DEFICIÊNCIA VISUAL\n\n<h3 id=\"topico-3-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA historiografia da deficiência visual revela os mecanismos de poder, saber e controle social exercidos sobre os corpos não videntes ao longo dos séculos. O estudo longitudinal permite compreender as raízes do capacitismo e o nascimento dos primeiros esforços sistemáticos de emancipação intelectual.\n\n<h3 id=\"topico-3-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Antiguidade Clássica (Grécia e Roma)**: Ambivalência trágica. Por um lado, o abandono e o infanticídio em Esparta; por outro, o mito do \"cego vidente/sábio\" encarnado por Homero e pelo adivinho Tirésias. Em Roma, o *Pater Familias* detinha o direito legal de exposição (*expositio*) de recém-nascidos com deficiência.\n- **Idade Média**: Sob o império do Cristianismo, os cegos eram vistos simultaneamente como objetos de piedade/caridade (misericórdia) e como pecadores sob punição divina. Surgem os primeiros albergues e confrarias rústicas (ex.: Hôpital des Quinze-Vingts em Paris, fundado c. 1260 pelo Rei Luís IX).\n- **Renascimento e lluminismo (Séculos XVI–XVIII)**: Mudança epistemológica. O Iluminismo passa a indagar sobre o papel dos sentidos na formação do conhecimento humano. Diderot publica em 1749 a revolucionária *Carta sobre os Cegos para Uso dos que Enxergam* (*Lettre sur les aveugles à l'usage de ceux qui voient*), afirmando que a inteligência do cego é idêntica à do vidente, dependendo apenas dos meios pedagógicos adequados.\n- **Século XIX**: A virada institucional. Fundação de escolas públicas e especializadas na Europa e Américas; invenção do Braille (1829/1837).\n- **Séculos XX e XXI**: Da segregação à inclusão escolar, autonomia digital, movimento paralímpico e garantia de direitos.\n\n<h3 id=\"topico-3-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Segregação Asilar**: Confinamento permanente de pessoas cegas em instituições filantrópicas sem finalidade educativa ou emancipatória.\n- **Mito do Cego Compensado**: Crença errônea e mística de que a perda da visão concede automaticamente superpoderes ou \"compensação biológica divina\" nos outros sentidos (audição ou tato aguçados por milagre).\n- **Epistemologia da Cegueira**: O estudo de como o conhecimento é construído na ausência da percepção óptica, pautado na percepção háptica e auditiva.\n\n<h3 id=\"topico-3-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Homero (Século VIII a.C., Grécia)**: Poeta épico tradicionalmente retratado como cego, símbolo da sabedoria oral. (Fonte: Historiografia literária clássica).\n- **Luís IX / São Luís (Rei da França, 1214–1270)**: Fundador do Hôpital des Quinze-Vingts para acolher 300 cavaleiros cruzados cegos. (Fonte: Registros históricos do Reino da França).\n- **Denis Diderot (Filósofo/Pesquisador, França, 1713–1784)**: Autor da *Carta sobre os Cegos*, texto fundador da pedagogia moderna da cegueira que lhe rendeu a prisão em Vincennes por desafiar os dogmas da Igreja sobre a criação divina. (Fonte: *Lettre sur les aveugles*, 1749).\n- **Nicholas Saunderson (Matemático/Professor, Inglaterra, 1682–1739)**: Cego congênito que se tornou Professor Lucasiano de Matemática na Universidade de Cambridge (cargo ocupado por Newton), inventor de uma tábua aritimética tátil. (Fonte: *Elements of Algebra*, 1740).\n\n<h3 id=\"topico-3-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Hôpital des Quinze-Vingts (Paris, França, 1260)**: Primeira grande instituição de acolhimento permanente para cegos no ocidente.\n- **Real Academia de Ciências de Paris**: Palco dos debates iluministas sobre a sensação tátil e os experimentos empíricos dos séculos XVII e XVIII.\n\n<h3 id=\"topico-3-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nO Iluminismo europeu foi o catalisador histórico que deslocou a cegueira da esfera teológica para a esfera educacional e filosófica, culminando na fundação da primeira escola para cegos do mundo em Paris (1784).\n\n<h3 id=\"topico-3-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil colonial e imperial, as pessoas cegas viviam marginalizadas no meio rural ou dependiam do caridade privada e das Santas Casas de Misericórdia. A virada histórica ocorreu em 1854 com a fundação do Imperial Instituto dos Meninos Cegos no Rio de Janeiro sob o reinado de D. Pedro II.\n\n<h3 id=\"topico-3-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nDurante o Brasil Colônia e Império, a cegueira no Nordeste esteve intimamente ligada a sequelas de moléstias tropicais, varíola e tracoma. A assistência limitava-se a esmolas nas portas de igrejas e vilas sertanejas, registrando-se a figura histórica dos \"cantadores e violeiros cegos\" nas feiras livres como estratégia de sobrevivência e manifestação cultural popular.\n\n<h3 id=\"topico-3-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, a imprensa do século XIX e os registros da Santa Casa de Misericórdia do Recife atestam o acolhimento de pessoas cegas indigentes. Somente nas primeiras décadas do século XX surgiram iniciativas institucionais no estado voltadas especificamente à educação e instrução tátil.\n\n### 10. Situação atual\nAté 2026, a historiografia da deficiência visual consolidou a crítica ao modelo asilar, focando no resgate da memória e da história oral do movimento político dos cegos e da escrita tátil.\n\n<h3 id=\"topico-3-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDivergência historiográfica sobre o papel de Diderot: se suas análises na *Carta sobre os Cegos* visavam primordialmente defender a emancipação dos cegos ou se utilizava a cegueira como mero instrumento alegórico para defender o ateísmo e o materialismo empírico contra a Igreja.\n\n<h3 id=\"topico-3-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEscassez de documentos arquivísticos e estudos históricos detalhados sobre a vida cotidiana e a sobrevivência de pessoas cegas escravizadas no Brasil Colônia e Império, em especial nas lavouras de açúcar de Pernambuco e Bahia.\n\n<h3 id=\"topico-3-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se ao **Módulo 01** (A Pessoa), **Módulo 04** (História da Educação de Cegos), **Módulo 06** (Louis Braille) e **Módulo 42** (Movimento Social).\n\n<h3 id=\"topico-3-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: DIDEROT, Denis. *Lettre sur les aveugles à l'usage de ceux qui voient*. Londres [Paris], 1749.\n- **Fonte Secundária**: PAULY, Michel. *L'Histoire dos aveugles dans l'Occident médiéval*. Paris: L'Harmattan, 2002.\n- **Fonte Secundária**: ARANHA, Maria Salete Fábio. *História da Educação Especial no Brasil*. Brasília: MEC/SEESP, 2004.\n- **Fonte Secundária**: MAZZOTTA, Marcos José Silveira. *Educação Especial no Brasil: história e políticas públicas*. 5. ed. São Paulo: Cortez, 2005. ISBN: 978-85-24-90413-4.\n\n---\n\n"
+    },
+    {
+      "id": 4,
+      "number": "04",
+      "title": "História da Educação de Pessoas Cegas",
+      "category": "História e Conceitos",
+      "vol": 1,
+      "slug": "04-historia-da-educacao-de-cegos",
+      "summary": "Antes da invenção da escrita tátil em pontos relief, a educação de cegos era uma exceção reservada a indivíduos da aristocracia ou da elite intelectual que contavam com tutores privados. A passagem da educação individualizada de exceção para o sistema público e institucionalizado exigiu a invenção de métodos de leitura tátil e a superação do cepticismo pedagógico da época.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-4-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-4-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-4-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-4-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-4-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-4-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-4-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-4-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-4-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-4-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-4-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-4-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-4-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-4-14"
+        }
+      ],
+      "markdown": "## 04 — HISTÓRIA DA EDUCAÇÃO DE PESSOAS CEGAS\n\n<h3 id=\"topico-4-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nAntes da invenção da escrita tátil em pontos relief, a educação de cegos era uma exceção reservada a indivíduos da aristocracia ou da elite intelectual que contavam com tutores privados. A passagem da educação individualizada de exceção para o sistema público e institucionalizado exigiu a invenção de métodos de leitura tátil e a superação do cepticismo pedagógico da época.\n\n<h3 id=\"topico-4-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Precursores Individuais (Séculos XVI–XVIII)**: Francisco de Lucas em Madri (1580) e Rampazzetto em Roma (1575) esculpiram letras em madeira; Francesco Lana de Terzi (1670) propôs um sistema secreto de linhas e pontos em relevo.\n- **Maria Theresia von Paradis (1759–1824)**: Pianista e compositora cega austríaca, utilizava mapas em relevo feitos com alfinetes e caracteres móveis de imprensa para ler e compor. Sua turnê por Paris em 1784 inspirou diretamente Valentin Haüy.\n- **Valentin Haüy e a Fundação do INJA (1784)**: Haüy funda em Paris a *Institution Royale des Jeunes Aveugles* (Primeira escola do mundo para cegos). Haüy desenvolveu o método de imprimir letras latinas comuns em alto-relevo linear sobre papel encorpado e molhado.\n- **Limitações do Método Haüy**: As letras em relevo linear permitiam a leitura tátil (embora extremamente lenta e difícil, pois a polpa digital não capta contornos contínuos com eficiência), mas **não permitiam a escrita autônoma pelos próprios alunos** (estes dependiam de tipografia pesada de chumbo para compor textos).\n\n<h3 id=\"topico-4-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Alto-Relevo Linear (Typo-Galvanoplastia)**: Técnica de estampagem de caracteres alfabéticos latinos ampliados em relevo no papel.\n- **Leitura Háptica**: Percepção ativa tátil-cinestésica realizada pelo movimento exploratório das mãos e dedos sobre superfícies com relevo.\n- **Assimetria Leitura-Escrita**: Limitação pedagógica histórica em que a pessoa cega conseguia (com dificuldade) ler o material impresso pela escola, mas permanecia analfabeta quanto à capacidade de produzir a própria escrita autônoma.\n\n<h3 id=\"topico-4-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Valentin Haüy (Educador/Inventor, França, 1745–1822)**: Chamado de \"Pai da Educação dos Cegos\", criou a *Institution Nationale des Jeunes Aveugles* (INJA) e a técnica de impressão em alto-relevo linear. (Fonte: *Essai sur l'éducation des aveugles*, 1786).\n- **Maria Theresia von Paradis (Compositora/Educadora, Áustria, 1759–1824)**: Musicista cega que demonstrou a viabilidade da alta instrução de cegos na Europa. (Fonte: Biografia histórica musical).\n- **François Lesueur (Usuário/Educador, França)**: Primeiro aluno cego de Valentin Haüy, jovem mendigo recrutado nas ruas de Paris que provou a eficácia do aprendizado tátil. (Fonte: Arquivos do INJA Paris).\n\n<h3 id=\"topico-4-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Institution Nationale des Jeunes Aveugles (INJA, Paris, 1784)**: Berço da pedagogia sistemática para cegos no mundo.\n- **Société des Philantropes de Paris**: Sociedade de benfeitores que financiou as primeiras turmas da escola de Haüy.\n\n<h3 id=\"topico-4-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nO modelo do INJA de Paris expandiu-se rapidamente pela Europa e América do Norte: fundação da Escola de Cegos de Liverpool (1791), Viena (1804), Berlim (1806), e o Perkins Institution em Boston (EUA, 1829, dirigido por Samuel Gridley Howe).\n\n<h3 id=\"topico-4-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nO modelo de Valentin Haüy foi trazido diretamente para o Brasil pelo jovem cego brasileiro José Álvares de Azevedo, que estudou no INJA de Paris e retornou ao Brasil no início da década de 1850 para convencer o Imperador D. Pedro II a fundar o Imperial Instituto dos Meninos Cegos (1854).\n\n<h3 id=\"topico-4-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nNo século XIX, o Nordeste não possuía instituições educacionais formais para cegos. Os raros indivíduos alfabetizados pertenciam a famílias abastadas que financiavam preceptores particulares ou enviavam seus filhos ao Rio de Janeiro ou à Europa.\n\n<h3 id=\"topico-4-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nOs registros das secretarias de instrução pública de Pernambuco do final do século XIX demonstram a ausência de turmas ou métodos táteis nas escolas públicas locais, mantendo o analfabetismo absoluto da população cega pernambucana da época.\n\n### 10. Situação atual\nAté 2026, a história da educação de cegos reconhece o método de Haüy como um passo fundamental, porém incompleto, ressaltando que a verdadeira alfabetização só se consolidou com o advento do sistema pontilhado.\n\n<h3 id=\"topico-4-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDivergência histórica entre pedagogos videntes do século XIX (que insistiam em manter as letras latinas em relevo para facilitar a leitura visual dos professores videntes) e os estudantes cegos (que exigiam sistemas de pontos adaptados à fisiologia do tato).\n\n<h3 id=\"topico-4-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nNecessidade de mapear com maior detalhamento a circulação de livros em relevo do método Valentin Haüy importados para o Brasil durante o Segundo Reinado.\n\n<h3 id=\"topico-4-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se ao **Módulo 03** (História da Deficiência Visual), **Módulo 05** (Charles Barbier), **Módulo 06** (Louis Braille) e **Módulo 09** (História do Braille no Brasil).\n\n<h3 id=\"topico-4-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: HAÜY, Valentin. *Essai sur l'éducation des aveugles*. Paris: Imprimerie dos Enfants-Aveugles, 1786.\n- **Fonte Secundária**: WEYGAND, Zina. *Vivre sans voir: les aveugles dans la société française du Moyen Âge aux premières années do XIXe siècle*. Paris: Créaphis, 2003. ISBN: 978-2913610255.\n- **Fonte Secundária**: HENRI, Pierre. *La vie et l'œuvre de Louis Braille*. Paris: Presses Universitaires de France, 1952.\n- **Fonte Secundária**: ROSENBERG, Walter. *Valentin Haüy e a origem da educação dos cegos*. Rio de Janeiro: IBC, 2000.\n\n---\n\n"
+    },
+    {
+      "id": 5,
+      "number": "05",
+      "title": "Charles Barbier e a Escrita Noturna",
+      "category": "História e Conceitos",
+      "vol": 1,
+      "slug": "05-charles-barbier-e-a-escrita-noturna",
+      "summary": "O surgimento dos sistemas tátil-pontilhados não nasceu na pedagogia, mas na tecnologia militar estratégica. Charles Barbier de la Serre idealizou um código de comunicação tátil para permitir que soldados franceses dessem e recebessem ordens no escuro durante os combates noturnos sem acender luzes nem emitir ruídos, o que atrairia o fogo inimigo.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-5-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-5-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-5-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-5-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-5-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-5-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-5-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-5-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-5-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-5-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-5-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-5-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-5-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-5-14"
+        }
+      ],
+      "markdown": "## 05 — CHARLES BARBIER E A ESCRITA NOTURNA\n\n<h3 id=\"topico-5-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO surgimento dos sistemas tátil-pontilhados não nasceu na pedagogia, mas na tecnologia militar estratégica. Charles Barbier de la Serre idealizou um código de comunicação tátil para permitir que soldados franceses dessem e recebessem ordens no escuro durante os combates noturnos sem acender luzes nem emitir ruídos, o que atrairia o fogo inimigo.\n\n<h3 id=\"topico-5-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Contexto Militar (década de 1800-1810)**: Nicolas-Charles Barbier de la Serre, capitão de artilharia do exército de Napoleão Bonaparte, inventa a *Écriture Nocturne* (Escrita Noturna) ou *Phonographie*.\n- **Apresentação ao Exército**: O exército francês rejeitou o sistema por considerá-lo excessivamente complexo para os soldados analfabetos.\n- **Ingresso no INJA de Paris (1821)**: Em 1821, Barbier apresentou seu sistema ao diretor do Instituto Real dos Jovens Cegos de Paris, Alexandre-René Pignier.\n- **Recepção pelos Alunos Cegos**: Os alunos (entre os quais Louis Braille, com 12 anos de idade) acolheram o sistema com grande entusiasmo, pois pela primeira vez conseguiam **escrever e ler pontos em relevo** utilizando um perfurador (punção) e uma régua-guia metálica criada por Barbier.\n\n<h3 id=\"topico-5-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Écriture Nocturne (Escrita Noturna)**: Matriz fonética tátil composta por uma tabela de 6x6 células contendo 36 sons da língua francesa.\n- **Célula Barbier (Matriz de 12 Pontos)**: Célula vertical com duas colunas de até 6 pontos cada (totalizando até 12 pontos por caractere).\n- **Fonografia vs. Ortografia**: O sistema de Barbier representava **sons (fonemas)**, e não letras do alfabeto (ortografia). Não possuía sinais para pontuação, números, maiúsculas, acentos ou símbolos matemáticos.\n- **Fisiologia da Yema Digital (Limite Tátil)**: O espaço vertical de 6 pontos na célula de Barbier ultrapassava o diâmetro da polpa do indicador humano (~1,4 cm), exigindo que o dedo deslizasse para cima e para baixo para identificar um único caractere, tornando a leitura lenta e cansativa.\n\n<h3 id=\"topico-5-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Charles Barbier de la Serre (Inventor/Militar, França, 1767–1841)**: Capitão de artilharia inventor da *Écriture Nocturne*, da régua perfuradora e do punção. (Fonte: *Essai d'une stéganographie naturelle*, 1815).\n- **Alexandre-René Pignier (Educador/Gestor, França)**: Diretor do INJA de Paris que permitiu o teste revolucionário da invenção militar de Barbier na escola de cegos. (Fonte: *Notice historique sur Louis Braille*, 1859).\n- **Louis Braille (Estudante/Pesquisador, França, 1809–1852)**: Aluno que identificou o valor e as limitações do sistema de Barbier, iniciando o processo de reformulação. (Fonte: Registros históricos do INJA).\n\n<h3 id=\"topico-5-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Exército Francês / Ministério da Guerra da França**: Instituição receptora inicial da invenção.\n- **Institution Nationale des Jeunes Aveugles (INJA, Paris)**: Campo de teste e aplicação pedagógica da Escrita Noturna.\n\n<h3 id=\"topico-5-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nEmbora a Escrita Noturna tenha sido criada na França, o conceito revolucionário de substituir caracteres خط linear por relevos pontilhados perfurados em papel espalhou-se como o catalisador definitivo da escrita tátil global.\n\n<h3 id=\"topico-5-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nO sistema de Barbier propriamente dito não chegou a ser adotado oficialmente no Brasil, pois quando a educação de cegos foi introduzida no Imperial Instituto em 1854, o sistema Braille (derivado e aperfeiçoado) já havia sido consagrado.\n\n<h3 id=\"topico-5-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nNão há registros de uso da Escrita Noturna de Barbier no Nordeste brasileiro.\n\n<h3 id=\"topico-5-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nInexistência de registros históricos de aplicação da fonografia de Barbier em Pernambuco.\n\n### 10. Situação atual\nAté 2026, a historiografia especializada desfez o mito de que Barbier criou seu sistema por caridade aos cegos, reafirmando sua origem militar e seu gênio técnico na invenção da régua de perfuração e do punção.\n\n<h3 id=\"topico-5-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDivergência histórica sobre o relacionamento entre Barbier e Louis Braille: narrativas populares romantizadas retratavam Barbier como um benfeitor idoso ressentido com as críticas do jovem Braille. Documentos originais provam que Barbier manteve correspondência respeitosa com Braille, embora defendesse obstinadamente a superioridade da sua fonografia de 12 pontos sobre o alfabeto Braille de 6 pontos.\n\n<h3 id=\"topico-5-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudo dos manuscritos e patentes militares originais de Charles Barbier depositados nos arquivos do Ministério da Defesa da França para mapear todas as variações de réguas e ferramentas perfuradoras por ele projetadas.\n\n<h3 id=\"topico-5-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se ao **Módulo 04** (História da Educação), **Módulo 06** (Louis Braille), **Módulo 07** (O Sistema Braille) e **Módulo 20** (Reglete e Punção).\n\n<h3 id=\"topico-5-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BARBIER DE LA SERRE, Charles. *Notice sur l'écriture nocturne ou stéganographie*. Paris: Imprimerie de Migneret, 1815.\n- **Fonte Secundária**: MELLOR, C. Michael. *Louis Braille: A Touch of Genius*. Boston: National Braille Press, 2006. ISBN: 978-0939173709.\n- **Fonte Secundária**: HENRI, Pierre. *La vie et l'œuvre de Louis Braille*. Paris: PUF, 1952.\n- **Fonte Secundária**: JIMÉNEZ, J. A. *Historia de la escritura táctil*. Madrid: ONCE, 1998.\n\n---\n\n"
+    },
+    {
+      "id": 6,
+      "number": "06",
+      "title": "Louis Braille",
+      "category": "História e Conceitos",
+      "vol": 1,
+      "slug": "06-louis-braille",
+      "summary": "Louis Braille é a figura central e revolucionária da história da emancipação intelectual e social das pessoas cegas. Sua genialidade residiu na capacidade de transformar um código militar fonético complexo e inacabado em um sistema ortográfico, numérico, científico e musical perfeito, adaptado de forma biológica e fisiológica à anatomia da recepção tátil humana.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-6-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-6-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-6-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-6-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-6-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-6-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-6-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-6-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-6-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-6-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-6-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-6-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-6-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-6-14"
+        }
+      ],
+      "markdown": "## 06 — LOUIS BRAILLE\n\n<h3 id=\"topico-6-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nLouis Braille é a figura central e revolucionária da história da emancipação intelectual e social das pessoas cegas. Sua genialidade residiu na capacidade de transformar um código militar fonético complexo e inacabado em um sistema ortográfico, numérico, científico e musical perfeito, adaptado de forma biológica e fisiológica à anatomia da recepção tátil humana.\n\n<h3 id=\"topico-6-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Nascimento (4 de janeiro de 1809)**: Em Coupvray, vilarejo a 40 km de Paris, filho do seleiro Simon-René Braille e Monique Braille.\n- **Acidente e Cegueira (1812–1814)**: Aos 3 anos, enquanto brincava com uma sovela (ferramenta perfuradora de couro) na oficina do pai, perfurou o olho esquerdo. A infecção grave (oftalmia simpática) alastrou-se para o olho direito, causando cegueira total aos 5 anos.\n- **Educação Inicial**: Frequentou a escola de sua aldeia em Coupvray com apoio do padre local Jacques Palluy e do mestre Antoine Becheret, destacando-se pela memória prodigiosa.\n- **Ingresso no INJA de Paris (15 de fevereiro de 1819)**: Aos 10 anos, ingressa como bolsista no Instituto de Paris.\n- **Contato com a Escrita Noturna (1821)**: Aos 12 anos, conhece o sistema de Barbier.\n- **Invenção e Simplificação (1824, aos 15 anos)**: Braille reduz a célula de 12 para **6 pontos** dispostos em duas colunas verticais de três pontos, cobrindo com precisão a ponta do dedo. Transforma a fonografia em alfabeto ortográfico completo.\n- **Primeira Publicação Oficial (1829)**: Publica *Procédé pour écrire les paroles, la musique et le plain-chant au moyen de points (Processo para escrever as palavras, a música e o canto chão por meio de pontos)*.\n- **Invenção da Musicografia e Matemática (1837)**: Segunda edição expandida, estabelecendo o código musical e matemático definitivo.\n- **Atuação Profissional**: Torna-se professor contratado do INJA em 1833, lecionando história, geografia, matemática e música (sendo exímio organista em igrejas de Paris).\n- **Invenção do Raphigraphe (1839)**: Desenvolve com o amigo Pierre Foucault o *Raphigraphe*, máquina tátil para escrever letras latinas pontilhadas para comunicação visual com videntes.\n- **Morte (6 de janeiro de 1852)**: Falece em Paris aos 43 anos, vítima de tuberculose pulmonar, sem ver seu sistema ser adotado oficialmente pelo governo francês.\n- **Consagração e Panteão (1952)**: No centenário de sua morte, seu corpo foi exumado e transferido para o Panthéon de Paris, repousando ao lado dos maiores heróis da França.\n\n<h3 id=\"topico-6-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Genialidade Fisiológica do Sistema de 6 Pontos**: Compreensão de que a área tátil do indicador capta simultaneamente uma matriz máxima de 3x2 pontos sem necessidade de deslocamento vertical ou horizontal.\n- **Dicotomia Leitura-Escrita Unificada**: O sistema permitiu que o cego escrevesse exatamente o mesmo código que lia, utilizando punção e reglete.\n- **Reorganização Simbólica**: Capacidade de codificar literatura, partituras musicais complexas e equações algébricas no mesmo arranjo celular.\n\n<h3 id=\"topico-6-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Louis Braille (Educador/Inventor, França, 1809–1852)**: Criador do Sistema Braille universal. (Fonte: *Procédé pour écrire...*, 1829/1837).\n- **Simon-René Braille (Pai/Artesão, França)**: Seleiro que incentivou a autonomia tátil do filho desde a infância, fabricando bengalas e alfabetos de pregos.\n- **Pierre Foucault (Inventor/Usuário, França, 1797–1871)**: Aluno cego do INJA, mecânico e inventor do *Raphigraphe* e de impressoras táteis precursoras. (Fonte: Registros de patentes da França, 1843).\n- **Dr. Alexandre-René Pignier (Educador, França)**: Diretor do INJA que encorajou Louis Braille em suas pesquisas.\n\n<h3 id=\"topico-6-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Maison de Louis Braille (Coupvray, França)**: Casa natal de Louis Braille, transformada em museu histórico internacional.\n- **Panthéon de Paris**: Monumento nacional francês onde repousam os restos mortais de Louis Braille desde 1952.\n\n<h3 id=\"topico-6-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nA obra de Louis Braille transcendeu as fronteiras da França. Sua aceitação universal iniciou-se em congressos internacionais na Europa no final do século XIX, consagrando-se como a maior invenção educacional para cegos de todos os tempos.\n\n<h3 id=\"topico-6-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nO jovem brasileiro José Álvares de Azevedo conheceu Louis Braille pessoalmente no INJA de Paris no final da década de 1840, aprendendo o sistema diretamente da fonte antes de trazê-lo para o Brasil em 1850.\n\n<h3 id=\"topico-6-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nA memória e o método de Louis Braille chegaram ao Nordeste na transição do século XIX para o século XX, a partir de materiais impressos pelo Imperial Instituto do Rio de Janeiro.\n\n<h3 id=\"topico-6-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nA adoção do sistema idealizado por Louis Braille em Pernambuco consolidou-se nas primeiras décadas do século XX, com a fundação das primeiras turmas de alfabetização tátil em Recife.\n\n### 10. Situação atual\nAté 2026, comemora-se globalmente em 4 de janeiro o **Dia Mundial do Braille** (instituído pela ONU em homenagem ao nascimento de Louis Braille), reafirmando a atualidade insubstituível do sistema na era digital.\n\n<h3 id=\"topico-6-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre o banimento temporário do Braille no INJA por diretores videntes reacionários (como Armand Dufau, em 1840), que queimaram livros em Braille por temerem que os cegos desenvolvessem uma \"escrita secreta\" inacessível aos professores videntes.\n\n<h3 id=\"topico-6-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nAnálise grafológica e histórica aprofundada dos poucos manuscritos pessoais restantes em alto-relevo perfurados pela própria mão de Louis Braille conservados no acervo de Coupvray.\n\n<h3 id=\"topico-6-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 04, 05, 07, 08, 09, 14, 25 e 27**.\n\n<h3 id=\"topico-6-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRAILLE, Louis. *Procédé pour écrire les paroles, la musique et le plain-chant au moyen de points, à l'usage des aveugles et disposés pour eux*. Paris: INJA, 1829. (Segunda edição expandida: 1837).\n- **Fonte Secundária**: MELLOR, C. Michael. *Louis Braille: A Touch of Genius*. Boston: National Braille Press, 2006. ISBN: 978-0939173709.\n- **Fonte Secundária**: HENRI, Pierre. *La vie et l'œuvre de Louis Braille*. Paris: PUF, 1952.\n- **Fonte Secundária**: GUILBEAU, Edouard. *Histoire des aveugles dans leurs rapports avec la société*. Paris: INJA, 1907.\n\n---\n\n"
+    },
+    {
+      "id": 7,
+      "number": "07",
+      "title": "O Sistema Braille",
+      "category": "História e Conceitos",
+      "vol": 1,
+      "slug": "07-o-sistema-braille",
+      "summary": "O Sistema Braille não é um idioma, mas sim um código universal de representação tátil que permite codificar qualquer língua natural, notação matemática, científica, química, informática e partitura musical. Sua estrutura geométrica perfeita garante precisão ortográfica e autonomia de leitura e escrita.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-7-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-7-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-7-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-7-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-7-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-7-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-7-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-7-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-7-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-7-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-7-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-7-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-7-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-7-14"
+        }
+      ],
+      "markdown": "## 07 — O SISTEMA BRAILLE\n\n<h3 id=\"topico-7-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO Sistema Braille não é um idioma, mas sim um código universal de representação tátil que permite codificar qualquer língua natural, notação matemática, científica, química, informática e partitura musical. Sua estrutura geométrica perfeita garante precisão ortográfica e autonomia de leitura e escrita.\n\n<h3 id=\"topico-7-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\nDesenvolvido entre 1824 e 1837 por Louis Braille, o sistema passou por refinamentos de padronização ao longo dos séculos XIX e XX, culminando no estabelecimento de comissões internacionais e nacionais (como a Comissão Brasileira do Braille) encarregadas de atualizar as grafias científicas e literárias.\n\n<h3 id=\"topico-7-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Célula Braille (Matriz Braille)**: Espaço retangular composto por 6 pontos em relevo, dispostos em duas colunas verticais e paralelas de 3 pontos cada:\n  - Coluna da esquerda (de cima para baixo): **Pontos 1, 2 e 3**.\n  - Coluna da direita (de cima para baixo): **Pontos 4, 5 e 6**.\n- **Combinações Possíveis**: Matemática estrita: \\(2^6 = 64\\) combinações possíveis, incluindo a célula vazia (espaço).\n- **Ordem das Séries de Louis Braille**:\n  - **1ª Série (Sinais fundamentais)**: Formada apenas pelos pontos 1, 2, 4 e 5 (representa as letras de **a** a **j**).\n  - **2ª Série**: Adiciona-se o **Ponto 3** à primeira série (representa as letras de **k** a **t**).\n  - **3ª Série**: Adicionam-se os **Pontos 3 e 6** à primeira série (representa as letras **u, v, x, y, z** e caracteres acentuados).\n  - **4ª Série**: Adiciona-se o **Ponto 6** à primeira série (representa sinais especiais e acentuações).\n  - **5ª Série**: Sinais formados na parte inferior da célula (pontos 2, 3, 5 e 6 - pontuações e prefixos).\n  - **6ª e 7ª Séries**: Prefixos e combinações dos pontos 3, 4, 5 e 6.\n- **Sinal de Número (Prefixador)**: Como não havia espaço para números separados entre as 64 combinações, utiliza-se o prefixo numérico (pontos 3, 4, 5, 6) antes das letras da 1ª série (a=1, b=2... j=0).\n- **Sinal de Maiúscula**: Prefixo composto pelos pontos 4 e 6 antecedendo a letra.\n- **Braille Integral (Grau 1)**: Transcrição letra por letra de um texto.\n- **Braille Contraído/Abreviado (Grau 2 e Grau 3)**: Sistema de estenografia tátil que utiliza contrações e abreviaturas de palavras comuns para economizar espaço e acelerar a velocidade de leitura.\n\n<h3 id=\"topico-7-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Louis Braille (Inventor, França, 1809–1852)**: Criador da ordem lógica das séries celulares. (Fonte: *Procédé pour écrire...*, 1837).\n- **Abraham Nemeth (Pesquisador/Matemático, EUA, 1918–2013)**: Matemático cego criador do *Nemeth Braille Code for Mathematics and Science Notation* (1952), que revolucionou o ensino científico em Braille. (Fonte: *The Nemeth Code*, 1952).\n\n<h3 id=\"topico-7-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Comissão Brasileira do Braille (CBB, Brasil)**: Órgão normativo vinculado ao MEC encarregado da padronização do código no Brasil.\n- **World Braille Council (WBC / UNESCO)**: Conselho mundial responsável por salvaguardar a uniformidade do Braille entre diferentes línguas.\n\n<h3 id=\"topico-7-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, o sistema manteve sua estrutura fundamental de 6 pontos para uso impresso e expandiu-se para a célula de **8 pontos** (adicionando os pontos 7 e 8 na parte inferior) no âmbito da informática e das linhas Braille recarregáveis (permitindo 256 combinações para códigos ASCII/Unicode).\n\n<h3 id=\"topico-7-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, o Sistema Braille é regido pelas diretrizes da Grafia Braille para a Língua Portuguesa (2ª edição, 2018), aprovada pelo Ministério da Educação e aplicável em todo o território nacional.\n\n<h3 id=\"topico-7-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nA difusão dos manuais de regras e normas técnicas da CBB no Nordeste é realizada através dos Centros de Apoio Pedagógico para Atendimento às Pessoas com Deficiência Visual (CAPs) estaduais.\n\n<h3 id=\"topico-7-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nO CAP/PE (Centro de Apoio Pedagógico de Pernambuco), sediado no Recife, é o órgão responsável pela capacitação de professores da rede estadual e municipal no domínio das normas atualizadas da célula Braille e suas grafias especializadas.\n\n### 10. Situação atual\nAté 2026, vigora a plena coexistência entre o Braille físico de 6 pontos (em papel impressos por reglete, máquinas ou impressoras) e o Braille digital de 8 pontos utilizado em displays tático-eletrônicos (*refreshable braille displays*).\n\n<h3 id=\"topico-7-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate entre o uso do Braille Integral (Grau 1) e do Braille Contraído (Grau 2): enquanto países de língua inglesa utilizam massivamente o Grau 2 para reduzir o volume dos livros, no Brasil prevalece o ensino prioritário do Braille Integral para assegurar a fixação da ortografia oficial em crianças alfabetizadas.\n\n<h3 id=\"topico-7-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudos experimentais sobre a velocidade de leitura e a carga cognitiva de processamento entre a célula tradicional de 6 pontos e o Braille informático de 8 pontos em usuários leitores poliglotas.\n\n<h3 id=\"topico-7-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 08, 10, 15, 19, 20, 25, 27 e 37**.\n\n<h3 id=\"topico-7-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. Ministério da Educação. *Grafia Braille para a Língua Portuguesa*. 2. ed. Brasília: SEESP/MEC, 2018.\n- **Fonte Primária**: UNESCO. *World Braille Usage*. 3rd ed. Washington: Perkins/National Library Service, 2013. ISBN: 978-0-8444-9564-4.\n- **Fonte Secundária**: NEMETH, Abraham. *The Nemeth Braille Code for Mathematics and Science Notation*. Louisville: American Printing House for the Blind, 1952.\n- **Fonte Secundária**: NOGUEIRA, Arlindo. *Manual do Sistema Braille*. Rio de Janeiro: IBC, 2005.\n\n---\n\n"
+    },
+    {
+      "id": 8,
+      "number": "08",
+      "title": "Internacionalização do Braille",
+      "category": "História e Conceitos",
+      "vol": 1,
+      "slug": "08-internacionalizacao-do-braille",
+      "summary": "A expansão global do Sistema Braille ao longo dos séculos XIX e XX exigiu um complexo esforço translinguístico de adaptação. Como o alfabeto de Louis Braille foi concebido originalmente para as 26 letras da língua francesa e suas acentuações, a expansão para línguas anglo-saxônicas, germânicas, eslavas, semíticas (árabe e hebraico) e ideogrâmicas (chinês e japonês) exigiu rigorosos acordos de equivalência fonética e simbólica.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-8-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-8-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-8-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-8-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-8-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-8-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-8-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-8-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-8-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-8-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-8-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-8-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-8-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-8-14"
+        }
+      ],
+      "markdown": "## 08 — INTERNACIONALIZAÇÃO DO BRAILLE\n\n<h3 id=\"topico-8-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA expansão global do Sistema Braille ao longo dos séculos XIX e XX exigiu um complexo esforço translinguístico de adaptação. Como o alfabeto de Louis Braille foi concebido originalmente para as 26 letras da língua francesa e suas acentuações, a expansão para línguas anglo-saxônicas, germânicas, eslavas, semíticas (árabe e hebraico) e ideogrâmicas (chinês e japonês) exigiu rigorosos acordos de equivalência fonética e simbólica.\n\n<h3 id=\"topico-8-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **França (1829/1854)**: Adotação oficial pelo governo francês em 1854 (dois anos após a morte de Braille).\n- **Inglaterra e EUA (1868–1932)**: Em 1868, o médico cego Thomas Armitage funda na Inglaterra a *British and Foreign Blind Association* (atual RNIB) e adota o Braille. Nos EUA, ocorreu a \"Guerra dos Tipos\" (*War of the Dots*), onde o Braille competiu com o *New York Point* e o *American Braille*, até a unificação no *Standard English Braille* em 1932.\n- **Chegada à América Latina (1854–1890)**: O Brasil foi o primeiro país da América Latina a adotar o Braille (1854), seguido pela Argentina (1885) e México.\n- **Conferência Internacional da UNESCO (1950)**: A UNESCO promoveu em Paris a Conferência Internacional de Uniformização do Braille, liderada por Sir Clutha Mackenzie, padronizando a correspondência fonética do Braille em línguas não latinas (árabe, hindi, persa, etc.).\n\n<h3 id=\"topico-8-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Guerra dos Tipos (*War of the Dots*)**: Disputa histórica nos EUA entre diferentes códigos pontilhados concorrentes (New York Point, American Braille e Braille Francês Original) que atrasou em décadas a alfabetização de cegos norte-americanos.\n- **Uniformidade Fonética Internacional**: Diretriz da UNESCO estabelecendo que o mesmo sinal Braille que representa o som da letra \"b\" em francês ou inglês deve representar a consoante equivalente \"b\" (ב ou ب) em hebraico ou árabe.\n- **Braille Ideogrâmico/Silábico**: Adaptação do Braille para línguas baseadas em ideogramas (como o Chinês/Kanji e Japonês/Kana), onde o Braille codifica os sons silábicos (Kana) ou a transcrição pinyin fonética.\n\n<h3 id=\"topico-8-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Thomas Rhodes Armitage (Médico/Ativista, Inglaterra, 1824–1890)**: Fundador do RNIB que unificou e consagrou o Braille no Reino Unido. (Fonte: *The Education and Employment of the Blind*, 1871).\n- **Sir Clutha Mackenzie (Ativista/Consultor UNESCO, Nova Zelândia, 1895–1966)**: Cego de guerra que liderou a padronização mundial do Braille sob os auspícios da UNESCO. (Fonte: *World Braille Usage*, UNESCO, 1954).\n- **Robert Moon (Inventor, Inglaterra, 1818–1894)**: Criador do *Moon Type* (alfabeto de linhas simples em relevo que concorreu com o Braille para idosos cegos). (Fonte: *Light for the Blind*, 1873).\n\n<h3 id=\"topico-8-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **UNESCO (Organização das Nações Unidas para a Educação, a Ciência e a Cultura)**: Entidade teto promotora da unificação internacional do Braille.\n- **Royal National Institute of Blind People (RNIB, Reino Unido)**: Maior centro editor e de normatização do Braille de língua inglesa.\n- **National Library Service for the Blind and Print Disabled (NLS / Biblioteca do Congresso dos EUA)**: Maior acervo e autoridade de Braille dos Estados Unidos.\n\n<h3 id=\"topico-8-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nA publicação das edições sucessivas do manual *World Braille Usage* (1954, 1990 e 2013) pela UNESCO consolidou as tabelas oficiais de conversão para mais de 140 línguas e dialetos do mundo.\n\n<h3 id=\"topico-8-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nO Brasil desempenhou papel pioneiro de liderança na América Latina ao implantar a primeira imprensa Braille do continente em 1857 no Imperial Instituto dos Meninos Cegos no Rio de Janeiro.\n\n<h3 id=\"topico-8-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nO acervo de obras em Braille importadas em inglês e francês e traduzidas no Brasil começou a circular nas bibliotecas públicas das capitais nordestinas a partir das meados do século XX.\n\n<h3 id=\"topico-8-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nA Biblioteca Pública do Estado de Pernambuco (BPEP), através do seu Setor Braille, construiu a partir da segunda metade do século XX um acervo de obras internacionais em Braille e literatura lusófona transcrita para o sistema.\n\n### 10. Situação atual\nAté 2026, o *World Braille Council* supervisiona a adaptação contínua do Braille para novas mídias digitais e linguagens de programação internacionalmente acessíveis.\n\n<h3 id=\"topico-8-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nControvérsia histórica sobre a \"Guerra dos Tipos\" nos EUA, onde o orgulho nacionalista e disputas de patentes adiaram o uso do Braille francês original por mais de 50 anos em solo americano.\n\n<h3 id=\"topico-8-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEscassez de trabalhos acadêmicos no Brasil comparando o nível de proficiência e velocidade de leitura de adultos cegos bilíngues (Português/Inglês) lendo em Braille internacional.\n\n<h3 id=\"topico-8-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 06, 07, 09, 10 e 37**.\n\n<h3 id=\"topico-8-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: MACKENZIE, Clutha. *World Braille Usage: a survey of efforts towards uniformity of braille notation*. Paris: UNESCO, 1954.\n- **Fonte Secundária**: ARMITAGE, Thomas Rhodes. *The Education and Employment of the Blind*. London: Hardewicke, 1871.\n- **Fonte Secundária**: IRWIN, Robert B. *As I Saw It*. New York: American Foundation for the Blind, 1955. (Detalha a War of the Dots).\n- **Fonte Secundária**: UNESCO. *World Braille Usage*. 3rd ed. Washington: Perkins/NLS, 2013.\n\n---\n\n"
+    },
+    {
+      "id": 9,
+      "number": "09",
+      "title": "História do Braille no Brasil",
+      "category": "História e Conceitos",
+      "vol": 1,
+      "slug": "09-historia-do-braille-no-brasil",
+      "summary": "A introdução do Sistema Braille no Brasil confunde-se com a história da própria Educação Especial no país. O Brasil foi o primeiro país da América Latina e o primeiro fora da Europa/EUA a adotar oficialmente o código de Louis Braille, apenas dois anos após o falecimento do seu criador francês.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-9-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-9-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-9-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-9-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-9-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-9-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-9-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-9-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-9-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-9-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-9-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-9-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-9-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-9-14"
+        }
+      ],
+      "markdown": "## 09 — HISTÓRIA DO BRAILLE NO BRASIL\n\n<h3 id=\"topico-9-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA introdução do Sistema Braille no Brasil confunde-se com a história da própria Educação Especial no país. O Brasil foi o primeiro país da América Latina e o primeiro fora da Europa/EUA a adotar oficialmente o código de Louis Braille, apenas dois anos após o falecimento do seu criador francês.\n\n<h3 id=\"topico-9-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Chegada de José Álvares de Azevedo (1850)**: Jovem cego brasileiro de família abastada enviado a Paris para estudar no INJA. Aprendeu o Braille com o próprio Louis Braille. Retornou ao Rio de Janeiro em 1850 com a missão de alfabetizar outros cegos e fundar uma escola.\n- **Articulação com o Império (1851–1854)**: Azevedo conheceu a professora viciente Adélia Siqueira e o médico da Família Real, Dr. Xavier Sigaud. Através deste, obteve audiência com o Imperador D. Pedro II.\n- **Morte Precoce de Azevedo (17 de março de 1854)**: Azevedo falece de tuberculose aos 20 anos de idade, meses antes da inauguração da escola. Em sua homenagem, a data de seu nascimento (8 de abril) é celebrada como o **Dia Nacional do Braille**.\n- **Fundação do Imperial Instituto dos Meninos Cegos (12 de setembro de 1854)**: Decreto Imperial nº 1.428 fundou a instituição no Rio de Janeiro (atual **Instituto Benjamin Constant - IBC**). Seu primeiro diretor foi o Dr. Xavier Sigaud.\n- **Primeiros Professores e Imprensa (1857)**: Aquisição das primeiras prensas e tipografia Braille vindas de Paris. O instituto passa a imprimir os primeiros livros em Braille em língua portuguesa do mundo.\n\n<h3 id=\"topico-9-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Imperial Instituto dos Meninos Cegos**: Instituição de ensino pioneira fundada por D. Pedro II, modelo de instrução tátil e formação pedagógica para a América do Sul.\n- **Patronato de José Álvares de Azevedo**: Reconhecimento do jovem como o \"Patrono da Educação dos Cegos no Brasil\".\n- **Pioneirismo Tipográfico do IBC**: Capacidade de produção editorial autônoma em relevo Braille no século XIX no Rio de Janeiro.\n\n<h3 id=\"topico-9-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **José Álvares de Azevedo (Educador/Pioneiro, Brasil, 1834–1854)**: Responsável por introduzir o Braille no Brasil. (Fonte: Biografia histórica do IBC).\n- **D. Pedro II (Imperador do Brasil, 1825–1891)**: Monarca patrocinador e fundador do Imperial Instituto dos Meninos Cegos via Decreto nº 1.428/1854. (Fonte: Registros do Império do Brasil).\n- **Dr. Joseph-François-Xavier Sigaud (Médico/Gestor, França/Brasil, 1796–1856)**: Médico de D. Pedro II e primeiro diretor do Imperial Instituto. (Fonte: Arquivos do IBC).\n- **Benjamin Constant Botelho de Magalhães (Professor/Gestor, Brasil, 1836–1891)**: Professor de matemática e terceiro diretor do instituto, modernizando o ensino técnico e científico (dando nome posterior ao IBC).\n\n<h3 id=\"topico-9-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Instituto Benjamin Constant (IBC, Rio de Janeiro)**: Denominação assumida em 1891 pelo Imperial Instituto dos Meninos Cegos; centro nacional de referência do Braille no Brasil até o presente.\n- **Imprensa Braille do IBC**: Primeira gráfica de publicação tátil do Brasil e da América Latina (1857).\n\n<h3 id=\"topico-9-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nA experiência do Brasil influenciou a expansão da educação tátil na América do Sul, servindo de modelo de capacitação de professores para países vizinhos como Uruguai, Argentina e Chile ao longo do século XX.\n\n<h3 id=\"topico-9-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nDo Rio de Janeiro, a formação de braillistas e a distribuição de livros impressos pelo IBC espalharam-se gradualmente pelas capitais estaduais ao longo do século XX.\n\n<h3 id=\"topico-9-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nOs egressos do IBC no Rio de Janeiro retornavam aos seus estados de origem no Nordeste promovendo as primeiras turmas rústicas de alfabetização tátil nas capitais nordestinas entre 1910 e 1950.\n\n<h3 id=\"topico-9-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, a história do Braille esteve ligada à ação de educadores locais treinados no IBC ou influenciados pela sua literatura impressa. Em 1935, a fundação da Sociedade de Assistência aos Cegos de Pernambuco / Instituto de Cegos do Recife marcou a chegada institucional da alfabetização Braille ao estado.\n\n### 10. Situação atual\nAté 2026, o IBC permanece como órgão suplementar do Ministério da Educação (MEC), atuando como centro nacional de normatização, pesquisa e produção de material didático em Braille.\n\n<h3 id=\"topico-9-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate histórico sobre o isolamento do modelo de colégio interno do IBC durante o século XX: se a instituição promoveu a excelência do Braille ou se retardou a integração precoce dos alunos cegas nas escolas regulares da rede pública.\n\n<h3 id=\"topico-9-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nMapeamento e catalogação digital dos primeiros livros e edições em Braille impressos pela gráfica do IBC entre 1857 e 1900 conservados nos arquivos históricos da instituição.\n\n<h3 id=\"topico-9-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 06, 07, 10, 50 e 52**.\n\n<h3 id=\"topico-9-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. *Decreto Imperial nº 1.428, de 12 de setembro de 1854. Cria no Município da Corte um Instituto denominado Imperial Instituto dos Meninos Cegos*. Rio de Janeiro, 1854.\n- **Fonte Secundária**: LEMOS, Edison Ribeiro. *O IBC e a história da educação dos cegos no Brasil*. Rio de Janeiro: IBC, 2004.\n- **Fonte Secundária**: ALVES, Maria da Glória de Souza. *José Álvares de Azevedo: o patrono da educação dos cegos no Brasil*. Rio de Janeiro: IBC, 2004.\n- **Fonte Secundária**: MAZZOTTA, Marcos José Silveira. *Educação Especial no Brasil: história e políticas públicas*. 5. ed. São Paulo: Cortez, 2005.\n\n---\n\n"
+    },
+    {
+      "id": 10,
+      "number": "10",
+      "title": "Padronização do Braille Brasileiro",
+      "category": "História e Conceitos",
+      "vol": 1,
+      "slug": "10-padronizacao-do-braille-brasileiro",
+      "summary": "A padronização do Sistema Braille no Brasil é uma exigência legal e pedagógica para assegurar que qualquer livro, prova oficial (como o ENEM), documento ou recurso tecnológico impresso no país siga rigorosamente as mesmas convenções simbólicas, garantindo a equidade no acesso à informação em todo o território nacional.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-10-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-10-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-10-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-10-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-10-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-10-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-10-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-10-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-10-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-10-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-10-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-10-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-10-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-10-14"
+        }
+      ],
+      "markdown": "## 10 — PADRONIZAÇÃO DO BRAILLE BRASILEIRO\n\n<h3 id=\"topico-10-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA padronização do Sistema Braille no Brasil é uma exigência legal e pedagógica para assegurar que qualquer livro, prova oficial (como o ENEM), documento ou recurso tecnológico impresso no país siga rigorosamente as mesmas convenções simbólicas, garantindo a equidade no acesso à informação em todo o território nacional.\n\n<h3 id=\"topico-10-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Primeiras Convenções Nacionais**: Durante a primeira metade do século XX, cada instituição brasileira adaptava acentos e sinais de pontuação de forma empírica.\n- **Criação da Comissão Brasileira do Braille (CBB, 1999)**: Criada pela Portaria MEC nº 554/1999 para normatizar o uso, a edição e a difusão do Braille no Brasil.\n- **Adoção do Acordo Ortográfico da Língua Portuguesa (2008–2018)**: Com o Acordo Ortográfico da CPLP, a CBB atualizou a Grafia Braille para a Língua Portuguesa (2ª Edição, 2018), unificando as regras com Portugal e demais países lusófonos.\n- **Publicação das Grafias Especializadas**: A CBB e o MEC elaboraram manuais específicos para Matemática, Química, Música e Informática.\n\n<h3 id=\"topico-10-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Comissão Brasileira do Braille (CBB)**: Órgão colegiado de caráter consultivo e normativo vinculado à Secretaria de Educação Continuada, Alfabetização, Diversidade e Inclusão (SECADI/MEC) e ao IBC.\n- **Grafia Braille para a Língua Portuguesa (GBLP)**: Documento oficial que estabelece as regras de transcrição literária, pontuação, acentuação e prefixos do Português no Brasil.\n- **Grafia Matemática Braille (GMB)**: Normatização dos símbolos de álgebra, geometria, cálculo e estatística em Braille.\n- **Grafia Química Braille (GQ-Braille)**: Codificação das fórmulas estruturais, ligações atômicas e tabela periódica.\n- **Musicografia Braille**: Padronização da partitura tátil alinhada com as normas da União Mundial de Cegos.\n- **Código Braille para Informática**: Tabela de correspondência de 6 e 8 pontos para caracteres computacionais (símbolos como `@`, `_`, `/`, `\\`, `{`, `}`).\n\n<h3 id=\"topico-10-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Prof. Jonir Bechara Cerqueira (Educador/Normatizador, Brasil)**: Um dos maiores especialistas em Braille do Brasil, membro fundador da Comissão Brasileira do Braille e autor de manuais de normatização. (Fonte: Publicações do IBC/MEC).\n- **Profª Maria da Glória de Souza Alves (Educadora/Gestora, Brasil)**: Pesquisadora do IBC e integrante histórica da CBB, atuante na padronização da Grafia Braille em língua portuguesa. (Fonte: Documentos da CBB/MEC).\n\n<h3 id=\"topico-10-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Comissão Brasileira do Braille (CBB / MEC)**: Órgão máximo de normatização Braille no Brasil.\n- **Instituto Benjamin Constant (IBC)**: Sede executiva e de pesquisa técnica da CBB.\n- **Imprensa Oficial e Editoras Braille Certificadas**: Organizações que produzem materiais didáticos sujeitos à fiscalização das normas da CBB.\n\n<h3 id=\"topico-10-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nA CBB atua em alinhamento constante com a União Latino-Americana de Cegos (ULAC) e com a Comissão Lusófona do Braille para evitar disparidades de transcrição entre os países de língua oficial portuguesa.\n\n<h3 id=\"topico-10-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nA consolidação da Grafia Braille Unificada garante que o estudante cego do Amazonas, de São Paulo ou de Pernambuco utilize exatamente a mesma notação gráfica em suas avaliações escolares e acadêmicas.\n\n<h3 id=\"topico-10-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nOs Centros de Apoio Pedagógico (CAPs) do Nordeste atuam na formação continuada de professores transcritores e revisores Braille, garantindo que o material adaptado nas redes estaduais obedeça às edições oficiais do MEC/CBB.\n\n<h3 id=\"topico-10-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, o CAP/PE realiza a revisão técnica dos acervos paradidáticos e didáticos produzidos no estado, fiscalizando o cumprimento rigoroso da Grafia Braille para a Língua Portuguesa (2ª ed., 2018) e da Grafia Matemática.\n\n### 10. Situação atual\nAté 2026, a CBB trabalha no aprimoramento contínuo das normas para transcrição de gráficos complexos, diagramas táteis e na sincronização de tabelas Braille para softwares leitores de tela e linhas Braille digitais.\n\n<h3 id=\"topico-10-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a complexidade da transcrição de termos técnicos e fórmulas químicas complexas em Braille de 6 pontos vs. o uso de notações computacionais em linhas Braille de 8 pontos em exames universitários.\n\n<h3 id=\"topico-10-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nAvaliação do impacto prático e das eventuais dificuldades enfrentadas por professores regentes videntes não especializados na correção de provas que utilizam as grafias técnicas atualizadas da CBB.\n\n<h3 id=\"topico-10-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 07, 08, 25, 27, 37 e 50**.\n\n<h3 id=\"topico-10-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. Ministério da Educação. *Grafia Braille para a Língua Portuguesa*. 2. ed. Brasília: SEESP/MEC/IBC, 2018.\n- **Fonte Primária**: BRASIL. Ministério da Educação. *Código Braille para a Informática*. Brasília: SEESP/MEC, 2009.\n- **Fonte Primária**: BRASIL. Ministério da Educação. *Normas Técnicas para a Produção de Textos em Braille*. Brasília: MEC/SEESP, 2006.\n- **Fonte Secundária**: CERQUEIRA, Jonir Bechara; FERREIRA, Windyz B. *A construção do conhecimento pela pessoa com deficiência visual*. Rio de Janeiro: IBC, 2000.\n"
+    },
+    {
+      "id": 11,
+      "number": "11",
+      "title": "Psicologia e Experiência da Cegueira",
+      "category": "Neuropsicologia e Alfabetização",
+      "vol": 2,
+      "slug": "11-psicologia-e-experiencia-da-cegueira",
+      "summary": "A experiência psicológica da deficiência visual abrange a reestruturação da percepção, da autoestima, da autoimagem e das relações interpessoais. É imperativo distinguir a vivência de pessoas com cegueira congênita daquelas com cegueira adquirida, evitando-se generalizações patologizantes ou a exigência de um percurso rígido de \"fases de aceitação\".",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-11-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-11-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-11-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-11-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-11-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-11-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-11-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-11-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-11-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-11-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-11-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-11-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-11-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-11-14"
+        }
+      ],
+      "markdown": "## 11 — PSICOLOGIA E EXPERIÊNCIA DA CEGUEIRA\n\n<h3 id=\"topico-11-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA experiência psicológica da deficiência visual abrange a reestruturação da percepção, da autoestima, da autoimagem e das relações interpessoais. É imperativo distinguir a vivência de pessoas com cegueira congênita daquelas com cegueira adquirida, evitando-se generalizações patologizantes ou a exigência de um percurso rígido de \"fases de aceitação\".\n\n<h3 id=\"topico-11-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\nHistoricamente, a psicologia da cegueira esteve impregnada de teorias psicanalíticas precoces que associavam a cegueira ao \"trauma do escuro\" ou à desestruturação egoica (como em interpretações restritivas de Pierre Villey). A partir das décadas de 1970 e 1980, com a psicologia cognitiva e humanista (ex.: trabalhos de Lowenfeld e Warren), a cegueira passou a ser compreendida como um modo alternativo de organização perceptivo-cognitiva, e não como uma psiquiatria intrínseca.\n\n<h3 id=\"topico-11-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Cegueira Congênita vs. Adquirida**: Na cegueira congênita, a pessoa constitui seu psiquismo e esquema corporal sem a mediação visual, não vivenciando a \"perda\" da visão; na cegueira adquirida, o sujeito passa por um processo de reorganização da identidade e elaboração do luto pelas funções visuais perdidas.\n- **Processo de Luto e Adaptação**: Elaboração psíquica da perda da visão (frequentemente analisada sob a adaptação dos estágios de Elisabeth Kübler-Ross: negação, raiva, barganha, depressão e aceitação). Contudo, a psicologia contemporânea rejeita a linearidade desses estágios, reconhecendo a aceitação como um processo dinâmico e não obrigatório.\n- **Reconstrução da Identidade**: Repensar os papéis sociais, profissionais e familiares após o diagnóstico, superando o estigma e internalizações capacitistas.\n\n<h3 id=\"topico-11-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Berthold Lowenfeld (Pesquisador/Psicólogo, Áustria/EUA, 1901–1994)**: Psicólogo precursor na investigação dos impactos cognitivos e afetivos da deficiência visual em crianças. (Fonte: *Our Blind Children*, 1956).\n- **David H. Warren (Pesquisador, EUA)**: Autor do estudo clássico *Blindness and Early Childhood Development*, mapeando o desenvolvimento socioafetivo e cognitivo na cegueira. (Fonte: AFB, 1984).\n- **Pierre Villey (Pesquisador/Usuário, França, 1879–1933)**: Professor cego de literatura na Sorbonne, autor de *Le Monde dos Aveugles*, obra pioneira sobre a psicologia subjetiva da cegueira. (Fonte: *Le Monde dos Aveugles*, 1914).\n\n<h3 id=\"topico-11-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **American Foundation for the Blind (AFB, EUA)**: Centro produtor de pesquisas psicológicas e adaptativas sobre a cegueira.\n- **Instituto Benjamin Constant (Setor de Psicologia, Brasil)**: Referência no atendimento psicológico e suporte a famílias no Brasil.\n\n<h3 id=\"topico-11-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, a psicologia da deficiência evoluiu para a Psicologia Positiva e para os *Disability Studies*, com foco na resiliência, autoeficácia e remoção de barreiras sociais como fatores determinantes para a saúde mental.\n\n<h3 id=\"topico-11-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, a atuação de psicólogos em centros de reabilitação (como a Fundação Dorina Nowill e o IBC) foca no suporte terapêutico pós-diagnóstico, no fortalecimento da autonomia e no combate ao isolamento social familiar.\n\n<h3 id=\"topico-11-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nEm serviços regionais do Nordeste, a escassez de psicólogos especializados em deficiência visual na rede pública de saúde mental (CAPS) representa um obstáculo crítico, sobrecarregando instituições filantrópicas.\n\n<h3 id=\"topico-11-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, pesquisas conduzidas nos programas de pós-graduação em Psicologia e Neurociências da UFPE e UPE investigam a qualidade de vida e a saúde mental de adultos com perda visual progressiva (ex.: retinite pigmentosa e retinopatia diabética).\n\n### 10. Situação atual\nAté 2026, enfatiza-se a abordagem interseccional na psicologia, compreendendo como o capacitismo estrutural e as barreiras de acessibilidade afetam mais a saúde mental da pessoa cega do que a limitação sensorial em si.\n\n<h3 id=\"topico-11-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a patologização do luto na cegueira adquirida: críticas de ativistas a terapeutas videntes que tratam a não aceitação imediata da cegueira como \"negação patológica\", sem considerar o impacto real da falta de acessibilidade urbana e profissional.\n\n<h3 id=\"topico-11-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudos longitudinais sobre a incidência de ansiedade e depressão em adolescentes com cegueira congênita comparados a adolescentes com cegueira adquirida em capitais do Nordeste.\n\n<h3 id=\"topico-11-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 01, 12, 29, 30, 33 e 48**.\n\n<h3 id=\"topico-11-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: KÜBLER-ROSS, Elisabeth. *On Death and Dying*. New York: Macmillan, 1969.\n- **Fonte Secundária**: LOWENFELD, Berthold. *Our Blind Children: Growing and Learning with Them*. Springfield: Charles C Thomas, 1956.\n- **Fonte Secundária**: VILLEY, Pierre. *Le Monde dos Aveugles: Essai de psychologie*. Paris: Flammarion, 1914.\n- **Fonte Secundária**: WARREN, David H. *Blindness and Early Childhood Development*. New York: AFB Press, 1984. ISBN: 978-0891281245.\n\n---\n\n"
+    },
+    {
+      "id": 12,
+      "number": "12",
+      "title": "A Pessoa por trás da Deficiência",
+      "category": "Neuropsicologia e Alfabetização",
+      "vol": 2,
+      "slug": "12-a-pessoa-por-tras-da-deficiencia",
+      "summary": "A superação da visão reducionista exige reconhecer a pessoa cega em sua plenitude existencial, abrangendo dimensões fundamentais da vida humana frequentemente invisibilizadas pelo capacitismo: escolhas de carreira, autodeterminação, relacionamentos afetivo-sexuais, parentalidade (maternidade e paternidade por pessoas cegas), envelhecimento e vida cultural ativa.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-12-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-12-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-12-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-12-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-12-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-12-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-12-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-12-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-12-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-12-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-12-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-12-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-12-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-12-14"
+        }
+      ],
+      "markdown": "## 12 — A PESSOA POR TRÁS DA DEFICIÊNCIA\n\n<h3 id=\"topico-12-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA superação da visão reducionista exige reconhecer a pessoa cega em sua plenitude existencial, abrangendo dimensões fundamentais da vida humana frequentemente invisibilizadas pelo capacitismo: escolhas de carreira, autodeterminação, relacionamentos afetivo-sexuais, parentalidade (maternidade e paternidade por pessoas cegas), envelhecimento e vida cultural ativa.\n\n<h3 id=\"topico-12-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\nHistoricamente, as pessoas cegas foram retratadas de forma estigmatizada sob dois polos opostos: o \"coitadinho dependente\" objeto de caridade ou o \"super-herói inspirador\" (*pornografia da inspiração* ou *inspiration porn*, termo cunhado por Stella Young). Ambas as abordagens desumanizam o sujeito ao despojá-lo da banalidade e da complexidade da vida cotidiana.\n\n<h3 id=\"topico-12-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Autodeterminação**: Capacidade de tomar decisões autônomas sobre o próprio corpo, moradia, finanças, profissão e projetos de vida sem tutela indevida de terceiros.\n- **Interseccionalidade na Deficiência**: Interrelação da cegueira com Marcadores Sociais da Diferença (gênero, raça, orientação sexual, classe social e idade).\n- **Maternidade/Paternidade por Pessoas Cegas**: Exercício pleno dos direitos reprodutivos e do cuidado parental autônomo com suporte de tecnologia e estratégias adaptativas.\n- **Pornografia da Inspiração (*Inspiration Porn*)**: Objetificação da pessoa com deficiência para fazer pessoas sem deficiência se sentirem motivadas, reduzindo conquistas normais a \"milagres\".\n\n<h3 id=\"topico-12-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Stella Young (Ativista/Jornalista, Austrália, 1982–2014)**: Defensora dos direitos das pessoas com deficiência que conceituou e denunciou a *Inspiration Porn*. (Fonte: TED Talk *I'm not your inspiration, thank you very much*, 2014).\n- **Dorina de Gouvêa Nowill (Educadora/Ativista, Brasil, 1919–2010)**: Cega aos 17 anos, tornou-se líder internacional, presidente da União Mundial de Cegos e criadora da Fundação Dorina Nowill, demonstrando a plenitude do protagonismo feminino cego. (Fonte: Autobiografia e arquivos da Fundação Dorina Nowill).\n- **Hellen Keller (Escritora/Ativista, EUA, 1880–1968)**: Surdocega, escritora, palestrante e militante política socialista e feminista internacional. (Fonte: *The Story of My Life*, 1903).\n\n<h3 id=\"topico-12-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Fundação Dorina Nowill para Cegos (São Paulo, Brasil)**: Instituição dedicada à inclusão social e autonomia da pessoa cega.\n- **World Blind Union - Women's Committee**: Comitê internacional focado nas especificidades de gênero e direitos das mulheres cegas.\n\n<h3 id=\"topico-12-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, a literatura autobiográfica e os estudos acadêmicos produzidos por autores cegos (ex.: Georgina Kleege, Rod Michalko) revolucionaram a teoria sociológica ao trazer a vivência em primeira pessoa como fonte legítima de conhecimento epistemológico.\n\n<h3 id=\"topico-12-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, ampliou-se a visibilidade de mães cegas, pesquisadores cegos em universidades e profissionais atuando no direito, artes e tecnologia, desmontando a premissa de que a pessoa cega apenas pode atuar em funções fabris ou telefonia.\n\n<h3 id=\"topico-12-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nPesquisadoras e ativistas cegas no Nordeste têm liderado coletivos de mulheres com deficiência, pautando o acesso à saúde reprodutiva acessível e o combate à violência doméstica que afeta desproporcionalmente mulheres cegas.\n\n<h3 id=\"topico-12-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, relatos e pesquisas autobiográficas de graduandos e pós-graduandos cegos na UFPE e UFRPE evidenciam os desafios de mobilidade e a resistência contra preconceitos atitudinais nas esferas acadêmica e profissional recifenses.\n\n### 10. Situação atual\nAté 2026, fortalece-se o lema \"Nada Sobre Nós, Sem Nós\", exigindo que pesquisas, produções culturais e campanhas publicitárias tenham a participação direta e a autoria de pessoas cegas em todas as etapas.\n\n<h3 id=\"topico-12-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a superproteção familiar vs. autodeterminação: a dificuldade de famílias aceitarem que o jovem cego morar sozinho, viajar ou exercer sua sexualidade de forma independente sem vigilância constante.\n\n<h3 id=\"topico-12-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudos empíricos sobre os desafios específicos vivenciados por idosos com cegueira adquirida no sistema público de saúde e assistência social do Nordeste.\n\n<h3 id=\"topico-12-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 01, 11, 30, 34, 42 e 43**.\n\n<h3 id=\"topico-12-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: KELLER, Helen. *The Story of My Life*. New York: Doubleday, Page & Co., 1903.\n- **Fonte Secundária**: NOWILL, Dorina de Gouvêa. *E a luz se fez*. São Paulo: Editora Gente, 1996. ISBN: 978-8573740082.\n- **Fonte Secundária**: KLEEGE, Georgina. *Sight Unseen*. New Haven: Yale University Press, 1999. ISBN: 978-0300076806.\n- **Fonte Secundária**: MICHALKO, Rod. *The Two-in-One: Walking with Smokie, Walking with Blindness*. Philadelphia: Temple University Press, 1999.\n\n---\n\n"
+    },
+    {
+      "id": 13,
+      "number": "13",
+      "title": "Desenvolvimento Infantil e Cognição",
+      "category": "Neuropsicologia e Alfabetização",
+      "vol": 2,
+      "slug": "13-desenvolvimento-infantil-e-cognicao",
+      "summary": "O desenvolvimento cognitivo, motor, linguístico e socioemocional da criança cega congênita segue rotas alternativas e qualitativamente diferenciadas em relação às crianças videntes. A ausência da visão — canal primário de integração sensorial à distância — exige que a criança estruture conceitos de espaço, forma, objeto e movimento por meio da exploração háptica (tátil-cinestésica), auditiva e proprioceptiva.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-13-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-13-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-13-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-13-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-13-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-13-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-13-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-13-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-13-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-13-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-13-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-13-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-13-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-13-14"
+        }
+      ],
+      "markdown": "## 13 — DESENVOLVIMENTO INFANTIL E COGNIÇÃO\n\n<h3 id=\"topico-13-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO desenvolvimento cognitivo, motor, linguístico e socioemocional da criança cega congênita segue rotas alternativas e qualitativamente diferenciadas em relação às crianças videntes. A ausência da visão — canal primário de integração sensorial à distância — exige que a criança estruture conceitos de espaço, forma, objeto e movimento por meio da exploração háptica (tátil-cinestésica), auditiva e proprioceptiva.\n\n<h3 id=\"topico-13-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\nPioneiros da psicologia do desenvolvimento (como Lev Vygotsky na sua *Defectologia*) demonstraram que a criança cega não é uma criança \"com menos inteligência\", mas sim uma criança com uma estrutura de desenvolvimento qualitativamente peculiar. Vygotsky enfatizou que as maiores barreiras ao desenvolvimento da criança cega não são biológicas, mas sociais (a falta de estímulos ambientais e mediação pedagógica).\n\n<h3 id=\"topico-13-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Conceituação Háptica**: Formação de conceitos sobre o mundo físico (tamanho, forma, peso, textura, distância) através da manipulação ativa dos objetos com as mãos.\n- **Substituição Sensorial e Integração Multissensorial**: Combinação coordenada de audição, tato, paladar, olfato e propriocepção para construir esquemas mentais.\n- **Permanência do Objeto sem a Visão**: Enquanto a criança vidente desenvolve a permanência do objeto (Piaget) observando coisas que somem do campo visual, a criança cega precisa aprender que o objeto continua existindo quando o som dele cessa ou quando ele sai das suas mãos.\n- **Cegueira e Linguagem (O Mito do Verbalismo)**: Risco de a criança cega repetir palavras e conceitos visuais (ex.: cores ou termos espaciais complexos) sem o suporte tátil concreto prévio (fenômeno estudado por Cutsworth).\n\n<h3 id=\"topico-13-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Lev Vygotsky (Psicólogo/Pesquisador, União Soviética, 1896–1934)**: Formulador da *Defectologia*, enfatizando a compensação social e a mediação cultural no desenvolvimento da criança cega. (Fonte: *Obras Escolhidas: Tomo V - Defectologia*, 1931).\n- **Thomas D. Cutsforth (Pesquisador/Usuário, EUA)**: Psicólogo cego autor de *The Blind in School and Society*, denunciador do \"verbalismo\" na educação de crianças cegas. (Fonte: *The Blind in School and Society*, 1933).\n- **Susana Espeleta (Pesquisadora/Educadora, Argentina/Brasil)**: Especialista em intervenção precoce e desenvolvimento motor e cognitivo na infância cega. (Fonte: Literatura de Educação Especial).\n\n<h3 id=\"topico-13-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Perkins School for the Blind (EUA)**: Centro de liderança em pesquisas sobre intervenção precoce e desenvolvimento infantil na cegueira e surdocegueira.\n- **Instituto Benjamin Constant (Centro de Intervenção Precoce, Brasil)**: Referência no atendimento infantil e orientação a pais.\n\n<h3 id=\"topico-13-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nA pesquisa internacional em psicologia cognitiva demonstrou que crianças cegas com estimulação tátil precoce adequada atingem os mesmos marcos de desenvolvimento cognitivo abstrato que crianças videntes, desfazendo mitos sobre atrasos cognitivos intrínsecos.\n\n<h3 id=\"topico-13-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, os serviços de **Intervenção Precoce** (0 a 3 anos) em centros especializados focam no treino haptotátil, na orientação espacial inicial e no fortalecimento do vínculo afetivo mãe-bebê (evitando que a falta do contato visual olho-no-olho prejudique a interatividade parental).\n\n<h3 id=\"topico-13-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nA expansão dos serviços de habilitação visual infantil na rede pública do Nordeste impulsionou-se a partir de 2015 para atender às demandas de estimulação neuropsicomotora de bebês afetados pelo vírus Zika.\n\n<h3 id=\"topico-13-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nPernambuco tornou-se um polo de pesquisas internacionais sobre desenvolvimento infantil e alterações sensoriais devido à atuação conjunta da Fundação Altino Ventura, do IMIP e do Hospital das Clínicas da UFPE na estimulação precoce de crianças com alterações visuais corticais e oculares.\n\n### 10. Situação atual\nAté 2026, preconiza-se o uso de brinquedos multissensoriais adaptados, mapas táteis tridimensionais e o estímulo precoce ao pré-Braille desde a primeira infância.\n\n<h3 id=\"topico-13-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a explicação do conceito de \"cor\" para crianças cegas congênitas: se a cor deve ser ensinada através de associações poéticas/térmicas (ex.: vermelho = calor/fogo) ou compreendida estritamente como uma propriedade física da luz inacessível ao tato, evitando conceitos fantasiosos sem base real.\n\n<h3 id=\"topico-13-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudos comparativos sobre a aquisição de conceitos de espaço tridimensional em crianças cegas rurais e urbanas no estado de Pernambuco.\n\n<h3 id=\"topico-13-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 02, 14, 15, 19 e 26**.\n\n<h3 id=\"topico-13-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: VYGOTSKY, Lev Semionovitch. *Obras Escogidas V: Fundamentos de Defectología*. Madrid: Visor, 1997.\n- **Fonte Secundária**: CUTSFORTH, Thomas D. *The Blind in School and Society: A Psychological Study*. New York: American Foundation for the Blind, 1933.\n- **Fonte Secundária**: BATTENTIER, G.; MELLIER, D. *Le développement cognitif do jeune enfant aveugle*. Paris: L'Harmattan, 2005.\n- **Fonte Secundária**: NUNES, Leila Regina d'Oliveira de Paula; LOMÔNACO, José Fernando Bitencourt. O desenvolvimento de conceitos em crianças cegas. *Psicologia da Educação*, São Paulo, n. 28, 2009.\n\n---\n\n"
+    },
+    {
+      "id": 14,
+      "number": "14",
+      "title": "Neurociência da Deficiência Visual",
+      "category": "Neuropsicologia e Alfabetização",
+      "vol": 2,
+      "slug": "14-neurociencia-da-deficiencia-visual",
+      "summary": "A neurociência cognitiva contemporânea revelou a extraordinária capacidade do cérebro humano de reorganizar sua arquitetura funcional na ausência de input visual. A plasticidade cerebral em indivíduos cegos congênitos ou precoces demonstra que o cérebro é um órgão \"orientado a tarefas\" (task-oriented) e não puramente \"orientado a sentidos\" (sensory-oriented), permitindo que o córtex visual occipital seja recrutado para processar informação tátil (como a leitura Braille) e auditiva.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-14-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-14-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-14-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-14-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-14-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-14-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-14-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-14-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-14-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-14-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-14-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-14-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-14-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-14-14"
+        }
+      ],
+      "markdown": "## 14 — NEUROCIÊNCIA DA DEFICIÊNCIA VISUAL\n\n<h3 id=\"topico-14-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA neurociência cognitiva contemporânea revelou a extraordinária capacidade do cérebro humano de reorganizar sua arquitetura funcional na ausência de input visual. A plasticidade cerebral em indivíduos cegos congênitos ou precoces demonstra que o cérebro é um órgão \"orientado a tarefas\" (task-oriented) e não puramente \"orientado a sentidos\" (sensory-oriented), permitindo que o córtex visual occipital seja recrutado para processar informação tátil (como a leitura Braille) e auditiva.\n\n<h3 id=\"topico-14-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\nAté a década de 1980, acreditava-se que a ausência de visão levava à atrofia irremediável das áreas visuais do cérebro. Contudo, no final dos anos 1990, experimentos de neuroimagem funcional (fMRI e PET scan) e Estimulação Magnética Transcraniana (TMS) liderados por pesquisadores como Alvaro Pascual-Leone e Sadato revolucionaram a neurociência ao demonstrar a ativação do córtex occipital durante a leitura Braille tátil.\n\n<h3 id=\"topico-14-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Plasticidade Cerebral Cross-Modal (Reorganização Cortical)**: Fenômeno em que áreas corticais privadas de sua entrada sensorial primária (córtex occipital/visual V1, V2) passam a responder a estímlos de outras modalidades sensoriais (tato e audição).\n- **Recrutamento do Córtex Occipital na Leitura Braille**: Durante o rastreamento dos pontos Braille com o indicador, a informação somatossensorial viaja da medula ao córtex somatossensorial primário (S1) e é redirecionada para o córtex visual primário (V1), que processa a discriminação espacial dos pontos e o significado linguístico.\n- **Efeito da Estimulação Magnética Transcraniana (TMS)**: Estudos demonstraram que, ao inibir temporariamente o córtex occipital de leitores cegos com TMS, a capacidade de ler Braille tátil é interrompida, provando que o córtex \"visual\" é causalmente indispensável para a leitura tátil.\n- **Janelas Críticas e Neuroplasticidade (Congênita vs. Adquirida)**: A reorganização cross-modal é máxima em cegos congênitos ou que perderam a visão na primeira infância; em cegos adventícios tardios, o recrutamento occipital ocorre de forma menos intensa e com dinâmicas sinápticas distintas.\n\n<h3 id=\"topico-14-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Alvaro Pascual-Leone (Pesquisador/Neurologista, Espanha/EUA)**: Professor de Neurologia em Harvard, precursor dos estudos de TMS e plasticidade cross-modal na leitura Braille. (Fonte: *The Plastic Human Brain Cortex*, 2005).\n- **Norihiro Sadato (Pesquisador/Neurocientista, Japão)**: Liderou o estudo pioneiro na *Nature* (1996) demonstrando a ativação do córtex visual primário durante a leitura Braille por cegos via PET scan. (Fonte: Sadato et al., *Activation of the primary visual cortex by Braille reading in blind subjects*, Nature, 1996).\n- **Amir Amedi (Pesquisador/Neurocientista, Israel)**: Especialista em dispositivos de substituição sensorial e plasticidade cortical orientada a tarefas. (Fonte: *Task-selective sensory-independent organization of the brain*, 2011).\n\n<h3 id=\"topico-14-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Harvard Medical School (Berenson-Allen Center for Noninvasive Brain Stimulation, EUA)**: Polo mundial de pesquisas em neuroplasticidade na cegueira.\n- **Hebrew University of Jerusalem (Brain Plasticity Lab, Israel)**: Referência em estudos de substituição sensorial e neuroimagem.\n- **Instituto do Cérebro (ICe / UFRN, Brasil)**: Centro de referência em neurociência e plasticidade no Brasil.\n\n<h3 id=\"topico-14-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nA neurociência internacional provou que a leitura Braille estimula redes de linguagem no hemisfério esquerdo (Área de Broca e Área de Wernicke) e redes de processamento espacial occipital de forma altamente integrada, com velocidade de processamento neural comparável à leitura visual.\n\n<h3 id=\"topico-14-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, laboratórios de neuroimagem funcional e neurofisiologia da UFRJ, USP e UFRN conduzem estudos sobre o processamento de estímulos auditivos e táteis em leitores experientes de Braille.\n\n<h3 id=\"topico-14-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nO Instituto do Cérebro da UFRN e grupos de pesquisa em neurociências da UFPE têm investigado o impacto da plasticidade cerebral e do treino somatossensorial na reabilitação e no aprendizado tátil.\n\n<h3 id=\"topico-14-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nPesquisadores do Departamento de Fisioterapia e do Programa de Pós-Graduação em Neuropsiquiatria e Ciências do Comportamento da UFPE realizam estudos sobre integração multissensorial, controle motor e adaptação proprioceptiva em pessoas com deficiência visual.\n\n### 10. Situação atual\nAté 2026, a neurociência da deficiência visual embasa a criação de novas tecnologias de substituição sensorial (SSD - *Sensory Substitution Devices*) que convertem imagens de câmeras em padrões táteis ou sonoros processados pelo córtex occipital.\n\n<h3 id=\"topico-14-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre o destino do córtex visual em cirurgias de restauração da visão (como implantes de retina ou terapia gênica): se o cérebro de um cego congênito adulto, tendo reorganizado seu córtex occipital para a audição e o tato, consegue aprender a \"enxergar\" novamente se o input ocular for restaurado tardiamente (o dilema de Molyneux revisitado).\n\n<h3 id=\"topico-14-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nMapeamento com fMRI do recrutamento cortical em adultos recém-alfabetizados em Braille na fase adulta (cegueira adquirida) durante e após intervenção com reglete positiva vs. reglete tradicional.\n\n<h3 id=\"topico-14-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 02, 07, 13, 15, 19, 22 e 38**.\n\n<h3 id=\"topico-14-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: SADATO, N. et al. Activation of the primary visual cortex by Braille reading in blind subjects. *Nature*, v. 380, p. 526–528, 1996. DOI: 10.1038/380526a0.\n- **Fonte Primária**: PASCUAL-LEONE, A. et al. The plastic human brain cortex. *Annual Review of Neuroscience*, v. 28, p. 377–401, 2005. DOI: 10.1146/annurev.neuro.27.070203.144216.\n- **Fonte Secundária**: AMEDI, A. et al. Early 'visual' cortex activation correlates with Braille reading performance in the blind. *Nature Neuroscience*, v. 6, p. 758–766, 2003.\n- **Fonte Secundária**: COHEN, L. G. et al. Period of susceptibility for cross-modal plasticity in the blind. *Annals of Neurology*, v. 45, p. 451–460, 1999.\n\n---\n\n"
+    },
+    {
+      "id": 15,
+      "number": "15",
+      "title": "Pré-Braille",
+      "category": "Neuropsicologia e Alfabetização",
+      "vol": 2,
+      "slug": "15-pre-braille",
+      "summary": "O aprendizado formal do Sistema Braille exige o desenvolvimento prévio de um conjunto de habilidades sensório-motoras, perceptivas e cognitivas denominadas Pré-Braille. Tentar alfabetizar uma criança em Braille sem a preparação prévia adequada do tato fino e da orientação espacial resulta em frustração, fadiga muscular e dificuldades de discriminação dos pontos da célula.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-15-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-15-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-15-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-15-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-15-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-15-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-15-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-15-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-15-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-15-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-15-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-15-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-15-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-15-14"
+        }
+      ],
+      "markdown": "## 15 — PRÉ-BRAILLE\n\n<h3 id=\"topico-15-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO aprendizado formal do Sistema Braille exige o desenvolvimento prévio de um conjunto de habilidades sensório-motoras, perceptivas e cognitivas denominadas **Pré-Braille**. Tentar alfabetizar uma criança em Braille sem a preparação prévia adequada do tato fino e da orientação espacial resulta em frustração, fadiga muscular e dificuldades de discriminação dos pontos da célula.\n\n<h3 id=\"topico-15-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\nA estruturação do Pré-Braille como etapa pedagógica formal consolidou-se em meados do século XX (estudos de Lowenfeld, Barraga e pedagogos do Instituto Benjamin Constant), superando a antiga prática de colocar a criança diretamente para perfurar a reglete sem preparo tátil.\n\n<h3 id=\"topico-15-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Discriminação Tátil e Estereognosia**: Capacidade de reconhecer e diferenciar texturas (liso, áspero, macio, duro), tamanhos, formas geométricas, espessuras e orientação de relevos apenas pelo tato.\n- **Coordenação Motora Fina e Tonus Digital**: Fortalecimento da musculatura intrínseca das mãos e flexibilidade dos dedos indicador e polegar, essenciais para o manuseio da reglete, do punção e para a varredura leve sobre a folha de papel.\n- **Exploração Háptica Bimanual**: Treino para leitura com ambas as mãos (mão esquerda localiza o início da linha seguinte enquanto a mão direita conclui a leitura da linha atual).\n- **Orientação Espacial e Lateralidade na Célula**: Domínio prático dos conceitos de topo/base, esquerda/direita, coluna 1/coluna 2, e numeração dos pontos (1 a 6).\n- **Conceitos Pré-Numéricos e Simbólicos**: Compreensão da seriação, ordenação e conservação de quantidade antes do contato com os símbolos numéricos Braille.\n\n<h3 id=\"topico-15-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Profª Cecília Ribeiro dos Santos (Educadora, Brasil)**: Autora pioneira de manuais de atividades de Pré-Braille no Instituto Benjamin Constant. (Fonte: Publicações do IBC).\n- **Natalie Barraga (Pesquisadora/Educadora, EUA)**: Contribuiu para a integração do desenvolvimento sensorial tátil e cinestésico na preparação pré-escolar. (Fonte: *Visual Handicaps and Learning*, 1964).\n\n<h3 id=\"topico-15-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Instituto Benjamin Constant (IBC, Brasil)**: Editor de materiais pedagógicos tátil-cinestésicos para Pré-Braille (como a cela Braille gigante, tabuleiros de pinos e livros com texturas).\n- **Fundação Dorina Nowill para Cegos (Brasil)**: Produtora de jogos e brinquedos acessíveis para estimulação tátil pré-escolar.\n\n<h3 id=\"topico-15-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, programas de Pré-Braille utilizam recursos de baixa e alta tecnologia, como matrizes táteis adaptadas, blocos Lego Braille (*Lego Braille Bricks*) e histórias infantis táteis (*Tactile Illustrated Books*).\n\n<h3 id=\"topico-15-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, a rede de Atendimento Educacional Especializado (AEE) preconiza a confecção e aplicação do Kit de Pré-Braille nas Salas de Recursos Multifuncionais, incluindo celas Braille de madeira com bolinhas de gude, réguas perfuradas e texturas diversificadas.\n\n<h3 id=\"topico-15-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nNos municípios do Nordeste, professores de AEE utilizam frequentemente materiais recicláveis da flora e artesanato local (como sementes, tecidos de chita, linhas de crochê e tampinhas) para criar kits adaptados de Pré-Braille para crianças da zona rural.\n\n<h3 id=\"topico-15-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, capacitações oferecidas pelo CAP/PE orientam docentes da rede pública estadual na criação de jogos de memória tátil e tabuleiros de pareamento para a etapa de Pré-Braille na Educação Infantil.\n\n### 10. Situação atual\nAté 2026, destaca-se mundialmente a iniciativa *LEGO Braille Bricks* (Blocos Lego Braille), adotada oficialmente em escolas brasileiras como ferramenta lúdica interativa de Pré-Braille e inclusão com crianças videntes.\n\n<h3 id=\"topico-15-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a pressão para iniciar o Braille formal precocemente (na Educação Infantil) sem o devido tempo de maturação do Pré-Braille, o que pode levar a criança a pressionar a folha com muita força (*tato agressivo*) desgastando os pontos e cansando as mãos.\n\n<h3 id=\"topico-15-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nAvaliação da eficácia pedagógica comparativa entre kits de Pré-Braille tradicionais artesanais e os *Lego Braille Bricks* na retenção da discriminação tátil em pré-escolares cegas do agreste pernambucano.\n\n<h3 id=\"topico-15-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 07, 13, 16, 19 e 20**.\n\n<h3 id=\"topico-15-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. Ministério da Educação. *Atendimento Educacional Especializado: Deficiência Visual*. Brasília: SEESP/MEC, 2007.\n- **Fonte Secundária**: SANTOS, Cecília Ribeiro dos. *Manual de Pré-Braille*. Rio de Janeiro: IBC, 1995.\n- **Fonte Secundária**: LEGO FOUNDATION. *Lego Braille Bricks: Pedagogical Concept*. Billund: Lego Foundation, 2019.\n- **Fonte Secundária**: SÁ, Elisabet Dias de. *Caderno de Acessibilidade: Recursos Pedagógicos em Deficiência Visual*. Belo Horizonte: SEED, 2010.\n\n---\n\n"
+    },
+    {
+      "id": 16,
+      "number": "16",
+      "title": "Modelos e Métodos Pedagógicos de Ensino do Braille",
+      "category": "Neuropsicologia e Alfabetização",
+      "vol": 2,
+      "slug": "16-modelos-e-metodos-pedagogicos",
+      "summary": "O ensino do Sistema Braille exige fundamentação teórico-metodológica rigorosa. Ao longo da história da pedagogia da cegueira, diversos modelos educacionais foram formulados internacionalmente e no Brasil para orientar o processo de alfabetização tátil de crianças, jovens e adultos cego(a)s.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-16-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-16-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-16-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-16-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-16-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-16-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-16-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-16-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-16-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-16-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-16-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-16-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-16-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-16-14"
+        }
+      ],
+      "markdown": "## 16 — MODELOS E MÉTODOS PEDAGÓGICOS DE ENSINO DO BRAILLE\n\n<h3 id=\"topico-16-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO ensino do Sistema Braille exige fundamentação teórico-metodológica rigorosa. Ao longo da história da pedagogia da cegueira, diversos modelos educacionais foram formulados internacionalmente e no Brasil para orientar o processo de alfabetização tátil de crianças, jovens e adultos cego(a)s.\n\n<h3 id=\"topico-16-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3> e Comparação dos Principais Modelos Pedagógicos\n\n#### A. Modelo Tradicional / Sintético (Analítico-Sintético)\n- **Origem/Autores**: França/Europa (Século XIX, INJA).\n- **Como funciona**: Parte dos elementos mínimos (os pontos individualizados, a cela Braille isolada), avança para a memorização das letras da 1ª à 5ª série, depois formação de sílabas, palavras e, por fim, frases.\n- **Equipamentos**: Reglete tradicional, punção, papel encorpado, fichas de memorização repetitiva.\n- **Vantagens**: Rigor ortográfico e domínio preciso da numeração dos pontos.\n- **Limitações**: Leitura mecânica e descontextualizada, baixo interesse motivacional inicial.\n\n#### B. Abordagens Fônicas / Alfabéticas\n- **Origem/Autores**: Tradição pedagógica da linguística aplicada (aplicada ao Braille por pesquisadores no século XX).\n- **Como funciona**: Associa diretamente o som (fonema) da fala à combinação de pontos da cela Braille (grafema tátil).\n- **Vantagens**: Rapidez na decodificação e na conversão grafofonêmica tátil.\n- **Limitações**: Dificuldades com irregularidades ortográficas e homófonos da língua portuguesa.\n\n#### C. Whole Language (Linguagem Integral / Global)\n- **Origem/Autores**: EUA (Kenneth Goodman / Frank Smith, adaptado para o Braille por Edman & Swenson).\n- **Como funciona**: Parte de textos significativos, histórias, rimas e situações comunicativas do interesse do aluno. A criança cega \"lê\" o contexto do texto enquanto o professor aponta as estruturas em Braille.\n- **Vantagens**: Alta motivação, leitura com foco primário na compreensão do significado.\n- **Limitações**: Pode gerar lacunas na precisão da decodificação ortográfica tátil de palavras desconhecidas.\n\n#### D. Construtivismo / Sócio-Histórico\n- **Origem/Autores**: Jean Piaget / Lev Vygotsky (no Braille brasileiro: Emília Ferreiro adaptada por pesquisadores como Lúcia Reily e Elisabet Sá).\n- **Como funciona**: A criança cega é sujeito ativo da hipótese de escrita (pré-silábica, silábica, silábico-alfabética e alfabética). O Braille é apresentado através da exploração de rótulos, nomes de colegas e ambiente letrado.\n- **Vantagens**: Autonomia cognitiva, respeito ao tempo de desenvolvimento do sujeito.\n- **Limitações**: Exige do professor regente e do braillista um profundo domínio das hipóteses psicogenéticas da escrita tátil.\n\n#### E. Ensino Baseado em Evidências (Evidence-Based Practice / Fluência Tátil)\n- **Origem/Autores**: EUA/Europa (Estudos longitudinais do *Mangold Braille Program* por Sally Mangold, 1978; pesquisas de Koenig & Holbrook).\n- **Como funciona**: Baseado em pesquisas experimentais rigorosas. Utiliza treinos específicos de discriminação tátil rápida, rastreamento leve sem pressão vertical e instrução direta e explícita da mecânica de leitura para desenvolver fluência, velocidade (palavras por minuto) e compreensão.\n- **Vantagens**: Comprovada eficácia científica na redução de erros de discriminação e aumento da velocidade de leitura.\n- **Limitações**: Exige material instrucional padronizado e cronometragem constante.\n\n#### F. Aprendizagem Baseada em Projetos (PBL) e Aprendizagem Baseada em Problemas (PBL)\n- **Como funciona no Braille**: O aluno cego aprende o Braille para resolver um problema real (ex.: criar um cardápio tátil para a cantina ou mapear as salas da escola).\n- **Vantagens**: Interdisciplinaridade e aplicação prática imediata do código.\n\n#### G. Gamificação e Aprendizagem Colaborativa\n- **Como funciona**: Uso de jogos de mesa táteis, tabuleiros, desafios em grupo e dinâmicas lúdicas onde crianças cegas e videntes jogam juntas utilizando o código Braille.\n\n#### H. Sala de Aula Invertida e Ensino Híbrido (com Tecnologia)\n- **Como funciona**: O estudante cego acessa conteúdos teóricos prévios por áudio/leitor de tela ou Braille digital em casa e utiliza o tempo em sala para a escrita manual com reglete/máquina e discussão.\n\n#### I. Desenho Universal para Aprendizagem (DUA / UDL)\n- **Origem/Autores**: CAST (Center for Applied Special Technology, Anne Meyer e David Rose, EUA).\n- **Como funciona**: O ensino de Braille é planejado desde a origem para ofertar Múltiplos Meios de Engajamento, Múltiplos Meios de Representação (tátil, auditivo, visual ampliado) e Múltiplos Meios de Ação e Expressão.\n- **Vantagens**: Elimina a necessidade de \"adaptações improvisadas\", integrando o cego à turma regular.\n\n#### J. Ensino Individualizado e Multissensorial\n- **Como funciona**: Adaptação do ritmo de instrução às características sensoriais e motoras únicas de cada aprendiz, combinando estímulos somatossensoriais, auditivos e cinestésicos.\n\n### 3. Principais pessoas\n- **Sally S. Mangold (Pesquisadora/Educadora, EUA, 1935–2005)**: Criadora do *Mangold Developmental Program of Tactile Perception and Braille Letter Recognition*, maior referência em ensino de Braille baseado em evidências. (Fonte: Mangold, 1978).\n- **Alan J. Koenig e M. Cay Holbrook (Pesquisadores, EUA)**: Autores do *Learning Media Assessment (LMA)*, protocolo para determinação científica do canal de leitura (Braille vs. Visão Ampliada). (Fonte: Texas School for the Blind, 1995).\n- **David Rose e Anne Meyer (Pesquisadores, EUA)**: Criadores do Desenho Universal para Aprendizagem (DUA) no CAST. (Fonte: *Teaching Every Student in the Digital Age*, 2002).\n\n### 4. Principais instituições\n- **CAST (Center for Applied Special Technology, EUA)**: Centro criador das diretrizes mundiais do DUA.\n- **Perkins School for the Blind (EUA)**: Desenvolvedora de metodologias de alfabetização e avaliação de mídias de aprendizagem.\n- **Instituto Benjamin Constant (Divisão de Estudos e Pesquisas - DIEP, Brasil)**: Avaliador dos métodos de ensino de Braille aplicados no Brasil.\n\n### 5. Desenvolvimento internacional\nInternacionalmente, a pesquisa pedagógica convergiu para a combinação do **Ensino Baseado em Evidências** para o treino da mecânica tátil (método Mangold) com o **Desenho Universal para Aprendizagem (DUA)** para a inclusão curricular ampla.\n\n### 6. Desenvolvimento brasileiro\nNo Brasil, o debate pedagógico oscilou entre a tradição sintética do IBC e a difusão do Construtivismo e da Linguagem Integral nas redes públicas de ensino a partir dos anos 1990.\n\n### 7. Desenvolvimento no Nordeste\nNas redes estaduais do Nordeste, observa-se a coexistência pragmática do método tradicional (com reglete) nas Salas de Recursos Multifuncionais com metodologias ativas e materiais concretos confeccionados pelos professores de AEE.\n\n### 8. Pernambuco\nEm Pernambuco, a Secretaria de Educação e Esportes (SEE-PE), em parceria com os CAPs e as universidades (UFPE, UFRPE), tem promovido formações continuadas com foco na integração das diretrizes do DUA ao ensino da leitura tátil.\n\n### 9. Situação atual\nAté 2026, consolida-se a recomendação acadêmica de que o ensino de Braille não deve adotar um método único dogmático, mas sim uma abordagem ecológica, multissensorial e baseada em evidências adaptada a cada educando.\n\n### 10. Controvérsias e debates\nDivergência entre defensores do Construtivismo puro (que rejeitam treinos repetitivos de mecânica tátil) e defensores da Abordagem Baseada em Evidências (que provam que sem o treino sistemático da motricidade e discriminação tátil rápida, a leitura fica excessivamente lenta).\n\n### 11. Lacunas de pesquisa\nEstudo experimental controlado comparando a velocidade e compreensão leitora entre crianças alfabetizadas pelo método Mangold adaptado ao Português e pelo método construtivista tradicional no Nordeste.\n\n### 12. Conceitos que conectam este tópico a outros\nConecta-se aos **Módulos 07, 15, 17, 18, 19 e 35**.\n\n### 13. Referências do tópico\n- **Fonte Primária**: MANGOLD, Sally S. The effect of a tactile perception program on braille letter recognition. *Journal of Visual Impairment & Blindness*, v. 72, p. 259–266, 1978.\n- **Fonte Primária**: ROSE, David H.; MEYER, Anne. *Teaching Every Student in the Digital Age: Universal Design for Learning*. Alexandria: ASCD, 2002. ISBN: 978-0871205995.\n- **Fonte Secundária**: KOENIG, Alan J.; HOLBROOK, M. Cay. *Learning Media Assessment: A Resource Guide for Teachers*. Austin: Texas School for the Blind, 1995.\n- **Fonte Secundária**: FERREIRA, Windyz B. *Ensino inclusivo: desafios e perspectivas*. João Pessoa: Editora Universitária, 2007.\n\n---\n\n"
+    },
+    {
+      "id": 17,
+      "number": "17",
+      "title": "Expanded Core Curriculum — ECC",
+      "category": "Neuropsicologia e Alfabetização",
+      "vol": 2,
+      "slug": "17-expanded-core-curriculum-ecc",
+      "summary": "O Expanded Core Curriculum (ECC) — Currículo Central Expandido — é um modelo educacional formulado nos Estados Unidos para garantir que estudantes com deficiência visual tenham acesso não apenas às matérias acadêmicas tradicionais (matemática, ciência, história), mas também ao conjunto de habilidades específicas e compensatórias indispensáveis para sua autonomia, transição para a vida adulta e inserção profissional.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-17-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-17-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-17-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-17-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-17-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-17-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-17-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-17-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-17-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-17-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-17-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-17-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-17-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-17-14"
+        }
+      ],
+      "markdown": "## 17 — EXPANDED CORE CURRICULUM — ECC\n\n<h3 id=\"topico-17-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO **Expanded Core Curriculum (ECC)** — Currículo Central Expandido — é um modelo educacional formulado nos Estados Unidos para garantir que estudantes com deficiência visual tenham acesso não apenas às matérias acadêmicas tradicionais (matemática, ciência, história), mas também ao conjunto de habilidades específicas e compensatórias indispensáveis para sua autonomia, transição para a vida adulta e inserção profissional.\n\n<h3 id=\"topico-17-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\nConcebido na década de 1990 por lideranças da educação de cegos nos EUA (como Philip Hatlen, diretor da Texas School for the Blind and Visually Impaired), o ECC nasceu da constatação de que a mera inserção do aluno cego na sala de aula regular sem o ensino explícito de habilidades de vida diária, mobilidade e tecnologia assistiva gerava adultos dependentes e desempregados, mesmo com bom desempenho acadêmico.\n\n### 3. Os 9 Domínios Fundamentais do ECC\n1. **Habilidades Compensatórias ou de Acesso Curricular**: Leitura e escrita em Braille, código matemático, habilidades de escuta eficiente, organização de estudos.\n2. **Orientação e Mobilidade (OM)**: Uso da bengala longa, navegação espacial urbana e indoor, mapas táteis e mobilidade independente.\n3. **Interação Social**: Ensino explícito de pistas sociais não verbais (expressões faciais, postura corporal, contato visual direcionado, etiqueta social).\n4. **Habilidades de Vida Independente / Atividades da Vida Diária (AVDs)**: Culinária, higiene pessoal, gestão de dinheiro, vestuário, limpeza e organização doméstica.\n5. **Recreação e Lazer**: Participação em esportes adaptados, artes, hobbies e atividades comunitárias de lazer.\n6. **Eficiência Sensorial**: Treino para maximizar o uso da visão residual (em baixa visão), audição, tato, olfato e propriocepção.\n7. **Uso da Tecnologia Assistiva**: Domínio de leitores de tela, linhas Braille, máquinas de escrever, smartphones e softwares acessíveis.\n8. **Educação para a Carreira**: Exploração de profissões, elaboração de currículos, vivência de estágios e desenvolvimento de competências de trabalho.\n9. **Autodefesa e Autodeterminação (*Self-Advocacy*)**: Capacidade de expressar suas próprias necessidades, defender seus direitos legais e solicitar adaptações de forma assertiva.\n\n### 4. Análise Comparativa: ECC vs. AEE Brasileiro vs. DUA\n\n| Critério | Expanded Core Curriculum (ECC) | Atendimento Educacional Especializado (AEE - Brasil) | Desenho Universal para Aprendizagem (DUA) |\n| :--- | :--- | :--- | :--- |\n| **Origem** | EUA (Philip Hatlen / TSBVI) | Brasil (Política Nacional de Educação Inclusiva / MEC) | EUA (CAST / Rose & Meyer) |\n| **Foco** | 9 domínios específicos para a deficiência visual | Complementar/suplementar ao currículo regular na Sala de Recursos | Desenhar o currículo comum acessível a TODOS os alunos |\n| **Aplicação** | Ensino explícito individualizado ou em pequenos grupos | Contraturno escolar | Sala de aula regular (ensino coletivo) |\n| **Abrangência** | Acadêmica, social, AVDs, carreira e vida adulta | Apoio pedagógico e recursos de acessibilidade | Metodologia de ensino e avaliação de todos os conteúdos |\n\n### 5. Principais pessoas\n- **Philip Hatlen (Educador/Pesquisador, EUA, 1934–2011)**: Criador e principal sistematizador do conceito do Expanded Core Curriculum. (Fonte: *The Expanded Core Curriculum for Students with Visual Impairments*, 1996).\n- **Karen Blankenship (Pesquisadora, EUA)**: Especialista na avaliação e implementação prática dos domínios do ECC nas escolas públicas. (Fonte: Journal of Visual Impairment & Blindness).\n\n### 6. Principais instituições\n- **Texas School for the Blind and Visually Impaired (TSBVI, EUA)**: Berço institucional do ECC mundial.\n- **Association for Education and Rehabilitation of the Blind and Visually Impaired (AER, EUA)**: Entidade internacional promotora dos padrões do ECC.\n\n### 7. Desenvolvimento internacional\nO modelo do ECC foi adotado oficialmente em estados americanos, no Canadá, Austrália e em diversos países da Europa como matriz de planejamento educacional individualizado (IEP).\n\n### 8. Desenvolvimento brasileiro\nNo Brasil, o ECC não possui status de política pública nomeada oficialmente, mas seus conteúdos são parcialmente contemplados nas diretrizes do Atendimento Educacional Especializado (AEE) ofertado nas Salas de Recursos Multifuncionais.\n\n### 9. Desenvolvimento no Nordeste\nProfessores de AEE no Nordeste aplicam empiricamente conceitos do ECC ao trabalharem autonomia e mobilidade no contraturno, embora enfrentem limitações de tempo e carga horária.\n\n### 10. Pernambuco\nPesquisadores da UFPE e da UPE defendem a incorporação explícita dos 9 domínios do ECC no Plano de Desenvolvimento Individualizado (PDI/PEI) das redes municipais e estadual de Pernambuco.\n\n### 11. Situação atual\nAté 2026, o ECC permanece como o padrão ouro internacional para garantir que o estudante cego não receba apenas uma educação acadêmica formal, mas se torne um adulto plenamente autônomo.\n\n### 12. Controvérsias e debates\nCrítica sobre a falta de tempo nas redes de ensino regulares para lecionar os 9 domínios do ECC sem sobrecarregar o estudante cego com jornadas exaustivas no contraturno.\n\n### 13. Lacunas de pesquisa\nEstudo de viabilidade sobre a adaptação e normatização oficial de uma Matriz Curricular baseada no ECC para as Salas de Recursos Multifuncionais do estado de Pernambuco.\n\n### 14. Conceitos que conectam este tópico a outros\nConecta-se aos **Módulos 07, 18, 28, 30, 35 e 48**.\n\n<h3 id=\"topico-17-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: HATLEN, Philip. The Expanded Core Curriculum for students with visual impairments, including those with additional disabilities. *Re:view*, v. 28, n. 1, p. 25–32, 1996.\n- **Fonte Secundária**: ALLMAN, Carol B.; LEWIS, Sandra. *ECC Essentials: Teaching the Expanded Core Curriculum to Students with Visual Impairments*. New York: AFB Press, 2014. ISBN: 978-0891284987.\n- **Fonte Secundária**: BRASIL. Ministério da Educação. *Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva*. Brasília: MEC/SEESP, 2008.\n\n---\n\n"
+    },
+    {
+      "id": 18,
+      "number": "18",
+      "title": "Modelo Integrado de Educação e Autonomia",
+      "category": "Neuropsicologia e Alfabetização",
+      "vol": 2,
+      "slug": "18-modelo-integrado-de-educacao-e-autonomia",
+      "summary": "O ensino tradicional da pessoa cega tendeu a fracionar o aprendizado em disciplinas isoladas: o Braille na aula de português, o soroban na aula de matemática, a bengala no treino de mobilidade e a culinária na reabilitação. O Modelo Integrado de Educação e Autonomia defende uma abordagem ecológica e holística, em que as habilidades funcionais e acadêmicas são aprendidas de forma interconectada por meio de projetos práticos da vida real.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-18-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-18-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-18-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-18-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-18-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-18-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-18-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-18-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-18-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-18-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-18-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-18-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-18-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-18-14"
+        }
+      ],
+      "markdown": "## 18 — MODELO INTEGRADO DE EDUCAÇÃO E AUTONOMIA\n\n<h3 id=\"topico-18-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO ensino tradicional da pessoa cega tendeu a fracionar o aprendizado em disciplinas isoladas: o Braille na aula de português, o soroban na aula de matemática, a bengala no treino de mobilidade e a culinária na reabilitação. O **Modelo Integrado de Educação e Autonomia** defende uma abordagem ecológica e holística, em que as habilidades funcionais e acadêmicas são aprendidas de forma interconectada por meio de projetos práticos da vida real.\n\n<h3 id=\"topico-18-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\nInspirado na pedagogia de John Dewey (*Learning by Doing*) e na abordagem holística de Jan van Dijk (para cegos e surdocegos), o modelo integrado ganhou força no final do século XX como resposta ao fracasso de treinamentos descontextualizados mantidos por salas de aula tradicionais.\n\n### 3. Exemplo Prático de Aplicação: Projeto \"Preparar uma Refeição Acessível\"\nNeste projeto integrado, o estudante cego desenvolve múltiplos domínios simultaneamente:\n1. **Pesquisa e Leitura (Braille / Tecnologia)**: Acessar a internet com leitor de tela ou ler um livro de receitas impresso em Braille para selecionar o prato.\n2. **Matemática e Soroban**: Calcular as proporções de ingredientes, conversão de medidas (gramas, ml) e orçamento de compras.\n3. **Orientação e Mobilidade**: Deslocamento autônomo com bengala até o supermercado da comunidade, localização dos corredores e interação social com atendentes.\n4. **Alfabetização Financeira / Tecnologia**: Identificação de cédulas/moedas ou uso de aplicativos de pagamento no smartphone.\n5. **Atividades da Vida Diária (AVD)**: Manuseio seguro de facas, identificação tátil e olfativa de temperos, uso tátil do fogão/forno e organização da mesa.\n6. **Comunicação e Socialização**: Servir a refeição para colegas e familiares, compartilhando a experiência.\n\n<h3 id=\"topico-18-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Jan van Dijk (Educador/Pesquisador, Holanda, 1937–2018)**: Precursor das abordagens educacionais integradas e baseadas na conversação corporal para pessoas com deficiência sensorial. (Fonte: Van Dijk, 1986).\n- **John Dewey (Filósofo/Educador, EUA, 1859–1952)**: Pai do Pragmatismo e da educação baseada na experiência prática. (Fonte: *Democracy and Education*, 1916).\n\n<h3 id=\"topico-18-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Royal Dutch Visio (Holanda)**: Centro de referência europeu na aplicação de modelos integrados de autonomia para cegos.\n- **Instituto Benjamin Constant (Brasil)**: Desenvolvedor de oficinas pedagógicas integradas de vida diária e estudo.\n\n<h3 id=\"topico-18-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nPaíses escandinavos e a Holanda utilizam o modelo integrado como eixo central de seus currículos inclusivos, eliminando a separação rígida entre sala de aula e vida diária.\n\n<h3 id=\"topico-18-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, o modelo integrado ganha vida através da metodologia de Aprendizagem Baseada em Projetos (PBL) aplicada nas salas de recursos e centros de reabilitação.\n\n<h3 id=\"topico-18-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nProjetos de extensão universitária no Nordeste têm promovido feiras de saberes acessíveis onde estudantes cegos aplicam noções de ecologia, culinária regional e literatura de cordel em Braille.\n\n<h3 id=\"topico-18-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, a aplicação do modelo integrado é observada em iniciativas de ONGs e centros especializados no Recife, articulando a alfabetização tátil ao artesanato e à cultura do frevo e do maracatu adaptados.\n\n### 10. Situação atual\nAté 2026, com o avanço da Inteligência Artificial multimodal no celular, o modelo integrado incorpora assistentes virtuais de IA para auxiliar a pessoa cega durante a execução em tempo real dessas atividades integradas.\n\n<h3 id=\"topico-18-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate entre a resistência de redes de ensino presas à divisão por disciplinas rígidas e a exigência de formação interdisciplinar para o professor de AEE.\n\n<h3 id=\"topico-18-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nMensuração científica do impacto do modelo integrado na velocidade de retenção conceitual em matemática comparado ao ensino tradicional de soroban isolado.\n\n<h3 id=\"topico-18-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 07, 17, 25, 28, 30 e 31**.\n\n<h3 id=\"topico-18-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: DEWEY, John. *Democracy and Education*. New York: Macmillan, 1916.\n- **Fonte Secundária**: VAN DIJK, Jan. An educational approach to deaf-blind children. *Proceedings of the International Conference on Deaf-Blind*, Poitiers, 1986.\n- **Fonte Secundária**: SÁ, Elisabet Dias de. *Educação Inclusiva: a escola diante da deficiência visual*. Porto Alegre: Mediação, 2006.\n\n---\n\n"
+    },
+    {
+      "id": 19,
+      "number": "19",
+      "title": "Alfabetização Braille",
+      "category": "Neuropsicologia e Alfabetização",
+      "vol": 2,
+      "slug": "19-alfabetizacao-braille",
+      "summary": "A alfabetização em Braille é o marco inaugural da cidadania letrada para a pessoa cega. Ler e escrever em Braille não é um mero substitutivo da visão, mas sim o único meio de acesso direto, autônomo e preciso à estrutura ortográfica da linguagem escrita, essencial para a consolidação da gramática, pontuação e produção textual formal.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-19-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-19-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-19-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-19-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-19-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-19-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-19-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-19-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-19-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-19-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-19-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-19-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-19-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-19-14"
+        }
+      ],
+      "markdown": "## 19 — ALFABETIZAÇÃO BRAILLE\n\n<h3 id=\"topico-19-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA alfabetização em Braille é o marco inaugural da cidadania letrada para a pessoa cega. Ler e escrever em Braille não é um mero substitutivo da visão, mas sim o único meio de acesso direto, autônomo e preciso à estrutura ortográfica da linguagem escrita, essencial para a consolidação da gramática, pontuação e produção textual formal.\n\n<h3 id=\"topico-19-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\nDesde a aprovação do sistema de Louis Braille, o processo de alfabetização tátil evoluiu de métodos meramente mnemônicos para estratégias pautadas pela psicolinguística e neurociência. No Brasil, o processo diferenciou historicamente a alfabetização de crianças (cegueira congênita) e a alfabetização tardia de adultos (cegueira adquirida).\n\n<h3 id=\"topico-19-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Fluência Leitora Tátil**: Capacidade de ler o Braille de forma contínua, rápida e sem sobressaltos, mensurada em palavras lidas por minuto (PPM). Enquato um leitor visual adulto lê ~250-300 PPM, um leitor Braille fluente lê em média ~120-150 PPM.\n- **Compreensão Leitora Tátil**: Capacidade de extrair significado, inferências e realizar análise crítica do texto lido com a polpa digital.\n- **Erros Típicos de Leitura**: Troca de letras por espelhamento ou inversão de pontos (ex.: confundir a letra *e* - pontos 1,5 com a letra *i* - pontos 2,4; ou *d* - 1,4,5 com *f* - 1,2,4).\n- **Mecânica de Leitura Bimanual**: O leitor eficiente utiliza o indicador esquerdo para ler a primeira metade da linha e o indicador direito para ler a segunda metade, enquanto o indicador esquerdo descende para a linha seguinte.\n- **Braille Integral vs. Braille Abreviado (Estenografia)**: Debate sobre o momento de introduzir as abreviaturas.\n\n### 4. Diferenças de Alfabetização por Público\n- **Crianças (Cegueira Congênita)**: Processo integrado à Educação Infantil, focado no Pré-Braille, letramento lúdico e descoberta da função social da escrita.\n- **Adultos (Cegueira Adquirida)**: Desafio de reeducação somatossensorial. A perda recente da visão exige superar a diminuição da sensibilidade tátil em adultos/idosos (especialmente em diabéticos com neuropatia periférica), associando o código às memórias ortográficas visuais prévias.\n- **Pessoas com Baixa Visão**: Avaliação rigorosa. Se a leitura visual for causa de fadiga extrema ou prejuízo postural, recomenda-se o aprendizado do Braille como meio alternativo/duplo de leitura (*Dual Media*).\n\n### 5. Principais pessoas\n- **Profª Maria da Glória de Souza Alves (Educadora/Pesquisadora, Brasil)**: Autoridade na alfabetização Braille de crianças e adultos no Instituto Benjamin Constant. (Fonte: IBC).\n- **Hilda Caton (Pesquisadora, EUA)**: Autora do *Print-to-Braille Literacy Program*, referência em alfabetização adaptada. (Fonte: AFB Press, 1991).\n\n### 6. Principais instituições\n- **Instituto Benjamin Constant (IBC, Brasil)**: Centro produtor de cartilhas de alfabetização Braille em língua portuguesa (como a Coleção *Alfa-Braille* e *Saber Braille*).\n- **American Printing House for the Blind (APH, EUA)**: Maior produtora de materiais e sistemas de alfabetização tátil dos EUA.\n\n### 7. Desenvolvimento internacional\nInternacionalmente, programas de alfabetização utilizam dados empíricos do protocolo *Learning Media Assessment (LMA)* para definir formalmente se o aluno deve ser alfabetizado em Braille, em caracteres ampliados ou em ambos.\n\n### 8. Desenvolvimento brasileiro\nNo Brasil, as cartilhas impressas pelo IBC orientam a atuação de professores alfabetizadores em todo o país, reforçando a importância do Braille Integral nos anos iniciais do Ensino Fundamental.\n\n### 9. Desenvolvimento no Nordeste\nNo Nordeste, as cartilhas e módulos de alfabetização tátil são distribuídos através da rede de CAPs estaduais, promovendo formações com alfabetizadores das redes municipais.\n\n### 10. Pernambuco\nEm Pernambuco, pesquisas do Centro de Educação da UFPE analisam as práticas de letramento em Braille nas salas regulares inclusivas de Recife e Olinda, apontando a necessidade de maior presença do professor braillista especializado durante a alfabetização.\n\n### 11. Situação atual\nAté 2026, vigora o consenso acadêmico de que **o áudio leitor de tela NÃO substitui o Braille** na alfabetização. O áudio é um meio de acesso à informação, mas o Braille é a única forma de letramento ortográfico tátil real.\n\n### 12. Controvérsias e debates\nDebate sobre o \"abandono do Braille\" por jovens que preferem ouvir livros áudio em velocidade acelerada (2x/3x) devido à maior rapidez de consumo da informação em detrimento da leitura tátil.\n\n### 13. Lacunas de pesquisa\nEstudo neuropsicológico sobre o nível de sensibilidade tátil e taxa de retenção do Braille em idosos pernambucanos com cegueira adquirida secundária à Diabetes Mellitus Tipo 2.\n\n### 14. Conceitos que conectam este tópico a outros\nConecta-se aos **Módulos 07, 10, 14, 15, 16, 20 e 37**.\n\n<h3 id=\"topico-19-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. Ministério da Educação. *Grafia Braille para a Língua Portuguesa*. 2. ed. Brasília: SEESP/MEC, 2018.\n- **Fonte Secundária**: CATON, Hilda. *Print-to-Braille Literacy Program*. New York: AFB Press, 1991.\n- **Fonte Secundária**: ALVES, Maria da Glória de Souza. *A alfabetização da criança cega*. Rio de Janeiro: IBC, 2006.\n- **Fonte Secundária**: NOGUEIRA, Arlindo. *Pedagogia da Leitura Tátil*. Rio de Janeiro: IBC, 2008.\n\n---\n\n"
+    },
+    {
+      "id": 20,
+      "number": "20",
+      "title": "Reglete, Punção e Instrumentos Tradicionais",
+      "category": "Neuropsicologia e Alfabetização",
+      "vol": 2,
+      "slug": "20-reglete-puncao-e-instrumentos-tradicionais",
+      "summary": "A reglete e o punção são os instrumentos manuais primordiais e históricos de escrita do Sistema Braille. Equiparáveis ao lápis e papel para o vidente, sua simplicidade técnica, portabilidade, baixo custo e independência de energia elétrica tornam-os ferramentas insubstituíveis de alfabetização e autonomia em qualquer lugar do mundo.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-20-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-20-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-20-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-20-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-20-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-20-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-20-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-20-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-20-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-20-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-20-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-20-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-20-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-20-14"
+        }
+      ],
+      "markdown": "## 20 — REGLETE, PUNÇÃO E INSTRUMENTOS TRADICIONAIS\n\n<h3 id=\"topico-20-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA **reglete** e o **punção** são os instrumentos manuais primordiais e históricos de escrita do Sistema Braille. Equiparáveis ao lápis e papel para o vidente, sua simplicidade técnica, portabilidade, baixo custo e independência de energia elétrica tornam-os ferramentas insubstituíveis de alfabetização e autonomia em qualquer lugar do mundo.\n\n<h3 id=\"topico-20-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Invenção por Charles Barbier e Aperfeiçoamento por Louis Braille (1820-1830)**: Barbier criou a primeira régua metálica guia com janelas retangulares; Louis Braille ajustou as dimensões para a cela de 6 pontos e padronizou o punção com ponta metálica arredondada e cabo de madeira.\n- **Reglete Negativa Tradicional (Funcionamento Histórico)**: A reglete tradicional opera por gravação afundada sobre o verso da folha de papel encorpado (gramatura 120g a 180g).\n  - **Direção da Escrita**: Como os pontos são puncionados de trás para a frente para aparecerem em relevo na frente do papel, a escrita manual na reglete tradicional é obrigatoriamente **espelhada**, realizada **da direita para a esquerda**.\n  - **Leitura**: O papel é retirado da reglete, virado do avesso e lido da forma convencional, **da esquerda para a direita**.\n- **Impacto Cognitivo da Escrita Espelhada**: O aluno precisa memorizar a cela Braille \"invertida\" durante a escrita na reglete tradicional (ex.: a letra *a* que é o Ponto 1 na leitura passa a ser perfurada no Ponto 4 na escrita).\n\n<h3 id=\"topico-20-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Reglete de Mesa**: Placa de madeira ou metal com duas réguas metálicas articuladas (guias) e fixador de papel, com capacidade para 20 a 30 linhas de texto.\n- **Reglete de Bolso**: Régua portátil de plástico ou alumínio contendo de 2 a 4 linhas de 27 a 28 celas Braille, ideal para anotações rápidas.\n- **Punção**: Instrumento percussor constituído por um cabo ergonômico (em madeira ou plástico) e uma haste metálica com ponta cilíndrica arredondada (para afundar o papel sem furá-lo ou rasgá-lo).\n  - Modelos de punção: Pera, cogumelo, sela, ergonômico e anatômico.\n- **Papel Braille (Gramatura 120g/m² a 180g/m²)**: Papel especial com espessura suficiente para suportar a deformação mecânica do ponto sem romper a fibra vegetal.\n\n### 4. Comparativo Tecnológico: Reglete Negativa Tradicional vs. Reglete Positiva (Direta)\n\n| Característica | Reglete Negativa (Tradicional) | Reglete Positiva (Escrita Direta) |\n| :--- | :--- | :--- |\n| **Mecanismo de Perfuração** | Punciona o ponto para baixo no verso da folha | Pressiona a fibra vegetal para cima pela frente da folha |\n| **Sentido da Escrita** | **Da direita para a esquerda** (espelhada) | **Da esquerda para a direita** (direta) |\n| **Leitura Simultânea** | Impossível (exige retirar a folha ou virar a placa) | **Possível** (lê-se enquanto se escreve) |\n| **Complexidade Cognitiva** | Exige dupla memorização (cela leitura vs. cela escrita) | **Cela única** (o que se escreve é exatamente o que se lê) |\n\n### 5. Principais pessoas\n- **Charles Barbier de la Serre (França, 1767–1841)**: Inventor da régua guia com janelas de perfuração e do punção primórdio. (Fonte: *Notice sur l'écriture nocturne*, 1815).\n- **Louis Braille (França, 1809–1852)**: Padronizou a reglete de 6 pontos e o punção adaptado à cela tátil. (Fonte: *Procédé pour écrire...*, 1829).\n\n### 6. Principais instituições\n- **Instituto Benjamin Constant (Oficina Mecânica, Brasil)**: Maior fabricante histórico de regletes metálicas e punções no Brasil durante o século XX.\n- **American Printing House for the Blind (APH, EUA)**: Produtora de modelos variados de regletes de alumínio e plástico.\n\n### 7. Desenvolvimento internacional\nEm todo o mundo, a reglete e o punção continuam sendo promovidos pela União Mundial de Cegos como a tecnologia assistiva de menor custo e maior impacto na erradicação do analfabetismo tátil em países em desenvolvimento.\n\n### 8. Desenvolvimento brasileiro\nNo Brasil, a reglete de plástico/alumínio e o punção em formato de pera constituem o recurso básico distribuído pelo Ministério da Educação no kit de acessibilidade para estudantes cego(a)s da rede pública.\n\n### 9. Desenvolvimento no Nordeste\nEstudantes e professores no Nordeste dependem massivamente da reglete de bolso como recurso cotidiano de anotações em sala de aula, devido ao alto custo das máquinas de escrever Braille e linhas digitais.\n\n### 10. Pernambuco\nEm Pernambuco, a distribuição de regletes e punções para os municípios é coordenada pela Secretaria Estadual de Educação através do CAP/PE, promovendo oficinas técnicas de manuseio e manutenção dos instrumentos.\n\n### 11. Situação atual\nAté 2026, embora existam computadores e linhas Braille digitais avançadas, o domínio manual da reglete e do punção permanece como exigência pedagógica fundamental para a autonomia de escrita da pessoa cega.\n\n### 12. Controvérsias e debates\nDebate pedagógico entre a exigência do aprendizado inicial pela reglete tradicional (com escrita espelhada da direita para a esquerda) vs. a transição imediata para métodos de escrita direta (máquina Braille ou reglete positiva) para evitar a sobrecarga cognitiva da inversão de pontos no alfabetizando.\n\n### 13. Lacunas de pesquisa\nEstudo biomecânico sobre a incidência de fadiga muscular e Lesões por Esforços Repetitivos (LER/DORT) no pulso e dedos de estudantes cego(a)s que utilizam punção tradicional por longos períodos de redação acadêmica.\n\n### 14. Conceitos que conectam este tópico a outros\nConecta-se aos **Módulos 05, 06, 07, 15, 16, 19, 21 e 22**.\n\n<h3 id=\"topico-20-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRAILLE, Louis. *Procédé pour écrire les paroles, la musique et le plain-chant au moyen de points*. Paris: INJA, 1829.\n- **Fonte Secundária**: LEMOS, Edison Ribeiro. *Instrumentos de escrita Braille: da reglete à linha braille*. Rio de Janeiro: IBC, 2008.\n- **Fonte Secundária**: CERQUEIRA, Jonir Bechara. *O uso da reglete na alfabetização de cegos*. Rio de Janeiro: IBC, 2003.\n- **Fonte Secundária**: MELLOR, C. Michael. *Louis Braille: A Touch of Genius*. Boston: National Braille Press, 2006.\n"
+    },
+    {
+      "id": 21,
+      "number": "21",
+      "title": "TECE e Aline Picolli Otalara",
+      "category": "Estudo TECE e Vida Independente",
+      "vol": 3,
+      "slug": "21-tece-e-aline-picolli-otalara",
+      "summary": "A empresa brasileira TECE - Tecnologia e Ciência Educacional e a pesquisadora e empreendedora Aline Picolli Otalara constituem um dos mais destacados estudos de caso de inovação tecnológica, pesquisa acadêmica aplicada e empreendedorismo social no campo da tecnologia assistiva no Brasil. A trajetória exemplifica como pesquisas desenvolvidas em programas de pós-graduação universiolares brasileiras podem ser convertidas em soluções patenteadas e produtos acessíveis ao mercado nacional.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-21-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-21-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-21-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-21-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-21-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-21-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-21-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-21-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-21-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-21-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-21-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-21-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-21-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-21-14"
+        }
+      ],
+      "markdown": "## 21 — TECE E ALINE PICOLLI OTALARA\n\n<h3 id=\"topico-21-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA empresa brasileira **TECE - Tecnologia e Ciência Educacional** e a pesquisadora e empreendedora **Aline Picolli Otalara** constituem um dos mais destacados estudos de caso de inovação tecnológica, pesquisa acadêmica aplicada e empreendedorismo social no campo da tecnologia assistiva no Brasil. A trajetória exemplifica como pesquisas desenvolvidas em programas de pós-graduação universiolares brasileiras podem ser convertidas em soluções patenteadas e produtos acessíveis ao mercado nacional.\n\n<h3 id=\"topico-21-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3> e Trajetória\n- **Formação Acadêmica e Pesquisa**: Aline Picolli Otalara desenvolveu suas pesquisas de mestrado e doutorado na Faculdade de Engenharia Mecânica da Universidade Estadual de Campinas (UNICAMP), investigando design instrucional, ergonomia e desenvolvimento de dispositivos mecânicos de tecnologia assistiva para pessoas com deficiência visual.\n- **Criação da TECE (Tecnologia e Ciência Educacional)**: A partir dos resultados das pesquisas acadêmicas na UNICAMP e da identificação das limitações das regletes tradicionais e do altíssimo custo das máquinas Braille importadas (como a Perkins Brailler), fundou-se a startup/empresa de base tecnológica TECE.\n- **Financiamento e Fomento à Inovação**: A empresa contou com apoio e financiamento de programas governamentais de fomento à inovação em pequenas empresas, como o Programa PIPE/FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo) e recursos do FINEP (Financiadora de Estudos e Projetos).\n- **Inovação de Propriedade Intelectual e Patentes**: Depósito e concessão de patentes junto ao INPI (Instituto Nacional da Propriedade Industrial) referentes aos mecanismos mecânicos da **Reglete Positiva** e de protótipos de máquinas de escrever Braille de baixo custo.\n\n<h3 id=\"topico-21-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Empreendedorismo Social de Base Tecnológica**: Modelo de negócios voltado a resolver problemas sociais críticos (analfabetismo tátil e alto custo de TA) por meio de inovação em engenharia e produção nacional.\n- **Transferência de Tecnologia**: Processo de levar a tecnologia concebida no laboratório universitário (UNICAMP/PIPE-FAPESP) para a produção industrial e distribuição nas redes públicas de ensino.\n- **Engenharia Assistiva e Ergonomia Tátil**: Projetação de produtos centrada nas necessidades anatômicas, biomecânicas e cognitivas do usuário cego e do educador.\n\n<h3 id=\"topico-21-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Dra. Aline Picolli Otalara (Pesquisadora/Engenheira/Empreendedora, Brasil)**: Doutora pela UNICAMP, fundadora da TECE e inventora/desenvolvedora da Reglete Positiva e de soluções em tecnologia assistiva no Brasil. (Fonte: Currículo Lattes e Patentes INPI).\n- **Docentes Orientadores da UNICAMP (Pesquisadores, Brasil)**: Professores da Faculdade de Engenharia Mecânica da UNICAMP que co-orientaram o desenvolvimento biomecânico dos dispositivos.\n\n<h3 id=\"topico-21-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **TECE - Tecnologia e Ciência Educacional Ltda. (Empresa, Campinas-SP, Brasil)**: Empresa de base tecnológica focada em desenvolvimento de recursos didáticos para deficiência visual.\n- **UNICAMP (Universidade Estadual de Campinas)**: Instituição de ensino superior de origem das pesquisas de pós-graduação.\n- **FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo)**: Órgão financiador via Programa PIPE (Pesquisa Inovativa em Pequenas Empresas).\n- **INPI (Instituto Nacional da Propriedade Industrial)**: Órgão governamental responsável pelo registro das patentes dos inventos.\n\n<h3 id=\"topico-21-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nO estudo de caso da TECE e de Aline Picolli é citado internacionalmente como exemplo de inovação no Sul Global para a superação da dependência tecnológica e de importações de suprimentos pedagógicos Braille de países desenvolvidos.\n\n<h3 id=\"topico-21-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, os produtos desenvolvidos pela TECE foram introduzidos em redes municipais e estaduais de ensino, salas de recursos multifuncionais e centros de atendimento especializados.\n\n<h3 id=\"topico-21-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nEm redes públicas de ensino do Nordeste, a aquisição de kits pedagógicos da TECE (como as regletes positivas e materiais táteis) expandiu as possibilidades de alfabetização direta de crianças cegas na Educação Infantil.\n\n<h3 id=\"topico-21-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nInstituições e redes municipais de Pernambuco adquiriram e testaram a Reglete Positiva da TECE em turmas de Atendimento Educacional Especializado (AEE), avaliando o desempenho leitor e a facilidade de escrita dos estudantes.\n\n### 10. Situação atual\nAté 2026, a TECE permanece como referência de empresa brasileira de tecnologia assistiva, atuando na distribuição de regletes positivas, jogos educativos adaptados e no aprimoramento de equipamentos mecânicos.\n\n<h3 id=\"topico-21-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDivergência entre a divulgação comercial dos benefícios da reglete positiva e a necessidade de ampliação de ensaios clínicos e estudos longitudinais independentes conduzius por universidades sem vínculo com a empresa para mensurar o impacto contínuo na velocidade de leitura Braille.\n\n<h3 id=\"topico-21-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudo independente em larga escala comparando o custo-benefício e a durabilidade mecânica a longo prazo dos materiais da TECE em salas de aula rurais do Nordeste.\n\n<h3 id=\"topico-21-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 20, 22, 23, 24 e 56**.\n\n<h3 id=\"topico-21-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: OTALARA, Aline Picolli. *Desenvolvimento de dispositivo de escrita Braille direta para alfabetização de deficientes visuais*. Tese (Doutorado em Engenharia Mecânica) – Universidade Estadual de Campinas, Campinas, 2012.\n- **Fonte Primária**: BRASIL. Instituto Nacional da Propriedade Industrial (INPI). Registro de Patente de Invenção: Dispositivo Reglete Positiva. Depositante: Aline Picolli Otalara / TECE. Brasília: INPI, 2010.\n- **Fonte Primária**: FAPESP. Processo PIPE nº 2008/53232-1. *Desenvolvimento e produção de reglete positiva*. São Paulo: FAPESP, 2008.\n- **Fonte Secundária**: TECE TECNOLOGIA E CIÊNCIA EDUCACIONAL. *Catálogo de produtos e inovações pedagógicas*. Campinas: TECE, 2020. Available at: http://www.tece.com.br.\n\n---\n\n"
+    },
+    {
+      "id": 22,
+      "number": "22",
+      "title": "A Reglete Positiva",
+      "category": "Estudo TECE e Vida Independente",
+      "vol": 3,
+      "slug": "22-a-reglete-positiva",
+      "summary": "A Reglete Positiva (ou Reglete de Escrita Direta) é uma inovação tecnológica brasileira desenvolvida para superar a principal barreira cognitiva da reglete tradicional: a obrigação de escrever de forma espelhada, da direita para a esquerda. Ao permitir que a pessoa cega escreva da esquerda para a direita, exatamente da mesma forma como se lê e como escrevem os videntes, a reglete positiva simplifica dramaticamente o processo de alfabetização tátil.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-22-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-22-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-22-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-22-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-22-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-22-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-22-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-22-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-22-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-22-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-22-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-22-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-22-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-22-14"
+        }
+      ],
+      "markdown": "## 22 — A REGLETE POSITIVA\n\n<h3 id=\"topico-22-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA **Reglete Positiva** (ou Reglete de Escrita Direta) é uma inovação tecnológica brasileira desenvolvida para superar a principal barreira cognitiva da reglete tradicional: a obrigação de escrever de forma espelhada, da direita para a esquerda. Ao permitir que a pessoa cega escreva da **esquerda para a direita**, exatamente da mesma forma como se lê e como escrevem os videntes, a reglete positiva simplifica dramaticamente o processo de alfabetização tátil.\n\n<h3 id=\"topico-22-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3> e Funcionamento Técnico\n- **O Problema da Reglete Tradicional**: Na reglete negativa tradicional, o punção empurra o papel para baixo, criando o ponto em relevo no verso da folha. Isso exige escrever da direita para a esquerda e inverter mentalmente a numeração da cela (Ponto 1 vira Ponto 4, Ponto 3 vira Ponto 6).\n- **A Solução Mecânica da Reglete Positiva da TECE**: Desenvolvida pela Dra. Aline Picolli Otalara (UNICAMP/TECE), a reglete positiva inverter a mecânica da matriz:\n  - As celas da prancha inferior possuem cavidades/pinos modificados e a tampa superior guia o punção de formato oco/especial.\n  - Ao puncionar da esquerda para a direita, o mecanismo de alavanca mecânica molda o papel **para cima**, criando o ponto em relevo na parte superior da folha.\n- **Leitura Simultânea**: Como o relevo salta para cima no exato local puncionado, o estudante cego pode passar o dedo leitor sobre o caractere recém-escrito imediatamente, **sem precisar retirar a folha ou virar a placa**.\n\n### 3. Impactos Motores, Cognitivos e Pedagógicos\n- **Redução da Carga Cognitiva**: Elimina a necessidade de a criança ou adulto cego aprender \"duas linguagens Braille\" (uma para ler da esquerda para a direita e outra invertida para escrever da direita para a esquerda).\n- **Desenvolvimento da Mecânica de Leitura Bimanual**: Permite a autocorreção imediata durante o ato de escrever.\n- **Unificação com a Turma Regular**: Como o estudante cego escreve da esquerda para a direita no mesmo sentido dos colegas videntes, o professor regente não especializado consegue acompanhar visualmente a sequência da escrita sem confusão.\n\n### 4. Análise Crítica dos Dados de Pesquisas Empíricas e Amostras\n\n> [!IMPORTANT]\n> **Rigor Científico na Apresentação de Resultados**: Em conformidade com o regramento acadêmico do estudo, os dados de pesquisas sobre a reglete positiva devem ser contextualizados por sua metodologia e amostragem específica, sem transformação imprópria em verdades universais automáticas.\n\n- **Estudo de Campo (Otalara, UNICAMP, 2012)**:\n  - **Amostra**: Grupo de alunos cego(a)s em fase de alfabetização e professores de Educação Especial no estado de São Paulo.\n  - **Resultados Observados**: Redução significativa no tempo de assimilação inicial da estrutura da cela Braille pelos alfabetizandos; eliminação de erros de espelhamento (inversão de pontos 1-4 e 2-5); relato unânime de preferência dos professores pela facilidade de mediação.\n  - **Limitações do Estudo**: Amostra qualitativo-experimental restrita (N < 50 participantes); necessidade de acompanhamento longitudinal por múltiplos anos para avaliar se a velocidade de leitura fluente no Ensino Fundamental II iguala-se à de usuários treinados na reglete tradicional.\n\n### 5. Principais pessoas\n- **Dra. Aline Picolli Otalara (Inventor/Pesquisadora, Brasil)**: Criadora do mecanismo patenteado da Reglete Positiva. (Fonte: Tese UNICAMP, 2012).\n\n### 6. Principais instituições\n- **TECE - Tecnologia e Ciência Educacional**: Fabricante exclusiva da Reglete Positiva no Brasil.\n- **Faculdade de Engenharia Mecânica da UNICAMP**: Laboratório de testes biomecânicos do protótipo.\n\n### 7. Desenvolvimento internacional\nA Reglete Positiva brasileira é reconhecida em feiras internacionais de tecnologia assistiva (como a CSUN Assistive Technology Conference nos EUA e feiras de inovação na Europa) como uma das soluções mais inteligentes para o ensino direto de Braille.\n\n### 8. Desenvolvimento brasileiro\nA reglete positiva foi incorporada aos acervos de diversas secretarias de educação no Brasil, sendo utilizada tanto na alfabetização infantil quanto na reabilitação rápida de adultos com cegueira adquirida.\n\n### 9. Desenvolvimento no Nordeste\nEm municípios do Nordeste, o recurso tem sido adotado como ferramenta preferencial para alfabetização de idosos com cegueira adquirida em centros de reabilitação, devido à maior facilidade de compreensão da escrita direta.\n\n### 10. Pernambuco\nEm Pernambuco, oficinas de capacitação no uso da Reglete Positiva foram ministradas em encontros de educadores inclusivos no Recife e em Caruaru, discutindo a transição do papel tradicional para os dispositivos de escrita direta.\n\n### 11. Situação atual\nAté 2026, a Reglete Positiva da TECE consolida-se como um recurso pedagógico de transição e alfabetização de alta aceitação no Brasil, convivendo com a reglete tradicional de alumínio.\n\n### 12. Controvérsias e debates\nDebate sobre a resistência de braillistas e professores mais antigos treinados exclusivamente no método tradicional: alguns argumentam que a criança deve aprender obrigatoriamente a reglete negativa porque é o modelo universal mais barato e abundante nas instituições brasileiras.\n\n### 13. Lacunas de pesquisa\nEnsaio clínico randomizado multicêntrico no Nordeste comparando a taxa de retenção ortográfica entre crianças alfabetizadas exclusivamente por reglete positiva vs. reglete negativa.\n\n### 14. Conceitos que conectam este tópico a outros\nConecta-se aos **Módulos 15, 16, 19, 20, 21 e 56**.\n\n<h3 id=\"topico-22-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: OTALARA, Aline Picolli. *Desenvolvimento de dispositivo de escrita Braille direta para alfabetização de deficientes visuais*. Tese (Doutorado) – UNICAMP, Campinas, 2012.\n- **Fonte Primária**: BRASIL. INPI. Patente PI 0805128-4 A2: Dispositivo para escrita braille positiva. Inventores: Aline Picolli Otalara. Concessão: INPI, 2008.\n- **Fonte Secundária**: SILVA, Maria Clara. O uso da reglete positiva na alfabetização tátil: estudo de caso. *Revista Brasileira de Educação Especial*, v. 24, p. 115–128, 2018.\n\n---\n\n"
+    },
+    {
+      "id": 23,
+      "number": "23",
+      "title": "Máquina de Escrever Braille de Baixo Custo",
+      "category": "Estudo TECE e Vida Independente",
+      "vol": 3,
+      "slug": "23-maquina-de-escrever-braille-de-baixo-custo",
+      "summary": "A máquina de escrever Braille é o instrumento mecânico por excelência para a produção rápida, direta e fluente de texto em relevo. Contudo, o mercado global de máquinas Braille foi historicamente monopolizado pela Perkins Brailler (fabricada nos EUA), cujo valor de importação elevado (frequentemente superior a US$ 1.000 a US$ 1.500 com impostos) torna o equipamento inacessível para a grande maioria das famílias e escolas públicas em países em desenvolvimento. O desenvolvimento de máquinas de escrever Braille de baixo custo é uma urgência social e econômica.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-23-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-23-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-23-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-23-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-23-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-23-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-23-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-23-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-23-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-23-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-23-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-23-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-23-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-23-14"
+        }
+      ],
+      "markdown": "## 23 — MÁQUINA DE ESCREVER BRAILLE DE BAIXO CUSTO\n\n<h3 id=\"topico-23-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA máquina de escrever Braille é o instrumento mecânico por excelência para a produção rápida, direta e fluente de texto em relevo. Contudo, o mercado global de máquinas Braille foi historicamente monopolizado pela **Perkins Brailler** (fabricada nos EUA), cujo valor de importação elevado (frequentemente superior a US$ 1.000 a US$ 1.500 com impostos) torna o equipamento inacessível para a grande maioria das famílias e escolas públicas em países em desenvolvimento. O desenvolvimento de máquinas de escrever Braille de baixo custo é uma urgência social e econômica.\n\n<h3 id=\"topico-23-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Invenção da Perkins Brailler (1951)**: Projetada por David Abraham na Perkins School for the Blind (EUA), tornou-se o padrão mundial de durabilidade e mecânica com 6 teclas de pontos, uma barra de espaço, tecla de retrocesso e tecla de avanço de linha.\n- **Monopólio e Barreiras Econômicas**: O peso elevado (~5 kg), a alta precisão mecânica exigir peças metálicas usinadas e a logística de importação mantiveram a Perkins como um bem inacessível para o Sul Global.\n- **Iniciativas Internacionais de Baixo Custo**:\n  - **Tatrapoint (Eslováquia)**: Máquina Braille mais leve em plástico de alto impacto.\n  - **Mountbatten Brailler (Austrália)**: Dispositivo eletrônico/mecânico adaptado.\n  - **Perkins Smart Brailler**: Incorporou tela digital e sintetizador de voz.\n  - **Projeto Braille Me / Bboard (Índia/Ásia)**: Tentativas de criar máquinas e leitores eletromecânicos de baixo custo.\n- **O Projeto da Máquina Braille da TECE (Brasil)**: A TECE (sob liderança de Aline Picolli Otalara) desenvolveu pesquisas de engenharia mecânica nacional para conceber uma máquina de escrever Braille brasileira, utilizando polímeros de engenharia de alta resistência, manufatura simplificada, redução de componentes metálicos pesados e foco na redução dramática do custo final de produção.\n\n<h3 id=\"topico-23-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Teclado Braille Mecânico (Teclado Ergonomico de 6 Teclas + Espaço)**: Arranjo em que os dedos indicador, médio e anelar de cada mão acionam simultaneamente os pontos 1, 2, 3 (mão esquerda) e 4, 5, 6 (mão direita).\n- **Mecânica de Pressionamento Simultâneo (Chord Keyboard)**: Ao contrário do teclado QWERTY tradicional (onde se digita uma tecla por vez), a máquina Braille exige o pressionamento combinado de múltiplas teclas simultaneamente para formar uma única cela.\n- **Ergonomia e Manutenibilidade Local**: Projeto mecânico que permite a substituição simples de componentes sem necessidade de enviar o equipamento para manutenção no exterior.\n\n<h3 id=\"topico-23-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **David Abraham (Inventor/Mecânico, EUA)**: Professor de carpintaria e engenheiro criador da lendária Perkins Brailler em 1951. (Fonte: Arquivos da Perkins School).\n- **Dra. Aline Picolli Otalara (Engenheira/Pesquisadora, Brasil)**: Desenvolvedora do projeto de máquina Braille mecânica nacional de baixo custo pela TECE/UNICAMP. (Fonte: Pesquisas TECE/FAPESP).\n\n<h3 id=\"topico-23-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Perkins School for the Blind / Howe Press (EUA)**: Fabricante histórica da Perkins Brailler.\n- **TECE (Brasil)**: Desenvolvedora da máquina Braille nacional de baixo custo.\n- **FAPESP / FINEP (Brasil)**: Agências de financiamento governamental de projetos de engenharia assistiva.\n\n<h3 id=\"topico-23-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nO desafio da máquina de baixo custo é uma pauta prioritária da União Mundial de Cegos (WBU), que incentiva laboratórios de engenharia na Índia, África do Sul e América Latina a produzirem alternativas à hegemonia americana.\n\n<h3 id=\"topico-23-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, o Ministério da Educação realizou compras centralizadas de máquinas Perkins para equipar as Salas de Recursos Multifuncionais, mas a falta de assistência técnica autorizada nos estados do interior gera um cemitério de máquinas quebradas por falta de peças de reposição importadas.\n\n<h3 id=\"topico-23-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nCentros de apoio no Nordeste enfrentam severa escassez de técnicos capacitados para reparar a mecânica delicada das máquinas Perkins importadas, tornando os projetos de máquinas nacionais de baixo custo a única alternativa viável para a sustentabilidade da frota mecânica das escolas.\n\n<h3 id=\"topico-23-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, a oficina de manutenção de máquinas Braille do CAP/PE e do IBC (no Rio) são dos raros locais de reparo no estado, gerando longas filas de espera para conserto de equipamentos das escolas municipais do interior.\n\n### 10. Situação atual\nAté 2026, o avanço da impressão 3D industrial e de polímeros injetados permite novos protótipos de máquinas mecânicas e eletromecânicas com custos reduzidos em até 60% comparados aos modelos importados tradicionais.\n\n<h3 id=\"topico-23-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a durabilidade: críticos apontam que máquinas em plástico de baixo custo podem ter vida útil menor do que as pesadas carcaças de alumínio das Perkins tradicionais (que duram décadas), exigindo balanço entre custo inicial e longevidade.\n\n<h3 id=\"topico-23-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudo de viabilidade de fabricação descentralizada de peças de reposição de máquinas Braille via manufatura aditiva (impressão 3D) nas universidades federais do Nordeste.\n\n<h3 id=\"topico-23-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 20, 21, 24, 37 e 56**.\n\n<h3 id=\"topico-23-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: ABRAHAM, David. *Braille Writing Machine Patent*. US Patent 2,692,038. Washington: US Patent Office, 1954.\n- **Fonte Secundária**: WATERHOUSE, Edward J. *History of the Perkins Brailler*. Watertown: Perkins School for the Blind, 1975.\n- **Fonte Secundária**: TECE. *Projeto de Engenharia Assistiva: Máquina Braille Nacional*. Campinas: TECE, 2018.\n- **Fonte Secundária**: LEMOS, Edison Ribeiro. *Equipamentos mecânicos na educação de cegos*. Rio de Janeiro: IBC, 2010.\n\n---\n\n"
+    },
+    {
+      "id": 24,
+      "number": "24",
+      "title": "Tecnologia Assistiva",
+      "category": "Estudo TECE e Vida Independente",
+      "vol": 3,
+      "slug": "24-tecnologia-assistiva",
+      "summary": "A Tecnologia Assistiva (TA) abrange todo o arsenal de recursos, equipamentos, dispositivos, softwares, serviços e práticas voltados a ampliar a funcionalidade, autonomia, mobilidade e participação social de pessoas com deficiência. Na deficiência visual, a TA percorre uma linha do tempo histórica impressionante: das ferramentas manuais ancestrais até a inteligência artificial generativa multimodal.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-24-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-24-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-24-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-24-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-24-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-24-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-24-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-24-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-24-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-24-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-24-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-24-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-24-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-24-14"
+        }
+      ],
+      "markdown": "## 24 — TECNOLOGIA ASSISTIVA\n\n<h3 id=\"topico-24-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA **Tecnologia Assistiva (TA)** abrange todo o arsenal de recursos, equipamentos, dispositivos, softwares, serviços e práticas voltados a ampliar a funcionalidade, autonomia, mobilidade e participação social de pessoas com deficiência. Na deficiência visual, a TA percorre uma linha do tempo histórica impressionante: das ferramentas manuais ancestrais até a inteligência artificial generativa multimodal.\n\n<h3 id=\"topico-24-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3> e Linha do Tempo da Evolução Tecnológica\n- **Era Manual Pré-Mecânica (Séculos XVIII–XIX)**: Punção rústico, reglete de madeira/metal, caracteres de chumbo em alto-relevo, mapas em gesso e tabuleiros de alfinetes.\n- **Era Mecânica (Meados do Século XIX a Meados do Século XX)**: Invenção do *Raphigraphe* (Foucault, 1839), regletes metálicas padronizadas, máquina de escrever Braille Perkins (1951), soroban/abaco adaptado (Kranz/Fukoma, 1960), prensas de impressão Braille de alto volume.\n- **Era Eletromecânica e Auditiva (Anos 1970–1980)**: Gravadores de fita cassete (livro falado), máquinas de leitura opto-eletrônica precursoras (como o *Optacon*, que convertia texto impresso em vibrações táteis na ponta do dedo), primeiros leitores de tela em ambiente MS-DOS.\n- **Era Computacional e Digital (Anos 1990–2000)**: Softwares leitores de tela modernos (JAWS, NVDA, Virtual Vision, DOSVOX no Brasil), impressoras Braille de grande porte (Index, Everest), scanners com OCR (Reconhecimento Óptico de Caracteres), primeiras Linhas Braille recarregáveis (*Refreshable Braille Displays*).\n- **Era Mobile e Conectada (Anos 2010)**: Smartphones com leitores de tela nativos integrados (VoiceOver no iOS, TalkBack no Android), aplicativos de navegação GPS acessíveis (BlindSquare, Lazarillo), leitores de código de barras e moedas.\n- **Era da Inteligência Artificial Multimodal (Anos 2020 a 2026)**: Visão computacional com IA generativa (Be My AI, Orcam MyEye, GPT-4o/Gemini 1.5/3.6 Multimodal), descrição instantânea de cenas complexas, transcrição automática de gráficos e OCR inteligente em tempo real.\n\n<h3 id=\"topico-24-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Tecnologia Assistiva (Conceituação Legal - LBI)**: Produtos, equipamentos, dispositivos, recursos, metodologias, estratégias, práticas e serviços que objetivem promover a funcionalidade relacionada à atividade e à participação da pessoa com deficiência.\n- **Desenho Universal vs. Tecnologia Assistiva**: O Desenho Universal projeta produtos e ambientes para serem usados por todas as pessoas sem necessidade de adaptação; a Tecnologia Assistiva é a ponte individualizada quando o ambiente é inacessível.\n- **Linha Braille (*Refreshable Braille Display*)**: Dispositivo eletromecânico que se conecta ao computador ou celular contendo uma régua de células Braille cujos pinos sobem e descem dinamicamente via piezoeletricidade, permitindo a leitura tátil digital em tempo real.\n- **Leitor de Tela (*Screen Reader*)**: Softwares que interceptam a interface gráfica do sistema operacional e sintetizam o texto em áudio voz sintetizada ou enviam para a linha Braille.\n- **Desigualdade de Acesso (Abismo Digital / Digital Divide)**: Disparidade socioeconômica severa entre quem pode adquirir tecnologias de ponta (ex.: linha Braille de R$ 15.000 ou óculos com IA) e a maioria da população cega dependente de escassos recursos públicos.\n\n<h3 id=\"topico-24-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Prof. Antônio Borges (Pesquisador/Engenheiro, Brasil)**: Professor da UFRJ, criador do **DOSVOX** (1993), sistema operacional em português que alfabetizou e incluiu digitalmente milhares de cegos no Brasil. (Fonte: NCE/UFRJ).\n- **Ray Kurzweil (Inventor/Futurista, EUA)**: Inventor do primeiro scanner de texto para fala e da primeira máquina leitora OCR para cegos (Kurzweil Reading Machine, 1976). (Fonte: *The Age of Spiritual Machines*).\n- **James Kang (Engenheiro, EUA)**: Criador do *Optacon* (Optical to Tactile Converter) no Stanford Electronics Laboratories (1970).\n\n<h3 id=\"topico-24-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **NCE/UFRJ (Núcleo de Computação Eletrônica da UFRJ, Brasil)**: Berço do DOSVOX.\n- **NV Access (Austrália)**: Organização sem fins lucrativos criadora do leitor de tela gratuito e de código aberto **NVDA** (NonVisual Desktop Access).\n- **CAT (Comitê de Ajudas Técnicas / SEDH, Brasil)**: Órgão governamental que estabeleceu os conceitos de TA no Brasil.\n\n<h3 id=\"topico-24-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nA aprovação do Marrakesh Treaty (Tratado de Marraqueche, 2013/WIPO) facilitou a importação e exportação internacional de livros em formatos acessíveis (Braille, DAISY e áudio digital) para cegos sem violação de direitos autorais.\n\n<h3 id=\"topico-24-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nO Brasil teve papel histórico com a criação do **DOSVOX** na UFRJ, um sistema gratuito com síntese de voz em português que permitiu a inclusão digital no país muito antes da popularização de leitores comerciais caros.\n\n<h3 id=\"topico-24-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nUniversidades federais do Nordeste (UFPE, UFRN, UFC, UFBA) possuem laboratórios de acessibilidade e tecnologia assistiva desenvolvendo aplicativos móveis, bengalas inteligentes e maquetes táteis.\n\n<h3 id=\"topico-24-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, destaca-se o trabalho do **Laboratório de Acessibilidade da UFPE** e do **IFPE**, além de startups e projetos acadêmicos que desenvolvem soluções de TA de baixo custo e navegação indoor para espaços públicos recifenses.\n\n### 10. Situação atual\nAté 2026, o smartphone com leitores de tela gratuitos (VoiceOver/TalkBack) e aplicativos integrados a redes neurais de IA generativa tornou-se a ferramenta central de tecnologia assistiva multifuncional no mundo.\n\n<h3 id=\"topico-24-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre o abandono das tecnologias assistivas manuais (como reglete e soroban) em favor exclusivo de tecnologias digitais: especialista alertam que a dependência de bateria e telas touch pode gerar vulnerabilidade em situações de falta de energia ou em regiões sem conectividade.\n\n<h3 id=\"topico-24-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudo socioeconômico sobre a taxa de abandono e obsolescência de recursos de tecnologia assistiva distribuídos pelo poder público em escolas do interior do Nordeste.\n\n<h3 id=\"topico-24-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 20, 21, 23, 36, 37 e 38**.\n\n<h3 id=\"topico-24-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. *Lei nº 13.146, de 6 de julho de 2015. Institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência)*. Cap. VII - Do Acesso à Informação e à Comunicação. Brasília, 2015.\n- **Fonte Primária**: WIPO. *Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired or Otherwise Print Disabled*. Marrakesh: WIPO, 2013.\n- **Fonte Secundária**: BORGES, Antônio. *DOSVOX: Uma nova realidade na educação do cego*. Rio de Janeiro: NCE/UFRJ, 1997.\n- **Fonte Secundária**: BERSCH, Rita. *Introdução à Tecnologia Assistiva*. Porto Alegre: CVI-ARAPREV, 2017.\n\n---\n\n"
+    },
+    {
+      "id": 25,
+      "number": "25",
+      "title": "Matemática, Soroban e Ciências",
+      "category": "Estudo TECE e Vida Independente",
+      "vol": 3,
+      "slug": "25-matematica-soroban-e-ciencias",
+      "summary": "O ensino de exatas (Matemática, Física, Química, Biologia e Estatística) para pessoas com deficiência visual exige a superação do viés altamente visual e gráfico das linguagens científicas tradicionais. O domínio da notação matemática Braille, o uso fluente do Soroban (ábaco adaptado) e a criação de modelos moleculares e gráficos táteis são essenciais para garantir o acesso pleno às carreiras STEM (*Science, Technology, Engineering, and Mathematics*).",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-25-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-25-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-25-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-25-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-25-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-25-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-25-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-25-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-25-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-25-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-25-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-25-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-25-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-25-14"
+        }
+      ],
+      "markdown": "## 25 — MATEMÁTICA, SOROBAN E CIÊNCIAS\n\n<h3 id=\"topico-25-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO ensino de exatas (Matemática, Física, Química, Biologia e Estatística) para pessoas com deficiência visual exige a superação do viés altamente visual e gráfico das linguagens científicas tradicionais. O domínio da notação matemática Braille, o uso fluente do **Soroban** (ábaco adaptado) e a criação de modelos moleculares e gráficos táteis são essenciais para garantir o acesso pleno às carreiras STEM (*Science, Technology, Engineering, and Mathematics*).\n\n<h3 id=\"topico-25-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Nicholas Saunderson (1740)**: Tábua aritmética tátil com alfinetes.\n- **Chegada do Soroban ao Brasil (1949–1960)**: O professor cego Joaquin Lima de Moraes introduziu no Brasil o uso do ábaco japonês (Soroban). Em 1960, o professor Tometaro Fukoma e o americano Tim Cranmer (criador do *Cranmer Abacus*) adaptaram o soroban com uma placa de borracha/feltro no fundo para evitar que as contas desatassem ao toque tátil do cego.\n- **Grafia Matemática Braille (GMB)**: Padronizada no Brasil pelo MEC e pela Comissão Brasileira do Braille para codificar operações, frações, potências, raízes, equações, matrizes, cálculo diferencial e integral.\n\n<h3 id=\"topico-25-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Soroban Adaptado (Ábaco Cranmer/Fukoma)**: Aparelho de cálculo mecânico composto por uma moldura de madeira ou plástico dividida por uma haste horizontal, com eixos verticais contendo contas (contas superiores valem 5, contas inferiores valem 1). A presença de uma camada de borracha na base mantém as contas fixas durante a varredura tátil.\n- **Notação Linearizada Braille**: As fórmulas matemáticas visuais (que utilizam arranjos bidimensionais, como frações com numerador sobre denominador ou expoentes elevados) precisam ser *linearizadas* em Braille através de sinais de abertura e fechamento de estrutura (prefixos e sufixos).\n- **Grafia Química Braille (GQ-Braille)**: Normatização de ligações covalentes, cadeias carbônicas, reações químicas e símbolos de elementos da Tabela Periódica.\n- **Diagramas e Gráficos Táteis**: Representação de planos cartesianos, vetores e curvas geométricas gravados em relevo thermoform ou papel microcapsulado (*Swell Paper*).\n\n<h3 id=\"topico-25-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Tim Cranmer (Inventor/Usuário, EUA, 1925–2001)**: Cego inventor do *Cranmer Abacus*, soroban adaptado com borracha tensora universalmente utilizado por cegos. (Fonte: AFB).\n- **Prof. Tometaro Fukoma (Educador/Pesquisador, Japão/Brasil)**: Introduziu e sistematizou a técnica de ensino do Soroban adaptado no Brasil no Instituto Benjamin Constant. (Fonte: IBC).\n- **Abraham Nemeth (Matemático, EUA, 1918–2013)**: Criador do Código Nemeth de Notação Matemática Braille.\n\n<h3 id=\"topico-25-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Instituto Benjamin Constant (Comissão de Soroban, Brasil)**: Órgão responsável pelos manuais de técnica operacional do soroban (adição, subtração, multiplicação, divisão, raiz quadrada e decimais).\n- **Comissão Brasileira do Braille (CBB/MEC)**: Normatizadora da Grafia Matemática e Química no Brasil.\n\n<h3 id=\"topico-25-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, softwares como o *LaTeX* com conversão para Braille (Access8Math, BrailleMath) e linhas Braille de 8 pontos permitem que cientistas cegos leiam equações complexas em formato digital.\n\n<h3 id=\"topico-25-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, o MEC publicou o manual oficial *Código Matemático para o Sistema Braille* e o manual de *Técnicas Operatórias do Soroban*, tornando obrigatório o ensino dessas ferramentas no AEE.\n\n<h3 id=\"topico-25-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nO ensino de matemática e soroban no Nordeste enfrenta desafios pela escassez de professores regentes de exatas nas redes estaduais capacitados na leitura de equações em Braille.\n\n<h3 id=\"topico-25-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, oficinas de Soroban e Matemática Inclusiva são ministradas regularmente pelo CAP/PE para professores de AEE e licenciandos em Matemática da UFPE e UFRPE.\n\n### 10. Situação atual\nAté 2026, utilizam-se impressoras 3D em universidades para produzir modelos tridimensionais acessíveis de células biológicas, moléculas químicas complexas e sólidos geométricos para estudantes cegos.\n\n<h3 id=\"topico-25-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate entre a velocidade do Soroban vs. a calculadora sonora/digital: especialistas em neurocognição provam que o Soroban desenvolve o raciocínio lógico-matemático e o cálculo mental, enquanto a calculadora sonora apenas fornece o resultado pronto sem estruturação cognitiva.\n\n<h3 id=\"topico-25-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nAnálise do desempenho de estudantes cego(a)s do Nordeste na prova de Matemática do ENEM e do impacto da qualidade da transcrição dos gráficos táteis nos cadernos de prova.\n\n<h3 id=\"topico-25-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 07, 10, 18, 26 e 37**.\n\n<h3 id=\"topico-25-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. Ministério da Educação. *Código Matemático para o Sistema Braille*. Brasília: SEESP/MEC, 2006.\n- **Fonte Primária**: BRASIL. Ministério da Educação. *Soroban: manual de técnicas operatórias para adição, subtração, multiplicação e divisão*. Brasília: MEC/SEESP, 2012.\n- **Fonte Secundária**: FUKOMA, Tometaro. *A técnica do Soroban para deficientes visuais*. Rio de Janeiro: IBC, 1970.\n- **Fonte Secundária**: NEMETH, Abraham. *The Nemeth Braille Code for Mathematics and Science Notation*. Louisville: APH, 1952.\n\n---\n\n"
+    },
+    {
+      "id": 26,
+      "number": "26",
+      "title": "Mapas, Gráficos e Representações Táteis",
+      "category": "Estudo TECE e Vida Independente",
+      "vol": 3,
+      "slug": "26-mapas-graficos-e-representacoes-tateis",
+      "summary": "A conversão de informações visuais espaciais (mapas geográficos, plantas arquitetônicas, gráficos estatísticos, organogramas e esquemas anatômicos) em representações tridimensionais e bidimensionais táteis é a chave para o acesso autônomo ao conhecimento geográfico, biológico e urbanístico. A imagem tátil não é uma mera \"cópia simplificada\" da imagem visual, mas uma tradução concebida para a fisiologia da exploração háptica.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-26-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-26-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-26-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-26-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-26-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-26-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-26-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-26-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-26-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-26-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-26-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-26-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-26-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-26-14"
+        }
+      ],
+      "markdown": "## 26 — MAPAS, GRÁFICOS E REPRESENTAÇÕES TÁTEIS\n\n<h3 id=\"topico-26-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA conversão de informações visuais espaciais (mapas geográficos, plantas arquitetônicas, gráficos estatísticos, organogramas e esquemas anatômicos) em representações tridimensionais e bidimensionais táteis é a chave para o acesso autônomo ao conhecimento geográfico, biológico e urbanístico. A imagem tátil não é uma mera \"cópia simplificada\" da imagem visual, mas uma tradução concebida para a fisiologia da exploração háptica.\n\n<h3 id=\"topico-26-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Século XVIII**: Primeiros mapas em relevo confeccionados por alpinistas com alfinetes, fios de lã e pastas de papel machê por Maria Theresia von Paradis e Valentin Haüy.\n- **Século XX (Thermoform / Matrizes)**: Invenção do processo de **Thermoform** (vácuo térmico que molda folhas plásticas quentes de Braillon sobre matrizes artesanais de colagem) e do papel microcapsulado (**Swell Paper** / Minolta), que se expande em relevo sob luz infravermelha nas áreas impressas a preto.\n- **Século XXI (Cartografia Tátil e Impressão 3D)**: Cartografia tátil digital padronizada, mapas táteis com audiodescrição interativa sonora e impressão 3D em filamento polimérico (PLA/ABS).\n\n<h3 id=\"topico-26-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Cartografia Tátil**: Ramo da cartografia voltado à concepção, produção e avaliação de mapas, globos e maquetes acessíveis ao tato de pessoas cegas e com baixa visão.\n- **Princípio da Simplificação e Elevação Háptica**: Como o tato possui menor resolução espacial do que a visão, um mapa tátil precisa eliminar ruídos e detalhes excessivos, mantendo elevações nítidas (linhas em relevo de no mínimo 0,5 mm de altura e texturas contrastantes).\n- **Thermoform (Duplicação Térmica)**: Técnica de moldagem por sucção a vácuo de plásticos especiais sobre matrizes de colagem de materiais diversos (barbante, lixa, E.V.A., sementes).\n- **Swell Paper (Papel Microcapsulado / Matriz Térmica)**: Papel recoberto de microcápsulas de álcool que explodem e inflam em relevo quando expostas a um forno de luz infravermelha (ex.: PIAF ou Fusor Thermoform) onde há tinta preta de carbono.\n- **Mapas Táteis com Audiodescrição Associada (Multimodais)**: Pranchas táteis sobrepostas a telas sensíveis ao toque (*touchpads*) que emitem explicações sonoras e audiodescrição ao serem pressionadas.\n\n<h3 id=\"topico-26-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Profª Dra. Regina Cohen (Pesquisadora/Arquiteta, Brasil)**: Arquiteta e pesquisadora da UFRJ, liderança na criação de mapas táteis urbanos e maquetes tátil-acessíveis no Brasil. (Fonte: LACON/UFRJ).\n- **Profª Dra. Ruth E. Nogueira (Pesquisadora/Cartógrafa, Brasil)**: Geógrafa da UFSC, pioneira nas pesquisas acadêmicas sobre Cartografia Tátil no Brasil. (Fonte: *Cartografia Tátil: ramos e caminhos*, 2008).\n\n<h3 id=\"topico-26-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Laboratório de Cartografia Tátil (UFSC, Brasil)**: Referência em pesquisas e produção de mapas geográficos táteis.\n- **LACON - Laboratório de Acessibilidade (UFRJ, Brasil)**: Desenvolvimento de maquetes táteis arquitetônicas e acessibilidade cultural.\n- **Instituto Benjamin Constant (Setor de Material Didático, Brasil)**: Produtor de matrizes de mapas e modelos biológicos em Thermoform para as escolas públicas brasileiras.\n\n<h3 id=\"topico-26-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, a Associação Cartográfica Internacional (ICA / *International Cartographic Association*) possui uma Comissão de Cartografia Tátil e para Pessoas com Deficiência Visual, definindo padrões globais de símbolos hápticos.\n\n<h3 id=\"topico-26-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, pesquisadores de universidades federais normatizaram símbolos táteis (pontos, linhas e áreas) para mapas temáticos de geografia do Brasil distribuídos nas salas de recursos.\n\n<h3 id=\"topico-26-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nProjetos de geografia inclusiva na UFPE, UFPB e UFC produzem mapas táteis da região Nordeste e do semiárido, utilizando materiais de baixo custo para escolas rurais.\n\n<h3 id=\"topico-26-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, o Laboratório de Ergonomia e Acessibilidade do Departamento de Design da UFPE e o CAP/PE desenvolvem plantas táteis arquitetônicas para orientação espacial em prédios públicos e mapas do patrimônio histórico de Recife e Olinda.\n\n### 10. Situação atual\nAté 2026, a combinação de **Modelagem em Impressão 3D + Sensores de Áudio NCF/Bluetooth + Audiodescrição** permite a produção de mapas e maquetes interativas inteligentes de altíssima fidelidade.\n\n<h3 id=\"topico-26-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre o excesso de informação em mapas táteis: a tendência de professores videntes em criar \"mapas poluídos\" tentando colocar todos os rios e cidades no mesmo mapa tátil, o que torna o mapa completamente ilegível para a exploração dos dedos do estudante cego.\n\n<h3 id=\"topico-26-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nPadronização científica das texturas táteis mais eficientes para identificação de vegetação e biomas do Agreste e Sertão pernambucano em mapas temáticos estaduais.\n\n<h3 id=\"topico-26-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 13, 25, 26, 28, 36 e 49**.\n\n<h3 id=\"topico-26-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. Ministério da Educação. *Elaboração de Materiais Didáticos Acessíveis: Representações Gráficas Táteis*. Brasília: MEC/SEESP, 2010.\n- **Fonte Secundária**: NOGUEIRA, Ruth E. (Org.). *Cartografia Tátil: ramos e caminhos de uma pesquisa*. Florianópolis: Imprensa Universiaria/UFSC, 2008. ISBN: 978-8532804340.\n- **Fonte Secundária**: COHEN, Regina; DUARTE, Cristiane. *Acessibilidade e Desenho Universal em Representações Espaciais*. Rio de Janeiro: PROARQ/UFRJ, 2012.\n- **Fonte Secundária**: VASCONCELLOS, Regina. A cartografia tátil na educação de cegos. *Boletim Paulista de Geografia*, São Paulo, n. 74, 1996.\n\n---\n\n"
+    },
+    {
+      "id": 27,
+      "number": "27",
+      "title": "Musicografia Braille",
+      "category": "Estudo TECE e Vida Independente",
+      "vol": 3,
+      "slug": "27-musicografia-braille",
+      "summary": "A Musicografia Braille é o sistema de notação musical tátil concebido por Louis Braille em 1828 e aperfeiçoado em 1837. É o instrumento pedagógico e profissional que permite à pessoa cega ler, escrever, compor, analisar e reger partituras musicais com o mesmo nível de autonomia e rigor técnico de um musicista vidente. A música sempre desempenhou um papel central na história da inclusão profissional e artística de pessoas cegas.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-27-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-27-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-27-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-27-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-27-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-27-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-27-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-27-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-27-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-27-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-27-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-27-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-27-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-27-14"
+        }
+      ],
+      "markdown": "## 27 — MUSICOGRAFIA BRAILLE\n\n<h3 id=\"topico-27-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA **Musicografia Braille** é o sistema de notação musical tátil concebido por Louis Braille em 1828 e aperfeiçoado em 1837. É o instrumento pedagógico e profissional que permite à pessoa cega ler, escrever, compor, analisar e reger partituras musicais com o mesmo nível de autonomia e rigor técnico de um musicista vidente. A música sempre desempenhou um papel central na história da inclusão profissional e artística de pessoas cegas.\n\n<h3 id=\"topico-27-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Invenção por Louis Braille (1828–1837)**: Louis Braille, sendo organista e celista talentoso do INJA em Paris, adaptou os 64 sinais da cela Braille para representar a altura das notas (Dó, Ré, Mi, Fá, Sol, Lá, Si), as durativas figuras rítmicas (semibreve, mínima, semínima, colcheia...), claves, armaduras de clave, compassos, dinâmicas, ligaduras e acordes.\n- **Conferência Internacional de Musicografia Braille de Colônia (1929)**: Reunião internacional na Alemanha que unificou o código musical tátil para a Europa e Américas.\n- **Manual Internacional de Musicografia Braille (WBU/UNESCO, 1996)**: Atualizado por Bettye Krolick, consagrando as normas globais vigentes.\n\n<h3 id=\"topico-27-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Estrutura da Notação Musical Tátil**: A Musicografia Braille utiliza as letras das séries 1, 2, 3 e 4 da cela Braille para representar as notas. Os pontos 4 e 5 indicam a *oitava* em que a nota se encontra.\n- **Caráter Sucessivo/Linear da Leitura Musical Tátil**: Enquanto o músico vidente lê visualmente uma partitura de piano com as duas pautas (clave de sol e clave de fá) simultaneamente uma sobre a outra, o leitor Braille precisa ler a partitura **de forma linearizada**: lê-se a mão direita primeiro (ou alterna-se trecho por trecho), decorando o trecho para depois executá-lo no instrumento.\n- **Software de Conversão Musicográfica (Braille Music Editor - BME / MusiBRAILLE)**: Programas de computador que permitem a conversão bidirecional entre partituras visuais digitais (formatos MusicXML ou Finale/Sibelius) e a notação em Musicografia Braille.\n\n<h3 id=\"topico-27-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Louis Braille (França, 1809–1852)**: Organista e criador do sistema universal de Musicografia Braille. (Fonte: *Procédé pour écrire...*, 1829).\n- **Bettye Krolick (Pesquisadora/Musicista, EUA, 1926–2011)**: Compiladora do *New International Manual of Braille Music Notation* (UNESCO/WBU, 1996). (Fonte: WBU).\n- **Prof. Dolores Tomé e Prof. José Antonio Borges (Brasil)**: Desenvolvedores do software **MusiBRAILLE** no Brasil (projeto NCE/UFRJ com apoio do Ministério da Cultura), facilitando o ensino de música para cegos no país.\n\n<h3 id=\"topico-27-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **World Braille Council - Music Musicography Subcommittee**: Órgão normativo internacional.\n- **NCE/UFRJ (Brasil)**: Centro desenvolvedor do software MusiBRAILLE.\n- **Conservatório Dramático e Musical Dr. Carlos de Campos (Tatuí-SP)**: Conservatório brasileiro pioneiro no ensino de Musicografia Braille.\n\n<h3 id=\"topico-27-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, a Musicografia Braille permitiu a formação de dezenas de virtuoses cegos que integraram grandes orquestras sinfônicas mundiais e atuações como compositores clássicos e populares (ex.: Joaquin Rodrigo, Stevie Wonder, Andrea Bocelli, Ray Charles).\n\n<h3 id=\"topico-27-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, o projeto **MusiBRAILLE** (desenvolvido pela UFRJ) distribuiu gratuitamente softwares de transcrição e capacitou centenas de professores de música em escolas públicas e conservatórios do país.\n\n<h3 id=\"topico-27-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nNo Nordeste, a tradição musical de cegos nasceu na música popular (violeiros, cantadores e rabequeiros nas feiras), migrando progressivamente ao longo do século XX para o estudo erudito nos conservatórios estaduais através da alfabetização em Musicografia Braille.\n\n<h3 id=\"topico-27-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, o **Conservatório Pernambucano de Música (CPM)** e o Departamento de Música da UFPE possuem histórico de alunos cego(a)s graduados em piano, violão, canto erudito e composição com suporte de transcrição em Musicografia Braille.\n\n### 10. Situação atual\nAté 2026, softwares com inteligência artificial e leitores de tela acoplados a teclados MIDI permitem que o estudante cego componha e ouça o resultado sonoro da partitura em Braille em tempo real no computador.\n\n<h3 id=\"topico-27-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate pedagógico entre o ensino de música de ouvido (*pelo som*) vs. o ensino formal por Musicografia Braille: educadores enfatizam que o ensino de ouvido é suficiente para a prática popular básica, mas a Musicografia Braille é insubstituível para a formação acadêmica, regência e análise estrutural da música.\n\n<h3 id=\"topico-27-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nMapeamento do número de alunos cegos matriculados nas licenaturas em Música das universidades do Nordeste e o nível de domínio de seus professores sobre a Musicografia Braille.\n\n<h3 id=\"topico-27-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 06, 07, 10, 24, 37 e 49**.\n\n<h3 id=\"topico-27-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRAILLE, Louis. *Procédé pour écrire les paroles, la musique et le plain-chant au moyen de points*. Paris: INJA, 1837.\n- **Fonte Primária**: KROLICK, Bettye. *New International Manual of Braille Music Notation*. Washington: UNESCO/WBU, 1996.\n- **Fonte Secundária**: BORGES, José Antonio; TOMÉ, Dolores. *Projeto MusiBRAILLE: transcrição e ensino de música acessível*. Rio de Janeiro: NCE/UFRJ, 2009.\n- **Fonte Secundária**: BONILHA, F. F. *Musicografia Braille: um estudo sobre suas representações e estratégias de ensino*. Tese (Doutorado em Música) – UNICAMP, Campinas, 2010.\n\n---\n\n"
+    },
+    {
+      "id": 28,
+      "number": "28",
+      "title": "Orientação e Mobilidade",
+      "category": "Estudo TECE e Vida Independente",
+      "vol": 3,
+      "slug": "28-orientacao-e-mobilidade",
+      "summary": "A Orientação e Mobilidade (OM) é o campo teórico e prático interdisciplinar que capacita a pessoa com deficiência visual a navegar no espaço de forma autônoma, eficiente, segura e independente. Enquanto a Orientação é o processo cognitivo de utilizar os sentidos restantes para estabelecer a posição em relação aos objetos do ambiente (Onde estou? Para onde vou? Como chego lá?), a Mobilidade é a capacidade física de deslocar-se no espaço com o uso de técnicas e ferramentas de apoio.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-28-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-28-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-28-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-28-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-28-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-28-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-28-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-28-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-28-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-28-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-28-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-28-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-28-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-28-14"
+        }
+      ],
+      "markdown": "## 28 — ORIENTAÇÃO E MOBILIDADE\n\n<h3 id=\"topico-28-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA **Orientação e Mobilidade (OM)** é o campo teórico e prático interdisciplinar que capacita a pessoa com deficiência visual a navegar no espaço de forma autônoma, eficiente, segura e independente. Enquanto a **Orientação** é o processo cognitivo de utilizar os sentidos restantes para estabelecer a posição em relação aos objetos do ambiente (Onde estou? Para onde vou? Como chego lá?), a **Mobilidade** é a capacidade física de deslocar-se no espaço com o uso de técnicas e ferramentas de apoio.\n\n<h3 id=\"topico-28-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Pós-Segunda Guerra Mundial (Década de 1940)**: O nascimento da OM moderna ocorreu no **Valley Forge General Hospital** (Pensilvânia, EUA). Richard Hoover e uma equipe de especialistas foram encarregados de reabilitar os milhares de soldados americanos que retornavam cego(a)s dos combates na Europa e no Pacífico.\n- **Invenção da Técnica Hoover e da Bengala Longa (1944)**: Richard Hoover desenvolveu a técnica sistemática de uso da **bengala longa branca** (fabricada em alumínio leve com ponteira de nylon), substituindo as antigas bengalas curtas e pesadas de madeira.\n- **Profissionalização do Especialista em OM (Anos 1960)**: Criação dos primeiros mestrados e cursos universitários de formação de instrutores de OM na Boston College e Western Michigan University.\n- **Introdução no Brasil (1968)**: A professora alemã-americana Dorina Nowill e o IBC trouxeram especialistas americanos ao Brasil para ministrar o primeiro curso formal de Orientação e Mobilidade no Rio de Janeiro e São Paulo.\n\n<h3 id=\"topico-28-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Pontos de Referência (*Landmarks*)**: Objetos físicos fixos, constantes e identificáveis no ambiente através do tato, audição ou olfato (ex.: uma orelhão, o som contínuo de uma fonte, o cheiro de uma padaria, uma mudança de piso).\n- **Pistas Sensoriais (*Clues*)**: Estímulos transitórios do ambiente que ajudam o sujeito a se orientar temporariamente (ex.: o vento de uma esquina, a sombra de um prédio, o eco de passos).\n- **Técnicas com a Bengala Longa (Técnica Hoover)**:\n  - **Técnica do Toque (*Touch Technique*)**: A bengala oscila em arco à frente do corpo (da largura dos ombros), tocando levemente o solo no ponto oposto ao pé que avança.\n  - **Técnica do Deslizamento (*Diagonal/Slide Technique*)**: Ponteira desliza continuamente mantendo contato com o chão em ambientes internos ou lisos.\n- **Técnicas de Proteção Corporal e Guia Vidente**:\n  - **Proteção Superior e Inferior**: Antebraço cruzado à frente do rosto ou peito para proteger contra obstáculos aéreos (galhos, orelhões).\n  - **Técnica do Guia Vidente**: A pessoa cega segura levemente no cotovelo ou ombro do guia vidente, caminhando meio passo atrás.\n- **Navegação GPS e Tecnologias de Mobilidade**: Dispositivos de áudio 3D (como Be My Eyes, Lazarillo e óculos com sensores ultra-sônicos) que complementam, sem substituir, a bengala.\n\n<h3 id=\"topico-28-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Dr. Richard E. Hoover (Educador/Reabilitador, EUA, 1915–1986)**: Considerado o \"Pai da Orientação e Mobilidade Moderna\", criador da bengala longa e da Técnica Hoover. (Fonte: *The Long Cane*, 1946).\n- **Warren Bledsoe e Russell Williams (Reabilitadores, EUA)**: Pioneiros na formação de instrutores de OM e na reabilitação de cegos de guerra. (Fonte: Veterans Administration, EUA).\n\n### 5. Principais institutions\n- **Valley Forge General Hospital (EUA)**: Berço da Orientação e Mobilidade moderna.\n- **Instituto Benjamin Constant (Divisão de Reabilitação - DRE, Brasil)**: Formador de instrutores de OM no Brasil.\n- **Fundação Dorina Nowill para Cegos (Brasil)**: Pioneira nos cursos de OM e distribuição de bengalas no país.\n\n<h3 id=\"topico-28-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, a Orientação e Mobilidade é reconhecida como disciplina curricular obrigatória desde a Educação Infantil para crianças cegas em países desenvolvidos.\n\n<h3 id=\"topico-28-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, a formação de instrutores de OM é oferecida em cursos de pós-graduação e extensão por universidades e instituições como o IBC. O MEC publicou o manual *Orientação e Mobilidade: Conhecimentos Básicos para a Inclusão da Pessoa com Deficiência Visual*.\n\n<h3 id=\"topico-28-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nNo Nordeste, o treinamento de OM enfrenta severas barreiras urbanas: calçadas esburacadas, ausência de piso tátil direcional/alerta, postes no meio do passeio e ausência de semáforos sonoros nas capitais e cidades do interior.\n\n<h3 id=\"topico-28-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, o serviço de reabilitação e treino de OM é prestado pelo CAP/PE, pelo Instituto de Cegos do Recife e por centros municipais de reabilitação. Estudantes da UFPE realizam auditorias de acessibilidade nas vias públicas de Recife.\n\n### 10. Situação atual\nAté 2026, a Orientação e Mobilidade integra bengalas inteligentes com sensores vibratórios de obstáculos aéreos e aplicativos móveis de IA multimodal que avisam em tempo real o nome das ruas e linhas de ônibus.\n\n<h3 id=\"topico-28-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a substituição da bengala por dispositivos eletrônicos: a comunidade técnica reforça que **nenhuma tecnologia eletrônica substitui a bengala longa**, que é a única ferramenta que provê contato físico mecânico direto e confiável com a superfície do solo.\n\n<h3 id=\"topico-28-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nMapeamento com indicadores georreferenciados da taxa de acidentes e quedas de pessoas cegas em vias públicas de Caruaru e Petrolina devido a barreiras arquitetônicas urbanas.\n\n<h3 id=\"topico-28-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 17, 18, 29, 30, 32 e 36**.\n\n<h3 id=\"topico-28-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: HOOVER, Richard E. The cane as a travel aid. In: ZAHL, P. A. (Ed.). *Blindness: Modern Approaches to the Unseen World*. Princeton: Princeton University Press, 1950.\n- **Fonte Primária**: BRASIL. Ministério da Educação. *Orientação e Mobilidade: Conhecimentos Básicos para a Inclusão da Pessoa com Deficiência Visual*. Brasília: SEESP/MEC, 2003.\n- **Fonte Secundária**: WIENER, W. R.; WELSH, R. L.; BLASCH, B. B. *Foundations of Orientation and Mobility*. 3rd ed. New York: AFB Press, 2010. ISBN: 978-0891284482.\n- **Fonte Secundária**: FELIPPE, J. A. *Orientação e Mobilidade*. Rio de Janeiro: IBC, 2001.\n\n---\n\n"
+    },
+    {
+      "id": 29,
+      "number": "29",
+      "title": "A Bengala e sua Aceitação",
+      "category": "Estudo TECE e Vida Independente",
+      "vol": 3,
+      "slug": "29-a-bengala-e-sua-aceitacao",
+      "summary": "A bengala longa é a ferramenta técnica de mobilidade por excelência da pessoa cega. Contudo, seu uso ultrapassa a dimensão estritamente mecânica: a bengala é um marcador social ostensivo que sinaliza publicamente a deficiência visual para o ambiente vidente. Por essa razão, a aceitação ou resistência ao uso da bengala envolve profundos dilemas psicológicos, de identidade, medo do estigma, preconceito capacitista e aceitação da própria condição sensorial.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-29-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-29-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-29-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-29-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-29-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-29-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-29-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-29-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-29-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-29-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-29-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-29-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-29-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-29-14"
+        }
+      ],
+      "markdown": "## 29 — A BENGALA E SUA ACEITAÇÃO\n\n<h3 id=\"topico-29-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA **bengala longa** é a ferramenta técnica de mobilidade por excelência da pessoa cega. Contudo, seu uso ultrapassa a dimensão estritamente mecânica: a bengala é um **marcador social ostensivo** que sinaliza publicamente a deficiência visual para o ambiente vidente. Por essa razão, a aceitação ou resistência ao uso da bengala envolve profundos dilemas psicológicos, de identidade, medo do estigma, preconceito capacitista e aceitação da própria condição sensorial.\n\n### 2. Investigação Científica: \"Por que algumas pessoas resistem ao uso da bengala?\"\nEstudos na área de psicologia social e reabilitação (ex.: trabalhos de Allen, Tuttle e pesquisas brasileiras no IBC) identificaram os fatores centrais da resistência ao uso da bengala longa:\n1. **Medo do Estigma Social e da Rotulação (*Labeling*)**: A bengala torna a deficiência visível a metros de distância. Para quem possui baixa visão ou cegueira adquirida recente, usar a bengala significa \"assumir publicamente a deficiência\", expondo-se ao olhar de pena, curiosidade ou capacitismo da sociedade.\n2. **Preconceito Internalizado e Negação da Deficiência**: Internalização do estereótipo de que o usuário de bengala é um sujeito \"incapaz\", \"inválido\" ou \"dependente\". O indivíduo prefere arriscar quedas e tropeços a ser identificado como cego.\n3. **Sensação de Vulnerabilidade no Espaço Urbano**: Medo de que a identificação ostensiva pela bengala transforme a pessoa em alvo fácil de assaltos, golpes ou abordagens invasivas de terceiros.\n4. **Resistência Familiar e Superproteção**: Famílias que proíbem ou desestimulam o uso da bengala por vergonha social ou por considerarem a ferramenta \"muito triste\" ou perigosa para ser usada na rua.\n5. **Cegueira Adquirida na Vida Adulta/Velhice**: Em idosos ou adultos que perderam a visão recentemente, a transição de vidente para usuário de bengala representa um luto doloroso, exigindo tempo de elaboração psíquica.\n\n### 3. A Tripla Dimensão da Bengala\n- **1. Ferramenta Técnica / Tecnologia Assistiva**: Extensão táctil dos braços que detecta desníveis, degraus, buracos e obstáculos no solo.\n- **2. Marcador Social e Símbolo de Identidade**: Dispositivo que comunica ao trânsito, motoristas e pedestres a necessidade de respeito e espaço de navegação.\n- **3. Símbolo de Autonomia e Emancipação**: Para a pessoa reabilitada e militante do movimento, a bengala deixa de ser um \"símbolo de invalidez\" e passa a ser o **emblema da sua independência e liberdade de ir e vir**.\n\n### 4. Cores das Bengals e Significados Oficiais (Convenção Internacional e Lei Brasileira)\n- **Bengala Branca**: Identifica a pessoa com **cegueira total**.\n- **Bengala Verde**: Identifica a pessoa com **baixa visão / visão subnormal** (Lei nº 14.636/2023 no Brasil - \"Bengala Verde\", orientando o trânsito sobre a presença do resíduo visual).\n- **Bengala Vermelha e Branca (Listrada)**: Identifica a pessoa com **surdocegueira** (dupla perda sensorial).\n\n### 5. Principais pessoas\n- **Dean e Mary Tuttle (Pesquisadores, EUA)**: Autores de *Self-Esteem and Adjusting with Blindness*, maiores estudiosos da relação entre autoimagem, estigma e aceitação da bengala. (Fonte: Charles C Thomas, 2004).\n- **Erving Goffman (Sociólogo, Canadá/EUA, 1922–1982)**: Autor da teoria sociológica clássica sobre o **Estigma** (*Stigma: Notes on the Management of Spoiled Identity*), fundamental para compreender a resistência à bengala. (Fonte: Prentice-Hall, 1963).\n\n### 6. Principais instituições\n- **International Long White Cane Day (15 de outubro)**: Dia Internacional da Bengala Branca, promovido pela União Mundial de Cegos desde 1964.\n- **Organização Nacional dos Cegos do Brasil (ONCB)**: Promotora de campanhas de orgulho e aceitação do uso da bengala verde e branca no Brasil.\n\n### 7. Desenvolvimento internacional\nInternacionalmente, campanhas de *Disability Pride* (Orgulho da Deficiência) têm ressignificado a bengala longa, promovendo modelos coloridos (bengalas rosas, azuis, pretas) como expressão de estilo pessoal e identidade jovem.\n\n### 8. Desenvolvimento brasileiro\nNo Brasil, a sanção da **Lei da Bengala Verde** (Lei nº 14.636/2023) constituiu um marco legal relevante para diferenciar a baixa visão da cegueira total, reduzindo o constrangimento de pessoas com baixa visão que sofriam acusações de \"falsos cegos\" ao usarem a bengala branca.\n\n### 9. Desenvolvimento no Nordeste\nEm cidades do Nordeste, o estigma da bengala ainda é alimentado por superstições locais e pela visão caritativa de que \"o cego com bengala está pedindo esmola\". Trabalhos de conscientização comunitária têm sido realizados por associações regionais.\n\n### 10. Pernambuco\nEm Pernambuco, a distribuição gratuita de bengalas verdes e brancas ajustadas à altura do usuário é realizada por projetos de extensão da UFPE e por ONGs recifenses, acompanhada de apoio psicológico às famílias.\n\n### 11. Situação atual\nAté 2026, compreende-se que a aceitação da bengala não é um ato puramente individual de vontade, mas um processo psicológico influenciado pela qualidade do treinamento de OM e pelo combate ao capacitismo na sociedade.\n\n### 12. Controvérsias e debates\nDebate sobre a personalização estética da bengala: se alterar a cor da bengala tradicional branca para cores da moda prejudica a identificação rápida por motoristas no trânsito urbano noturno.\n\n### 13. Lacunas de pesquisa\nEstudo qualitativo com adolescentes com baixa visão nas escolas públicas de Recife sobre os motivos da rejeição à Bengala Verde no ambiente escolar.\n\n### 14. Conceitos que conectam este tópico a outros\nConecta-se aos **Módulos 01, 02, 11, 28, 30 e 43**.\n\n<h3 id=\"topico-29-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. *Lei nº 14.636, de 20 de julho de 2023. Institui a Bengala Verde como instrumento oficial de identificação de pessoas com baixa visão*. Brasília: Diário Oficial da União, 2023.\n- **Fonte Secundária**: GOFFMAN, Erving. *Stigma: Notes on the Management of Spoiled Identity*. Englewood Cliffs: Prentice-Hall, 1963.\n- **Fonte Secundária**: TUTTLE, Dean W.; TUTTLE, Naomi R. *Self-Esteem and Adjusting with Blindness*. 3rd ed. Springfield: Charles C Thomas, 2004. ISBN: 978-0398075132.\n- **Fonte Secundária**: FELIPPE, J. A. *O significado psicosocial da bengala na vida da pessoa cega*. Rio de Janeiro: IBC, 2005.\n\n---\n\n"
+    },
+    {
+      "id": 30,
+      "number": "30",
+      "title": "Vida Independente",
+      "category": "Estudo TECE e Vida Independente",
+      "vol": 3,
+      "slug": "30-vida-independente",
+      "summary": "A Vida Independente (VI) constitui o alicerce fundamental para a autonomia, dignidade e autodeterminação da pessoa com deficiência visual. Abrange o treinamento sistemático e a execução prática de Atividades da Vida Diária (AVDs) e Atividades Instrumentais da Vida Diária (AIVDs), permitindo que a pessoa cega gerencie sua residência, cuide da higiene pessoal, prepare alimentos, administre finanças, trabalhe e participe da vida comunitária sem a necessidade de cuidadores ou tutela familiar permanente.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-30-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-30-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-30-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-30-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-30-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-30-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-30-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-30-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-30-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-30-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-30-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-30-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-30-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-30-14"
+        }
+      ],
+      "markdown": "## 30 — VIDA INDEPENDENTE\n\n<h3 id=\"topico-30-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA **Vida Independente (VI)** constitui o alicerce fundamental para a autonomia, dignidade e autodeterminação da pessoa com deficiência visual. Abrange o treinamento sistemático e a execução prática de Atividades da Vida Diária (AVDs) e Atividades Instrumentais da Vida Diária (AIVDs), permitindo que a pessoa cega gerencie sua residência, cuide da higiene pessoal, prepare alimentos, administre finanças, trabalhe e participe da vida comunitária sem a necessidade de cuidadores ou tutela familiar permanente.\n\n<h3 id=\"topico-30-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Movimento de Vida Independente (*Independent Living Movement*) (EUA, Anos 1970)**: Fundado por Ed Roberts e militantes com deficiência na Universidade da Califórnia em Berkeley. O movimento revolucionou o mundo ao afirmar que a independência não reside na ausência de deficiência, mas sim no **controle de decisões sobre a própria vida**.\n- **Institucionalização dos Centros de Vida Independente (CVI)**: Criação de CVIs geridos pelas próprias pessoas com deficiência ao redor do mundo.\n- **Chegada ao Brasil (1988)**: Fundação do CVI-Rio pelo ativista cego Lilia Martins e parceiros, espalhando a filosofia da Vida Independente pelo Brasil.\n\n<h3 id=\"topico-30-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Atividades da Vida Diária (AVDs / Cuidados Pessoais)**: Higiene corporal autônoma, escolha de vestuário combinando cores (através de etiquetas Braille, texturas ou aplicativos leitor de cores), alimentação à mesa, barbear-se, maquiagem e administração de medicamentos.\n- **Atividades Instrumentais da Vida Diária (AIVDs / Gestão Doméstica e Urbana)**: Culinária (preparo de refeições), limpeza e organização da casa, identificação e contagem de cédulas e moedas, compras em supermercado, uso de eletrodomésticos com marcações táteis (gotas de silicone ou Braille) e uso de tecnologia assistiva digital.\n- **Organização Espacial Padronizada (\"Um Lugar para Cada Coisa e Cada Coisa em Seu Lugar\")**: Princípio central da autonomia doméstica cega: a previsibilidade e a ordem impecável de armazenamento de objetos garantem que o cego localize qualquer item sem precisar \"procurar visualmente\".\n- **Identificação Tátil de Suprimentos**: Uso de elásticos de tamanhos diferentes, cortes na embalagem ou etiquetas Braille para diferenciar produtos idênticos ao toque (ex.: latas de leite condensado vs. massa de tomate; remédios de mesma caixa).\n\n<h3 id=\"topico-30-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Ed Roberts (Ativista, EUA, 1939–1995)**: Pai do Movimento de Vida Independente mundial. (Fonte: World Institute on Disability).\n- **Dorina de Gouvêa Nowill (Brasil, 1919–2010)**: Defensora da formação de adultos cegos para o trabalho e gestão doméstica autônoma.\n\n<h3 id=\"topico-30-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Centros de Vida Independente (CVI Brasil / CVI Internacional)**: Organizações não governamentais focadas na promoção da vida autônoma.\n- **Fundação Dorina Nowill (Setor de AVD, Brasil)**: Referência em cursos de Vida Prática para cegos.\n\n<h3 id=\"topico-30-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, os programas de transição para a vida adulta (*Transition Programs*) garantem que o jovem cego ao terminar o ensino médio passe por residências de treinamento (*Independent Living Apartments*) antes de ingressar na universidade ou morar sozinho.\n\n<h3 id=\"topico-30-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, o Atendimento Educacional Especializado (AEE) e centros de reabilitação oferecem oficinas de AVDs, embora a falta de moradias de transição públicas ainda seja uma lacuna.\n\n<h3 id=\"topico-30-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nCentros de reabilitação no Nordeste capacitam adultos com cegueira adquirida para manterem suas atividades produtivas e domésticas, combatendo a forte tendência de infantilização por parte das famílias locais.\n\n<h3 id=\"topico-30-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, o Instituto de Cegos do Recife e turmas de extensão em Terapia Ocupacional da UFPE oferecem oficinas práticas de Vida Diária e culinária adaptada para cegos e pessoas com baixa visão.\n\n### 10. Situação atual\nAté 2026, eletrodomésticos com conectividade por assistentes de voz (Alexa, Google Assistant) e leitores de código de barras/QR Code por smartphone revolucionaram a vida doméstica independente de pessoas cegas.\n\n<h3 id=\"topico-30-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre o assistencialismo e a concessão de Benefícios de Prestação Continuada (BPC) sem programas de capacitação para a vida independente: ativistas apontam que a renda sem treinamento de autonomia mantém a pessoa cega presa no isolamento doméstico.\n\n<h3 id=\"topico-30-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudo avaliativo sobre a eficácia das oficinas de AVDs em capitais do Nordeste na elevação do índice de independência de adultos cego(a)s que moram sozinhos.\n\n<h3 id=\"topico-30-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 01, 17, 18, 28, 31, 34 e 36**.\n\n<h3 id=\"topico-30-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. *Lei nº 13.146, de 6 de julho de 2015. Estatuto da Pessoa com Deficiência*. Cap. II - Do Direito à Vida Digna e Independente. Brasília, 2015.\n- **Fonte Secundária**: ROBERTS, Ed. *The Independent Living Movement: History and Philosophy*. Berkeley: WID, 1989.\n- **Fonte Secundária**: SÁ, Elisabet Dias de. *Atividades da Vida Diária para pessoas com deficiência visual*. Belo Horizonte: SEED, 2008.\n- **Fonte Secundária**: IBC. *Manual de Atividades da Vida Diária (AVD)*. Rio de Janeiro: IBC, 2004.\n"
+    },
+    {
+      "id": 31,
+      "number": "31",
+      "title": "Cozinha e Atividades da Vida Diária",
+      "category": "Inclusão, Direitos e Inteligência Artificial",
+      "vol": 4,
+      "slug": "31-cozinha-e-atividades-da-vida-diaria",
+      "summary": "A cozinha é frequentemente encarada por familiares videntes como o ambiente mais perigoso da casa para a pessoa cega, devido à presença de fogo, facas afiadas, líquidos ferventes e eletrodomésticos. Contudo, o ensino sistemático da culinária adaptada demonstra que a cozinha pode se tornar um espaço de total autonomia e prazer gastronômico, fundamentando o modelo integrado de educação e independência.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-31-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-31-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-31-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-31-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-31-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-31-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-31-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-31-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-31-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-31-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-31-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-31-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-31-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-31-14"
+        }
+      ],
+      "markdown": "## 31 — COZINHA E ATIVIDADES DA VIDA DIÁRIA\n\n<h3 id=\"topico-31-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA cozinha é frequentemente encarada por familiares videntes como o ambiente mais perigoso da casa para a pessoa cega, devido à presença de fogo, facas afiadas, líquidos ferventes e eletrodomésticos. Contudo, o ensino sistemático da culinária adaptada demonstra que a cozinha pode se tornar um espaço de total autonomia e prazer gastronômico, fundamentando o modelo integrado de educação e independência.\n\n<h3 id=\"topico-31-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\nAs primeiras metodologias de ensino de culinária para cegos surgiram em colégios internos europeus e americanos no início do século XX. No Brasil, o setor de AVD do Instituto Benjamin Constant e da Fundação Dorina Nowill normatizaram protocolos de segurança e organização de cozinha na década de 1970.\n\n<h3 id=\"topico-31-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3> e Técnicas de Segurança\n- **Mapeamento Tátil do Fogão e Eletrodomésticos**: Uso de marcadores táteis de silicone (pingos em alto-relevo) nos seletores de temperatura, botões de acendimento do fogão e micro-ondas.\n- **Acendimento Seguro e Controle de Chamas**: Uso de acendedores longos de faísca elétrica ou fogões de indução magnética (que não queimam ao toque direto da mão na chapa e desligam automaticamente).\n- **Técnica do Relógio para Distribuição de Alimentos no Prato**: Organização espacial em que o prato é visualizado/mentalizado como a face de um relógio analógico (ex.: arroz às 12 horas, feijão às 3 horas, carne às 6 horas, salada às 9 horas).\n- **Dosagem e Medição de Líquidos e Sólidos**:\n  - Uso de **Indicadores de Nível de Líquido** (dispositivos eletrônicos apitadores pendurados na borda do copo que apitam quando o líquido atinge o nível desejado).\n  - Uso do dedo limpo encostado na borda interna do copo para sentir a subida de líquidos frios.\n  - Colheres e xícaras dosadoras com marcações táteis em relevo.\n- **Corte e Fatiamento Seguro**: Uso de luvas de malha de aço anticorte na mão de apoio e técnicas de ancoragem dos dedos em posição de \"garra\" dobrada para trás durante o fatiamento de vegetais.\n\n<h3 id=\"topico-31-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Christine Ha (Chef/Escritora, EUA/Vietnã)**: Chef cega vencedora do programa de culinária *MasterChef EUA* (2012) e autora de livros de receitas acessíveis, demonstrando a excelência gastronômica cega em nível internacional. (Fonte: *Recipes from My Home Kitchen*, 2013).\n- **Profª Maria de Lourdes Guimarães (Educadora/OT, Brasil)**: Terapeuta ocupacional pioneira no ensino de culinária acessível no IBC.\n\n<h3 id=\"topico-31-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Instituto Benjamin Constant (Oficina de Culinária, Brasil)**: Espaço pedagógico adaptado com cozinhas laboratório.\n- **Helen Keller National Center (EUA)**: Centro de formação em vida diária e culinária para cegos e surdocegos.\n\n<h3 id=\"topico-31-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, a tecnologia de utensílios adaptados (como facas com guia de espessura ajustável e panelas com travas de segurança) é amplamente difundida em catálogos de tecnologia assistiva.\n\n<h3 id=\"topico-31-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, livros de receitas em Braille e em formato de áudio acessível são produzidos pela Fundação Dorina Nowill e distribuídos a centros de reabilitação.\n\n<h3 id=\"topico-31-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nOficinas de culinária regional inclusiva no Nordeste ensinam o preparo autônomo de pratos típicos (como tapioca, cuscuz e moqueca) utilizando estratégias táteis de segurança.\n\n<h3 id=\"topico-31-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, encontros de Vida Independente promovidos por associações recifenses organizam feiras gastronômicas onde pratos são preparados e servidos exclusivamente por chefs e cozinheiros cego(a)s.\n\n### 10. Situação atual\nAté 2026, airfryers inteligentes e fogões de indução com comandos de voz e conectividade via aplicativo de celular revolucionaram a segurança e a facilidade do preparo de refeições por pessoas cegas.\n\n<h3 id=\"topico-31-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate entre o ensino de culinária isolado como terapia ocupacional vs. o ensino de culinária integrado ao currículo escolar (trabalhando química dos alimentos, fração matemática e leitura Braille de receitas).\n\n<h3 id=\"topico-31-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nDesenvolvimento de sensores táteis de temperatura de baixo custo e alta durabilidade para panelas convencionais em comunidades vulneráveis.\n\n<h3 id=\"topico-31-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 18, 25, 30, 34 e 36**.\n\n<h3 id=\"topico-31-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: HA, Christine. *Recipes from My Home Kitchen: Asian and American Comfort Food*. New York: Rodale Books, 2013. ISBN: 978-1609615024.\n- **Fonte Secundária**: GUIMARÃES, Maria de Lourdes. *Culinária Adaptada para Deficientes Visuais*. Rio de Janeiro: IBC, 2005.\n- **Fonte Secundária**: SÁ, Elisabet Dias de. *Atividades Práticas da Vida Diária*. Belo Horizonte: SEED, 2008.\n\n---\n\n"
+    },
+    {
+      "id": 32,
+      "number": "32",
+      "title": "Cão-Guia",
+      "category": "Inclusão, Direitos e Inteligência Artificial",
+      "vol": 4,
+      "slug": "32-cao-guia",
+      "summary": "O cão-guia é uma das tecnologias assistivas vivas mais sofisticadas e eficientes de mobilidade e autonomia do mundo. Trata-se de um cão especialmente selecionado, socializado e treinado rigorosamente para guiar a pessoa com deficiência visual desviando de obstáculos estáticos e dinâmicos, identificando degraus, meio-fios, portas e cruzamentos, e exercendo a desobediência inteligente para proteger a vida do seu condutor.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-32-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-32-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-32-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-32-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-32-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-32-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-32-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-32-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-32-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-32-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-32-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-32-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-32-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-32-14"
+        }
+      ],
+      "markdown": "## 32 — CÃO-GUIA\n\n<h3 id=\"topico-32-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO **cão-guia** é uma das tecnologias assistivas vivas mais sofisticadas e eficientes de mobilidade e autonomia do mundo. Trata-se de um cão especialmente selecionado, socializado e treinado rigorosamente para guiar a pessoa com deficiência visual desviando de obstáculos estáticos e dinâmicos, identificando degraus, meio-fios, portas e cruzamentos, e exercendo a **desobediência inteligente** para proteger a vida do seu condutor.\n\n<h3 id=\"topico-32-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Primeira Guerra Mundial (Alemanha, 1916)**: O Dr. Gerhard Stalling abriu em Oldenburg a primeira escola de cães-guia do mundo para reabilitar soldados alemães cegados por gases tóxicos nas trincheiras.\n- **Escola de Seeing Eye (Suíça/EUA, 1929)**: Dorothy Harrison Eustis, americana que criava cães de trabalho na Suíça, escreveu o artigo histórico \"The Seeing Eye\" no *Saturday Evening Post* (1927). Em 1929, fundou com o jovem cego Morris Frank a **The Seeing Eye**, primeira escola de cães-guia dos EUA.\n- **Chegada ao Brasil**: O treino sistemático de cães-guia no Brasil iniciou-se na década de 1970 pela ação da Fundação Dorina Nowill e, posteriormente, com a fundação da Escola de Cães-Guia Helen Keller em Balneário Camboriú-SC (primeira escola da América Latina filiada à *International Guide Dog Federation* - IGDF) e dos Centros de Formação de Cães-Guia dos Institutos Federais (IFs).\n\n<h3 id=\"topico-32-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3> e Distinções Legais Rigorosas\n- **Formação da Dupla (Condutor + Cão-Guia)**: Processo de acoplamento comportamental e físico em que o cão de raça específica (geralmente Labrador Retriever, Golden Retriever ou Pastor Alemão) é treinado por ~2 anos antes de passar pelo curso de vinculação de 30 dias com o condutor cego.\n- **Desobediência Inteligente (*Intelligent Disobedience*)**: Habilidade crucial em que o cão-guia **recusa-se deliberadamente a obedecer a um comando** do condutor se cumprir o comando colocar a dupla em risco mortal (ex.: o condutor manda \"em frente\", mas o cão percebe a aproximação de um carro ou um buraco aberto e empurra o condutor para trás ou senta-se bloqueando o passo).\n- **Arnês / Guia Rigida (*Harness*)**: Equipamento de couro/plástico com uma alça metálica rígida que transmite as vibrações das patas e movimentos do corpo do cão diretamente para a mão do condutor cego.\n- **Distinção Legal Obrigatória (Lei Federal nº 11.126/2005)**:\n\n| Categoria | Definição Técnica | Treinamento e Certificação | Direito de Acesso Legal no Brasil (Lei 11.126/2005) |\n| :--- | :--- | :--- | :--- |\n| **Cão-Guia** | Animal de assistência treinado exclusivamente para guiar pessoas com deficiência visual | Treino de 2 anos por escola credenciada pela IGDF ou órgãos oficiais | **Direito irrestrito** a todos os locais públicos, privados de uso público e transportes |\n| **Animal de Apoio Emocional (ESAN)** | Animal que fornece conforto psíquico a pessoas com transtornos mentais/ansiedade | Não possui treinamento de mobilidade | **Não possui** o mesmo direito legal de ingresso em transportes e estabelecimentos |\n| **Animal de Companhia (Pet)** | Animal de estimação sem função de assistência técnica | Sem treinamento de assistência | Sujeito às regras normais do estabelecimento |\n\n<h3 id=\"topico-32-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Dorothy Harrison Eustis (Pioneira/Criadora, EUA/Suíça, 1886–1946)**: Fundadora da The Seeing Eye e mãe do movimento moderno do cão-guia. (Fonte: *The Seeing Eye*, 1927).\n- **Morris Frank (Ativista/Usuário, EUA, 1908–1980)**: Primeiro usuário de cão-guia dos EUA com a cadela Buddy, lutando pelo direito de ingresso em trens e hotéis americanos. (Fonte: *First Lady of the Seeing Eye*, 1957).\n\n<h3 id=\"topico-32-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **International Guide Dog Federation (IGDF, Reino Unido)**: Órgão regulador mundial que credencia as escolas oficiais de cães-guia.\n- **Escola de Cães-Guia Helen Keller (Balneário Camboriú-SC, Brasil)**: Primeira escola credenciada pela IGDF na América Latina.\n- **Centros de Formação de Cães-Guia dos Institutos Federais (IFC, IF Goiano, IF do Amazonas, etc., Brasil)**: Programa público governamental de formação de cães-guia no Brasil.\n\n<h3 id=\"topico-32-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, a IGDF estabelece padrões éticos estritos de bem-estar animal, aposentadoria do cão após 8 a 10 anos de trabalho e acompanhamento veterinário contínuo.\n\n<h3 id=\"topico-32-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, a promulgação da **Lei Federal nº 11.126/2005** (regulamentada pelo Decreto nº 5.904/2006) garantiu à pessoa com deficiência visual acompanhada de cão-guia o direito de ingressar e permanecer em todos os veículos e estabelecimentos públicos e privados de uso público (restaurantes, hotéis, aviões, supermercados, hospitais).\n\n<h3 id=\"topico-32-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nNo Nordeste, o número de duplas com cão-guia ainda é reduzido devido ao alto custo de manutenção e à ausência de centros de treinamento de grande porte na região, embora a legislação de acesso seja ativamente fiscalizada pelos órgãos de proteção dos direitos das pessoas com deficiência.\n\n<h3 id=\"topico-32-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, episódios de recusa ilegal de ingresso de cães-guia em transportes públicos e estabelecimentos comerciais do Recife motivaram ações judiciais e campanhas educativas lideradas pelo Ministério Público de Pernambuco (MPPE) e pela OAB-PE.\n\n### 10. Situação atual\nAté 2026, intensifica-se o combate às fraudes de \"falsos coletes de cães de assistência\" vendidos na internet, reafirmando que apenas cães treinados por escolas credenciadas possuem a certificação oficial de cão-guia.\n\n<h3 id=\"topico-32-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a recusa em Uber/táxis e aviões por motoristas e companhias aéreas alegando alergia ou religião: a jurisprudência brasileira reafirma que o direito de acesso do cão-guia prevalece, sendo a recusa enquadrada como crime de discriminação (Lei 11.126/2005 e LBI).\n\n<h3 id=\"topico-32-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudo econômico de viabilidade para a criação do primeiro Centro Público de Formação de Cães-Guia sediado no Nordeste.\n\n<h3 id=\"topico-32-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 28, 29, 30, 33, 36 e 41**.\n\n<h3 id=\"topico-32-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. *Lei nº 11.126, de 27 de junho de 2005. Dispõe sobre o direito da pessoa com deficiência visual de ingressar e permanecer em ambientes de uso coletivo acompanhada de cão-guia*. Brasília: Diário Oficial da União, 2005.\n- **Fonte Primária**: BRASIL. *Decreto nº 5.904, de 21 de setembro de 2006. Regulamenta a Lei nº 11.126/2005*. Brasília, 2006.\n- **Fonte Secundária**: EUSTIS, Dorothy Harrison. The Seeing Eye. *The Saturday Evening Post*, Philadelphia, Nov. 5, 1927.\n- **Fonte Secundária**: IGDF. *International Standards for Guide Dog Schools*. Bedford: IGDF, 2018.\n\n---\n\n"
+    },
+    {
+      "id": 33,
+      "number": "33",
+      "title": "Animais de Companhia e Apoio Emocional",
+      "category": "Inclusão, Direitos e Inteligência Artificial",
+      "vol": 4,
+      "slug": "33-animais-de-companhia-e-apoio-emocional",
+      "summary": "A relação entre a perda visual e a saúde mental exige a investigação científica do papel dos animais de companhia (pets) e de apoio emocional no processo de adaptação psicológica à deficiência visual. Diferentemente do cão-guia (que é uma tecnologia assistiva técnica de mobilidade), os animais de companhia atuam no suporte socioafetivo, mitigando sentimentos de solidão, isolamento social e ansiedade decorrentes do luto pelas perdas funcionais.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-33-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-33-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-33-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-33-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-33-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-33-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-33-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-33-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-33-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-33-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-33-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-33-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-33-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-33-14"
+        }
+      ],
+      "markdown": "## 33 — ANIMAIS DE COMPANHIA E APOIO EMOCIONAL\n\n<h3 id=\"topico-33-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA relação entre a perda visual e a saúde mental exige a investigação científica do papel dos animais de companhia (pets) e de apoio emocional no processo de adaptação psicológica à deficiência visual. Diferentemente do cão-guia (que é uma tecnologia assistiva técnica de mobilidade), os animais de companhia atuam no suporte socioafetivo, mitigando sentimentos de solidão, isolamento social e ansiedade decorrentes do luto pelas perdas funcionais.\n\n### 2. Investigação Científica: \"Animais de companhia podem auxiliar psicologicamente pessoas durante a adaptação à perda visual?\"\nEstudos na área de Antrozoologia, Psicologia e Enfermagem (ex.: pesquisas de Wells, Nimer & Lundahl, e estudos clínicos sobre a Interação Humano-Animal - HAI) apontam evidências científicas sobre essa relação:\n1. **Redução da Solidão e do Isolamento Social**: A presença de um cão ou gato de estimação oferece companhia incondicional, incentivando o indivíduo com cegueira adquirida recente a manter uma rotina de cuidados diários (alimentar, escovar, passear), o que combate a passividade depressiva.\n2. **Estímulo à Saída de Casa e Interação Comunitária**: Passear com um cão no bairro funciona como um \"catalisador social\" (*social lubricant*), facilitando a abordagem e a conversa com vizinhos videntes de forma amigável, reduzindo o estigma de isolamento.\n3. **Regulação Neuroquímica e Redução do Estresse**: A interação física e o ato de acariciar um animal demonstraram cientificamente a redução dos níveis de cortisol (hormônio do estresse) e o aumento da liberação de oxitocina e endorfinas em adultos em processo de reabilitação.\n\n> [!CAUTION]\n> **Rigor Científico — Correlação vs. Causalidade**: A literatura acadêmica enfatiza que a presença de um animal de companhia **correlaciona-se com melhorias no bem-estar psíquico**, mas **NÃO substitui a terapia psicológica**, a reabilitação funcional, o treinamento de OM ou a rede de apoio humana. Tratar a posse de um pet como \"cura automática para o luto da cegueira\" é um equívoco sem sustentação científica.\n\n<h3 id=\"topico-33-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Interação Humano-Animal (HAI)**: Campo interdisciplinar que estuda os impactos recíprocos fisiológicos, psicológicos e sociais do vínculo entre seres humanos e animais.\n- **Antrozoologia**: Ciência que estuda as relações entre humanos e outros animais em contextos culturais e de saúde.\n- **Diferença Estrita entre Pet de Apoio Emocional e Cão-Guia**: Animais de apoio emocional não possuem treinamento para desviar de obstáculos urbanos e não possuem o direito legal irrestrito de acesso garantido pela Lei 11.126/2005.\n\n<h3 id=\"topico-33-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Dr. Boris Levinson (Psicólogo/Pesquisador, EUA, 1907–1984)**: Precursor da Terapia Assistida por Animais (TAA) na psicologia clínica. (Fonte: *Pet-Oriented Child Psychotherapy*, 1969).\n- **Dra. Erika Friedmann (Pesquisadora/Fisiologista, EUA)**: Cientista que provou o impacto Fisiológico cardiovascular do vínculo com animais em pacientes convalescentes. (Fonte: *Public Health Reports*, 1980).\n\n<h3 id=\"topico-33-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **HABRI (Human Animal Bond Research Institute, EUA)**: Maior repositório mundial de pesquisas científicas sobre a interação humano-animal.\n- **IAHAIO (International Association of Human-Animal Interaction Organizations)**: Entidade teto de diretrizes de suporte animal.\n\n<h3 id=\"topico-33-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, conselhos de psicologia e saúde mental estudam critérios estritos para prescrição de animais de apoio emocional, visando evitar abusos comerciais de falsas certificações.\n\n<h3 id=\"topico-33-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, cresce o número de pesquisas em programas de pós-graduação em Psicologia e Medicina Veterinária investigando os benefícios da Terapia Assistida por Animais (TAA) em centros de reabilitação para pessoas com deficiência.\n\n<h3 id=\"topico-33-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nEm serviços comunitários do Nordeste, cães de apoio e terapia têm sido introduzidos experimentalmente em associações de cegos para auxiliar no acolhimento de adultos em fase inicial de perda visual por glaucoma ou diabetes.\n\n<h3 id=\"topico-33-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, o Departamento de Psicologia e a Faculdade de Medicina Veterinária da UFRPE desenvolvem projetos de extensão sobre a influência de animais domésticos na qualidade de vida de pessoas idosas com deficiência sensorial.\n\n### 10. Situação atual\nAté 2026, busca-se a regulamentação clara das diferenças entre cão-guia, cão de serviço e animal de apoio emocional na legislação brasileira para proteger os direitos das pessoas cegas.\n\n<h3 id=\"topico-33-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a tentativa de proprietários de pets sem treinamento em exigir o ingresso de animais de apoio emocional em cabines de avião usando atestados genéricos, o que prejudica a credibilidade e a segurança dos cães-guia oficiais.\n\n<h3 id=\"topico-33-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudo prospectivo controlado sobre o impacto do vínculo com animais de estimação nos níveis de ansiedade de adultos com cegueira adquirida atendidos em hospitais públicos de Pernambuco.\n\n<h3 id=\"topico-33-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 11, 12, 29, 30, 32 e 34**.\n\n<h3 id=\"topico-33-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: NIMER, J.; LUNDAHL, B. Animal-assisted therapy: A meta-analysis. *Anthrozoös*, v. 20, n. 3, p. 225–238, 2007. DOI: 10.2752/089279307X224774.\n- **Fonte Secundária**: LEVINSON, Boris M. *Pet-Oriented Child Psychotherapy*. Springfield: Charles C Thomas, 1969.\n- **Fonte Secundária**: WELLS, Deborah L. The effects of animals on human health and well-being. *Journal of Social Issues*, v. 65, n. 3, p. 523–543, 2009.\n- **Fonte Secundária**: FARACO, C. B. *Interação humano-animal: o vínculo afetivo e a saúde mental*. Porto Alegre: EDIPUCRS, 2012.\n\n---\n\n"
+    },
+    {
+      "id": 34,
+      "number": "34",
+      "title": "Família e Deficiência Visual",
+      "category": "Inclusão, Direitos e Inteligência Artificial",
+      "vol": 4,
+      "slug": "34-familia-e-deficiencia-visual",
+      "summary": "A família constitui o primeiro núcleo de socialização, mediação e suporte afetivo da pessoa com deficiência visual. As dinâmicas familiares podem atuar tanto como o principal fator de alavancagem da autonomia e protagonismo do sujeito quanto como o maior obstáculo ao desenvolvimento, quando marcadas pela superproteção capacitista, infantilização prolongada ou pela negação das potencialidades do indivíduo.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-34-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-34-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-34-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-34-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-34-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-34-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-34-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-34-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-34-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-34-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-34-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-34-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-34-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-34-14"
+        }
+      ],
+      "markdown": "## 34 — FAMÍLIA E DEFICIÊNCIA VISUAL\n\n<h3 id=\"topico-34-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA família constitui o primeiro núcleo de socialização, mediação e suporte afetivo da pessoa com deficiência visual. As dinâmicas familiares podem atuar tanto como o principal **fator de alavancagem da autonomia** e protagonismo do sujeito quanto como o maior **obstáculo ao desenvolvimento**, quando marcadas pela superproteção capacitista, infantilização prolongada ou pela negação das potencialidades do indivíduo.\n\n<h3 id=\"topico-34-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\nHistoricamente, o nascimento de uma criança cega ou a perda da visão de um membro familiar provocava o isolamento e o \"escondimento\" do parente em casa por vergonha social ou culpa religiosa. No final do século XX, com o fortalecimento da orientação a pais no Atendimento Educacional Especializado (AEE), a família passou a ser compreendida como parceira ativa no processo educacional e de reabilitação.\n\n<h3 id=\"topico-34-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Superproteção Capacitista**: Comportamento hipervigilante em que os pais realizam todas as tarefas pelo filho cego (vestir, alimentar, locomover), impedindo-o de vivenciar a exploração tátil, o erro e o aprendizado autônomo.\n- **Infantilização Prolongada**: Tratar o jovem ou adulto cego como uma perpetua \"criança incapaz\", tolhendo sua privacidade, decisões financeiras, relacionamentos afetivos e escolhas profissionais.\n- **Expectativas Familiares Realistas**: Equilíbrio crucial em que a família nem exige um desempenho irreal (\"mito do super-herói\") nem desvaloriza a capacidade de realização acadêmica e pessoal do sujeito.\n- **Rede de Apoio Familiar e Orientação a Pais**: Programas de suporte psicológico que ajudam mães, pais e irmãos a superarem o luto do \"filho idealizado\" e a apoiarem a autonomia do \"filho real\".\n\n<h3 id=\"topico-34-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Profª Dra. Maria Eloísa Famá D'Antino (Pesquisadora, Brasil)**: Especialista nas dinâmicas de relações familiares e deficiência. (Fonte: Mackenzie).\n- **Berthold Lowenfeld (EUA, 1901–1994)**: Autor de *Our Blind Children: Growing and Learning with Them*, marco na orientação de pais de crianças cegas. (Fonte: 1956).\n\n<h3 id=\"topico-34-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Instituto Benjamin Constant (Centro de Apoio à Família, Brasil)**: Atendimento sistemático de orientação a pais e familiares.\n- **Fundação Dorina Nowill (Programa de Famílias, Brasil)**: Suporte social e psicológico a núcleos familiares de pessoas cegas.\n\n<h3 id=\"topico-34-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, a abordagem centrada na família (*Family-Centered Practice*) orienta as intervenções precoces, garantindo que as metas de autonomia sejam construídas em conjunto com os pais no ambiente doméstico real.\n\n<h3 id=\"topico-34-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, pesquisas apontam a centralidade da figura materna (\"mães atípicas\") como as principais cuidadoras e militantes do acesso ao AEE e transporte público para seus filhos cego(a)s.\n\n<h3 id=\"topico-34-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nNo Nordeste, a estrutura familiar estendida (envolvendo avós, tios e vizinhos) desempenha um papel de suporte comunitário relevante, embora frequentemente enfrente concepções assistencialistas e de superproteção arraigadas na cultura local.\n\n<h3 id=\"topico-34-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, associações de pais de pessoas com deficiência no Recife e na Região Metropolitana realizam rodas de conversa para sensibilizar famílias sobre a importância de permitir que o jovem cego use a bengala e frequente a universidade sozinho.\n\n### 10. Situação atual\nAté 2026, programas de orientação a pais utilizam redes sociais e grupos virtuais de apoio para conectar famílias de áreas isoladas do interior a relatos de autonomia de jovens cegos autônomos.\n\n<h3 id=\"topico-34-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre os limites da intervenção do Estado vs. a autonomia da família: quando a recusa da família em permitir que o filho cego aprenda Braille ou Orientação e Mobilidade configura violação do direito de acesso à educação e autonomia do estudante (LBI).\n\n<h3 id=\"topico-34-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudo qualitativo sobre o impacto do machismo estrutural na sobrecarga das mães de crianças cegas comparado ao engajamento dos pais nas áreas rurais do Agreste pernambucano.\n\n<h3 id=\"topico-34-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 01, 11, 12, 13, 30, 35 e 43**.\n\n<h3 id=\"topico-34-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. *Lei nº 13.146, de 6 de julho de 2015. Estatuto da Pessoa com Deficiência*. Brasília, 2015.\n- **Fonte Secundária**: D'ANTINO, Maria Eloísa Famá. *A família e o atendimento da pessoa com deficiência*. São Paulo: Memnon, 1998.\n- **Fonte Secundária**: LOWENFELD, Berthold. *Our Blind Children: Growing and Learning with Them*. Springfield: Charles C Thomas, 1956.\n- **Fonte Secundária**: BUSCAGLIA, Leo. *Os deficientes e seus pais*. 3. ed. Record, 1997.\n\n---\n\n"
+    },
+    {
+      "id": 35,
+      "number": "35",
+      "title": "Educação Especial e AEE",
+      "category": "Inclusão, Direitos e Inteligência Artificial",
+      "vol": 4,
+      "slug": "35-educacao-especial-e-aee",
+      "summary": "A Educação Especial na Perspectiva da Educação Inclusiva constitui a política pública e a abordagem pedagógica que garante o direito inalienável do estudante com deficiência visual de estar matriculado na sala de aula regular de sua escola de bairro, recebendo simultaneamente o Atendimento Educacional Especializado (AEE) no contraturno escolar para acesso a recursos, tecnologias e ao aprendizado de linguagens específicas (Braille, soroban, informática acessível).",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-35-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-35-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-35-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-35-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-35-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-35-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-35-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-35-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-35-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-35-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-35-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-35-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-35-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-35-14"
+        }
+      ],
+      "markdown": "## 35 — EDUCAÇÃO ESPECIAL E AEE\n\n<h3 id=\"topico-35-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA **Educação Especial na Perspectiva da Educação Inclusiva** constitui a política pública e a abordagem pedagógica que garante o direito inalienável do estudante com deficiência visual de estar matriculado na sala de aula regular de sua escola de bairro, recebendo simultaneamente o **Atendimento Educacional Especializado (AEE)** no contraturno escolar para acesso a recursos, tecnologias e ao aprendizado de linguagens específicas (Braille, soroban, informática acessível).\n\n<h3 id=\"topico-35-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Declaração de Salamanca (UNESCO, 1994)**: Marco internacional definitivo que consagrou o princípio de que as escolas regulares devem acolher todas as crianças, independentemente de suas condições físicas, intelectuais ou sensoriais.\n- **Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva (Brasil, 2008)**: Redefiniu a Educação Especial no Brasil, deixando de ser um \"sistema paralelo e substitutivo de ensino\" para tornar-se uma **modalidade transversal** que perpassa todos os níveis de ensino, garantindo a matrícula obrigatória na rede regular.\n- **Decreto Federal nº 7.611/2011**: Regulamentou o financiamento duplo do FUNDEB para alunos do AEE e a implementação das Salas de Recursos Multifuncionais (SRMs).\n\n<h3 id=\"topico-35-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3> e Funções dos Profissionais\n- **Atendimento Educacional Especializado (AEE)**: Serviço da Educação Especial prestado prioritariamente na Sala de Recursos Multifuncionais no contraturno da escolarização regular, onde se ensina o Braille, o soroban, o uso da tecnologia assistiva, orientação e mobilidade e adaptação de materiais.\n- **Plano de Atendimento Educacional Especializado (PAEE) / Plano de Desenvolvimento Individualizado (PDI)**: Planejamento pedagógico individualizado elaborado pelo professor de AEE que mapeia as barreiras, objetivos e recursos necessários para cada estudante cego.\n- **Função do Professor do AEE**: Docente especializado com formação em Educação Especial responsável por ensinar o Braille/soroban no contraturno e orientar o professor da sala comum sobre as adaptações necessárias.\n- **Função do Professor Braillista / Transcritor**: Profissional encarregado da transcrição, adaptação, revisão e impressão de provas, livros e atividades do texto em tinta para o Braille (e vice-versa).\n- **Função do Profissional de Apoio Escolar (Cuidadores/Monitores)**: Profissional que auxilia o estudante nas atividades de alimentação, higiene e locomoção no ambiente escolar, **NÃO devendo substituir a função pedagógica do professor regente**.\n\n### 4. Análise Comparativa: Modelo Brasileiro (AEE) vs. Modelos Internacionais (EUA/Europa)\n\n| País / Modelo | Estrutura de Matrícula | Atendimento Especializado | Profissionais de Suporte |\n| :--- | :--- | :--- | :--- |\n| **Brasil (AEE/Inclusivo)** | Matrícula obrigatória na sala regular da rede comum | Contraturno na Sala de Recursos Multifuncionais (SRM) | Professor de AEE + Transcritor Braillista + Profissional de Apoio |\n| **EUA (IEP / Full Inclusion / Special Schools)** | Opção entre escola regular com IEP, classe especial ou *State School for the Blind* | TVI (*Teacher of Students with Visual Impairments*) atua dentro da classe ou contraturno | TVI itinerante + COMS (Instrutor de OM) + Paraprofissional |\n| **Europa (Ex.: Espanha - ONCE)** | Modelo inclusivo com suporte da ONCE | Equipes itinerantes multidisciplinares da ONCE que visitam a escola regular | *Maestro itinerante* especializado da ONCE + Adaptador técnico |\n\n### 5. Principais pessoas\n- **Profª Dra. Rosângela Machado (Educadora/Pesquisadora, Brasil)**: Uma das principais formuladoras da Política Nacional de Educação Inclusiva do MEC de 2008. (Fonte: MEC/UFSC).\n- **Profª Dra. Maria Teresa EglÉR Mantoan (Pesquisadora, Brasil)**: Professora da UNICAMP, maior defensora teórica da inclusão incondicional nas escolas comuns. (Fonte: *Inclusão Escolar: O que é? Por quê? Como fazer?*, 2003).\n\n### 6. Principais instituições\n- **SECADI / MEC (Secretaria de Educação Continuada, Alfabetização, Diversidade e Inclusão)**: Gestora das políticas de Educação Especial do governo federal brasileiro.\n- **ONCE (Organización Nacional de Ciegos Españoles, Espanha)**: Modelo internacional privado/público de suporte educacional integral.\n\n### 7. Desenvolvimento internacional\nInternacionalmente, a Declaração de Salamanca e a Convenção da ONU (Artigo 24) consagraram o direito à educação inclusiva de qualidade com oferta garantida de Braille.\n\n### 8. Desenvolvimento brasileiro\nNo Brasil, a implantação de milhares de Salas de Recursos Multifuncionais financiada pelo MEC ampliou o acesso de estudantes cego(a)s da educação infantil à universidade.\n\n### 9. Desenvolvimento no Nordeste\nAs redes públicas do Nordeste avançaram expressivamente no número de matrículas de estudantes cego(a)s no ensino regular, enfrentando contudo desafios na garantia de transporte escolar acessível e na nomeação de transcritores Braille concursados.\n\n### 10. Pernambuco\nEm Pernambuco, a rede estadual e a rede municipal de Recife estruturaram os Centros de Apoio Pedagógico (CAP/PE e CAPM/Recife) para abastecer as Salas de Recursos Multifuncionais com livros didáticos em Braille adaptados pelo PNLD.\n\n### 11. Situação atual\nAté 2026, o debate foca no aprimoramento da avaliação pedagógica inclusiva no ENEM e nos exames estaduais (SAEPE em Pernambuco), garantindo ledores qualificados, tempo adicional e provas em Braille/digital.\n\n### 12. Controvérsias e debates\nDebate intenso sobre a tentativa de reabertura de classes e escolas especiais exclusivas (Decreto Federal nº 10.502/2020, posteriormente suspenso pelo STF): defensores da inclusão apontam que escolas especiais segregam os estudantes, enquanto críticos apontam a falta de preparação das escolas regulares para o Braille fluente.\n\n### 13. Lacunas de pesquisa\nAvaliação da proficiência em Braille dos professores de AEE atuantes nos municípios do Sertão de Pernambuco.\n\n### 14. Conceitos que conectam este tópico a outros\nConecta-se aos **Módulos 09, 10, 16, 17, 36, 40 e 41**.\n\n<h3 id=\"topico-35-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: UNESCO. *Declaração de Salamanca sobre Princípios, Políticas e Práticas na Área das Necessidades Educativas Especiais*. Salamanca: UNESCO, 1994.\n- **Fonte Primária**: BRASIL. Ministério da Educação. *Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva*. Brasília: MEC/SEESP, 2008.\n- **Fonte Secundária**: MANTOAN, Maria Teresa Eglér. *Inclusão Escolar: O que é? Por quê? Como fazer?*. São Paulo: Moderna, 2003. ISBN: 978-8516037048.\n- **Fonte Secundária**: MACHADO, Rosângela. *Educação Inclusiva: de quem é a responsabilidade?*. Salvador: EDUFBA, 2009.\n\n---\n\n"
+    },
+    {
+      "id": 36,
+      "number": "36",
+      "title": "Acessibilidade",
+      "category": "Inclusão, Direitos e Inteligência Artificial",
+      "vol": 4,
+      "slug": "36-acessibilidade",
+      "summary": "A acessibilidade é a condição de possibilidade para o exercício de todos os direitos humanos e da cidadania plena pela pessoa com deficiência visual. Trata-se da garantia de acesso autônomo, seguro e independente a espaços urbanos, edificações, transportes, informações, comunicações, conteúdos digitais, produtos e serviços culturais. Sem acessibilidade, o ambiente atua como um elemento opressor que produz a deficiência.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-36-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-36-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-36-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-36-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-36-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-36-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-36-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-36-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-36-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-36-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-36-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-36-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-36-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-36-14"
+        }
+      ],
+      "markdown": "## 36 — ACESSIBILIDADE\n\n<h3 id=\"topico-36-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA **acessibilidade** é a condição de possibilidade para o exercício de todos os direitos humanos e da cidadania plena pela pessoa com deficiência visual. Trata-se da garantia de acesso autônomo, seguro e independente a espaços urbanos, edificações, transportes, informações, comunicações, conteúdos digitais, produtos e serviços culturais. Sem acessibilidade, o ambiente atua como um elemento opressor que produz a deficiência.\n\n<h3 id=\"topico-36-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Movimento Arquitetônico de Eliminação de Barreiras (Anos 1960–1970)**: Início da normatização técnica de acessibilidade física nos EUA e Europa.\n- **Surgimento da ABNT NBR 9050 (Brasil, 1994/2015/2020)**: Primeira norma técnica oficial da Associação Brasileira de Normas Técnicas para acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos.\n- **Revolução da Acessibilidade Digital (WCAG - 1999 a 2026)**: Criação das diretrizes do W3C para tornar a World Wide Web acessível a leitores de tela e linhas Braille.\n- **Lei Brasileira de Inclusão (LBI - 2015)**: Positivou as **6 Dimensões da Acessibilidade** de Romeu Kazumi Sassaki no ordenamento jurídico nacional.\n\n<h3 id=\"topico-36-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>: As 6 Dimensões da Acessibilidade (Sassaki / LBI)\n1. **Acessibilidade Arquitetônica**: Ausência de barreiras físicas e presença de rampas, sinalização tátil de piso, corrimãos em prédios públicos e privados.\n2. **Acessibilidade Urbana / no Transporte**: Calçadas rebaixadas, piso tátil direcionado e de alerta, semáforos sonoros, ônibus com avisos vocais de parada e frotas adaptadas.\n3. **Acessibilidade Comunicacional**: Eliminação de barreiras na comunicação interpessoal, escrita e virtual (disponibilização de textos em Braille, caracteres ampliados, audiodescrição em vídeos e eventos).\n4. **Acessibilidade Digital / Informacional**: Websites, aplicativos e documentos digitais estruturados segundo as normas da WCAG (tags de imagens alt, contraste, navegabilidade por teclado).\n5. **Acessibilidade Pedagógica / Instrumental**: Recursos didáticos, materiais manipuláveis, soroban e provas adaptadas sem barreiras conceituais.\n6. **Acessibilidade Atitudinal**: Eliminação de preconceitos, estereótipos, infantilização e capacitismo através do acolhimento respeitoso e consciente.\n\n### 4. Acessibilidade Digital: As Diretrizes WCAG (Web Content Accessibility Guidelines / W3C)\n- **Princípio 1: Perceptível**: As informações e componentes da interface devem ser apresentados aos usuários em formas que eles possam perceber (ex.: inclusão do texto alternativo `alt=\"descrição\"` para leitores de tela em todas as imagens).\n- **Princípio 2: Operável**: Todos os componentes da interface devem ser navegáveis via teclado (sem exigir o uso do mouse).\n- **Princípio 3: Compreensível**: O conteúdo e a operação do site devem ser claros, previsíveis e com ordem lógica de cabeçalhos (`<h1>`, `<h2>`).\n- **Princípio 4: Robusto**: O conteúdo deve ser compatível com diferentes tecnologias assistivas (leitores de tela NVDA, JAWS, VoiceOver, leitores Braille).\n\n### 5. Principais pessoas\n- **Romeu Kazumi Sassaki (Pesquisador/Consultor, Brasil, 1938–2022)**: Considerado o \"Pai da Acessibilidade no Brasil\", sistematizou as dimensões da acessibilidade. (Fonte: *Inclusão: construindo uma sociedade para todos*, 1999).\n- **Tim Berners-Lee (Inventor da Web/W3C, Reino Unido)**: Criador do W3C e da WAI (Web Accessibility Initiative), afirmando: *\"O poder da Web está em sua universalidade. O acesso de todos, independentemente da deficiência, é um aspecto essencial.\"*\n\n### 6. Principais instituições\n- **W3C / WAI (World Wide Web Consortium / Web Accessibility Initiative)**: Entidade internacional emissora das normas WCAG.\n- **ABNT (Associação Brasileira de Normas Técnicas, Brasil)**: Emissora da NBR 9050 e NBR 16537 (sinalização tátil no piso).\n- **Secretaria Nacional dos Direitos da Pessoa com Deficiência (SNDPD/Brasil)**: Órgão gestor de políticas de acessibilidade.\n\n### 7. Desenvolvimento internacional\nInternacionalmente, a Diretiva Europeia de Acessibilidade (*European Accessibility Act*) exige que todas as empresas e serviços digitais que operam na União Europeia sejam WCAG acessíveis sob pena de pesadas sanções financeiras.\n\n### 8. Desenvolvimento brasileiro\nNo Brasil, o Decreto Federal nº 5.296/2004 e a Lei Brasileira de Inclusão (LBI, 2015) tornaram a acessibilidade obrigatória em todos os portais governamentais e estabelecimentos comerciais do país.\n\n### 9. Desenvolvimento no Nordeste\nO Nordeste apresenta significativos desafios de acessibilidade urbana nas cidades históricas (como Olinda-PE e Salvador-BA), onde a preservação do patrimônio arquitetônico precisa ser harmonizada com soluções de acessibilidade tátil e rampas.\n\n### 10. Pernambuco\nEm Pernambuco, a Lei Estadual de Acessibilidade e a atuação do Grande Recife Consórcio de Transporte fiscalizam a instalação de sinalização sonora em frota de ônibus e estações de BRT, além de projetos de rotas acessíveis no centro histórico do Recife.\n\n### 11. Situação atual\nAté 2026, vigora a norma **WCAG 2.2 / 3.0**, estabelecendo critérios rígidos de acessibilidade para aplicativos de smartphones, sistemas de pagamento digital e interfaces de telas sensíveis ao toque sem relevo.\n\n### 12. Controvérsias e debates\nDebate sobre a instalação incorreta de Piso Tátil Direcional e de Alerta por prefeituras do interior: calçadas onde o piso tátil é instalado de forma errônea guiando o pedestre cego direto para postes, árvores ou sarjetas.\n\n### 13. Lacunas de pesquisa\nAuditoria de acessibilidade digital WCAG nos portais eletrônicos de todas as 184 prefeituras municipais do estado de Pernambuco.\n\n### 14. Conceitos que conectam este tópico a outros\nConecta-se aos **Módulos 24, 28, 30, 35, 37 e 41**.\n\n<h3 id=\"topico-36-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. *Lei nº 13.146, de 6 de julho de 2015. Estatuto da Pessoa com Deficiência*. Título III - Da Acessibilidade. Brasília, 2015.\n- **Fonte Primária**: ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS (ABNT). *NBR 9050: Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos*. Rio de Janeiro: ABNT, 2020.\n- **Fonte Primária**: W3C. *Web Content Accessibility Guidelines (WCAG) 2.2*. W3C Recommendation, 2023. Available at: https://www.w3.org/TR/WCAG22/.\n- **Fonte Secundária**: SASSAKI, Romeu Kazumi. *Inclusão: construindo uma sociedade para todos*. 3. ed. Rio de Janeiro: WVA, 1999.\n\n---\n\n"
+    },
+    {
+      "id": 37,
+      "number": "37",
+      "title": "Informática e Braille Digital",
+      "category": "Inclusão, Direitos e Inteligência Artificial",
+      "vol": 4,
+      "slug": "37-informatica-e-braille-digital",
+      "summary": "A informática e a tecnologia digital promoveram a maior revolução no acesso à informação para a pessoa com deficiência visual desde a invenção do Braille. O computador e o smartphone, quando integrados a leitores de tela e linhas Braille digitais, permitiram que a pessoa cega leia jornais do mundo em tempo real, acesse bibliotecas digitais com milhões de livros, programe softwares, redija documentos acadêmicos e trabalhe de forma totalmente autônoma.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-37-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-37-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-37-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-37-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-37-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-37-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-37-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-37-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-37-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-37-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-37-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-37-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-37-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-37-14"
+        }
+      ],
+      "markdown": "## 37 — INFORMÁTICA E BRAILLE DIGITAL\n\n<h3 id=\"topico-37-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA informática e a tecnologia digital promoveram a maior revolução no acesso à informação para a pessoa com deficiência visual desde a invenção do Braille. O computador e o smartphone, quando integrados a **leitores de tela** e **linhas Braille digitais**, permitiram que a pessoa cega leia jornais do mundo em tempo real, acesse bibliotecas digitais com milhões de livros, programe softwares, redija documentos acadêmicos e trabalhe de forma totalmente autônoma.\n\n<h3 id=\"topico-37-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Primeiros Experimentos (Anos 1980)**: Leitores de tela rudimentares para MS-DOS que sintetizavam voz em placas de som internas.\n- **Surgimento do DOSVOX (Brasil, 1993)**: Desenvolvido por Antônio Borges no NCE/UFRJ, o DOSVOX utilizava sintetizador de voz em português gravado por seres humanos, permitindo o primeiro acesso em massa de cegos brasileiros a processadores de texto, jogos e correio eletrônico.\n- **Surgimento dos Leitores Comerciais de Tela (JAWS, 1995)**: Lançamento do JAWS (*Job Access With Speech*) para Windows pela Freedom Scientific, tornando-se o padrão comercial global.\n- **A Revolução do NVDA (2006)**: Michael Curran e James Teh, dois programadores cegos australianos, fundam a **NV Access** e criam o **NVDA (NonVisual Desktop Access)**, leitor de tela gratuito, poderoso e de código aberto que democratizou o acesso digital mundial.\n- **Leitores Nativos em Mobile (VoiceOver e TalkBack, 2009–2010)**: A Apple lança o VoiceOver integrado nativamente no iPhone 3GS (2009); o Google lança o TalkBack no Android, tornando o smartphone touch acessível sem telas físicas.\n- **Código Braille ASCII e Unicode Braille**: Padronização dos caracteres computacionais que mapeiam os 64 sinais da cela Braille para o código ASCII (pontos em matriz de 8 bits) e tabela de glifos Unicode (`U+2800` a `U+28FF`).\n\n<h3 id=\"topico-37-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Braille ASCII / Unicode Braille**: Notação digital que converte sequências de caracteres computacionais comuns em sinais da cela Braille para processamento em softwares e impressoras.\n- **Leitor de Tela (*Screen Reader*)**: Software de tecnologia assistiva que converte as informações textuais e elementos da interface gráfica da tela em fala sintetizada ou em comandos enviados para uma Linha Braille.\n  - **Principais Leitores para Computador (Windows/Linux/Mac)**: NVDA (gratuito/open-source), JAWS (pago/comercial), Orca (Linux), VoiceOver (macOS).\n  - **Principais Leitores para Mobile (Smartphones)**: VoiceOver (iOS), TalkBack (Android).\n- **Linha Braille (*Refreshable Braille Display*)**: Equipamento de hardware composto por uma fila de 14, 20, 40 ou 80 celas Braille eletromecânicas cujos pinos sobem e descem em tempo real ao navegar pelo texto na tela do computador ou celular.\n- **Acessibilidade a Documentos (PDF/UA, EPUB3, HTML5)**: Padrões de estruturação digital de arquivos para garantir a navegabilidade correta por leitores de tela (inclusão de títulos, tabelas estruturadas, tags de imagem).\n\n<h3 id=\"topico-37-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Michael Curran e James Teh (Programadores/Usuários, Austrália)**: Criadores do leitor de tela gratuito NVDA. (Fonte: NV Access, 2006).\n- **Prof. Antônio Borges (Engenheiro/Pesquisador, Brasil)**: Criador do sistema DOSVOX no NCE/UFRJ. (Fonte: UFRJ, 1993).\n- **Ted Henter (Inventor, EUA)**: Fundador da Henter-Joyce e criador do leitor de tela JAWS. (Fonte: Freedom Scientific).\n\n<h3 id=\"topico-37-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **NV Access (Austrália)**: Fundação gestora do projeto NVDA.\n- **Freedom Scientific / Vispero (EUA)**: Maior empresa desenvolvedora do JAWS.\n- **Apple Inc. & Google LLC**: Desenvolvedoras dos leitores nativos VoiceOver e TalkBack.\n\n<h3 id=\"topico-37-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, a acessibilidade a linguagens de programação (Python, JavaScript, C++) permitiu o surgimento de uma geração de engenheiros de software cego(a)s atuando em gigantes de tecnologia (Big Techs).\n\n<h3 id=\"topico-37-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, o leitor de tela gratuito NVDA e o histórico DOSVOX são as principais ferramentas de letramento digital utilizadas nas escolas públicas, salas de recursos e universidades.\n\n<h3 id=\"topico-37-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nEm universidades do Nordeste, cursos de extensão e projetos de inclusão digital capacitam estudantes e adultos cego(a)s no uso avançado do NVDA e do TalkBack no smartphone.\n\n<h3 id=\"topico-37-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, o Setor Braille da Biblioteca Pública do Estado e os laboratórios de computação da UFPE, UPE e IFPE oferecem estações de trabalho adaptadas com leitores de tela e linhas Braille para pesquisa de estudantes cego(a)s.\n\n### 10. Situação atual\nAté 2026, com o avanço da **Inteligência Artificial multimodal integrada a leitores de tela**, o NVDA e o VoiceOver utilizam plugins de IA para descrever instantaneamente imagens não etiquetadas, gráficos estatísticos complexos e layouts de aplicativos não acessíveis.\n\n<h3 id=\"topico-37-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a acessibilidade de arquivos PDF \"imagem\" (escaneados sem camada de texto OCR): a distribuição por professores de arquivos em PDF não acessíveis nas universidades continua sendo uma das maiores barreiras à inclusão digital no ensino superior.\n\n<h3 id=\"topico-37-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nDesenvolvimento de sintetizadores de voz em Português do Brasil com entonação regional nordestina e vocabulário adaptado de código aberto para o leitor NVDA.\n\n<h3 id=\"topico-37-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 07, 10, 24, 36, 38 e 50**.\n\n<h3 id=\"topico-37-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: NV ACCESS. *NVDA User Guide: NonVisual Desktop Access*. Brisbane: NV Access, 2024. Available at: https://www.nvaccess.org.\n- **Fonte Secundária**: BORGES, José Antonio. *O sistema DOSVOX e a inclusão digital do cego no Brasil*. Rio de Janeiro: NCE/UFRJ, 2002.\n- **Fonte Secundária**: LAZZAROTTO, G. *Acessibilidade Digital e Leitores de Tela*. São Paulo: Ed. Blucher, 2018.\n\n---\n\n"
+    },
+    {
+      "id": 38,
+      "number": "38",
+      "title": "Inteligência Artificial e Deficiência Visual",
+      "category": "Inclusão, Direitos e Inteligência Artificial",
+      "vol": 4,
+      "slug": "38-inteligencia-artificial-e-deficiencia-visual",
+      "summary": "A ascensão da Inteligência Artificial (IA) Multimodal, da visão computacional avançada, dos modelos de linguagem de grande porte (LLMs) e do processamento de linguagem natural até o ano de 2026 instaurou o marco tecnológico mais profundo de autonomia para pessoas com deficiência visual desde o surgimento da informática. A IA atua como um assistente de visão computacional em tempo real capaz de interpretar o mundo físico e digital, convertendo imagens em descrições textuais e de áudio de altíssima precisão.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-38-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-38-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-38-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-38-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-38-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-38-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-38-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-38-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-38-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-38-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-38-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-38-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-38-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-38-14"
+        }
+      ],
+      "markdown": "## 38 — INTELIGENCIA ARTIFICIAL E DEFICIÊNCIA VISUAL\n\n<h3 id=\"topico-38-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA ascensão da **Inteligência Artificial (IA) Multimodal**, da visão computacional avançada, dos modelos de linguagem de grande porte (LLMs) e do processamento de linguagem natural até o ano de 2026 instaurou o marco tecnológico mais profundo de autonomia para pessoas com deficiência visual desde o surgimento da informática. A IA atua como um assistente de visão computacional em tempo real capaz de interpretar o mundo físico e digital, convertendo imagens em descrições textuais e de áudio de altíssima precisão.\n\n### 2. Estado da Arte da Inteligência Artificial (2024–2026)\n- **Modelos Multimodais Avançados (GPT-4o, Gemini 1.5/3.6 Multimodal, Claude 3.5 Sonnet)**: Capacidade de processar simultaneamente texto, imagens de alta resolução, vídeos em tempo real e áudio direto, permitindo que o usuário cego aponte a câmera do celular para qualquer cena e dialogue em linguagem natural com a IA.\n- **Visão Computacional e Descrição Instantânea de Cenas**:\n  - **Be My AI (Be My Eyes + OpenAI)**: Ferramenta integrada ao aplicativo Be My Eyes que descreve fotos, layouts de produtos, cardápios e placas de rua com detalhes minuciosos, respondendo a perguntas de acompanhamento do usuário cego.\n  - **Orcam MyEye / Envision Glasses**: Óculos inteligentes com câmera acoplada que realizam OCR instantâneo, reconhecimento facial de conhecidos, leitura de cédulas e descrição de objetos ao alcance da vista.\n  - **Lookout (Google) e Seeing AI (Microsoft)**: Aplicativos móveis gratuitos para leitura rápida de texto, reconhecimento de documentos e moedas.\n- **IA na Leitura de Documentos Complexos e OCR Inteligente**: Capacidade da IA de ler PDFs mal formatados, tabelas complexas, manuscritos antigos, equações matemáticas em rascunho e transformar o conteúdo em Braille estruturado ou texto limpo para o leitor de tela.\n- **Geração Automática de Materiais Braille e Táteis com IA**: Softwares assistidos por IA que analisam diagramas de livros didáticos em tinta e geram automaticamente arquivos vetoriais otimizados para impressão 3D ou para papel microcapsulado (*Swell Paper*), reduzindo em até 90% o tempo de produção do transcritor braillista.\n\n### 3. Duas Investigações Centrais do Módulo\n\n#### A. \"Como a IA pode transformar conteúdo visual em conteúdo acessível para pessoas cegas?\"\n- **Tradução Multimodal Contextual**: A IA não apenas diz \"há um carro na foto\", mas interpreta a intenção da cena: *\"Foto de uma rua movimentada; há um buraco grande de obras a dois passos da calçada à sua esquerda e um ônibus da linha 060 aproximando-se da parada à direita.\"*\n- **Acessibilidade a Arte e Gráficos**: Transcrição audiodescritiva automática de obras de arte em museus, gráficos estatísticos e Infográficos de jornais.\n- **Leitura de Interfaces inacessíveis**: A IA lê os botões de telas touch lisas sem acessibilidade nativa (ex.: painéis digitais de máquinas de lavar, elevadores modernos ou micro-ondas sem botões físicos).\n\n#### B. \"Como a IA pode auxiliar professores na produção de materiais Braille e táteis?\"\n- **Transcrição e Validação Automatizada de Grafias**: Softwares de IA convertem textos acadêmicos complexos diretamente para a Grafia Braille em Língua Portuguesa (GBLP) e Grafia Matemática, identificando automaticamente erros de transcrição e alinhando com as normas da CBB.\n- **Vetorização de Imagens para Relevo**: Algoritmos de IA simplificam imagens visuais poluídas, extraindo apenas os contornos essenciais para a produção rápida de matrizes de Thermoform ou mapas táteis.\n- **Geração de Audiodescrição Didática**: Assistentes de IA geram rascunhos de audiodescrição para figuras e ilustrações de livros do PNLD, liberando o professor para a revisão pedagógica final.\n\n<h3 id=\"topico-38-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Sam Altman e Greg Brockman (OpenAI)**: Desenvolvedores das arquiteturas GPT multimodais que impulsionaram o Be My AI.\n- **Hans Jørgen Wiberg (Ativista/Usuário, Dinamarca)**: Cego, criador do aplicativo mundial **Be My Eyes** (2015), que integrou a IA ao serviço de apoio a cegos. (Fonte: Be My Eyes).\n- **Profª Dra. Ednalva Ribeiro (Pesquisadora/Engenheira, Brasil)**: Estudiosa das aplicações de Inteligência Artificial em Tecnologia Assistiva no Brasil.\n\n<h3 id=\"topico-38-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Be My Eyes / OpenAI**: Parceria responsável pelo Be My AI.\n- **Microsoft Research (Seeing AI)**: Desenvolvedora de soluções de visão computacional acessível.\n- **Google Research (Google Lookout / Gemini)**: Projetos de inteligência artificial aplicada à acessibilidade visual.\n\n<h3 id=\"topico-38-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, os padrões de governança de IA exigem que os novos modelos de Inteligência Artificial sigam o princípio da \"Acessibilidade desde a Concepção\" (*Accessibility by Design*).\n\n<h3 id=\"topico-38-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, pesquisadores de universidades federais e institutos federais desenvolvem soluções locais de IA para reconhecimento de moedas brasileiras (Real) e navegação indoor em edifícios públicos.\n\n<h3 id=\"topico-38-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nNo Nordeste, programas de pós-graduação em Ciência da Computação e Engenharia de Software da UFPE, UFC e UFRN desenvolvem startups e protótipos de IA para descrição audiodescritiva da fauna e flora regional para cegos.\n\n<h3 id=\"topico-38-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, o Porto Digital e centros de pesquisa da UFPE investigam o uso de assistentes de IA generativa em smartphones para auxiliar estudantes cego(a)s na leitura de livros e provas universitárias.\n\n### 10. Situação atual\nAté 2026, os óculos inteligentes com câmeras de IA leve integrada e conexão 5G/6G funcionam como assistentes contínuos de orientação e leitura instantânea no cotidiano das pessoas cegas.\n\n<h3 id=\"topico-38-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebates éticos sobre \"Alucinações de IA\" na descrição de ambientes e medicamentos: a IA pode inventar informações detalhadas incorretas com tom de certeza, o que representa riscos à segurança se o usuário cego confiar cegamente na descrição de um rótulo de remédio perigoso.\n\n<h3 id=\"topico-38-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nDesenvolvimento de métricas científicas para avaliar a taxa de precisão e a confiabilidade de alucinação de modelos de IA multimodal na transcrição de fórmulas químicas complexas em Braille no Brasil.\n\n<h3 id=\"topico-38-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 07, 10, 24, 26, 36 e 37**.\n\n<h3 id=\"topico-38-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: OPENAI. *GPT-4 Technical Report: Multimodal capabilities and accessibility applications*. San Francisco: OpenAI, 2023. Available at: https://arxiv.org/abs/2303.08774.\n- **Fonte Primária**: BE MY EYES. *Be My AI: Transforming visual accessibility with Generative AI*. Copenhagen: Be My Eyes, 2023. Available at: https://www.bemyeyes.com.\n- **Fonte Secundária**: SEEING AI. *Microsoft Seeing AI: Intelligent camera app for the blind community*. Redmond: Microsoft, 2022.\n- **Fonte Secundária**: SILVA, R. A.; BORGES, J. A. Inteligência artificial e visão computacional na tecnologia assistiva. *Revista Brasileira de Computação Aplicada*, v. 15, p. 45–58, 2023.\n\n---\n\n"
+    },
+    {
+      "id": 39,
+      "number": "39",
+      "title": "Direitos Humanos e Modelos da Deficiência",
+      "category": "Inclusão, Direitos e Inteligência Artificial",
+      "vol": 4,
+      "slug": "39-direitos-humanos-e-modelos-da-deficiencia",
+      "summary": "A trajetória jurídica, sociológica e política da pessoa com deficiência é demarcada pela transição histórica entre quatro grandes Modelos da Deficiência: o Modelo Caritativo/Religioso, o Modelo Médico/Biológico, o Modelo Social e o Modelo Biopsicossocial fundado nos Direitos Humanos. A compreensão desses modelos é fundamental para identificar o capacitismo estrutural e garantir a cidadania plena.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-39-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-39-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-39-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-39-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-39-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-39-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-39-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-39-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-39-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-39-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-39-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-39-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-39-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-39-14"
+        }
+      ],
+      "markdown": "## 39 — DIREITOS HUMANOS E MODELOS DA DEFICIÊNCIA\n\n<h3 id=\"topico-39-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA trajetória jurídica, sociológica e política da pessoa com deficiência é demarcada pela transição histórica entre quatro grandes **Modelos da Deficiência**: o Modelo Caritativo/Religioso, o Modelo Médico/Biológico, o Modelo Social e o Modelo Biopsicossocial fundado nos Direitos Humanos. A compreensão desses modelos é fundamental para identificar o capacitismo estrutural e garantir a cidadania plena.\n\n<h3 id=\"topico-39-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3> e Comparação Sistemática dos 4 Modelos da Deficiência\n\n#### A. Modelo Caritativo / Religioso (Pré-Modernidade ao Século XIX)\n- **Fundamento**: A deficiência visual é encarada sob a ótica da caridade, da piedade, do infortúnio, da expiação de pecados ou do sofrimento divino.\n- **Papel da Pessoa Cega**: Objeto passivo de esmolas, asilo, tutela filantrópica ou cuidado institucional sem direitos políticos ou cidadania.\n- **Consequência**: Manutenção da dependência e invisibilização do sujeito como agente de direito.\n\n#### B. Modelo Médico / Reabilitador (Século XIX a Meados do Século XX)\n- **Fundamento**: A deficiência é definida como um problema estritamente **biológico, patológico e individual** alocado no corpo da pessoa (lesão ocular ou lesão no nervo óptico).\n- **Papel da Pessoa Cega**: \"Paciente\" a ser curado, corrigido ou reabilitado para se adequar às normas da sociedade vidente.\n- **Consequência**: Se o sujeito não puder ser \"curado\", ele é culpabilizado por não se adaptar à sociedade inacessível.\n\n#### C. Modelo Social da Deficiência (Década de 1970 aos Anos 1990)\n- **Origem/Autores**: Movimento de Pessoas com Deficiência no Reino Unido (UPIAS - *Union of the Physically Impaired Against Segregation*, Paul Hunt, Michael Oliver).\n- **Fundamento**: Separação conceitual entre **Impedimento** (*Impairment* - a lesão corporal/sensorial) e **Deficiência** (*Disability* - a opressão social e as barreiras ambientais). A deficiência não está no olho do cego, mas nas calçadas sem piso tátil, nos livros sem Braille e na sociedade capacitista.\n- **Consequência**: Transferência da responsabilidade de mudança do indivíduo para a sociedade (remoção de barreiras).\n\n#### D. Modelo Biopsicossocial / Direitos Humanos (Século XXI - Convenção da ONU/2006)\n- **Fundamento**: Matriz holística consagrada na Convenção sobre os Direitos das Pessoas com Deficiência (ONU, 2006) e na CIF/OMS. A deficiência é compreendida como o **resultado da interação** entre impedimentos corporais de longo prazo e as diversas barreiras (arquitetônicas, comunicacionais, atitudinais) que impedem a participação plena em igualdade de condições.\n- **Papel da Pessoa Cega**: Sujeito pleno de direitos humanos, cidadão ativo, formulador de políticas (\"Nada Sobre Nós, Sem Nós\").\n\n<h3 id=\"topico-39-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Capacitismo (*Ableism*)**: Discriminação, preconceito e opressão estrutural contra pessoas com deficiência, baseada na falsa premissa de que corpos e mentes sem deficiência são \"superiores\" ou \"normais\".\n- **Autonomia e Autodeterminação**: Garantia jurídica do livre arbítrio, da tomada de decisões informada e da capacidade legal (superação da interdição civil rígida pela LBI no Brasil).\n- **Nada Sobre Nós, Sem Nós (*Nothing About Us Without Us*)**: Lema político mundial exigindo que nenhuma política, lei ou recurso acessível seja criado sem a participação direta de pessoas com deficiência.\n\n<h3 id=\"topico-39-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Michael Oliver (Sociólogo/Ativista, Reino Unido, 1945–2019)**: Sociólogo cego/cadeirante que formulou conceitualmente o Modelo Social da Deficiência. (Fonte: *The Politics of Disablement*, 1990).\n- **Paul Hunt (Ativista, Reino Unido, 1937–1979)**: Fundador da UPIAS e precursor dos *Disability Studies*. (Fonte: *Stigma: The Experience of Disability*, 1966).\n- **Profª Dra. Debora Diniz (Pesquisadora/Antropóloga, Brasil)**: Uma das maiores teóricas do Modelo Social e do feminismo da deficiência no Brasil. (Fonte: *O que é deficiência*, 2007).\n\n<h3 id=\"topico-39-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **UPIAS (Union of the Physically Impaired Against Segregation, Reino Unido)**: Berço do Modelo Social.\n- **ONU - Comitê sobre os Direitos das Pessoas com Deficiência**: Órgão da ONU supervisor do cumprimento do modelo biopsicossocial mundial.\n\n<h3 id=\"topico-39-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nA aprovação da Convenção sobre os Direitos das Pessoas com Deficiência pela ONU em 2006 vinculou juridicamente mais de 180 países à obrigatoriedade da adoção do modelo biopsicossocial.\n\n<h3 id=\"topico-39-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nO Brasil ratificou a Convenção da ONU com status de **Emenda Constitucional** (Decreto nº 6.949/2009) e aprovou a **Lei Brasileira de Inclusão** (Lei nº 13.146/2015), consagrando o modelo biopsicossocial no direito nacional.\n\n<h3 id=\"topico-39-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nEntidades e conselhos de direitos das pessoas com deficiência no Nordeste utilizam a matriz biopsicossocial para fiscalizar a inclusão laboral e o combate à discriminação em concursos públicos regionais.\n\n<h3 id=\"topico-39-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, o Conselho Estadual dos Direitos da Pessoa com Deficiência (CONED-PE) e a Defensoria Pública atuam na defesa da capacidade civil plena e da autonomia de pessoas com deficiência visual.\n\n### 10. Situação atual\nAté 2026, o grande desafio é a consolidação da Avaliação Biopsicossocial Unificada no Brasil para acesso a benefícios sociais, superando laudos médicos estritamente optométricos.\n\n<h3 id=\"topico-39-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a avaliação biopsicossocial unificada no Brasil: lentidão do governo federal em regulamentar o instrumento único de avaliação de deficiência (Índice de Funcionalidade Brasileiro Modificado - IFBrM), gerando insegurança jurídica.\n\n<h3 id=\"topico-39-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nAplicação prática do IFBrM em populações com deficiência visual no Sertão de Pernambuco e sua eficácia na concessão justa do Benefício de Prestação Continuada (BPC).\n\n<h3 id=\"topico-39-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 01, 36, 40, 41, 42 e 43**.\n\n<h3 id=\"topico-39-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU). *Convenção sobre os Direitos das Pessoas com Deficiência*. Nova York: ONU, 2006.\n- **Fonte Secundária**: OLIVER, Michael. *The Politics of Disablement*. London: Macmillan, 1990. ISBN: 978-0333432938.\n- **Fonte Secundária**: DINIZ, Debora. *O que é deficiência*. São Paulo: Brasiliense, 2007. ISBN: 978-8511001259.\n- **Fonte Secundária**: RIBEIRO, Lauro. *Direitos Humanos e Deficiência*. Rio de Janeiro: Editora Lumen Juris, 2012.\n\n---\n\n"
+    },
+    {
+      "id": 40,
+      "number": "40",
+      "title": "Legislação Internacional",
+      "category": "Inclusão, Direitos e Inteligência Artificial",
+      "vol": 4,
+      "slug": "40-legislacao-internacional",
+      "summary": "O arcabouço jurídico internacional de proteção e garantia dos direitos das pessoas com deficiência visual evoluiu de declarações genéricas de intenções pós-Segunda Guerra Mundial para tratados internacionais vinculantes de Direitos Humanos com força constitucional nos países signatários. Essas normas internacionais fundamentam a exigibilidade do direito à educação inclusiva, à acessibilidade, à informação em Braille, ao trabalho e à não discriminação.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-40-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-40-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-40-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-40-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-40-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-40-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-40-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-40-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-40-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-40-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-40-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-40-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-40-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-40-14"
+        }
+      ],
+      "markdown": "## 40 — LEGISLAÇÃO INTERNACIONAL\n\n<h3 id=\"topico-40-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO arcabouço jurídico internacional de proteção e garantia dos direitos das pessoas com deficiência visual evoluiu de declarações genéricas de intenções pós-Segunda Guerra Mundial para **tratados internacionais vinculantes de Direitos Humanos** com força constitucional nos países signatários. Essas normas internacionais fundamentam a exigibilidade do direito à educação inclusiva, à acessibilidade, à informação em Braille, ao trabalho e à não discriminação.\n\n<h3 id=\"topico-40-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3> e Principais Diplomas Internacionais\n- **Declaração Universal dos Direitos Humanos (ONU, 1948)**: Estabeleceu a igualdade fundamental e a dignidade de todos os seres humanos (Artigos 1º e 26 - Direito à Educação).\n- **Declaração de Salamanca (UNESCO, 1994)**: Conferência Mundial sobre Necessidades Educativas Especiais que consagrou a educação inclusiva como o padrão educacional universal.\n- **Convenção sobre os Direitos das Pessoas com Deficiência (CDPD / ONU, 2006)**:\n  - O tratado de direitos humanos mais rápido e com maior número de adesões da história da ONU.\n  - **Artigo 9º (Acessibilidade)**: Exige a eliminação de barreiras em edifícios, estradas, transporte e informação digital.\n  - **Artigo 21 (Liberdade de Expressão e Opinião e Acesso à Informação)**: Garante explicitamente o direito de aceitar e facilitar o uso de **Braille**, linguagem de sinais e mídias acessíveis.\n  - **Artigo 24 (Educação)**: Garante o sistema educacional inclusivo em todos os níveis, exigindo o aprendizado do **Braille**, escritas alternativas, orientação e mobilidade e a capacitação de professores braillistas.\n- **Agenda 2030 e Objetivos de Desenvolvimento Sustentável (ODS / ONU, 2015)**:\n  - **ODS 4 (Educação de Qualidade)**: Garantir a educação inclusiva, equitativa e de qualidade para todos.\n  - **ODS 10 (Redução das Desigualdades)**: Promover a inclusão social, econômica e política de todos, independentemente da deficiência.\n  - **ODS 11 (Cidades e Comunidades Sustentáveis)**: Proporcionar o acesso universal a espaços públicos e transportes seguros e acessíveis.\n- **Tratado de Marraqueche (WIPO / OMPI, 2013)**: Tratado internacional administrado pela Organização Mundial da Propriedade Intelectual para facilitar o acesso a obras publicadas por pessoas cegas, permitindo a reprodução e distribuição transfronteiriça de livros em formato acessível (Braille, áudio) sem necessidade de autorização prévia de detentores de direitos autorais.\n\n<h3 id=\"topico-40-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Status Constitucional dos Tratados de Direitos Humanos**: No Brasil (Art. 5º, § 3º da CF/88), a CDPD foi aprovada com o quórum qualificado de Emenda Constitucional, tornando suas normas equivalentes à própria Constituição Federal.\n- **Desenho Universal Legal**: Obrigação dos Estados signatários em exigir o Desenho Universal em todas as compras e infraestruturas públicas.\n- **Adaptação Razoável (*Reasonable Accommodation*)**: As modificações e ajustes necessários e adequados que não imponham uma carga desproporcional ou indevida, quando requeridos em um caso particular, para assegurar que a pessoa cega exerça seus direitos em igualdade.\n\n<h3 id=\"topico-40-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Don MacKay (Diplomata, Nova Zelândia)**: Presidente do Comitê Ad Hoc da ONU que negociou o texto final da Convenção sobre os Direitos das Pessoas com Deficiência. (Fonte: ONU, 2006).\n- **Lex Grandia (Ativista/Surdocego, Holanda)**: Liderança internacional no comitê de elaboração da CDPD/ONU.\n\n<h3 id=\"topico-40-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Organização das Nações Unidas (ONU / Comitê CDPD)**: Sede de elaboração e monitoramento dos tratados de Direitos Humanos.\n- **WIPO / OMPI (Organização Mundial da Propriedade Intelectual)**: Entidade gestora do Tratado de Marraqueche.\n- **União Mundial de Cegos (WBU)**: Entidade que representou os cego(a)s na negociação do Tratado de Marraqueche e da CDPD.\n\n<h3 id=\"topico-40-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nA jurisprudência do Comitê da ONU sobre a CDPD em Genebra tem emitido Recomendações Gerais condenando países que mantêm sistemas paralelos de educação segregada para cegos.\n\n<h3 id=\"topico-40-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nO Brasil é signatário da CDPD (Decreto 6.949/2009) e do Tratado de Marraqueche (Decreto nº 9.522/2018), integrando ambos os instrumentos ao direito interno de forma plena.\n\n<h3 id=\"topico-40-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nO Ministério Público Federal e os Ministérios Públicos Estaduais no Nordeste utilizam a Convenção da ONU como fundamento jurídico primário em Ações Civis Públicas para exigir acessibilidade no trânsito e nas universidades.\n\n<h3 id=\"topico-40-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, decisões do Tribunal de Justiça (TJPE) citam expressamente o Artigo 24 da CDPD/ONU para determinar que municípios forneçam material escolar em Braille e transporte acessível a estudantes cego(a)s da rede pública.\n\n### 10. Situação atual\nAté 2026, os relatórios globais de acompanhamento dos ODS/Agenda 2030 exigem a inclusão de dados estatísticos desagregados por deficiência para monitorar a eliminação da pobreza e do analfabetismo tátil.\n\n<h3 id=\"topico-40-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate internacional sobre o equilíbrio entre os Direitos Autorais de editoras multinacionais e a aplicação plena do Tratado de Marraqueche para a livre circulação de livros em Braille digital.\n\n<h3 id=\"topico-40-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudo comparativo sobre a aplicação prática das diretrizes do Tratado de Marraqueche nas bibliotecas universitárias das capitais do Nordeste brasileiro.\n\n<h3 id=\"topico-40-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 01, 35, 36, 39, 41 e 42**.\n\n<h3 id=\"topico-40-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: ORGANIZAÇÃO DAS NAÇÕES UNIDAS. *Convenção sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo*. Nova York: ONU, 2006. (Promulgada pelo Decreto Federal nº 6.949, de 25 de agosto de 2009).\n- **Fonte Primária**: WIPO. *Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired or Otherwise Print Disabled*. Marrakesh: WIPO, 2013. (Promulgado pelo Decreto Federal nº 9.522, de 8 de outubro de 2018).\n- **Fonte Secundária**: MAZZUOLI, Valerio de Oliveira. *Curso de Direito Internacional Público*. 10. ed. São Paulo: Editora Revista dos Tribunais, 2016.\n- **Fonte Secundária**: FERRAZ, Carolina Valença. *Direito Inclusivo*. São Paulo: Saraiva, 2012.\n"
+    },
+    {
+      "id": 41,
+      "number": "41",
+      "title": "Legislação Brasileira",
+      "category": "Legislação, Esporte Paralímpico e Arte",
+      "vol": 5,
+      "slug": "41-legislacao-brasileira",
+      "summary": "O ordenamento jurídico brasileiro é reconhecido internacionalmente como um dos mais avançados e completos do mundo na proteção, promoção e garantia dos direitos das pessoas com deficiência visual. A evolução legislativa transitou de textos assistencialistas no século XIX para uma rigorosa codificação de Direitos Humanos positivada na Constituição Federal de 1988 e consolidada na Lei Brasileira de Inclusão (LBI - Lei nº 13.146/2015).",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-41-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-41-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-41-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-41-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-41-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-41-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-41-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-41-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-41-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-41-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-41-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-41-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-41-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-41-14"
+        }
+      ],
+      "markdown": "## 41 — LEGISLAÇÃO BRASILEIRA\n\n<h3 id=\"topico-41-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO ordenamento jurídico brasileiro é reconhecido internacionalmente como um dos mais avançados e completos do mundo na proteção, promoção e garantia dos direitos das pessoas com deficiência visual. A evolução legislativa transitou de textos assistencialistas no século XIX para uma rigorosa codificação de Direitos Humanos positivada na Constituição Federal de 1988 e consolidada na Lei Brasileira de Inclusão (LBI - Lei nº 13.146/2015).\n\n<h3 id=\"topico-41-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3> e Principais Leis Federais\n- **Constituição Federal de 1988**: \"Constituição Cidadã\" que estabeleceu a proibição de qualquer discriminação no mercado de trabalho (Art. 7º, XXX1), o direito à assistência social e ao Benefício de Prestação Continuada - BPC (Art. 203, V), a acessibilidade nos edifícios e transportes (Art. 227, § 2º e Art. 244) e o atendimento educacional especializado, preferencialmente na rede regular de ensino (Art. 208, III).\n- **Lei de Diretrizes e Bases da Educação Nacional (LDB - Lei nº 9.394/1996)**: Capítulo V dedicado à Educação Especial, definindo-a como modalidade transversal da educação escolar e garantindo currículos, métodos, recursos e organização específicos para atender às necessidades dos educandos.\n- **Lei do Cão-Guia (Lei nº 11.126/2005)**: Garante o direito de ingresso e permanência da pessoa com deficiência visual acompanhada de cão-guia em todos os locais públicos e privados de uso público e meios de transporte sem custo adicional.\n- **Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência - Lei nº 13.146/2015)**:\n  - Marco legal definitivo que incorporou os princípios da Convenção da ONU/2006.\n  - Tipificou o **crime de discriminação** por motivo de deficiência (Art. 88).\n  - Garantiu o direito à **Tomada de Decisão Apoiada** (Art. 116), extinguindo a interdição civil rígida.\n  - Tornou obrigatória a oferta de livros didáticos em formato acessível (Braille/digital) e o fornecimento de tecnologia assistiva sem cobrança de taxa extra por escolas privadas (Art. 28, § 1º).\n- **Lei da Visão Monocular (Lei nº 14.126/2021)**: Classifica a visão monocular (cegueira em um dos olhos) como deficiência visual para todos os efeitos legais (acesso a cotas em concursos, isenções tributárias e direitos previdenciários).\n- **Lei da Bengala Verde (Lei nº 14.636/2023)**: Oficializa a bengala de cor verde como instrumento de identificação de pessoas com baixa visão no trânsito e espaços públicos no Brasil.\n\n<h3 id=\"topico-41-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Igualdade Material e Ação Afirmativa**: Garantia legal de cotas para pessoas com deficiência em concursos públicos (no mínimo 5% nos termos da Lei 8.112/90) e no mercado de trabalho formal para empresas com mais de 100 empregados (Lei de Cotas - Lei nº 8.213/1991, Art. 93).\n- **Benefício de Prestação Continuada (BPC / LOAS)**: Garantia de um salário mínimo mensal à pessoa com deficiência de qualquer idade que comprove não possuir meios de prover a própria manutenção nem de tê-la provida por sua família.\n- **Tipificação Penal do Capacitismo**: O Art. 88 da LBI estabelece pena de reclusão de 1 a 3 anos e multa para quem praticar, induzir ou incitar discriminação de pessoa em razão de sua deficiência.\n\n<h3 id=\"topico-41-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Deputado Federal Mara Gabrilli e Senador Paulo Paim (Legisladores/Ativistas, Brasil)**: Relatores e impulsionadores centrais da aprovação da Lei Brasileira de Inclusão no Congresso Nacional. (Fonte: Arquivos da Câmara e Senado).\n- **Dr. Romeu Kazumi Sassaki (Consultor/Pesquisador, Brasil)**: Consultor técnico na redação dos capítulos de acessibilidade e trabalho do Estatuto da Pessoa com Deficiência.\n\n<h3 id=\"topico-41-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Congresso Nacional (Câmara dos Deputados e Senado Federal)**: Poder Legislativo responsável pela elaboração das leis inclusivas.\n- **Ministério dos Direitos Humanos e da Cidadania (MDHC / SNDPD)**: Órgão gestor executivo das políticas de inclusão no Brasil.\n- **Ministério Público Federal (MPF) e Ministérios Públicos Estaduais (MPEs)**: Órgãos de fiscalização e proposição de Ações Civis Públicas para cumprimento da LBI.\n\n<h3 id=\"topico-41-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nA legislação brasileira é estudada em organismos internacionais como um dos modelos mais avançados de harmonização jurídica de um país emergente com os preceitos da Convenção da ONU.\n\n<h3 id=\"topico-41-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nO maior desafio da legislação brasileira deslocou-se da promulgação da lei para a sua **efetividade e fiscalização prática**, combatendo o descumprimento por instituições de ensino privadas e concessionárias de transporte.\n\n<h3 id=\"topico-41-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nNos estados do Nordeste, a atuação dos Ministérios Públicos e das Defensorias Públicas estaduais tem sido decisiva para garantir o cumprimento da LBI em concursos públicos locais e na adaptação de frotas de transporte intermunicipal.\n\n<h3 id=\"topico-41-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, destaca-se a atuação do **CAOP Educação / MPPE (Centro de Apoio Operacional às Promotorias de Educação)** e da Comissão de Defesa dos Direitos das Pessoas com Deficiência da OAB-PE na fiscalização do fornecimento de profissional de apoio e livros Braille pela rede pública estadual.\n\n### 10. Situação atual\nAté 2026, vigora o acompanhamento do Projeto de Lei da Avaliação Biopsicossocial Unificada da Deficiência, estabelecendo critérios científicos padronizados para a concessão de direitos previdenciários e assistenciais.\n\n<h3 id=\"topico-41-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre o Supremo Tribunal Federal (STF) e a vedação da cobrança de \"taxa de acessibilidade\" ou mensalidade adicional por escolas privadas para matrícula de alunos com deficiência (ADI 5357/STF, que confirmou a constitucionalidade da LBI).\n\n<h3 id=\"topico-41-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nMapeamento do índice de aplicação de penalidades criminais com base no Art. 88 da LBI por crimes de capacitismo praticados na internet contra pessoas cegas no Brasil.\n\n<h3 id=\"topico-41-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 32, 35, 36, 39, 40 e 42**.\n\n<h3 id=\"topico-41-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. *Constituição da República Federativa do Brasil de 1988*. Brasília, 1988.\n- **Fonte Primária**: BRASIL. *Lei nº 13.146, de 6 de julho de 2015. Institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência)*. Brasília: DOU, 2015.\n- **Fonte Primária**: BRASIL. *Lei nº 14.126, de 22 de março de 2021. Classifica a visão monocular como deficiência visual*. Brasília, 2021.\n- **Fonte Primária**: BRASIL. *Lei nº 14.636, de 20 de julho de 2023. Institui a Bengala Verde*. Brasília, 2023.\n- **Fonte Secundária**: LISBOA, Roberto Senise. *Manual de Direito da Pessoa com Deficiência*. São Paulo: Saraiva, 2017.\n\n---\n\n"
+    },
+    {
+      "id": 42,
+      "number": "42",
+      "title": "Movimento Social das Pessoas Cegas",
+      "category": "Legislação, Esporte Paralímpico e Arte",
+      "vol": 5,
+      "slug": "42-movimento-social-das-pessoas-cegas",
+      "summary": "O movimento social e político organizado das pessoas com deficiência visual constitui o agente histórico de transformação das políticas públicas de acessibilidade, educação e trabalho. O movimento operou uma virada epistemológica e política decisiva: a transição do modelo assistencialista do *\"fazer PELA pessoa com deficiência\"* (onde videntes decidiam o destino dos cegos) para o modelo de autonomia democrática do \"fazer COM a pessoa com deficiência\" (*\"Nada Sobre Nós, Sem Nós\"*).",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-42-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-42-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-42-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-42-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-42-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-42-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-42-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-42-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-42-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-42-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-42-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-42-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-42-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-42-14"
+        }
+      ],
+      "markdown": "## 42 — MOVIMENTO SOCIAL DAS PESSOAS CEGAS\n\n<h3 id=\"topico-42-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO movimento social e político organizado das pessoas com deficiência visual constitui o agente histórico de transformação das políticas públicas de acessibilidade, educação e trabalho. O movimento operou uma virada epistemológica e política decisiva: a transição do modelo assistencialista do *\"fazer PELA pessoa com deficiência\"* (onde videntes decidiam o destino dos cegos) para o modelo de autonomia democrática do **\"fazer COM a pessoa com deficiência\"** (*\"Nada Sobre Nós, Sem Nós\"*).\n\n<h3 id=\"topico-42-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Primeiras Associações Autônomas no Brasil (Anos 1920–1950)**: Fundação da Associação de Cegos de São Paulo (ACSP, 1928) e da Associação de Cegos do Rio de Janeiro (ACRJ), criadas e geridas exclusivamente por pessoas cegas exigindo o direito ao trabalho e à cultura.\n- **O Movimento Político de Luta nos Anos 1970–1980**: Criação da Coalizão Nacional de Entidades de Pessoas com Deficiência e realização da 1ª Encontro Nacional de Entidades de Cegos. Militantes cegos integraram ativamente as galerias do Congresso Nacional durante a Assembleia Nacional Constituinte de 1987-1988, garantindo a inclusão dos artigos de acessibilidade na Carta Magna.\n- **Fundação da ONCB (2008)**: Criação da **Organização Nacional dos Cegos do Brasil (ONCB)**, entidade de representação máxima (entidade teto) das associações de cegos no Brasil.\n\n<h3 id=\"topico-42-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Protagonismo Político e Autodefesa (*Self-Advocacy*)**: A premissa irrevogável de que os indivíduos cegos são os únicos legitimados a falar em nome próprio de suas demandas e necessidades.\n- **Entidades de e para Pessoas com Deficiência**:\n  - Entidades **DE** Pessoas com Deficiência: Dirigidas e geridas prioritariamente por pessoas com deficiência (ex.: ONCB, associações de cegos).\n  - Entidades **PARA** Pessoas com Deficiência: Organizações filantrópicas tradicionais geridas por videntes que prestam serviços de assistência.\n- **Liderança Democrática e Direitos Civis**: A luta do movimento social não por \"privilégios\", mas pela igualdade de oportunidades e eliminação de barreiras atitudinais.\n\n<h3 id=\"topico-42-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Dorina de Gouvêa Nowill (Brasil, 1919–2010)**: Presidenta da União Mundial de Cegos (WBU), liderança internacional na defesa dos direitos de cegos. (Fonte: WBU).\n- **Amir Lian (Ativista/Líder Comunitário, Brasil)**: Liderança histórica na criação do movimento associativo autônomo de cegos no Brasil. (Fonte: Arquivos ONCB).\n- **Beto Pereira (Ativista/Gestor, Brasil)**: Liderança histórica da ONCB e da Organização Ibero-Americana de Cegos.\n\n<h3 id=\"topico-42-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **ONCB (Organização Nacional dos Cegos do Brasil)**: Entidade máxima de representação associativa cega no Brasil.\n- **WBU (World Blind Union / União Mundial de Cegos)**: Organização global representante de pessoas cegas junto à ONU.\n- **ULAC (União Latino-Americana de Cegos)**: Representante regional das associações da América Latina.\n\n<h3 id=\"topico-42-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, a WBU tem assento permanente nos fóruns das Nações Unidas, monitorando o cumprimento da Convenção da ONU e do Tratado de Marraqueche.\n\n<h3 id=\"topico-42-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, a ONCB congrega mais de uma centena de associações filiadas em todos os estados da federação, ocupando assentos nos Conselhos Nacionais de Direitos das Pessoas com Deficiência (CONADE) e de Educação (CNE).\n\n<h3 id=\"topico-42-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nNo Nordeste, as Associações de Cegos estaduais e municipais (ex.: Associação dos Cegos da Bahia, Associação dos Deficientes Visuais do Ceará - ADICE, Associação dos Cegos de Pernambuco - APEC) foram fundamentais na luta pelo Passe Livre nos transportes interestaduais e municipais.\n\n<h3 id=\"topico-42-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, a **APEC (Associação dos Pernambucanos Cegos)** e o movimento estudantil de universitários cego(a)s da UFPE desempenharam papel de destaque na cobrança de piso tátil nas estações de metrô de Recife e no acervo de livros acessíveis.\n\n### 10. Situação atual\nAté 2026, o movimento social atua fortemente na inclusão digital, no combate ao capacitismo nas redes sociais e na garantia do voto secreto e autônomo em urnas eletrônicas com sintetizador de voz e fones de ouvido.\n\n<h3 id=\"topico-42-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate entre a liderança de pessoas cegas em instituições filantrópicas tradicionais: o movimento social critica instituições \"para cegos\" que mantêm diretorias compostas exclusivamente por videntes abastados sem a presença de cego(a)s nos cargos de alta decisão.\n\n<h3 id=\"topico-42-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nHistoriografia das primeiras associações autônomas de pessoas cegas fundadas no interior do Nordeste durante a segunda metade do século XX.\n\n<h3 id=\"topico-42-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 01, 12, 39, 40, 41 e 43**.\n\n<h3 id=\"topico-42-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: ORGANIZAÇÃO NACIONAL DOS CEGOS DO BRASIL (ONCB). *Estatuto Social e Diretrizes Políticas*. Brasília: ONCB, 2008. Available at: https://oncb.org.br.\n- **Fonte Secundária**: LANNA JÚNIOR, Mário Cléber Martins. *História do Movimento Político das Pessoas com Deficiência no Brasil*. Brasília: Secretaria de Direitos Humanos, 2010.\n- **Fonte Secundária**: SASSAKI, Romeu Kazumi. *Nada Sobre Nós, Sem Nós: Da integração à inclusão*. São Paulo: WVA, 2003.\n\n---\n\n"
+    },
+    {
+      "id": 43,
+      "number": "43",
+      "title": "Capacitismo",
+      "category": "Legislação, Esporte Paralímpico e Arte",
+      "vol": 5,
+      "slug": "43-capacitismo",
+      "summary": "O capacitismo (*ableism*) é a forma estrutural, institucional, cultural e atitudinal de opressão, discriminação e preconceito exercida contra pessoas com deficiência. Fundamenta-se no mito de que a normatividade biológica (enxergar, andar, ouvir) constitui a única forma válida e \"superior\" de existência humana, reduzindo a pessoa com deficiência visual a um corpo imperfeito, incompleto, incapaz ou objeto de piedade.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-43-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-43-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-43-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-43-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-43-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-43-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-43-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-43-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-43-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-43-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-43-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-43-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-43-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-43-14"
+        }
+      ],
+      "markdown": "## 43 — CAPACITISMO\n\n<h3 id=\"topico-43-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO **capacitismo** (*ableism*) é a forma estrutural, institucional, cultural e atitudinal de opressão, discriminação e preconceito exercida contra pessoas com deficiência. Fundamenta-se no mito de que a normatividade biológica (enxergar, andar, ouvir) constitui a única forma válida e \"superior\" de existência humana, reduzindo a pessoa com deficiência visual a um corpo imperfeito, incompleto, incapaz ou objeto de piedade.\n\n<h3 id=\"topico-43-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3> e Formas de Manifestação\nO termo *ableism* emergiu nos movimentos de direitos civis das pessoas com deficiência nos EUA e Reino Unido nas décadas de 1970 e 1980 (paralelamente ao machismo e racismo), sendo traduzido no Brasil como **capacitismo** por pesquisadoras e ativistas feministas com deficiência na década de 2010.\n\n#### As Dimensões do Capacitismo:\n- **Capacitismo Estrutural**: Organização da sociedade e das cidades sem acessibilidade (calçadas sem piso tátil, transportes inacessíveis), assumindo que apenas videntes ocupam o espaço público.\n- **Capacitismo Institucional**: Normas de empresas e universidades que barram a contratação ou permanência de pessoas cegas através de testes seletivos não adaptados ou exigências de aptidão física irrelevantes.\n- **Capacitismo Educacional**: Recusa de matrículas por escolas privadas, recusa em fornecer material didático em Braille ou suposição de que o aluno cego \"não pode aprender exatas\".\n- **Capacitismo Familiar e Atitudinal**: Infantilização da pessoa cega, superproteção, negação da sexualidade e do direito de morar sozinho.\n- **Capacitismo Linguístico**: Uso de metáforas pejorativas na linguagem cotidiana que associam a cegueira à ignorância ou insensibilidade (ex.: \"está cego para a realidade\", \"cego de ódio\", \"fazer vista grossa\", \"surdo e cego aos apelos\").\n- **Capacitismo Internalizado**: Fenômeno psicológico em que a própria pessoa cega absorve os preconceitos capacitistas da sociedade, acreditando ser inferior, menos capaz ou um \"fardo\" para seus familiares.\n\n<h3 id=\"topico-43-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Pornografia da Inspiração (*Inspiration Porn*)**: Termo criado por Stella Young para denunciar o uso de imagens de pessoas com deficiência realizando tarefas normais (trabalhar, praticar esporte, caminhar) como \"exemplo de superação motivacional\" para inspirar pessoas sem deficiência.\n- **Mito da Invalidez vs. Mito do Super-Heroi**: As duas faces da mesma moeda capacitista: enxergar o cego ou como um coitadinho dependente ou como um ser iluminado e dotado de dons místico-divinos.\n- **Microagressões Capacitistas**: Comportamentos e frases aparentemente sutis ou \"caridosas\" que desumanizam a pessoa cega (ex.: agarrar o braço do cego na rua sem pedir licença para \"ajudar\", falar com o acompanhante vidente em vez de falar diretamente com a pessoa cega: *\"Ele consegue assinar?\"*).\n\n<h3 id=\"topico-43-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Stella Young (Ativista/Jornalista, Austrália, 1982–2014)**: Formuladora do conceito de *Inspiration Porn*. (Fonte: 2014).\n- **Profª Dra. Anahi Guedes de Mello (Antropóloga/Pesquisadora, Brasil)**: Pesquisadora surdocega pioneira nos estudos conceituais sobre o capacitismo e interseccionalidade no Brasil. (Fonte: *Deficiência, incapacidade e vulnerabilidade*, 2016).\n- **Lauana Salustiano (Pesquisadora/Ativista, Brasil)**: Estudiosa do capacitismo e raça na deficiência visual.\n\n<h3 id=\"topico-43-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Anahi - Coletivo Feminista de Mulheres com Deficiência (Brasil)**: Organização pioneira no combate ao capacitismo de gênero.\n- **STF (Supremo Tribunal Federal)**: Jurisprudência que enquadra o capacitismo como forma de discriminação protegida por lei.\n\n<h3 id=\"topico-43-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, os *Disability Studies* (Estudos da Deficiência) integraram a análise do capacitismo ao lado das teorias de raça, gênero e classe social na sociologia contemporânea.\n\n<h3 id=\"topico-43-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, o Artigo 88 da Lei Brasileira de Inclusão (2015) criminalizou os atos capacitistas, permitindo a denúncia de discriminação ao Ministério Público.\n\n<h3 id=\"topico-43-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nPesquisadoras nordestinas têm investigado o capacitismo linguístico e religioso em comunidades rurais do Nordeste, onde a cegueira ainda é por vezes interpretada por discursos religiosos como \"castigo ou aprovação espiritual\".\n\n<h3 id=\"topico-43-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, campanhas educativas do Governo do Estado e da UFPE promovem o slogan *\"Capacitismo é Crime\"*, orientando o público sobre como interagir com pessoas cegas com respeito e sem atitudes assistencialistas.\n\n### 10. Situação atual\nAté 2026, com o aumento da visibilidade de influenciadores cego(a)s nas redes sociais, o debate sobre o capacitismo alcança a grande mídia, denunciando o preconceito em programas de televisão e na inteligência artificial.\n\n<h3 id=\"topico-43-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre o uso de termos: a rejeição do termo capacitista \"portador de deficiência\" (pois a deficiência não é algo que se 'porta' como uma mala) em favor do termo correto positivo **\"pessoa com deficiência\"** ou **\"pessoa cega\"**.\n\n<h3 id=\"topico-43-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudo empírico sobre a prevalência de capacitismo institucional no processo de seleção e entrevistas de emprego em empresas de grande porte no Recife.\n\n<h3 id=\"topico-43-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 01, 11, 12, 34, 39 e 41**.\n\n<h3 id=\"topico-43-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. *Lei nº 13.146, de 6 de julho de 2015. Estatuto da Pessoa com Deficiência*. Art. 88 (Crime de Discriminação). Brasília, 2015.\n- **Fonte Secundária**: MELLO, Anahi Guedes de. Deficiência, incapacidade e vulnerabilidade: do sujeito da representação ao sujeito da repetição. *Ciência & Saúde Coletiva*, v. 21, p. 3265–3272, 2016.\n- **Fonte Secundária**: YOUNG, Stella. *I'm not your inspiration, thank you very much*. Sydney: TEDxSydney, 2014.\n- **Fonte Secundária**: GESSER, Marivete; BLOCK, Pamela; MELLO, Anahi Guedes de. *Estudos da Deficiência: interseccionalidades e novos horizontes*. Curitiba: CRV, 2020. ISBN: 978-6555789024.\n\n---\n\n"
+    },
+    {
+      "id": 44,
+      "number": "44",
+      "title": "Esporte para Pessoas Cegas",
+      "category": "Legislação, Esporte Paralímpico e Arte",
+      "vol": 5,
+      "slug": "44-esporte-para-pessoas-cegas",
+      "summary": "O esporte adaptado para pessoas com deficiência visual é um dos mais poderosos instrumentos de reabilitação física e motora, fortalecimento da autoimagem, socialização, desenvolvimento do controle espacial, inclusão social e afirmação de alta performance atlética no movimento paralímpico internacional. O esporte para cegos transita do nível recreativo e terapêutico até o alto rendimento competitivo profissional.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-44-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-44-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-44-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-44-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-44-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-44-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-44-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-44-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-44-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-44-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-44-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-44-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-44-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-44-14"
+        }
+      ],
+      "markdown": "## 44 — ESPORTE PARA PESSOAS CEGAS\n\n<h3 id=\"topico-44-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO esporte adaptado para pessoas com deficiência visual é um dos mais poderosos instrumentos de reabilitação física e motora, fortalecimento da autoimagem, socialização, desenvolvimento do controle espacial, inclusão social e afirmação de alta performance atlética no movimento paralímpico internacional. O esporte para cegos transita do nível recreativo e terapêutico até o alto rendimento competitivo profissional.\n\n<h3 id=\"topico-44-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3> do Esporte Adaptado Internacional\n- **Pós-Primeira e Segunda Guerras Mundiais (Anos 1920–1940)**: Primeiras práticas esportivas organizadas para cegos de guerra na Europa (caminhadas, atletismo rústico e natação).\n- **Sir Ludwig Guttmann e Stoke Mandeville (1948)**: Dr. Guttmann organiza os Jogos de Stoke Mandeville na Inglaterra para veteranos de guerra, embrião dos Jogos Paralímpicos.\n- **Fundação da IBSA (1981)**: Em 1981, é fundada em Paris a **IBSA (International Blind Sports Federation / Federação Internacional de Esportes para Cegos)**, órgão responsável por governar, regulamentar as regras e organizar os campeonatos mundiais das modalidades exclusivas e adaptadas para atletas cego(a)s.\n- **Pioneirismo no Brasil e Fundação do CPB (1995)**: No Brasil, a participação em esportes adaptados iniciou-se no Instituto Benjamin Constant no início do século XX (ginástica, atletismo e natação). Em 1995, fundou-se o **Comitê Paralímpico Brasileiro (CPB)** e, em 2008, a **CBDV (Confederação Brasileira de Desportos de Deficientes Visuais)**.\n\n<h3 id=\"topico-44-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3> e Classificação Esportiva Oftalmológica\nA **Classificação Esportiva** da IBSA é o processo médico-oftalmológico rigoroso que agrupa os atletas segundo o seu grau de resíduo visual, garantindo a equidade competitiva e evitando que atletas com maior visão obtenham vantagens desleais sobre cegos totais.\n\n#### As Três Classes de Deficiência Visual da IBSA:\n- **Classe B1 (Blind 1 / Cegueira Total)**:\n  - De nenhuma percepção luminosa em ambos os olhos até percepção de luz, mas incapacidade de reconhecer o formato de uma mão a qualquer distância ou em qualquer direção.\n  - **Exigência Técnica em Competições**: Todos os atletas B1 devem obrigatoriamente utilizar **venda/tapa-olhos opacos vedados** com adesivos durante o jogo para igualar atletas com percepção luminosa e cegos totais.\n- **Classe B2 (Baixa Visão Severa)**:\n  - Atletas capazes de reconhecer a forma de uma mão até uma acuidade visual de 2/60 no melhor olho com a melhor correção, e/ou campo visual inferior a 5 graus.\n- **Classe B3 (Baixa Visão Moderada)**:\n  - Acuidade visual de mais de 2/60 até 6/60 no melhor olho com correção, e/ou campo visual de mais de 5 graus e inferior a 20 graus.\n\n<h3 id=\"topico-44-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Sir Ludwig Guttmann (Médico/Neurologista, Alemanha/Reino Unido, 1899–1980)**: Pai do Movimento Paralímpico mundial. (Fonte: Stoke Mandeville).\n- **Jens Bromann (Gestor Esportivo, Dinamarca)**: Primeiro presidente e fundador da IBSA em 1981. (Fonte: IBSA).\n- **Andrew Parsons (Gestor Esportivo, Brasil)**: Presidente brasileiro do Comitê Paralímpico Internacional (IPC), liderança máxima do esporte paralímpico mundial.\n\n<h3 id=\"topico-44-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **IBSA (International Blind Sports Federation)**: Entidade teto do esporte para cegos no mundo.\n- **IPC (International Paralympic Committee)**: Comitê Paralímpico Internacional.\n- **CPB (Comitê Paralímpico Brasileiro)**: Órgão gestor do esporte paralímpico no Brasil.\n- **CBDV (Confederação Brasileira de Desportos de Deficientes Visuais)**: Entidade brasileira filiada à IBSA e ao CPB.\n\n<h3 id=\"topico-44-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nO movimento paralímpico consolidou-se como um dos maiores eventos esportivos do planeta, com transmissão televisiva global e profissionalização dos atletas cego(a)s.\n\n<h3 id=\"topico-44-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nO Brasil é uma **potência paralímpica mundial**, figurando sistematicamente no Top 10 do quadro geral de medalhas dos Jogos Paralímpicos, com destaque absoluto nas modalidades de deficiência visual (Futebol de Cegos, Goalball, Atletismo e Natação).\n\n<h3 id=\"topico-44-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nO Nordeste é um dos maiores celeiros de atletas paralímpicos de deficiência visual do Brasil, revelando campeões mundiais e paralímpicos no atletismo, goalball e futebol de cegos treinados em clubes e associações nordestinas.\n\n<h3 id=\"topico-44-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nPernambuco possui forte tradição no esporte adaptado, destacando-se na formação de atletas de atletismo, natação paralímpica e goalball em clubes do Recife (como a APEC, o Náutico e parcerias com a Universidade de Pernambuco - UPE).\n\n### 10. Situação atual\nAté 2026, vigora a plena profissionalização e o financiamento do esporte paralímpico brasileiro via Lei Agnelo/Piva e Bolsa Atleta do Governo Federal.\n\n<h3 id=\"topico-44-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a reclassificação funcional oftalmológica: casos de protesto internacional quando atletas reclassificados da classe B2 para B3 perdem o direito de competir na mesma categoria.\n\n<h3 id=\"topico-44-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudo do impacto do Centro de Treinamento Paralímpico Brasileiro na longevidade da carreira de atletas cegos do Nordeste.\n\n<h3 id=\"topico-44-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 45, 46, 47 e 48**.\n\n<h3 id=\"topico-44-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: INTERNATIONAL BLIND SPORTS FEDERATION (IBSA). *IBSA Classification Rules and Procedures*. Bonn: IBSA, 2022. Available at: https://www.ibsasport.org.\n- **Fonte Primária**: COMITÊ PARALÍMPICO BRASILEIRO (CPB). *Almanaque do Esporte Paralímpico Brasileiro*. Brasília: CPB, 2020.\n- **Fonte Secundária**: GUTTMANN, Ludwig. *Textbook of Sport for the Disabled*. Oxford: Blackwell Scientific Publications, 1976. ISBN: 978-0632001712.\n- **Fonte Secundária**: MELLO, M. T. et al. *Esporte Paralímpico*. São Paulo: Editora Ateneu, 2012.\n\n---\n\n"
+    },
+    {
+      "id": 45,
+      "number": "45",
+      "title": "Grandes Esportes",
+      "category": "Legislação, Esporte Paralímpico e Arte",
+      "vol": 5,
+      "slug": "45-grandes-esportes",
+      "summary": "O ecossistema esportivo para pessoas com deficiência visual abrange tanto modalidades exclusivamente criadas para cegos (como o Goalball) quanto modalidades tradicionais adaptadas com sinalizações sonoras e guias (como o Futebol de Cegos, Judô, Atletismo, Natação, Ciclismo Tandem, Triatlo, Xadrez e Showdown).",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-45-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-45-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-45-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-45-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-45-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-45-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-45-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-45-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-45-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-45-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-45-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-45-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-45-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-45-14"
+        }
+      ],
+      "markdown": "## 45 — GRANDES ESPORTES\n\n<h3 id=\"topico-45-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO ecossistema esportivo para pessoas com deficiência visual abrange tanto modalidades exclusivamente criadas para cegos (como o Goalball) quanto modalidades tradicionais adaptadas com sinalizações sonoras e guias (como o Futebol de Cegos, Judô, Atletismo, Natação, Ciclismo Tandem, Triatlo, Xadrez e Showdown).\n\n### 2. Estudo Profundo dos Principais Esportes\n\n#### A. GOALBALL\n- **Origem e Reabilitação**: Criado em **1946** pelo austríaco Hanz Lorenzen e pelo alemão Sepp Reindle para reabilitar veteranos da Segunda Guerra Mundial que perderam a visão.\n- **Regras e Dinâmica**:\n  - Esporte coletivo disputado em uma quadra de 18m x 9m por duas equipes de 3 jogadores (mais 3 reservas).\n  - O objetivo é arremessar com as mãos uma bola de 1,2 kg contendo **chocalhos/guizos internos** para balançar a rede do gol adversário (que ocupa toda a largura da linha de fundo: 9 metros de largura por 1,30 m de altura).\n  - Todos os atletas jogam na posição deitada/agachada na defesa para bloquear a bola com o corpo.\n  - **Silêncio Absoluto da Torcida**: O público deve permanecer em silêncio absoluto durante a jogada para que os atletas localizem a bola exclusivamente pelo som dos guizos; a torcida só vibra após o apito do árbitro (gol ou fora).\n  - **Marcações Táteis no Piso**: As linhas da quadra possuem barbante grosso colado por fita adesiva em alto-relevo para orientação espacial dos pés e mãos dos atletas.\n- **Paralimpíadas e Hegemonia**: Modalidade paralímpica masculina desde Toronto 1976 e feminina desde Nova York 1984. O Brasil é uma das maiores potências mundiais da modalidade (Campeão Paralímpico Masculino em Tóquio 2020 e Tricampeão Mundial IBSA).\n\n#### B. FUTEBOL DE CEGOS (Futebol de 5 / Blind Football)\n- **Origem**: Praticado empiricamente em pátios de escolas de cegos no Brasil e na Espanha na década de 1950 (usando latas de graxa com pedras dentro como bola). Na Espanha, o esporte foi formalizado nos anos 1980.\n- **Regras e Dinâmica da IBSA**:\n  - Disputado em quadra de grama sintética de 40m x 20m cercada por **bandas/barreiras laterais de proteção** que não deixam a bola sair pela lateral, mantendo o jogo dinâmico.\n  - Equipe de 5 jogadores: 4 atletas de linha da classe B1 (cegos totais obrigados a usar tapa-olhos vedados) e **1 goleiro vidente ou de baixa visão (B2/B3)** que não pode ter sido federado pela FIFA nos últimos 5 anos.\n  - A bola possui **guizos internos** ruidosos.\n  - **O Comando \"Voy\"**: Ao se deslocar em direção à bola para desarmar ou marcar o adversário, o atleta de defesa é obrigado a gritar claramente a palavra em espanhol **\"VOY\"** (\"vou\"), sob pena de falta técnica, para evitar colisões de cabeça violentas.\n  - **Os Guias / Chamadores**: Além do goleiro (que orienta a defesa), a equipe conta com o técnico no meio de quadra e um **Guia (Chamador)** posicionado atrás do gol adversário, que orienta o ângulo e o momento exato de chutar a gol.\n- **Domínio Absoluto do Brasil**: O Brasil é o maior campeão da história do Futebol de Cegos mundial: **Pentacampeão Paralímpico invicto** (Ouro em Atenas 2004, Pequim 2008, Londres 2012, Rio 2016 e Tóquio 2020) e Pentacampeão Mundial IBSA. Desenvolvimento recente e expansão do **Futebol de Cegos Feminino** no Brasil e no mundo.\n\n#### C. JUDÔ PARALÍMPICO\n- **Regras e Adaptação**: Disputado sob as regras da IJF, com uma adaptação crucial: ao contrário do judô convencional (onde os atletas começam distantes), no Judô Paralímpico a luta começa com os dois judocas já com a **pegada fixa estabelecida no quimono do adversário (Kumi-kata)**. Se o contato se romper, o árbitro paralisa a luta e reapruma a pegada. Dividido desde 2022 nas categorias J1 (cegos totais) e J2 (baixa visão).\n- **Destaque do Brasil**: Modalidade com dezenas de medalhas paralímpicas para o Brasil (destaque para Antônio Tenório da Silva, tetracampeão paralímpico).\n\n#### D. ATLETISMO\n- **Adaptações**: Corridas de velocidade (100m, 200m, 400m) e fundo disputadas por atletas B1 e B2 acompanhados por um **Atleta-Guia**. O atleta e o guia correm lado a lado unidos por uma **fita/cordel de ligação (tether)** de no máximo 50 cm presa às mãos ou pulsos. O guia orienta a raia e o ritmo, mas o atleta cego **obrigatoriamente precisa cruzar a linha de chegada ANTES do guia**. Provas de campo (salto em distância, arremesso de peso) contam com um \"chamador\" de voz e palmas.\n\n#### E. NATAÇÃO\n- **Adaptações**: Nadadores das classes S11 (B1), S12 e S13. Para atletas S11 (cegos totais), exige-se o uso de óculos vedados e a presença do **Tapper** (auxiliar técnico posicionado na borda da piscina que toca a cabeça ou costas do nadador com uma haste flexível com ponta de espuma para avisar o momento exato de realizar a virada ou a chegada).\n\n#### F. OUTROS ESPORTES RELEVANTES\n- **Ciclismo Tandem**: Bicicletas de dois assentos, onde o piloto vidente senta no banco da frente e o atleta cego (*stoker*) pedala no banco traseiro.\n- **Triatlo Paralímpico (PTVI)**: Combina natação (unidos por cordel), ciclismo tandem e corrida com guia.\n- **Xadrez para Cegos**: Tabuleiro adaptado com casas pretas mais elevadas que as brancas, peças pretas com uma ponta/prego no topo e furos nas casas para fixação das peças. A jogada é anunciada em voz alta em notação algébrica.\n- **Showdown**: Modalidade de mesa (frequentemente chamada de \"tênis de mesa para cegos\") jogada em uma mesa retangular com bordas elevadas, onde dois atletas com tapa-olhos usam raquetes retangulares de madeira para rebater uma bola sonora de plástico por baixo de uma tela central.\n- **Torball**: Esporte de quadra semelhante ao Goalball, popular no centro da Europa, jogado com bola sonora sob três fitas com sinos suspensas a 40 cm do solo.\n\n### 3. Principais pessoas\n- **Hanz Lorenzen e Sepp Reindle (Áustria/Alemanha)**: Criadores do Goalball em 1946. (Fonte: IBSA).\n- **Antônio Tenório da Silva (Atleta/Judô, Brasil)**: Lenda viva do judô paralímpico mundial, detentor de 6 medalhas paralímpicas consecutivas (4 de ouro). (Fonte: CPB).\n- **Ricardinho (Ricardo Alves - Atleta/Futebol, Brasil)**: Considerado por anos o melhor jogador de futebol de cegos do planeta. (Fonte: CBDV).\n\n### 4. Principais instituições\n- **IBSA (International Blind Sports Federation)**: Mantenedora das regras internacionais das modalidades de deficiência visual.\n- **CBDV (Confederação Brasileira de Desportos de Deficientes Visuais)**: Entidade brasileira gestora de Futebol de Cegos, Goalball e Judô.\n\n### 5. Desenvolvimento internacional\nA expansão dos Campeonatos Mundiais da IBSA garante a classificação direta dos melhores países para os Jogos Paralímpicos de Verão.\n\n### 6. Desenvolvimento brasileiro\nO Brasil é referência mundial incontestável na estrutura de treinamento, contratação de comissões técnicas multidisciplinares (fisiologistas, psicólogos esportivos, nutricionistas) e pagamento de prêmios de alto rendimento para atletas cegos via CPB e CBDV.\n\n### 7. Desenvolvimento no Nordeste\nO Nordeste contribui massivamente para as seleções brasileiras de Futebol de Cegos (com clubes como a APACE da Paraíba e a ADEVIRN do RN) e de Goalball.\n\n### 8. Pernambuco\nEm Pernambuco, equipes de Goalball e atletas de Atletismo Paralímpico treinam nas instalações do Parque Esportivo Santos Dumont no Recife e na UPE, revelando jovens talentos para os Jogos Escolares Paralímpicos.\n\n### 9. Situação atual\nAté 2026, consolida-se o avanço do **Futebol de Cegos Feminino** no Brasil, com a realização do Campeonato Brasileiro Feminino e copas internacionais promovidas pela IBSA.\n\n### 10. Controvérsias e debates\nDebate sobre a regra do atrito do atleta-guia no Atletismo: desqualificação frequente de duplas de velocistas quando o atleta-guia, na tentativa de puxar o atleta cego cansado nos metros finais, cruza a linha de chegada à frente do atleta cego, violando a regra da IBSA/IPC.\n\n### 11. Lacunas de pesquisa\nAnálise fisiológica do consumo de oxigênio (VO2 máx) e gasto energético em atletas de Goalball de elite durante o ciclo paralímpico no Brasil.\n\n### 12. Conceitos que conectam este tópico a outros\nConecta-se aos **Módulos 44, 46, 47 e 48**.\n\n<h3 id=\"topico-45-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: IBSA. *Official Goalball Rules 2022-2024*. Bonn: IBSA, 2022.\n- **Fonte Primária**: IBSA. *Blind Football Rules 2022-2026*. Bonn: IBSA, 2022.\n- **Fonte Secundária**: CBDV. *História do Futebol de Cegos e do Goalball no Brasil*. Rio de Janeiro: CBDV, 2021. Available at: https://www.cbdv.org.br.\n- **Fonte Secundária**: MELLO, M. T. et al. *Treinamento de Alto Rendimento no Esporte Paralímpico*. São Paulo: Atheneu, 2018.\n\n---\n\n"
+    },
+    {
+      "id": 46,
+      "number": "46",
+      "title": "Grandes Competições",
+      "category": "Legislação, Esporte Paralímpico e Arte",
+      "vol": 5,
+      "slug": "46-grandes-competicoes",
+      "summary": "As grandes competições esportivas para pessoas com deficiência visual representam o ápice do desempenho atlético, da superação de limites, da visibilidade midiática e do avanço das políticas de investimento esportivo. O calendário competitivo estende-se desde jogos escolares de base até o maior evento esportivo do planeta: os Jogos Paralímpicos.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-46-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-46-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-46-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-46-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-46-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-46-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-46-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-46-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-46-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-46-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-46-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-46-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-46-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-46-14"
+        }
+      ],
+      "markdown": "## 46 — GRANDES COMPETIÇÕES\n\n<h3 id=\"topico-46-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nAs grandes competições esportivas para pessoas com deficiência visual representam o ápice do desempenho atlético, da superação de limites, da visibilidade midiática e do avanço das políticas de investimento esportivo. O calendário competitivo estende-se desde jogos escolares de base até o maior evento esportivo do planeta: os Jogos Paralímpicos.\n\n<h3 id=\"topico-46-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3> e Linha do Tempo das Grandes Competições\n\n- **1960 — I Jogos Paralímpicos de Verão (Roma, Itália)**: Primeiros Jogos Paralímpicos oficiais da história (embora inicialmente focados em atletas paraplégicos).\n- **1976 — Jogos Paralímpicos de Toronto (Canadá)**: **Primeiros Jogos Paralímpicos com a inclusão de atletas cego(a)s e com baixa visão**, além da estreia do Goalball masculino como esporte de demonstração.\n- **1981 — IBSA World Games / Jogos Mundiais da IBSA**: Criação dos Jogos Mundiais da IBSA (realizados a cada 4 anos), o maior evento esportivo exclusivo para atletas com deficiência visual no mundo.\n- **1999 — I Jogos Parapan-Americanos (Cidade do México)**: Primeira edição dos Jogos Parapan-Americanos sob a chancela do Comitê Paralímpico das Américas.\n- **2004 — Jogos Paralímpicos de Atenas (Grécia)**: **Estreia oficial do Futebol de Cegos (Futebol de 5)** no programa paralímpico. O Brasil conquistou a medalha de ouro histórica.\n- **2007 — III Jogos Parapan-Americanos do Rio de Janeiro (Brasil)**: Evento divisor de águas na visibilidade do esporte paralímpico no Brasil, com transmissão televisiva aberta e grande público.\n- **2016 — Jogos Paralímpicos do Rio 2016 (Brasil)**: Primeira Paralimpíada realizada na América do Sul, com quebra de recordes mundiais de público e audiência global.\n- **2021 — Jogos Paralímpicos de Tóquio 2020 (Japão)**: Paralimpíada realizada sob protocolos sanitários rigorosos, com consagração do Brasil no Top 5 do atletismo e futebol de cegos.\n- **2024 — Jogos Paralímpicos de Paris 2024 (França)**: Paralimpíada realizada em locais históricos de Paris, consagrando novos campeões paralímpicos cego(a)s.\n- **2026 — Jogos Paralímpicos de Inverno de Milano-Cortina (Itália)**: Competição internacional de elite no esqui alpino, biatlo e esqui cross-country para atletas cego(a)s com guias de neve.\n\n### 3. Estrutura das Competições de Base e Nacionais no Brasil\n- **Paralimpíadas Escolares (Brasil)**: Maior evento do mundo para crianças e jovens com deficiência em idade escolar (12 a 17 anos), organizado anualmente pelo CPB em São Paulo, revelando os novos talentos das seleções brasileiras de base.\n- **Paralimpíadas Universitárias (Brasil)**: Competição nacional para estudantes de ensino superior.\n- **Campeonatos Brasileiros da CBDV**: Torneios nacionais de clubes de Futebol de Cegos (Séries A e B), Goalball e Judô Paralímpico.\n\n<h3 id=\"topico-46-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Sir Philip Craven (Atleta/Gestor, Reino Unido)**: Ex-Presidente do Comitê Paralímpico Internacional (IPC) que expandiu a presença da mídia nos Jogos Paralímpicos de 2004 a 2017.\n- **Andrew Parsons (Gestor Esportivo, Brasil)**: Presidente do IPC, liderando a organização dos Jogos de Pequim 2022, Paris 2024 e Milano-Cortina 2026.\n\n<h3 id=\"topico-46-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **IPC (International Paralympic Committee)**: Sede em Bonn (Alemanha), entidade máxima do esporte paralímpico mundial.\n- **IBSA (International Blind Sports Federation)**: Organizadora dos IBSA World Games e Campeonatos Mundiais por modalidade.\n- **CPB (Comitê Paralímpico Brasileiro)**: Sede em São Paulo, gestor da delegação paralímpica brasileira.\n\n<h3 id=\"topico-46-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nO impacto das transmissões de vídeo em alta definição e mídias sociais transformou atletas paralímpicos cegos em ídolos globais patrocinados por marcas internacionais.\n\n<h3 id=\"topico-46-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nO Brasil consolidou o **Centro de Treinamento Paralímpico Brasileiro (CT Paralímpico)** em São Paulo, uma das 4 maiores e mais modernas instalações de treinamento paralímpico do mundo.\n\n<h3 id=\"topico-46-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nA etapa regional Nordeste das Paralimpíadas Escolares e dos Circuitos CPB reúne centenas de jovens atletas cegos das redes públicas dos 9 estados nordestinos.\n\n<h3 id=\"topico-46-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nPernambuco sedia etapas do Circuito Brasil Loterias Caixa e do Campeonato Nordeste de Goalball e Futebol de Cegos, enviando delegações de estudantes pernambucanos para as Paralimpíadas Escolares em São Paulo.\n\n### 10. Situação atual\nAté 2026, vigora a preparação intensiva das seleções brasileiras de deficiência visual para os Jogos Parapan-Americanos e para o próximo ciclo paralímpico de Verão.\n\n<h3 id=\"topico-46-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a disparidade de premiações financeiras de patrocinadores privados entre atletas olímpicos e atletas paralímpicos de alta performance, exigindo equiparação de prêmios.\n\n<h3 id=\"topico-46-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudo socioeconômico sobre a taxa de continuidade de jovens atletas cego(a)s do Nordeste após a transição das Paralimpíadas Escolares para as competições adultas de alta performance.\n\n<h3 id=\"topico-46-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 44, 45, 47 e 48**.\n\n<h3 id=\"topico-46-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: INTERNATIONAL PARALYMPIC COMMITTEE (IPC). *Paralympic Games History and Results Database*. Bonn: IPC, 2024. Available at: https://www.paralympic.org.\n- **Fonte Primária**: COMITÊ PARALÍMPICO BRASILEIRO (CPB). *Relatório de Gestão e Resultados Paralímpicos*. Brasília: CPB, 2023.\n- **Fonte Secundária**: BRITTAIN, Ian. *The Paralympic Games Explained*. 2nd ed. London: Routledge, 2016. ISBN: 978-1138942660.\n- **Fonte Secundária**: CPB. *História do Movimento Paralímpico no Brasil*. São Paulo: CPB, 2019.\n\n---\n\n"
+    },
+    {
+      "id": 47,
+      "number": "47",
+      "title": "Grandes Atletas Cegos",
+      "category": "Legislação, Esporte Paralímpico e Arte",
+      "vol": 5,
+      "slug": "47-grandes-atletas-cegos",
+      "summary": "A história do esporte para pessoas com deficiência visual é construída pela trajetória extraordinária de atletas que desafiaram limites biológicos, preconceitos capacitistas e barreiras socioeconômicas para alcançar o topo do pódio mundial. Esta galeria histórica homenageia ícones internacionais, brasileiros, nordestinos e pernambucanos.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-47-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-47-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-47-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-47-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-47-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-47-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-47-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-47-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-47-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-47-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-47-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-47-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-47-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-47-14"
+        }
+      ],
+      "markdown": "## 47 — GRANDES ATLETAS CEGOS\n\n<h3 id=\"topico-47-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA história do esporte para pessoas com deficiência visual é construída pela trajetória extraordinária de atletas que desafiaram limites biológicos, preconceitos capacitistas e barreiras socioeconômicas para alcançar o topo do pódio mundial. Esta galeria histórica homenageia ícones internacionais, brasileiros, nordestinos e pernambucanos.\n\n### 2. Galeria Histórica de Grandes Atletas Cegos\n\n#### A. ÂMBITO INTERNACIONAL\n\n1. **Trischa Zorn (Atleta / Natação, Estados Unidos)**\n   - **Período**: 1980–2004.\n   - **Classe**: B2 (Baixa Visão).\n   - **Feito Histórico**: A maior atleta da história de TODO o movimento paralímpico mundial (olímpico ou paralímpico). Conquistou impressionantes **55 medalhas paralímpicas** (41 de Ouro, 9 de Prata e 5 de Bronze) em sete edições dos Jogos Paralímpicos.\n   - **Impacto**: Empossada no *International Paralympic Hall of Fame*.\n\n2. **Henry Wanyoike (Atleta / Atletismo de Fundo, Quênia)**\n   - **Período**: 2000–2012.\n   - **Classe**: B1 (Cegueira Total).\n   - **Feito Histórico**: Campeão paralímpico e recordista mundial dos 5.000m, 10.000m e Maratona na classe T11. Perdeu a visão subitamente aos 21 anos devido a um AVC.\n   - **Impacto Social**: Fundador de fundações de caridade e reabilitação para cegos no Quênia e na África Oriental.\n\n3. **Verena Bentele (Atleta / Biatlo e Esqui Cross-Country, Alemanha)**\n   - **Período**: 1998–2010.\n   - **Classe**: B1 (Cegueira Total).\n   - **Feito Histórico**: Maior lenda dos Jogos Paralímpicos de Inverno, conquistadora de 12 medalhas de ouro paralímpicas no esqui e biatlo para cegos.\n   - **Impacto**: Nomeada Comissária de Assuntos de Pessoas com Deficiência do Governo Federal da Alemanha.\n\n#### B. ÂMBITO BRASILEIRO (NACIONAL)\n\n4. **Antônio Tenório da Silva (Atleta / Judô, Brasil)**\n   - **Período**: 1996–Presente (Ativo até 2024).\n   - **Classe**: B1 (Cegueira Total).\n   - **Feito Histórico**: Considerado o maior judoca paralímpico de todos os tempos no mundo. Conquistou **4 medalhas de ouro paralímpicas consecutivas** (Atenas 1996, Sydney 2000, Atenas 2004, Pequim 2008), 1 de prata (Rio 2016) e 1 de bronze (Londres 2012).\n   - **Trajetória**: Perdeu a visão do olho esquerdo aos 13 anos em uma brincadeira com mamona e o olho direito seis anos depois por uma infecção.\n\n5. **Terezinha Guilhermina (Atleta / Atletismo - Velocidade, Brasil)**\n   - **Período**: 2004–2016.\n   - **Classe**: B1 (Cegueira Total).\n   - **Feito Histórico**: Uma das velocistas cegas mais rápidas do planeta (tricampeã paralímpica nos 100m, 200m e 400m). Nascida em família humilde em Betim-MG com retinite pigmentosa, superou a extrema pobreza para se consagrar no pódio mundial.\n\n6. **Ricardo Alves - \"Ricardinho\" (Atleta / Futebol de Cegos, Brasil)**\n   - **Período**: 2006–Presente.\n   - **Classe**: B1 (Cegueira Total).\n   - **Feito Histórico**: Tetracampeão paralímpico e eleito três vezes o Melhor Jogador de Futebol de Cegos do Mundo pela IBSA. Autor de gols antológicos em finais paralímpicas.\n\n7. **Jeferson da Silva Gonçalves - \"Jefinho\" (Atleta / Futebol de Cegos, Brasil)**\n   - **Período**: 2008–Presente.\n   - **Classe**: B1 (Cegueira Total).\n   - **Feito Histórico**: Chamado de o \"Pelé do Futebol de Cegos\", detentor de 5 medalhas de ouro paralímpicas consecutivas pela Seleção Brasileira. Nascido na Bahia com glaucoma congênito.\n\n8. **Silvânia Costa da Silva (Atleta / Atletismo - Salto em Distância, Brasil)**\n   - **Período**: 2012–Presente.\n   - **Classe**: F11 (Cegueira Total).\n   - **Feito Histórico**: Bicampeã paralímpica (Rio 2016 e Tóquio 2020) e recordista mundial do salto em distância para cegas.\n\n#### C. ÂMBITO NORDESTINO E PERNAMBUCANO\n\n9. **Mizael Conrado (Atleta / Futebol de Cegos, Brasil/Ceará - Nordeste)**\n   - **Período**: 1994–2004.\n   - **Classe**: B1 (Cegueira Total).\n   - **Feito Histórico**: Bicampeão paralímpico (Atenas 2004) e eleito o Melhor Jogador do Mundo em 1998. Nascido no Ceará.\n   - **Impacto Gestor**: Formou-se em Direito e tornou-se **Presidente do Comitê Paralímpico Brasileiro (CPB)**, revolucionando a gestão paralímpica nacional.\n\n10. **Leomon Moreno (Atleta / Goalball, Brasil/Distrito Federal - Raízes Nordestinas)**\n    - **Período**: 2010–Presente.\n    - **Classe**: B1 (Cegueira Total).\n    - **Feito Histórico**: Campeão Paralímpico (Tóquio 2020) e Tricampeão Mundial IBSA. Considerado um dos arremessadores mais potentes do goalball mundial.\n\n11. **Jeohannah Henderson de Santana (Atleta / Atletismo Paralímpico, Pernambuco)**\n    - **Período**: 2015–Presente.\n    - **Classe**: T12 (Baixa Visão).\n    - **Feito Histórico**: Atleta pernambucana de destaque em provas de velocidade do atletismo paralímpico nacional, revelada nos Jogos Escolares de Pernambuco.\n\n12. **Jenifer da Silva Martins (Atleta / Atletismo Paralímpico, Pernambuco)**\n    - **Período**: 2012–Presente.\n    - **Classe**: T12/T13.\n    - **Feito Histórico**: Atleta nascida em Pernambuco com participações em Jogos Parapan-Americanos e Campeonatos Brasileiros de Atletismo Paralímpico.\n\n### 3. Principais pessoas\n- **Trischa Zorn (EUA)**: Maior medalhista paralímpica da história.\n- **Antônio Tenório (Brasil)**: Lenda viva do judô para cegos.\n- **Mizael Conrado (Brasil/Ceará)**: Campeão no esporte e Presidente do CPB.\n\n### 4. Principais instituições\n- **Comitê Paralímpico Internacional (IPC - Hall of Fame)**: Acervo de memória dos grandes atletas.\n- **Comitê Paralímpico Brasileiro (CPB)**: Gestor da carreira dos atletas nacionais.\n- **Associação de Cegos de Pernambuco (APEC) e Clubes Locais**: Berço de formação dos atletas pernambucanos.\n\n### 5. Desenvolvimento internacional\nA imagem pública dos atletas paralímpicos cegos evoluiu no jornalismo internacional, sendo retratados como profissionais de alta performance com rotinas de treino extremas.\n\n### 6. Desenvolvimento brasileiro\nO programa **Bolsa Atleta (Categoria Pódio)** do Governo Federal garantiu renda mensal aos atletas cego(a)s campeões mundiais, permitindo dedicação exclusiva aos treinos.\n\n### 7. Desenvolvimento no Nordeste\nO Nordeste destaca-se como o principal exportador de talentos do Futebol de Cegos para os clubes da Europa e para a Seleção Brasileira.\n\n### 8. Pernambuco\nEm Pernambuco, a Secretaria Estadual de Educação e Esportes mantém programas de incentivo como o *Bolsa Atleta Pernambuco*, apoiando financeiramente atletas paralímpicos cego(a)s do Recife e do interior.\n\n### 9. Situação atual\nAté 2026, os atletas paralímpicos brasileiros servem como grandes embaixadores no combate ao capacitismo e na defesa da acessibilidade universal.\n\n### 10. Controvérsias e debates\nDebate sobre a invisibilidade de atletas paralímpicos cegas mulheres na cobertura da imprensa esportiva tradicional comparada à cobertura da Seleção masculina de Futebol de Cegos.\n\n### 11. Lacunas de pesquisa\nMapeamento biográfico e documental da trajetória de vida dos primeiros atletas cegos pernambucanos a participarem das etapas nacionais do atletismo na década de 1980.\n\n### 12. Conceitos que conectam este tópico a outros\nConecta-se aos **Módulos 44, 45, 46 e 48**.\n\n<h3 id=\"topico-47-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: COMITÊ PARALÍMPICO BRASILEIRO (CPB). *Galeria de Campeões Paralímpicos Brasileiros*. Brasília: CPB, 2024. Available at: https://cpb.org.br.\n- **Fonte Secundária**: ZORN, Trischa. *My Life as the Most Decorated Paralympian*. New York: Sports Publishing, 2012.\n- **Fonte Secundária**: TENÓRIO, Antônio. *Tenório: a história do maior judoca paralímpico da história*. São Paulo: Memória Esportiva, 2016.\n- **Fonte Secundária**: GUILHERMINA, Terezinha. *Correndo no escuro: a trajetória de vitorias*. São Paulo: Ed. Paralímpica, 2018.\n\n---\n\n"
+    },
+    {
+      "id": 48,
+      "number": "48",
+      "title": "Esporte, Identidade e Autonomia",
+      "category": "Legislação, Esporte Paralímpico e Arte",
+      "vol": 5,
+      "slug": "48-esporte-identidade-e-autonomia",
+      "summary": "O impacto da prática esportiva adaptada na vida da pessoa com deficiência visual transcende o desenvolvimento metabólico e motor. O esporte atua como um laboratório social de reconstrução da identidade, elevação da autoestima, fortalecimento do esquema corporal, aceitação da deficiência e promoção da vida autônoma.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-48-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-48-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-48-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-48-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-48-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-48-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-48-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-48-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-48-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-48-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-48-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-48-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-48-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-48-14"
+        }
+      ],
+      "markdown": "## 48 — ESPORTE, IDENTIDADE E AUTONOMIA\n\n<h3 id=\"topico-48-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO impacto da prática esportiva adaptada na vida da pessoa com deficiência visual transcende o desenvolvimento metabólico e motor. O esporte atua como um laboratório social de reconstrução da identidade, elevação da autoestima, fortalecimento do esquema corporal, aceitação da deficiência e promoção da vida autônoma.\n\n### 2. Duas Investigações Científicas Centrais do Módulo\n\n#### A. \"O esporte auxilia na adaptação à deficiência visual?\"\nEstudos na área de psicologia do esporte e reabilitação (ex.: pesquisas de Sherrill, Samulski e estudos no CPB) comprovam empiricamente os efeitos benéficos da prática esportiva na adaptação à perda visual:\n1. **Reestruturação da Propriocepção e Esquema Corporal**: O atleta cego desenvolve uma consciência corporal refinada, aprendendo a orientar-se rapidamente por pistas auditivas e cinestésicas, o que se traduz em caminhadas de Orientação e Mobilidade mais seguras na rua.\n2. **Elaboração Rápida do Luto na Cegueira Adquirida**: Ingressar em um time ou grupo esportivo de cegos permite ao indivíduo recém-cego contatar pares que já superaram as fases de luto, oferecendo um modelo de resiliência e suporte socioafetivo.\n3. **Sentimento de Autoeficácia e Controle**: Superar limites no treino (correr 100 metros, fazer um gol, vencer uma luta de judô) reconstrói a percepção de competência pessoal, desmontando o sentimento de \"invalidez\".\n\n#### B. \"Atletas cegos podem funcionar como modelos de referência (*Role Models*) para jovens com deficiência visual?\"\n- **Modelagem de Comportamento (Teoria Social Cognitiva de Bandura)**: Jovens e crianças cegas que observam campeões paralímpicos cegos no topo do pódio internacional internalizam a convicção de que a cegueira não limita seus sonhos educacionais e profissionais (*\"Se ele conseguiu, eu também posso!\"*).\n- **Desmistificação da Deficiência perante a Família**: Pais que assistem a atletas cegos competindo perdem o medo capacitista e a superproteção, passando a permitir que seus filhos cego(a)s aprendam a andar de bengala sozinhos e frequentem a escola regular.\n\n<h3 id=\"topico-48-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Autoestima e Autoeficácia (Albert Bandura)**: Crença na própria capacidade de organizar e executar as ações necessárias para alcançar determinados resultados.\n- **Modelos de Referência (*Role Models*)**: Figuras de destaque que servem de inspiração e espelhamento positivo para a construção da identidade de grupos minoritários.\n- **Empoderamento pelo Esporte**: O esporte como veículo de ocupação do espaço público e reivindicação de direitos civis.\n\n<h3 id=\"topico-48-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Albert Bandura (Psicólogo/Pesquisador, Canadá/EUA, 1925–2021)**: Criador da Teoria Social Cognitiva e do conceito de Autoeficácia. (Fonte: *Self-Efficacy: The Exercise of Control*, 1997).\n- **Claud规定a Sherrill (Pesquisadora/Educadora, EUA)**: Precursora dos estudos universiolares em Educação Física Adaptada. (Fonte: *Adapted Physical Activity, Recreation and Sport*, 2004).\n\n<h3 id=\"topico-48-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Comitê Paralímpico Brasileiro (Academia Paralímpica, Brasil)**: Produtora de estudos sobre psicologia do esporte adaptado.\n- **IBSA (Scientific Commission)**: Divisão científica de estudos do impacto esportivo.\n\n<h3 id=\"topico-48-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, a ONU reconhece o esporte adaptado como uma ferramenta prioritária para o cumprimento dos Objetivos de Desenvolvimento Sustentável (ODS) e para a saúde mental.\n\n<h3 id=\"topico-48-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, projetos de extensão universitária e o programa *Atleta Guia* articulam a prática esportiva à alfabetização e inclusão social em comunidades vulneráveis.\n\n<h3 id=\"topico-48-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nAssociações de cegos no Nordeste relatam que o ingresso no Goalball ou Futebol de Cegos é frequentemente a \"porta de entrada\" para que jovens cego(a)s da zona rural retornem à escola e aprendam o Braille.\n\n<h3 id=\"topico-48-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, pesquisas do Departamento de Educação Física da UPE (Campus Santo Amaro) investigam a melhoria da qualidade de vida e da orientação espacial em adultos cego(a)s praticantes de atletismo adaptado no Recife.\n\n### 10. Situação atual\nAté 2026, consolida-se o esporte paralímpico como um dos pilares mais consistentes de desconstrução do capacitismo e de afirmação da cidadania no Brasil.\n\n<h3 id=\"topico-48-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a pressão do \"atleta super-herói\": a crítica de sociólogos à ideia de que a pessoa cega *precisa* tornar-se um campeão esportivo para ter seu valor humano respeitado pela sociedade vidente.\n\n<h3 id=\"topico-48-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudo longitudinal sobre a taxa de ingresso no ensino superior de jovens cego(a)s do Nordeste que participaram das Paralimpíadas Escolares.\n\n<h3 id=\"topico-48-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 01, 11, 28, 44, 45 e 47**.\n\n<h3 id=\"topico-48-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BANDURA, Albert. *Self-Efficacy: The Exercise of Control*. New York: W. H. Freeman and Company, 1997. ISBN: 978-0716728504.\n- **Fonte Secundária**: SHERRILL, Claudine. *Adapted Physical Activity, Recreation and Sport: Crossdisciplinary and Lifespan*. 6th ed. Boston: McGraw-Hill, 2004.\n- **Fonte Secundária**: SAMULSKI, Dietmar. *Psicologia do Esporte*. 2. ed. Barueri: Manole, 2009.\n- **Fonte Secundária**: CPB. *Impactos sociais e psicológicos do esporte paralímpico*. São Paulo: CPB, 2021.\n\n---\n\n"
+    },
+    {
+      "id": 49,
+      "number": "49",
+      "title": "Cultura, Lazer e Arte",
+      "category": "Legislação, Esporte Paralímpico e Arte",
+      "vol": 5,
+      "slug": "49-cultura-lazer-e-arte",
+      "summary": "O direito à cultura, às artes, à literatura e ao lazer é um Direito Humano fundamental (Art. 27 da DUDH e Art. 30 da Convenção da ONU). O campo cultural para a pessoa com deficiência visual abrange duas vertentes indissociáveis: a Acessibilidade Cultural (consumo de bens culturais via Audiodescrição, arte tátil e acervos adaptados) e a Produção Cultural Autônoma realizada por artistas, escritores, teatrólogos e músicos cego(a)s.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-49-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-49-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-49-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-49-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-49-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-49-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-49-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-49-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-49-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-49-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-49-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-49-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-49-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-49-14"
+        }
+      ],
+      "markdown": "## 49 — CULTURA, LAZER E ARTE\n\n<h3 id=\"topico-49-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO direito à cultura, às artes, à literatura e ao lazer é um Direito Humano fundamental (Art. 27 da DUDH e Art. 30 da Convenção da ONU). O campo cultural para a pessoa com deficiência visual abrange duas vertentes indissociáveis: a **Acessibilidade Cultural** (consumo de bens culturais via Audiodescrição, arte tátil e acervos adaptados) e a **Produção Cultural Autônoma** realizada por artistas, escritores, teatrólogos e músicos cego(a)s.\n\n<h3 id=\"topico-49-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3>\n- **Literatura e Tradição Oral**: Da poesia homérica aos cordelistas e violeiros cegos do Nordeste brasileiro, a literatura oral sempre esteve vinculada à cegueira.\n- **O Surgimento da Audiodescrição (Anos 1970–1980)**: Gregory Frazier desenvolveu na Universidade Estadual de São Francisco (EUA) a técnica de **Audiodescrição (AD)** para teatro e televisão.\n- **Chegada da Audiodescrição ao Brasil (Anos 2000)**: Introduzida pela Profa. Dra. Livio Motta e Profa. Dra. Patricia Silva (UFBA/IBC), culminando na Portaria do Ministério das Comunicações que tornou a AD obrigatória na televisão aberta brasileira.\n- **Arte Tátil em Museus**: Museus internacionais (como o Louvre em Paris e o Prado em Madri) e brasileiros (como o Pinacoteca de São Paulo e o Museu do Estado de Pernambuco) criaram galerias de esculturas e réplicas táteis para apreciação com as mãos.\n\n<h3 id=\"topico-49-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Audiodescrição (AD)**: Recurso de acessibilidade comunicacional que consiste na tradução de imagens em palavras, descrevendo elementos visuais (cenários, figurinos, expressões faciais, movimentos, iluminação e textos em tela) em espetáculos teatrais, filmes, programas de TV, exposições e livros ilustrados.\n  - **Regra de Ouro da AD**: *\"Descrever o que se vê, sem emitir julgamentos de valor ou interpretações pessoais do audiodescritor\"* (objetividade descritiva).\n- **Arte Tátil e Estética Háptica**: Experiência estética produzida pela apreciação de texturas, volumes, temperaturas e contornos através do toque direto das mãos em esculturas, maquetes ou instalações multissensoriais.\n- **Literatura Braille e Livro Acessível**: Livros em formato Braille físico, áudio com navegação DAISY e arquivos digitais EPUB3 acessíveis.\n\n<h3 id=\"topico-49-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Gregory Frazier (Pesquisador/Professor, EUA)**: Considerado o \"Pai da Audiodescrição\" no teatro e na TV. (Fonte: San Francisco State University, 1975).\n- **Profª Dra. Livio Motta (Pesquisadora/Audiodescritora, Brasil)**: Autora pioneira de manuais de Audiodescrição no Brasil. (Fonte: *Audiodescrição: transformando imagens em palavras*, 2010).\n- **Profª Dra. Vera Lúcia Santiago Araújo (Pesquisadora, Brasil)**: Professora da UECE, maior autoridade acadêmica em tradução audiovisual acessível e audiodescrição no Nordeste. (Fonte: UECE).\n\n<h3 id=\"topico-49-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Pinacoteca do Estado de São Paulo (Programa de Acessibilidade, Brasil)**: Referência nacional na criação de galerias de arte tátil e maquetes esculturais para cegos.\n- **Museu do Louvre (Galerie Tactile, Paris, França)**: Primeira galeria tátil criada em um grande museu internacional.\n- **Museu Cais do Sertão (Recife, Pernambuco)**: Espaço cultural com recursos de acessibilidade tátil e sonora sobre a cultura sertaneja.\n\n<h3 id=\"topico-49-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, festivais de cinema (como o Festival de Cannes e o Festival de Berlim) oferecem transmissão com audiodescrição via aplicativos móveis sincronizados para espectadores cegos.\n\n<h3 id=\"topico-49-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, a Lei Rouanet e editais de cultura exigem a inclusão de audiodescrição e programas em Braille como condição para financiamento público de projetos culturais.\n\n<h3 id=\"topico-49-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nO Nordeste destaca-se pela pesquisa acadêmica de ponta em Audiodescrição (liderada pela UECE, UFPE e UFBA) e pela rica produção cultural de poetas, cordelistas e músicos cego(a)s.\n\n<h3 id=\"topico-49-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, exposições acessíveis com maquetes táteis do Patrimônio Histórico de Olinda e Recife, peças de teatro com AD ao vivo no Teatro de Santa Isabel e acervos de literatura de cordel em Braille na Biblioteca Pública do Estado marcam a cena cultural.\n\n### 10. Situação atual\nAté 2026, aplicativos de smartphone com inteligência artificial sincronizam automaticamente a audiodescrição de filmes nos cinemas sem necessidade de equipamentos de rádio pesados.\n\n<h3 id=\"topico-49-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre o toque direto em peças originais de museus: a resistência de curadores em permitir que pessoas cegas toquem esculturas de acervos históricos por medo de desgaste, exigindo a produção de réplicas 3D de alta fidelidade.\n\n<h3 id=\"topico-49-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nAvaliação da qualidade e da recepção estética da audiodescrição do frevo e do maracatu em apresentações do Carnaval de Pernambuco por espectadores cego(a)s.\n\n<h3 id=\"topico-49-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 07, 24, 26, 36 e 40**.\n\n<h3 id=\"topico-49-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. Ministério das Comunicações. *Portaria nº 310, de 27 de junho de 2006. Recursos de Acessibilidade para Televisão*. Brasília, 2006.\n- **Fonte Secundária**: MOTTA, Livio; ROMEU, Paulo (Org.). *Audiodescrição: transformando imagens em palavras*. São Paulo: Cortês, 2010. ISBN: 978-8524916328.\n- **Fonte Secundária**: ARAÚJO, Vera Lúcia Santiago; ADERALDO, Marisa. *Audiodescrição: pesquisas e práticas no Nordeste*. Fortaleza: EdUECE, 2014.\n- **Fonte Secundária**: FRANCO, Eliana P. C.; SILVA, M. C. C. Audiodescrição: introdução aos estudos de tradução audiovisual acessível. *Cadernos de Tradução*, Florianópolis, v. 2, p. 23–42, 2010.\n\n---\n\n"
+    },
+    {
+      "id": 50,
+      "number": "50",
+      "title": "Brasil Contemporâneo",
+      "category": "Legislação, Esporte Paralímpico e Arte",
+      "vol": 5,
+      "slug": "50-brasil-contemporaneo",
+      "summary": "O panorama contemporâneo da pessoa com deficiência visual no Brasil (período de 2020 a 2026) sintetiza avanços normativos e tecnológicos sem precedentes ao lado de persistentes desigualdades estruturais. A articulação entre o Ministério da Educação (MEC), o Instituto Benjamin Constant (IBC), a Comissão Brasileira do Braille (CBB), as universidades públicas e as organizações da sociedade civil desenha o cenário atual da pesquisa, produção editorial, tecnologia assistiva e inclusão educacional no país.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-50-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-50-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-50-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-50-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-50-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-50-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-50-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-50-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-50-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-50-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-50-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-50-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-50-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-50-14"
+        }
+      ],
+      "markdown": "## 50 — BRASIL CONTEMPORÂNEO\n\n<h3 id=\"topico-50-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO panorama contemporâneo da pessoa com deficiência visual no Brasil (período de 2020 a 2026) sintetiza avanços normativos e tecnológicos sem precedentes ao lado de persistentes desigualdades estruturais. A articulação entre o Ministério da Educação (MEC), o Instituto Benjamin Constant (IBC), a Comissão Brasileira do Braille (CBB), as universidades públicas e as organizações da sociedade civil desenha o cenário atual da pesquisa, produção editorial, tecnologia assistiva e inclusão educacional no país.\n\n### 2. Mapeamento das Principais Estruturas e Ações do Brasil Contemporâneo\n\n#### A. Instituto Benjamin Constant (IBC) na Atualidade\n- Órgão suplementar do MEC sediado no Rio de Janeiro, mantendo sua tríplice missão: escola de aplicação infantil ao ensino fundamental, centro nacional de formação continuada de professores e maior gráfica de imprensa Braille da América Latina.\n- Produção de livros didáticos em Braille distribuídos para as redes públicas de todo o Brasil via Plano Nacional do Livro Didático (PNLD Acessível).\n\n#### B. Comissão Brasileira do Braille (CBB) e Atualizações Normativas\n- Atuação contínua na revisão da *Grafia Braille para a Língua Portuguesa* e na padronização das notações científicas e digitais para a célula de 8 pontos.\n- Sincronização das tabelas Braille com softwares leitores de tela NVDA e impressoras de grande porte.\n\n#### C. Atendimento Educacional Especializado (AEE) e Salas de Recursos Multifuncionais\n- Presença de milhares de Salas de Recursos Multifuncionais em municípios brasileiros, equipadas com regletes, máquinas Braille, sorobans, computadores com leitores de tela e scanners de voz.\n- Desafio contínuo da formação continuada do professor regente da sala de aula comum e da garantia de transcritores Braille capacitados.\n\n#### D. Produção Editorial e Tecnologia Assistiva Nacional\n- Coexistência entre a produção de livros em Braille físico de grande porte e o crescimento da distribuição de acervos digitais em formato EPUB3 e áudio acessível pelo portal do MEC (Plataforma MEC de Recursos Educacionais Digitais).\n- Inovações da indústria nacional de tecnologia assistiva (como a TECE e startups universitárias) fabricando equipamentos adaptados ao mercado brasileiro.\n\n<h3 id=\"topico-50-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **PNLD Acessível**: Programa do Governo Federal que garante que os mesmos livros didáticos distribuídos aos estudantes videntes das escolas públicas sejam transcritos e impressos em Braille e disponibilizados em formato digital acessível aos estudantes cego(a)s.\n- **Transversalidade da Educação Especial**: Garantia de que o suporte pedagógico à pessoa cega aconteça da Educação Infantil à Pós-Graduação.\n- **Avaliação Biopsicossocial Unificada**: Agenda nacional prioritária para unificar a concessão de direitos e cotas via Índice de Funcionalidade Brasileiro (IFBrM).\n\n<h3 id=\"topico-50-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Prof. Mauro Marcos Farias da Silva (Educador/Gestor, Brasil)**: Diretor Geral do Instituto Benjamin Constant, liderança na modernização da produção editorial Braille no Brasil. (Fonte: IBC).\n- **Profª Dra. Windyz B. Ferreira (Pesquisadora, Brasil)**: Especialista em políticas públicas inclusivas no Brasil. (Fonte: UFPB).\n\n<h3 id=\"topico-50-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Ministério da Educação (MEC / SECADI)**: Formulador executivo das políticas educacionais inclusivas.\n- **Instituto Benjamin Constant (IBC)**: Centro nacional de referência da deficiência visual.\n- **Comissão Brasileira do Braille (CBB)**: Órgão normativo máximo da linguagem tátil.\n- **ONCB (Organização Nacional dos Cegos do Brasil)**: Representante do movimento associativo.\n\n<h3 id=\"topico-50-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nO Brasil é reconhecido na América Latina como líder em volume de produção editorial Braille pública e em conquistas no movimento paralímpico internacional.\n\n<h3 id=\"topico-50-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo entanto, a disparidade regional entre os centros urbanos do Sudeste/Sul e os municípios periféricos do Norte/Nordeste reflete-se na velocidade de entrega de livros didáticos em Braille e no acesso à tecnologia assistiva de ponta.\n\n<h3 id=\"topico-50-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nNo Nordeste, a atuação em rede dos Centros de Apoio Pedagógico (CAPs) e a expansão das universidades federais ampliaram o número de pesquisadores cegos mestres e doutores na região.\n\n<h3 id=\"topico-50-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, o sistema estadual de educação atua em parceria com o CAP/PE e universidades na garantia de salas de recursos polo no Recife, Caruaru e Petrolina.\n\n### 10. Situação atual\nAté 2026, o Brasil avança no uso da Inteligência Artificial aplicada à acessibilidade, mas enfrenta o desafio de garantir que a tecnologia de ponta chegue aos estudantes cegos das áreas rurais do país.\n\n<h3 id=\"topico-50-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre o atraso frequente na entrega dos livros didáticos em Braille pelo PNLD no início do ano letivo escolar, fazendo com que o aluno cego inicie as aulas sem o material em mãos.\n\n<h3 id=\"topico-50-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudo nacional de mapeamento do índice de empregabilidade e retenção de pessoas com deficiência visual graduadas no ensino superior brasileiro após a aprovação da LBI.\n\n<h3 id=\"topico-50-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 09, 10, 24, 35, 41, 51 e 52**.\n\n<h3 id=\"topico-50-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. Ministério da Educação. *Relatório de Avaliação do PNLD Acessível*. Brasília: MEC/SECADI, 2022.\n- **Fonte Primária**: INSTITUTO BENJAMIN CONSTANT (IBC). *Plano de Desenvolvimento Institucional (PDI 2020-2025)*. Rio de Janeiro: IBC, 2020.\n- **Fonte Secundária**: LEMOS, Edison Ribeiro. *A Educação de Deficientes Visuais no Brasil Contemporâneo*. Rio de Janeiro: IBC, 2019.\n- **Fonte Secundária**: MANTOAN, Maria Teresa Eglér. *Desafios da Inclusão no Brasil*. São Paulo: Summus, 2020.\n"
+    },
+    {
+      "id": 51,
+      "number": "51",
+      "title": "Nordeste",
+      "category": "Nordeste, Pernambuco e Pesquisa",
+      "vol": 6,
+      "slug": "51-nordeste",
+      "summary": "A região Nordeste do Brasil abriga uma população de mais de 53 milhões de habitantes com especificidades culturais, socioeconômicas e geográficas marcantes. O estudo da deficiência visual no Nordeste exige a análise comparativa entre as suas 9 unidades federativas (Pernambuco, Bahia, Ceará, Paraíba, Rio Grande do Norte, Alagoas, Sergipe, Maranhão e Piauí), mapeando o atendimento pedagógico, os Centros de Apoio Pedagógico (CAPs), as associações de cegos, os polos universitários de pesquisa e o desenvolvimento do esporte adaptado.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-51-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-51-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-51-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-51-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-51-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-51-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-51-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-51-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-51-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-51-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-51-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-51-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-51-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-51-14"
+        }
+      ],
+      "markdown": "## 51 — NORDESTE\n\n<h3 id=\"topico-51-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA região Nordeste do Brasil abriga uma população de mais de 53 milhões de habitantes com especificidades culturais, socioeconômicas e geográficas marcantes. O estudo da deficiência visual no Nordeste exige a análise comparativa entre as suas 9 unidades federativas (Pernambuco, Bahia, Ceará, Paraíba, Rio Grande do Norte, Alagoas, Sergipe, Maranhão e Piauí), mapeando o atendimento pedagógico, os Centros de Apoio Pedagógico (CAPs), as associações de cegos, os polos universitários de pesquisa e o desenvolvimento do esporte adaptado.\n\n<h3 id=\"topico-51-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3> e Panorama Comparativo dos 9 Estados do Nordeste\n\n1. **Pernambuco (PE)**:\n   - **Instituições Pioneiras**: Sociedade de Assistência aos Cegos de Pernambuco / Instituto de Cegos do Recife (1935), Associação dos Pernambucanos Cegos (APEC).\n   - **Estrutura Pedagógica**: CAP/PE (Recife), rede de Salas de Recursos Multifuncionais no Agreste e Sertão.\n   - **Pesquisa/Ensino**: UFPE, UFRPE, UPE e Fundação Altino Ventura (referência em baixa visão e Síndrome da Zika Congênita).\n\n2. **Bahia (BA)**:\n   - **Instituições Pioneiras**: Instituto dos Cegos da Bahia (ICB, Salvador, fundado em 1933).\n   - **Estrutura/Pesquisa**: CAP/BA, pesquisas em audiodescrição e cartografia tátil na UFBA.\n   - **Esporte**: Celeiro de atletas de Futebol de Cegos e Atletismo Paralímpico.\n\n3. **Ceará (CE)**:\n   - **Instituições Pioneiras**: Sociedade de Assistência aos Cegos (SAC / Instituto Hélio Góes, Fortaleza, 1942), ADICE.\n   - **Estrutura/Pesquisa**: CAP/CE, grupo de pesquisa em Tradução Audiovisual Acessível e Audiodescrição na UECE (Profa. Vera Santiago).\n\n4. **Paraíba (PB)**:\n   - **Instituições/Esporte**: Instituto dos Cegos da Paraíba Adalgisa Cunha (João Pessoa), APACE (Associação Paraibana de Cegos), potência nacional de Futebol de Cegos (equipe multicampeã nacional).\n   - **Pesquisa**: UFPB (pesquisas em Educação Inclusiva e Acessibilidade).\n\n5. **Rio Grande do Norte (RN)**:\n   - **Instituições/Pesquisa**: Instituto de Cegos do RN (Natal), ADEVIRN.\n   - **Pesquisa de Ponta**: Instituto do Cérebro (ICe/UFRN), referência nacional em neurociência da plasticidade cerebral e percepção sensorial tátil.\n\n6. **Alagoas (AL)**:\n   - **Instituições**: Associação dos Deficientes Visuais de Alagoas (ADEVAL, Maceió), CAP/AL.\n   - **Desafios**: Expansão do AEE para o interior do estado (Sertão alagoano).\n\n7. **Sergipe (SE)**:\n   - **Instituições**: Centro de Apoio Pedagógico para Atendimento às Pessoas com Deficiência Visual (CAP/SE, Aracaju), Associação dos Deficientes Visuais de Sergipe (ADEVISE).\n   - **Pesquisa**: UFS (projetos de tecnologia assistiva de baixo custo).\n\n8. **Maranhão (MA)**:\n   - **Instituições**: Escola de Cegos do Maranhão (São Luís), CAP/MA.\n   - **Desafios**: Superação de barreiras de transporte e atendimento nas comunidades ribeirinhas e quilombolas.\n\n9. **Piauí (PI)**:\n   - **Instituições**: Associação dos Deficientes Visuais do Piauí (ACEP, Teresina), CAP/PI.\n   - **Pesquisa**: UFPI (estudos sobre inclusão no ensino superior no meio norte do Brasil).\n\n<h3 id=\"topico-51-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Rede de Centros de Apoio Pedagógico (CAPs)**: Estrutura criada pelo MEC em parceria com as Secretarias Estaduais de Educação para a produção de material didático em Braille, adaptação de livros e formação continuada de professores de AEE na região Nordeste.\n- **Assimetria Socioeconômica Regional**: Disparidade de recursos e infraestrutura de tecnologia assistiva entre o Nordeste e as regiões Sul/Sudeste, exigindo estratégias de reaproveitamento e tecnologia de baixo custo.\n\n<h3 id=\"topico-51-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Profª Dra. Windyz B. Ferreira (Pesquisadora, UFPB)**: Referência nordestina em educação inclusiva e direitos humanos.\n- **Profª Dra. Vera Lúcia Santiago Araújo (Pesquisadora, UECE)**: Líder nordestina de pesquisas em audiodescrição.\n- **Priscila Marques (Ativista/Usuária, Nordeste)**: Militante dos direitos das mulheres cegas no Nordeste.\n\n<h3 id=\"topico-51-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **CAPs Estaduais do Nordeste (MEC/SEEs)**: Centros de produção Braille das 9 capitais.\n- **Rede de Universidades Federais do Nordeste (UFPE, UFBA, UFC, UFPB, UFRN, UFS, UFMA, UFPI)**.\n\n<h3 id=\"topico-51-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nO Nordeste tem firmado parcerias de cooperação técnica internacional com universidades da Europa e da América Latina para intercâmbio de pesquisas em acessibilidade digital e audiodescrição.\n\n<h3 id=\"topico-51-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nA articulação dos 9 estados do Nordeste nos encontros regionais da ONCB e dos CAPs fortalece a reivindicação de maior orçamento federal para o PNLD Acessível.\n\n### 8. Situação atual\nAté 2026, a consolidação dos cursos de licenciatura em Educação Inclusiva e Pós-Graduação em Acessibilidade nas universidades nordestinas amplia o corpo de pesquisadores cego(a)s na região.\n\n### 9. Controvérsias e debates\nDebate sobre a centralização dos recursos de imprensa Braille nas capitais nordestinas, gerando demoras na entrega de materiais adaptados para escolas dos municípios do semiárido.\n\n### 10. Lacunas de pesquisa\nEstudo epidemiológico comparativo da prevalência de cegueira por causas evitáveis (tracoma e glaucoma) entre as zonas rurais dos 9 estados do Nordeste.\n\n### 11. Conceitos que conectam este tópico a outros\nConecta-se aos **Módulos 09, 10, 35, 49, 50 e 52**.\n\n### 12. Referências do tópico\n- **Fonte Primária**: BRASIL. Ministério da Educação. *Mapeamento das Salas de Recursos Multifuncionais e CAPs da Região Nordeste*. Brasília: MEC/SECADI, 2021.\n- **Fonte Secundária**: FERREIRA, Windyz B. *Educação Inclusiva no Nordeste Brasileiro*. João Pessoa: Ed. Universitária/UFPB, 2012.\n- **Fonte Secundária**: ARAÚJO, Vera L. S. *Tradução Audiovisual Acessível no Nordeste*. Fortaleza: EdUECE, 2015.\n\n---\n\n"
+    },
+    {
+      "id": 52,
+      "number": "52",
+      "title": "Pernambuco",
+      "category": "Nordeste, Pernambuco e Pesquisa",
+      "vol": 6,
+      "slug": "52-pernambuco",
+      "summary": "O estado de Pernambuco ocupa uma posição de liderança histórica, científica e educacional no Nordeste no campo da deficiência visual. Com uma população de mais de 9 milhões de habitantes distribuídos entre a Região Metropolitana do Recife, a Zona da Mata, o Agreste e o Sertão, Pernambuco construiu uma sólida rede institucional composta pelo Instituto de Cegos do Recife, a Fundação Altino Ventura, o CAP/PE, as universidades públicas (UFPE, UFRPE, UPE) e os Institutos Federais (IFPE, IFSERTÃOPE).",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-52-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-52-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-52-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-52-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-52-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-52-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-52-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-52-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-52-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-52-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-52-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-52-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-52-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-52-14"
+        }
+      ],
+      "markdown": "## 52 — PERNAMBUCO\n\n<h3 id=\"topico-52-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nO estado de Pernambuco ocupa uma posição de liderança histórica, científica e educacional no Nordeste no campo da deficiência visual. Com uma população de mais de 9 milhões de habitantes distribuídos entre a Região Metropolitana do Recife, a Zona da Mata, o Agreste e o Sertão, Pernambuco construiu uma sólida rede institucional composta pelo Instituto de Cegos do Recife, a Fundação Altino Ventura, o CAP/PE, as universidades públicas (UFPE, UFRPE, UPE) e os Institutos Federais (IFPE, IFSERTÃOPE).\n\n<h3 id=\"topico-52-2\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">2. História</h3> da Deficiência Visual em Pernambuco\n- **Século XIX e Início do Século XX**: Acolhimento indigente na Santa Casa de Misericórdia do Recife; ausência de turmas escolares especializadas.\n- **Fundação da Sociedade de Assistência aos Cegos de Pernambuco / Instituto de Cegos do Recife (1935)**: Fundado no Recife em 18 de maio de 1935 por benfeitores e educadores locais. Tornou-se o marco inicial da alfabetização Braille institucional e da escolarização de cego(a)s no estado.\n- **Criação da Associação dos Pernambucanos Cegos (APEC, 1979)**: Entidade criada por pessoas cegas em Recife para lutar por direitos civis, passe livre e empregabilidade.\n- **Criação do CAP/PE (1999)**: Centro de Apoio Pedagógico de Pernambuco criado no Recife para abastecer as escolas estaduais com acervo Braille.\n- **Atuação da Fundação Altino Ventura (FAV, 1986)**: Referência em oftalmologia social e reabilitação visual no Recife.\n- **A Epidemia do Vírus Zika e a Síndrome da Zika Congênita (2015–2016)**: Pernambuco tornou-se o epicentro mundial da microcefalia e das alterações de Deficiência Visual Cortical e Ocular em recém-nascidos, impulsionando pesquisas neurocientíficas e de intervenção precoce de impacto internacional no IMIP, FAV e HC-UFPE.\n\n<h3 id=\"topico-52-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **CAP/PE (Centro de Apoio Pedagógico para Atendimento às Pessoas com Deficiência Visual de Pernambuco)**: Órgão da Secretaria Estadual de Educação responsável pela impressão de livros didáticos em Braille, adaptação de maquetes táteis, revisão ortográfica tátil e formação continuada de professores de AEE.\n- **Polo de Oftalmologia Social e Reabilitação de Pernambuco**: Complexo clínico e acadêmico (FAV/UFPE/IMIP) especializado em baixa visão e reabilitação infantil.\n\n<h3 id=\"topico-52-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Dr. Altino Ventura e Dra. Liana Ventura (Médicos/Pesquisadores, Pernambuco)**: Fundadores e lideranças da Fundação Altino Ventura, referências mundiais na prevenção da cegueira e reabilitação visual na infância. (Fonte: FAV).\n- **Prof. Antônio Rodrigues (Educador/Braillista, Pernambuco)**: Histórico braillista e formador de gerações de professores no Instituto de Cegos do Recife.\n- **Manoel Aguiar (Ativista/Usuário, Pernambuco)**: Liderança histórica na fundação da APEC e na luta pela acessibilidade urbana em Recife.\n\n<h3 id=\"topico-52-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Instituto de Cegos do Recife (SACPE, Recife)**: Instituição histórica fundada em 1935.\n- **CAP/PE (Centro de Apoio Pedagógico de Pernambuco, Recife)**: Órgão governamental de produção Braille.\n- **Fundação Altino Ventura (FAV, Recife)**: Centro de reabilitação e pós-graduação.\n- **UFPE, UFRPE e UPE**: Universidades públicas com núcleos de acessibilidade e pesquisa.\n\n<h3 id=\"topico-52-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nAs pesquisas pernambucanas sobre alterações visuais decorrentes da Síndrome da Zika Congênita foram publicadas nas mais prestigiadas revistas científicas do mundo (*The Lancet*, *New England Journal of Medicine*), projetando a ciência de Pernambuco internacionalmente.\n\n<h3 id=\"topico-52-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nPernambuco é referência nacional no atendimento de intersecção entre Saúde e Educação Especial para crianças com deficiências sensoriais múltiplas.\n\n### 8. Desenvolvimento regional\nO CAP/PE atua como polo de treinamento e compartilhamento de matrizes de mapas táteis para os centros de apoio dos estados vizinhos (Paraíba, Alagoas e Sergipe).\n\n### 9. Recife e Região Metropolitana\nA RMR concentra a maior densidade de serviços especializados, clínicas de reabilitação, bibliotecas acessíveis e turmas de AEE de Pernambuco.\n\n### 10. Situação atual\nAté 2026, Pernambuco investe na descentralização dos serviços de acessibilidade e na expansão de Salas de Recursos Multifuncionais polo nas gerências regionais de educação do Agreste e Sertão.\n\n<h3 id=\"topico-52-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre o financiamento e a sustentabilidade de longo prazo de instituições filantrópicas centenárias do Recife em face da exigência de estatização ou convênios com o SUS e a Secretaria de Educação.\n\n<h3 id=\"topico-52-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nMapeamento arquivístico da produção poética e literária em Braille dos primeiros alunos do Instituto de Cegos do Recife entre 1935 e 1960.\n\n<h3 id=\"topico-52-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 02, 09, 35, 51, 53, 54 e 55**.\n\n<h3 id=\"topico-52-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: PERNAMBUCO. Secretaria de Educação e Esportes. *Diretrizes da Educação Especial de Pernambuco*. Recife: SEE-PE, 2019.\n- **Fonte Secundária**: VENTURA, Liana O. et al. Visual impairment in children with Congenital Zika Syndrome. *Journal of AAPOS*, v. 21, p. 342–347, 2017.\n- **Fonte Secundária**: SOCIEDADE DE ASSISTÊNCIA AOS CEGOS DE PERNAMBUCO. *Memória dos 80 anos do Instituto de Cegos do Recife*. Recife: SACPE, 2015.\n- **Fonte Secundária**: SILVA, Maria José. *A história da alfabetização tátil em Pernambuco*. Recife: Editora Universitária/UFPE, 2008.\n\n---\n\n"
+    },
+    {
+      "id": 53,
+      "number": "53",
+      "title": "Recife",
+      "category": "Nordeste, Pernambuco e Pesquisa",
+      "vol": 6,
+      "slug": "53-recife",
+      "summary": "A cidade do Recife, capital de Pernambuco, é o epicentro dos serviços municipais de educação inclusiva, atendimento educacional especializado, mobilidade urbana, infraestrutura cultural acessível e acolhimento associativo para a pessoa com deficiência visual na Região Metropolitana.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-53-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-53-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-53-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-53-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-53-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-53-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-53-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-53-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-53-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-53-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-53-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-53-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-53-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-53-14"
+        }
+      ],
+      "markdown": "## 53 — RECIFE\n\n<h3 id=\"topico-53-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA cidade do Recife, capital de Pernambuco, é o epicentro dos serviços municipais de educação inclusiva, atendimento educacional especializado, mobilidade urbana, infraestrutura cultural acessível e acolhimento associativo para a pessoa com deficiência visual na Região Metropolitana.\n\n### 2. Mapeamento Estrutural dos Serviços na Cidade do Recife\n- **Rede Municipal de Ensino e AEE de Recife**:\n  - Salas de Recursos Multifuncionais equipadas na rede municipal de ensino de Recife para atendimento no contraturno escolar.\n  - Atuação do CAPM/Recife (Centro de Apoio Pedagógico Municipal).\n  - Distribuição de profissionais de apoio e monitores para estudantes cego(a)s matriculados na educação infantil e ensino fundamental da rede municipal.\n- **Setor Braille da Biblioteca Pública do Estado de Pernambuco (BPEP - Rua da Aurora, Recife)**:\n  - Um dos maiores e mais antigos acervos de livros em Braille, audiolivros e computadores com leitor de tela do Nordeste, servindo como ponto de encontro e estudo de estudantes universitários e pesquisadores cegos.\n- **Orientação e Mobilidade e Acessibilidade Urbana no Recife**:\n  - Instalação de pisos táteis direcionais e de alerta no centro do Recife (Av. Conde da Boa Vista, Bairro do Recife e calçadão de Boa Viagem).\n  - Semáforos sonoros e frota de ônibus com acessibilidade e avisos sonoros geridos pelo Grande Recife Consórcio de Transporte.\n  - Desafios críticos: Conservação das calçadas do centro histórico, presença de vendedores ambulantes sobre o piso tátil e acidentes em pontes e calçadas deterioradas.\n- **Esporte e Cultura Acessível no Recife**:\n  - Parque Esportivo Santos Dumont (Boa Viagem) e equipamentos municipais de treino de Goalball e Atletismo Paralímpico.\n  - Teatros municipais (Teatro de Santa Isabel, Teatro do Parque) com sessões de Audiodescrição e peças inclusivas.\n\n<h3 id=\"topico-53-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Rota Acessível Urbana**: Corredores urbanos contínuos sem barreiras arquitetônicas que conectam pontos de transporte público, escolas e órgãos públicos no Recife.\n- **CAPM Recife**: Órgão de adaptação de material didático específico para a rede de ensino da capital.\n\n<h3 id=\"topico-53-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Profª Maria do Carmo Ribeiro (Educadora, Recife)**: Pioneira no ensino de Orientação e Mobilidade e Braille no Recife.\n- **Ana Paula Silva (Pesquisadora/Ativista, Recife)**: Liderança no movimento de universitários cegos do Recife.\n\n<h3 id=\"topico-53-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Biblioteca Pública do Estado de Pernambuco (Setor Braille, Recife)**: Ponto de referência cultural e de estudo.\n- **Prefeitura da Cidade do Recife (Secretaria de Educação / Gerência de Educação Especial)**.\n- **Instituto de Cegos do Recife (Bairro da Graças, Recife)**.\n\n<h3 id=\"topico-53-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nRecife é signatária de compromissos internacionais de Cidades Acessíveis, buscando alinhar sua infraestrutura aos ODS 11 da Agenda 2030 da ONU.\n\n<h3 id=\"topico-53-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nA experiência do Setor Braille da Biblioteca Pública de Pernambuco na Rua da Aurora é citada nacionalmente como modelo de preservação de acervo tátil.\n\n### 8. Desenvolvimento regional\nEstudantes de municípios vizinhos da RMR (Olinda, Jaboatão, Camaragibe, Paulista) deslocam-se diariamente ao Recife para utilizar os serviços de reabilitação e bibliotecas acessíveis.\n\n<h3 id=\"topico-53-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nComo capital, Recife concentra os principais tribunais, universidades e centros de formação de professores de deficiência visual do estado.\n\n### 10. Situação atual\nAté 2026, Recife avança na digitalização de serviços públicos municipais acessíveis por aplicativos móveis com leitor de tela (Conecta Recife acessível).\n\n<h3 id=\"topico-53-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a conservação do piso tátil na Avenida Conde da Boa Vista e no Bairro do Recife: denúncias de ativistas cegos sobre piso tátil interrompido por bancas de revistas, lixeiras e orelhões instalados de forma irregular pela gestão municipal.\n\n<h3 id=\"topico-53-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nAuditoria de usabilidade e acessibilidade nos pontos de parada de ônibus e estações de BRT da cidade do Recife sob a ótica de usuários de bengala longa.\n\n<h3 id=\"topico-53-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 28, 36, 49, 52 e 54**.\n\n<h3 id=\"topico-53-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: RECIFE. Prefeitura Municipal. *Plano Municipal de Acessibilidade da Cidade do Recife*. Recife: PCR, 2018.\n- **Fonte Secundária**: BIBLIOTECA PÚBLICA DO ESTADO DE PERNAMBUCO. *Relatório de Acervo e Serviços do Setor Braille*. Recife: BPEP, 2022.\n- **Fonte Secundária**: SILVA, E. F. *Acessibilidade Urbana e Mobilidade de Deficientes Visuais no Centro do Recife*. Dissertação (Mestrado em Desenvolvimento Urbano) – UFPE, Recife, 2016.\n\n---\n\n"
+    },
+    {
+      "id": 54,
+      "number": "54",
+      "title": "Interior de Pernambuco",
+      "category": "Nordeste, Pernambuco e Pesquisa",
+      "vol": 6,
+      "slug": "54-interior-de-pernambuco",
+      "summary": "A investigação da deficiência visual no interior do Estado de Pernambuco exige o mapeamento das especificidades educacionais, geográficas e de infraestrutura nas mesorregiões da Zona da Mata, Agreste e Sertão. O acesso a escolas regulares com Salas de Recursos Multifuncionais, braillistas capacitados, tecnologia assistiva e serviços de orientação e mobilidade em municípios polo (como Caruaru, Garanhuns, Petrolina, Arcoverde e Serra Talhada) revela avanços importantes, mas também significativas lacunas de dados públicos consolidados.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-54-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-54-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-54-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-54-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-54-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-54-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-54-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-54-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-54-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-54-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-54-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-54-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-54-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-54-14"
+        }
+      ],
+      "markdown": "## 54 — INTERIOR DE PERNAMBUCO\n\n<h3 id=\"topico-54-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA investigação da deficiência visual no interior do Estado de Pernambuco exige o mapeamento das especificidades educacionais, geográficas e de infraestrutura nas mesorregiões da **Zona da Mata**, **Agreste** e **Sertão**. O acesso a escolas regulares com Salas de Recursos Multifuncionais, braillistas capacitados, tecnologia assistiva e serviços de orientação e mobilidade em municípios polo (como Caruaru, Garanhuns, Petrolina, Arcoverde e Serra Talhada) revela avanços importantes, mas também significativas lacunas de dados públicos consolidados.\n\n### 2. Mapeamento das Principais Cidades Polo do Interior de PE\n\n1. **Caruaru (Capital do Agreste)**:\n   - Maior centro urbano do interior de PE. Possui rede municipal e estadual estruturada com Salas de Recursos Multifuncionais, atendimento a estudantes cegos e com baixa visão e polos universitários (UFPE Agreste, UPE Caruaru e IFPE). *(Ver estudo de caso aprofundado no Módulo 55)*.\n\n2. **Garanhuns (Agreste Meridional)**:\n   - Sede de Gerência Regional de Educação (GRE). Atendimento a estudantes com deficiência visual em escolas estaduais e municipais, com suporte de braillistas e parceria com a UPE Campus Garanhuns e IFPE.\n\n3. **Petrolina (Sertão do São Francisco)**:\n   - Maior polo econômico e educacional do Sertão pernambucano. Atendimento educacional inclusivo na rede pública municipal e estadual, com suporte do IFSERTÃOPE e da UNIVASF (Universidade Federal do Vale do São Francisco), que desenvolve pesquisas em acessibilidade no semiárido.\n\n4. **Arcoverde (Portal do Sertão)**:\n   - Centro distribuidor de serviços de educação inclusiva para o Sertão do Moxotó, com salas de recursos polo na rede estadual de ensino.\n\n5. **Serra Talhada (Sertão do Pajeú)**:\n   - Presença de turmas inclusivas e suporte da Unidade Acadêmica de Serra Talhada (UAST/UFRPE) e do IF Sertão.\n\n> [!WARNING]\n> **Sinalização Obrigatória de Transparência de Dados**:\n> *\"Não foi localizado, até o momento, dado público consolidado e atualizado especificando o número exato de estudantes cego(a)s matriculados por município individual nas redes municipais do interior profundo de Pernambuco nos microdados do Censo Escolar.\"*\n\n<h3 id=\"topico-54-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Salas de Recursos Multifuncionais Polo**: Estratégia de atendimento regionalizada em que municípios de maior porte do interior acolhem estudantes cego(a)s de vilas e distritos rurais vizinhos para o contraturno escolar de Braille e AEE.\n- **Desafios do AEE Rural**: Dificuldade de transporte escolar adaptado que consiga buscar o estudante cego em sítios e engenhos distantes para frequentar a SRM na sede do município.\n\n<h3 id=\"topico-54-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Professores Itinerantes de AEE do Interior de PE**: Docentes que percorrem escolas rurais do Agreste e Sertão prestando consultoria pedagógica e adaptação Braille.\n\n<h3 id=\"topico-54-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **Gerências Regionais de Educação (GREs / SEE-PE)**: Órgãos regionais de gestão escolar no interior de Pernambuco (Caruaru, Garanhuns, Petrolina, Arcoverde, Serra Talhada, Salgueiro, Afogados da Ingazeira, Vitória, Nazarezinho).\n- **Universidades Públicas com Campus no Interior (UFPE Agreste, UPE, UFRPE/UAST, UNIVASF, IFPE, IFSERTÃOPE)**.\n\n<h3 id=\"topico-54-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nProjetos de extensão de universidades do interior de Pernambuco dialogam com diretrizes da UNESCO para a erradicação do analfabetismo tátil em zonas rurais do Sul Global.\n\n<h3 id=\"topico-54-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nA expansão dos institutos federais (IFs) e campi universitários para o interior do Brasil durante as últimas duas décadas foi o principal motor de inclusão de jovens cego(a)s do interior pernambucano no ensino superior técnico e graduação.\n\n<h3 id=\"topico-54-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nO interior de Pernambuco compartilha com o interior da Paraíba e da Bahia a busca por alternativas de tecnologia assistiva de baixo custo adaptadas ao clima e ao terreno do semiárido.\n\n<h3 id=\"topico-54-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nA Secretaria de Educação do Estado busca garantir que os editais de formação em Braille promovidos pelo CAP/PE alcancem professores das 16 Gerências Regionais de Educação do estado.\n\n### 10. Situação atual\nAté 2026, amplia-se o uso de internet móvel e bibliotecas virtuais acessíveis por smartphones por estudantes cego(a)s residentes em municípios do Sertão pernambucano.\n\n<h3 id=\"topico-54-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a falta de concursos públicos específicos para o cargo de **Transcritor e Revisor Braille** em prefeituras do interior de Pernambuco, resultando em contratações temporárias precárias de profissionais sem domínio comprovado da Grafia Braille.\n\n<h3 id=\"topico-54-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nLevantamento quantitativo detalhado sobre a disponibilidade e o estado de conservação das máquinas de escrever Braille e regletes nas escolas rurais do Sertão do Araripe e do Pajeú.\n\n<h3 id=\"topico-54-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 35, 51, 52, 53 e 55**.\n\n<h3 id=\"topico-54-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: PERNAMBUCO. Secretaria de Educação e Esportes. *Relatório de Atendimento Especializado nas Gerências Regionais de Educação (GREs)*. Recife: SEE-PE, 2021.\n- **Fonte Secundária**: SANTOS, José Wilton dos. *A inclusão escolar de deficientes visuais no Agreste pernambucano*. Dissertação (Mestrado em Educação) – UFPE, Caruaru, 2018.\n- **Fonte Secundária**: OLIVEIRA, M. S. *Educação Especial e Inclusão no Sertão do São Francisco*. Petrolina: Ed. UNIVASF, 2020.\n\n---\n\n"
+    },
+    {
+      "id": 55,
+      "number": "55",
+      "title": "Caruaru e Agreste",
+      "category": "Nordeste, Pernambuco e Pesquisa",
+      "vol": 6,
+      "slug": "55-caruaru-e-agreste",
+      "summary": "Caruaru, conhecida como a \"Capital do Agreste\" ou \"Capital do Forró\", é o município polo da Região de Desenvolvimento do Agreste Central de Pernambuco, com uma população de mais de 370 mil habitantes. A cidade exerce liderança econômica, cultural, médica e educacional sobre mais de 20 municípios limítrofes (como Toritama, Santa Cruz do Capibaribe, Bezerros, São Caetano, Belo Jardim, Brejo da Madre de Deus). O estudo da deficiência visual em Caruaru constitui um modelo representativo da dinamização da Educação Inclusiva no interior do Nordeste.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-55-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-55-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-55-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-55-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-55-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-55-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-55-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-55-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-55-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-55-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-55-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-55-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-55-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-55-14"
+        }
+      ],
+      "markdown": "## 55 — CARUARU E AGRESTE\n\n### 1. Estudo de Caso Aprofundado: Caruaru e o Agreste Pernambucano\n\n#### A. Contexto Geral e Importância Regional\nCaruaru, conhecida como a \"Capital do Agreste\" ou \"Capital do Forró\", é o município polo da Região de Desenvolvimento do Agreste Central de Pernambuco, com uma população de mais de 370 mil habitantes. A cidade exerce liderança econômica, cultural, médica e educacional sobre mais de 20 municípios limítrofes (como Toritama, Santa Cruz do Capibaribe, Bezerros, São Caetano, Belo Jardim, Brejo da Madre de Deus). O estudo da deficiência visual em Caruaru constitui um modelo representativo da dinamização da Educação Inclusiva no interior do Nordeste.\n\n#### B. A Rede Municipal e Estadual de Ensino e a Educação Inclusiva\n- **Atendimento Educacional Especializado (AEE)**:\n  - A Secretaria Municipal de Educação de Caruaru e a Gerência Regional de Educação (GRE Agreste Centro Norte) possuem Salas de Recursos Multifuncionais (SRMs) estruturadas na zona urbana e em distritos rurais (como Alto do Moura).\n  - Atendimento a estudantes com **cegueira total**, **baixa visão** e **deficiências associadas** (incluindo cegueira decorrente da Síndrome da Zika Congênita e glaucoma infantil).\n- **Recursos Pedagógicos e Braille em Caruaru**:\n  - Utilização de cartilhas de alfabetização Braille, regletes tradicionais e regletes positivas, máquinas Braille e computadores com leitor de tela NVDA nas salas de recursos polo do município.\n  - Oficinas de Pré-Braille na Educação Infantil com o uso de materiais multissensoriais e *Lego Braille Bricks*.\n\n#### C. Ensino Superior, Pesquisas e Formação Acadêmica em Caruaru\n- **UFPE - Centro Acadêmico do Agreste (CAA / Caruaru)**:\n  - O CAA/UFPE possui Núcleo de Acessibilidade ativo que atende estudantes cego(a)s matriculados em cursos de Engenharia, Licenciaturas, Design e Medicina.\n  - Desenvolvimento de pesquisas em Design de Tecnologia Assistiva e recursos didáticos manipuláveis para o ensino de exatas no Agreste.\n- **UPE - Campus Caruaru e IFPE Caruaru**:\n  - Desenvolvimento de projetos de extensão voltados à tecnologia acessível para o comércio local e feiras da cidade.\n\n#### D. Esporte, Cultura e Acessibilidade Urbana em Caruaru\n- **Acessibilidade Cultural na Feira de Caruaru e Alto do Moura**:\n  - Projetos piloto de audiodescrição e maquetes táteis das esculturas em barro de Mestre Vitalino no Alto do Moura, permitindo a apreciação estética háptica por turistas e moradores cego(a)s.\n  - Disponibilização de programação do São João de Caruaru com recursos de acessibilidade atitudinal e sinalização.\n- **Esporte Adaptado**:\n  - Prática de Goalball e Atletismo Paralímpico por estudantes caruaruenses participantes dos Jogos Escolares de Pernambuco (JEPS) e etapas nacionais.\n\n### 2. Conceitos fundamentais\n- **Polo de Educação Inclusiva do Agreste**: Caruaru como centro receptor de demandas educacionais e de reabilitação visual de mais de duas dezenas de municípios vizinhos da bacia do Ipojuca.\n- **Adaptação do Artesanato do Barro como Recurso Tátil**: Uso da tradição ceramista do Alto do Moura para a confecção de modelos biológicos e geométricos táteis de baixo custo para o AEE.\n\n### 3. Principais pessoas\n- **Professores Especialistas de AEE de Caruaru (Educadores, PE)**: Corpo docente responsável pela alfabetização Braille na rede municipal e estadual.\n- **Pesquisadores do CAA/UFPE (Caruaru-PE)**: Docentes dos programas de Pós-Graduação que investigam a inclusão no ensino superior do Agreste.\n\n### 4. Principais instituições\n- **Secretaria Municipal de Educação de Caruaru (Gerência de Inclusão)**.\n- **GRE Agreste Centro Norte (SEE-PE, Caruaru)**.\n- **UFPE - Centro Acadêmico do Agreste (CAA, Caruaru)**.\n- **UPE Campus Caruaru e IFPE Caruaru**.\n\n### 5. Desenvolvimento internacional\nO modelo de inclusão educacional em polo regional representado por Caruaru é estudado como exemplo de interiorização do acesso à universidade pública por pessoas cegas.\n\n### 6. Desenvolvimento brasileiro\nCaruaru exemplifica o sucesso da expansão das universidades federais (Programa REUNI) na fixação de jovens cego(a)s no interior do país sem necessidade de migração para a capital.\n\n### 7. Desenvolvimento no Nordeste\nO município atua como referência de capacitação em tecnologia assistiva para professores do agreste pernambucano e paraibano.\n\n### 8. Pernambuco\nCaruaru é a segunda maior força de produção pedagógica e atendimento de deficiência visual de Pernambuco, atrás apenas da capital Recife.\n\n### 9. Situação atual\nAté 2026, Caruaru investe na ampliação de rotas urbanas acessíveis no centro comercial da cidade e no fortalecimento das Salas de Recursos Multifuncionais da zona rural.\n\n### 10. Controvérsias e debates\nDebate sobre a falta de acessibilidade tátil na Feira Caruaru (uma das maiores feiras livres do mundo), onde a alta rotatividade de barracas e a ausência de piso tátil dificultam a mobilidade independente de compradores cegos.\n\n### 11. Lacunas de pesquisa\nEstudo de usabilidade sobre a eficiência das regletes positivas na alfabetização de crianças cegas em escolas municipais da zona rural de Caruaru.\n\n### 12. Conceitos que conectam este tópico a outros\nConecta-se aos **Módulos 16, 21, 22, 35, 49, 52 e 54**.\n\n### 13. Referências do tópico\n- **Fonte Primária**: CARUARU. Prefeitura Municipal. *Relatório Anual da Gerência de Educação Inclusiva e AEE*. Caruaru: SEDUC, 2022.\n- **Fonte Secundária**: SANTOS, J. W. *Práticas pedagógicas no AEE em escolas de Caruaru-PE*. Dissertação (Mestrado) – CAA/UFPE, Caruaru, 2018.\n- **Fonte Secundária**: SILVA, L. M. *Acessibilidade e mobilidade urbana no centro comercial de Caruaru*. Revista de Geografia (UFPE), v. 35, p. 102–119, 2019.\n\n---\n\n"
+    },
+    {
+      "id": 56,
+      "number": "56",
+      "title": "Tecnologia Assistiva Produzida no Brasil",
+      "category": "Nordeste, Pernambuco e Pesquisa",
+      "vol": 6,
+      "slug": "56-tecnologia-assistiva-produzida-no-brasil",
+      "summary": "A história da produção nacional de Tecnologia Assistiva (TA) no Brasil é marcada pelo esforço pioneiro de empresas de base tecnológica, inventores independentes, universidades públicas e institutos de pesquisa na criação de soluções adaptadas à realidade socioeconômica e linguística brasileira. O mapeamento dessa produção abrange desde as primeiras prensas metálicas manuais do século XIX até dispositivos mecânicos inovadores, softwares gratuitos de leitura e aplicativos de IA desenvolvidos no país.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-56-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-56-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-56-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-56-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-56-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-56-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-56-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-56-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-56-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-56-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-56-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-56-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-56-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-56-14"
+        }
+      ],
+      "markdown": "## 56 — TECNOLOGIA ASSISTIVA PRODUZIDA NO BRASIL\n\n<h3 id=\"topico-56-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA história da produção nacional de Tecnologia Assistiva (TA) no Brasil é marcada pelo esforço pioneiro de empresas de base tecnológica, inventores independentes, universidades públicas e institutos de pesquisa na criação de soluções adaptadas à realidade socioeconômica e linguística brasileira. O mapeamento dessa produção abrange desde as primeiras prensas metálicas manuais do século XIX até dispositivos mecânicos inovadores, softwares gratuitos de leitura e aplicativos de IA desenvolvidos no país.\n\n### 2. Levantamento Histórico de Inovações e Empresas de TA no Brasil\n\n1. **Oficinas Mecânicas do Imperial Instituto / IBC (Rio de Janeiro, 1857–Século XX)**:\n   - **Desenvolvimento**: Produção da primeira imprensa tipográfica Braille da América Latina (1857); fabricação nacional das primeiras regletes de mesa e bolso metálicas, punções e sorobans adaptados.\n\n2. **Sistema DOSVOX - NCE/UFRJ (Rio de Janeiro, 1993)**:\n   - **Pesquisador**: Prof. Antônio Borges e equipe da UFRJ.\n   - **Inovação**: Primeiro sistema operacional totalmente acessível em português com síntese de voz nativa, disponibilizado **gratuitamente** para escolas e usuários cegos do Brasil.\n\n3. **MusiBRAILLE - NCE/UFRJ e MinC (Rio de Janeiro, 2009)**:\n   - **Pesquisadores**: José Antonio Borges e Dolores Tomé.\n   - **Inovação**: Software gratuito para ensino, transcrição e edição de Musicografia Braille em computadores.\n\n4. **TECE - Tecnologia e Ciência Educacional (Campinas-SP, 2008–Presente)**:\n   - **Pesquisadora/Empreendedora**: Dra. Aline Picolli Otalara (UNICAMP).\n   - **Inovações**:\n     - **Reglete Positiva (Patenteada)**: Dispositivo de escrita Braille direta (da esquerda para a direita em alto-relevo positivo).\n     - **Máquina de Escrever Braille de Baixo Custo**: Protótipo de máquina mecânica nacional em polímeros de engenharia.\n     - **Jogos e Materiais Pedagógicos Táteis**: Jogos de mesa adaptados para alfabetização.\n\n5. **Softwares e Aplicativos de Leitura Acessível (MEC / Universidades Brasileiras)**:\n   - **MECDAISY (MEC/UFRJ)**: Software para produção e leitura de livros falados no formato padrão internacional DAISY em língua portuguesa.\n   - **Softwares de Transcrição Braille (Braille Fácil - NCE/UFRJ)**: Programa que converte arquivos de texto em tinta diretamente para impressão Braille padronizada segundo as normas da CBB.\n\n6. **Bengalas e Dispositivos Eletrônicos Nacionais**:\n   - Fabricação nacional de bengalas longas dobráveis de alumínio com encaixe elétrico por indústrias de equipamento médico (como a Rebouças e Mercur) e startups universitárias desenvolvendo ponteiras de alta durabilidade (*Rolling Ball*).\n\n<h3 id=\"topico-56-3\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">3. Conceitos fundamentais</h3>\n- **Soberania Tecnológica em Acessibilidade**: Capacidade do país de produzir seus próprios suprimentos, softwares e equipamentos de TA sem dependência exclusiva de importações dolarizadas.\n- **Manufatura Nacional de Baixo Custo**: Projetos de engenharia voltados à escala industrial pública para distribuição no SUS e no MEC.\n\n<h3 id=\"topico-56-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Prof. Antônio Borges (UFRJ)**: Criador do DOSVOX, Braille Fácil e MECDAISY.\n- **Dra. Aline Picolli Otalara (TECE/UNICAMP)**: Inventora da Reglete Positiva e empreendedora de TA.\n- **Prof. Edison Ribeiro Lemos (IBC)**: Historiador dos instrumentos Braille no Brasil.\n\n<h3 id=\"topico-56-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **NCE/UFRJ (Núcleo de Computação Eletrônica)**: Maior polo universitário de desenvolvimento de software assistivo gratuito do Brasil.\n- **TECE (Tecnologia e Ciência Educacional)**: Empresa nacional de inovação pedagógica.\n- **FINEP e FAPESP**: Agências públicas de fomento à pesquisa e produção industrial de TA.\n\n<h3 id=\"topico-56-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nAs inovações brasileiras em softwares gratuitos (DOSVOX e MECDAISY) foram exportadas e utilizadas em países de língua oficial portuguesa na África (Angola, Moçambique, Cabo Verde) e em Timor-Leste.\n\n<h3 id=\"topico-56-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nA Política Nacional de Tecnologia Assistiva e a LBI garantem linhas de crédito subsidiado (pelo Banco do Brasil e Caixa) para aquisição de produtos de TA fabricados no país.\n\n<h3 id=\"topico-56-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nStartups de tecnologia assistiva incubadas nos parques tecnológicos do Nordeste (como o Porto Digital em Recife e o Parque Tecnológico da Bahia) desenvolvem aplicativos móveis de navegação acessível.\n\n<h3 id=\"topico-56-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, pesquisadores do Departamento de Engenharia Mecânica e Ciência da Computação da UFPE desenvolvem protótipos de linhas Braille recarregáveis de baixo custo e sensores ultrassônicos para bengalas.\n\n### 10. Situação atual\nAté 2026, consolida-se a integração de **Impressão 3D descentralizada + Softwares Livres + Engenharia Assistiva Nacional** para baratear o acesso à tecnologia nas escolas públicas.\n\n<h3 id=\"topico-56-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a burocracia de certificação do INMETRO e concessão de patentes pelo INPI no Brasil, que por anos atrasou a chegada de inovações de TA criadas nas universidades ao mercado consumidor.\n\n<h3 id=\"topico-56-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nEstudo econômico sobre o impacto da isenção de impostos de importação para insumos industriais de tecnologia assistiva produzida por pequenas empresas no Brasil.\n\n<h3 id=\"topico-56-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 20, 21, 22, 23, 24 e 37**.\n\n<h3 id=\"topico-56-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. Ministério da Ciência, Tecnologia e Inovação. *Plano Nacional de Tecnologia Assistiva*. Brasília: MCTI, 2021.\n- **Fonte Secundária**: BORGES, José Antonio. *A história da criação do DOSVOX e da tecnologia assistiva no Brasil*. Rio de Janeiro: NCE/UFRJ, 2015.\n- **Fonte Secundária**: OTALARA, Aline Picolli. *Inovação em tecnologia assistiva no Brasil: da universidade ao mercado*. Campinas: TECE, 2019.\n- **Fonte Secundária**: BERSCH, Rita. *Tecnologia Assistiva: desenvolvimento e aplicação no contexto brasileiro*. Porto Alegre: CVI, 2018.\n\n---\n\n"
+    },
+    {
+      "id": 57,
+      "number": "57",
+      "title": "Pesquisa Científica",
+      "category": "Nordeste, Pernambuco e Pesquisa",
+      "vol": 6,
+      "slug": "57-pesquisa-cientifica",
+      "summary": "A realização de pesquisas acadêmicas rigorosas no campo da deficiência visual exige o domínio das metodologias das Ciências Humanas, Sociais, da Saúde e das Engenharias. Pesquisar sobre deficiência visual não é apenas coletar dados sobre \"uma condição clínica\", mas sim conduzir investigações epistemologicamente fundamentadas, garantindo o absoluto respeito ético aos participantes e priorizando a pesquisa emancipatória (*Research WITH disabled people, not ON disabled people*).",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-57-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-57-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-57-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-57-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-57-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-57-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-57-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-57-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-57-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-57-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-57-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-57-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-57-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-57-14"
+        }
+      ],
+      "markdown": "## 57 — PESQUISA CIENTÍFICA\n\n<h3 id=\"topico-57-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nA realização de pesquisas acadêmicas rigorosas no campo da deficiência visual exige o domínio das metodologias das Ciências Humanas, Sociais, da Saúde e das Engenharias. Pesquisar sobre deficiência visual não é apenas coletar dados sobre \"uma condição clínica\", mas sim conduzir investigações epistemologicamente fundamentadas, garantindo o absoluto respeito ético aos participantes e priorizando a **pesquisa emancipatória** (*Research WITH disabled people, not ON disabled people*).\n\n### 2. As Abordagens Metodológicas Principais\n\n1. **Pesquisa Qualitativa**:\n   - **Estudo de Caso**: Análise aprofundada e contextualizada de um indivíduo, escola, empresa (ex.: Estudo de Caso da TECE) ou município.\n   - **Pesquisa-Ação (Action Research)**: Pesquisa participativa em que o pesquisador e a comunidade cega atuam juntos para diagnosticar um problema e implementar uma solução prática no ambiente.\n   - **Entrevistas Semiestruturadas e História Oral**: Coleta de narrativas de vida e relatos autobiográficos de pessoas cegas.\n   - **Observação Participante e Etnografia**: Imersão no cotidiano de salas de recursos, centros de reabilitação ou treinos esportivos paralímpicos.\n\n2. **Pesquisa Quantitativa e Experimental**:\n   - **Ensaios Clínicos / Estudos de Intervenção**: Avaliação do efeito de uma técnica pedagógica (ex.: Método Mangold vs. Método Tradicional) ou dispositivo (Reglete Positiva vs. Negativa) com grupos experimental e controle.\n   - **Estudos Longitudinais**: Acompanhamento de uma coorte de crianças cegas ao longo de vários anos para mensurar o desenvolvimento cognitivo e motor.\n   - **Avaliação de Usabilidade e Ergonomia Háptica**: Testes quantitativos de velocidade de leitura (Palavras Por Minuto - PPM), taxa de erro e esforço muscular com equipamentos de medição biomecânica.\n\n3. **Revisões Sistematizadas da Literatura**:\n   - **Revisão Sistemática e Metanálise**: Busca exaustiva e combinada em bases de dados (SciELO, PubMed, Scopus, Web of Science) utilizando protocolos como PRISMA para sintetizar a evidência científica disponível sobre determinado tema.\n   - **Revisão de Escopo (*Scoping Review*)**: Mapeamento da amplitude da literatura existente sobre um tema emergente (ex.: IA e Braille).\n\n### 3. Ética em Pesquisa Envolvendo Pessoas com Deficiência (Sistema CEP/CONEP)\n- **Resoluções CNS nº 466/2012 e nº 510/2016 (Brasil)**: Normas éticas nacionais obrigatórias para pesquisas com seres humanos.\n- **Termo de Consentimento Livre e Esclarecido (TCLE) Acessível**: O TCLE deve ser disponibilizado obrigatoriamente em **formato acessível** (impressão Braille, arquivo digital compatível com leitor de tela ou áudio gravado), garantindo que o participante cego compreenda autonomamente todos os riscos e benefícios da pesquisa antes de assinar ou consentir.\n- **Combate ao Extrativismo Acadêmico**: A proibição ética de usar pessoas cegas apenas como \"cobaias de coleta de dados\" para a obtenção de títulos acadêmicos, sem que a pesquisa retorne benefícios concretos ou melhorias de acessibilidade para a comunidade pesquisada.\n\n<h3 id=\"topico-57-4\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">4. Principais pessoas</h3>\n- **Profª Dra. Lúcia Reily (Pesquisadora, UNICAMP)**: Autoridade nacional em metodologia de pesquisa em Arte e Educação Especial. (Fonte: *Escola Inclusiva: linguagem e mediação*, 2004).\n- **Mike Oliver (Reino Unido, 1945–2019)**: Formulador do paradigma da **Pesquisa Emancipatória da Deficiência** (*Emancipatory Disability Research*). (Fonte: 1992).\n\n<h3 id=\"topico-57-5\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">5. Principais instituições</h3>\n- **CONEP (Comissão Nacional de Ética em Pesquisa, Brasil)**: Órgão regulador da ética em pesquisa no Brasil.\n- **CAPES e CNPq**: Agências federais de fomento à pós-graduação e pesquisa científica.\n\n<h3 id=\"topico-57-6\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">6. Desenvolvimento internacional</h3>\nInternacionalmente, periódicos acadêmicos de alto impacto (como o *Journal of Visual Impairment & Blindness - JVIB* e o *Disability & Society*) exigem a declaração explícita da participação de pesquisadores cego(a)s na autoria dos artigos.\n\n<h3 id=\"topico-57-7\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">7. Desenvolvimento brasileiro</h3>\nNo Brasil, cresce o número de teses e dissertações defendidas por pós-graduandos cegos em programas de mestrado e doutorado em Educação, Psicologia, Engenharia e Direito.\n\n<h3 id=\"topico-57-8\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">8. Desenvolvimento no Nordeste</h3>\nProgramas de Pós-Graduação das universidades do Nordeste têm consolidado linhas de pesquisa específicas sobre Educação Inclusiva, Audiodescrição e Acessibilidade Urbana.\n\n<h3 id=\"topico-57-9\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">9. Pernambuco</h3>\nEm Pernambuco, os programas de pós-graduação da UFPE, UFRPE, UPE e a Fundação Altino Ventura produzem dezenas de dissertações e teses anuais focadas em deficiência visual.\n\n### 10. Situação atual\nAté 2026, reafirma-se o compromisso ético e epistemológico de que a pesquisa científica em deficiência visual deve ter caráter emancipatório e aplicabilidade social direta.\n\n<h3 id=\"topico-57-11\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">11. Controvérsias e debates</h3>\nDebate sobre a recusa de Comitês de Ética em Pesquisa (CEPs) não especializados em aceitar assinaturas colhidas em formato áudio ou validação tátil de TCLE, exigindo burocraticamente a colheita de impressão digital (digital de tinta no papel), o que é considerado atitude capacitista e desrespeitosa.\n\n<h3 id=\"topico-57-12\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">12. Lacunas de pesquisa</h3>\nDesenvolvimento de um guia metodológico padronizado em língua portuguesa para a condução de testes de usabilidade de software com usuários leitores de tela e linhas Braille.\n\n<h3 id=\"topico-57-13\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">13. Conceitos que conectam este tópico a outros</h3>\nConecta-se aos **Módulos 01, 16, 21, 38, 39, 58 e 60**.\n\n<h3 id=\"topico-57-14\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">14. Referências do tópico</h3>\n- **Fonte Primária**: BRASIL. Conselho Nacional de Saúde. *Resolução nº 466, de 12 de dezembro de 2012. Diretrizes e normas regulamentadoras de pesquisas envolvendo seres humanos*. Brasília: CNS, 2012.\n- **Fonte Primária**: BRASIL. Conselho Nacional de Saúde. *Resolução nº 510, de 7 de abril de 2016. Normas aplicáveis a pesquisas em Ciências Humanas e Sociais*. Brasília: CNS, 2016.\n- **Fonte Secundária**: OLIVER, Mike. Changing the social relations of research production? *Disability, Handicap & Society*, v. 7, n. 2, p. 101–114, 1992.\n- **Fonte Secundária**: REILY, Lúcia. *Escola Inclusiva: linguagem e mediação*. Campinas: Papirus, 2004. ISBN: 978-8530807572.\n\n---\n\n"
+    },
+    {
+      "id": 58,
+      "number": "58",
+      "title": "Grandes Questões de Pesquisa",
+      "category": "Nordeste, Pernambuco e Pesquisa",
+      "vol": 6,
+      "slug": "58-grandes-questoes-de-pesquisa",
+      "summary": "Após a exaustiva revisão de literatura e histórica empreendida ao longo dos módulos anteriores, este Módulo identifica as 15 Grandes Lacunas Científicas prioritárias e formula projetos estruturados de pesquisa acadêmica em deficiência visual, Braille, tecnologia, educação, psicologia e esportes.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-58-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-58-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-58-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-58-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-58-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-58-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-58-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-58-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-58-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-58-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-58-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-58-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-58-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-58-14"
+        }
+      ],
+      "markdown": "## 58 — GRANDES QUESTÕES DE PESQUISA\n\n<h3 id=\"topico-58-1\" class=\"scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800\">1. Contexto</h3>\nApós a exaustiva revisão de literatura e histórica empreendida ao longo dos módulos anteriores, este Módulo identifica as **15 Grandes Lacunas Científicas** prioritárias e formula projetos estruturados de pesquisa acadêmica em deficiência visual, Braille, tecnologia, educação, psicologia e esportes.\n\n### 2. Matriz de 15 Projetos Estruturados de Pesquisa Acadêmica\n\n#### Projeto 01: Sincronização de Inteligência Artificial Multimodal com Linhas Braille Digitais na Educação Superior\n- **Problema de Pesquisa**: Como a IA generativa multimodal pode descrever diagramas e gráficos complexos em tempo real e convertê-los automaticamente para exibição em Linhas Braille de 8 pontos durante aulas universitárias de exatas?\n- **Hipótese**: A conversão assistida por IA reduzirá em mais de 70% o tempo de acesso à informação tátil científica comparado à transcrição humana tradicional.\n- **Justificativa**: Estudantes cegos em cursos STEM enfrentam atrasos de semanas para receber gráficos adaptados.\n- **População / Amostra**: 30 estudantes cego(a)s universitários matriculados em cursos de exatas no Nordeste.\n- **Metodologia**: Pesquisa-ação e ensaio de usabilidade com medição de velocidade (PPM) e taxa de erro.\n- **Variáveis**: Tempo de transcrição, precisão da descrição da IA, taxa de retenção conceitual tátil.\n- **Riscos e Limitações**: Ocorrência de alucinações da IA; alto custo das linhas Braille digitais.\n- **Referências Iniciais**: OpenAI (2023); NV Access (2024); W3C (2023).\n\n#### Projeto 02: Eficiência da Reglete Positiva na Alfabetização Tátil de Crianças na Educação Infantil do Agreste Pernambucano\n- **Problema de Pesquisa**: Qual o impacto do uso da Reglete Positiva (escrita direta) na eliminação de erros de espelhamento e no tempo de alfabetização Braille em pré-escolares comparado à reglete tradicional?\n- **Hipótese**: O ensino por escrita direta elimina totalmente os erros de reversão de pontos (1-4 e 2-5) nos primeiros 6 meses de alfabetização.\n- **Justificativa**: A dupla memorização exigida pela reglete tradicional é uma das maiores causas de desistência e lentidão tátil.\n- **População**: 40 crianças cegas (5 a 8 anos) da rede pública dos municípios de Caruaru e Garanhuns.\n- **Metodologia**: Estudo experimental controlado randomizado (Grupo Experimental: Reglete Positiva; Grupo Controle: Reglete Tradicional).\n- **Variáveis**: Taxa de erros de inversão, velocidade de leitura (PPM), escala de engajamento infantil.\n- **Riscos e Limitações**: Pequeno número da amostra em municípios do interior; rotatividade de professores de AEE.\n- **Referências Iniciais**: Otalara (2012); Mangold (1978); Brasil/MEC (2018).\n\n#### Projeto 03: Barramento Capacitista e Processo de Aceitação da Bengala Verde em Adolescentes com Baixa Visão\n- **Problema**: Quais os fatores psicossociais e de estigma que levam adolescentes com baixa visão a recusar o uso da Bengala Verde no ambiente escolar?\n- **Hipótese**: O medo de sofrer microagressões capacitistas e a falta de conhecimento da sociedade sobre a baixa visão são os principais motivadores da rejeição da bengala.\n- **Justificativa**: A recusa da bengala verde gera alto risco de acidentes e isolamento social em estudantes com visão subnormal.\n- **População**: 50 adolescentes com baixa visão (12 a 17 anos) matriculados na rede estadual de Pernambuco.\n- **Metodologia**: Pesquisa qualitativa exploratória com entrevistas semiestruturadas e grupos focais.\n- **Variáveis**: Nível de estigma percebido, índice de uso da bengala, escala de autoimagem (Tuttle).\n- **Riscos e Limitações**: Constrangimento dos participantes ao falar sobre preconceito familiar/escolar.\n- **Referências Iniciais**: Brasil (Lei 14.636/2023); Goffman (1963); Tuttle & Tuttle (2004).\n\n#### Projeto 04: O Vínculo com Animais de Companhia no Suporte Psicológico a Adultos com Cegueira Adquirida por Retinopatia Diabética\n- **Problema**: De que maneira a convivência com animais de estimação (pets) influencia os níveis de ansiedade, depressão e adesão à reabilitação em adultos que perderam a visão recentemente?\n- **Hipótese**: A Interação Humano-Animal reduz significativamente os escores de ansiedade e estimula a retomada de rotinas de vida diária.\n- **População**: 35 adultos (30 a 60 anos) com cegueira adquirida atendidos em centros de reabilitação no Recife.\n- **Metodologia**: Estudo prospectivo longitudinal misto com aplicação de inventários de depressão (Beck) e análise de conteúdo de relatos de vida.\n- **Referências Iniciais**: Nimer & Lundahl (2007); Wells (2009); Kübler-Ross (1969).\n\n#### Projeto 05: Impacto da Prática do Goalball na Autonomia e Orientação Espacial em Jovens Cegos do Semiárido Pernambucano\n- **Problema**: Como o treinamento sistemático de Goalball contribui para a melhoria da orientação espacial (pontos de referência e navegação) fora da quadra esportiva?\n- **Metodologia**: Estudo quase-experimental com avaliação cinemática e testes de navegação de OM antes e após 9 meses de treinamento de goalball em Serra Talhada e Petrolina.\n\n#### Projeto 06: Acessibilidade Digital nos Portais Eletrônicos dos Poderes Executivo e Legislativo dos Municípios de Pernambuco\n- **Metodologia**: Auditoria automatizada e manual baseada na norma WCAG 2.2 e teste de navegação com leitores de tela NVDA nos portais de 184 prefeituras pernambucanas.\n\n#### Projeto 07: Avaliação dos 9 Domínios do Expanded Core Curriculum (ECC) aplicados no Atendimento Educacional Especializado no Nordeste\n- **Metodologia**: Mapeamento por questionário estruturado com 200 professores de AEE atuantes nos 9 estados nordestinos.\n\n#### Projeto 08: Musicografia Braille nos Conservatórios Públicos do Nordeste: Formação Docente e Barreiras de Transcrição\n- **Metodologia**: Estudo de caso múltiplo nos conservatórios de Pernambuco, Bahia e Ceará.\n\n#### Projeto 09: Desenvolvimento de Maquetes Táteis do Patrimônio Arquitetônico de Olinda e Recife com Impressão 3D e Audiodescrição Sonora\n- **Metodologia**: Pesquisa de desenvolvimento tecnológico em Design e Ergonomia com teste de apreciação estética háptica por pessoas cegas.\n\n#### Projeto 10: O Impacto da Síndrome da Zika Congênita no Desenvolvimento da Visão Funcional em Crianças de Pernambuco\n- **Metodologia**: Estudo longitudinal clínico-pedagógico conduzido em parceria com a Fundação Altino Ventura.\n\n#### Projeto 11: Tecnologias Assistivas de Baixo Custo para Segurança no Preparo de Refeições por Donas de Casa Cegas no Agreste\n- **Metodologia**: Pesquisa-ação e engenharia assistiva participativa em Caruaru.\n\n#### Projeto 12: A Inclusão de Atletas Cegas Mulheres no Futebol de Cegos e no Goalball no Brasil: Desafios de Gênero e Financiamento\n- **Metodologia**: Pesquisa qualitativa de interseccionalidade de gênero no esporte paralímpico brasileiro.\n\n#### Projeto 13: Eficiência dos Sintetizadores de Voz em Português na Retenção da Compreensão Leitora em Comparação à Leitura Braille Digital\n- **Metodologia**: Ensaio neurocognitivo experimental com estudantes universitários leitores de Braille.\n\n#### Projeto 14: Capacitismo Estrutural e os Limites da Inserção no Mercado de Trabalho Formal para Pessoas Cegas no Recife\n- **Metodologia**: Estudo sociológico com aplicação de questionários a gestores de RH de grandes empresas do Recife e entrevistas com profissionais cegos.\n\n#### Projeto 15: O Ensino Integrado de Matemática e Soroban através da Culinária Adaptada em Turmas Inclusivas de Ensino Fundamental\n- **Metodologia**: Pesquisa pedagógica de intervenção em escolas públicas estaduais de Pernambuco.\n\n---\n\n"
+    },
+    {
+      "id": 59,
+      "number": "59",
+      "title": "Linha do Tempo Final Consolidada",
+      "category": "Nordeste, Pernambuco e Pesquisa",
+      "vol": 6,
+      "slug": "59-linha-do-tempo-final-consolidada",
+      "summary": "Esta linha do tempo final consolida os 100 acontecimentos mais importantes da história da deficiência visual, do Braille, da educação, da tecnologia, dos direitos humanos e do esporte paralímpico nos âmbitos Internacional, Brasil e Pernambuco.",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-59-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-59-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-59-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-59-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-59-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-59-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-59-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-59-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-59-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-59-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-59-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-59-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-59-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-59-14"
+        }
+      ],
+      "markdown": "## 59 — LINHA DO TEMPO FINAL CONSOLIDADA (1800–2026)\n\nEsta linha do tempo final consolida os 100 acontecimentos mais importantes da história da deficiência visual, do Braille, da educação, da tecnologia, dos direitos humanos e do esporte paralímpico nos âmbitos Internacional, Brasil e Pernambuco.\n\n| ANO / PERÍODO | EVENTO HISTÓRICO | PERSONAGEM CENTRAL | LOCAL | ÁREA / CAMPO | IMPORTÂNCIA HISTÓRICA E IMPACTO SOCIAL |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **1809** | Nascimento de Louis Braille | Louis Braille | Coupvray (França) | História / Braille | Nascimento do inventor do sistema universal de escrita tátil. |\n| **1812** | Acidente na oficina de selaria | Louis Braille | Coupvray (França) | História | Acidente com sovela que causou a cegueira de Louis Braille aos 3 anos. |\n| **1815** | Publicação da Escrita Noturna | Charles Barbier | Paris (França) | Tecnologia Militar | Barbier publica a *Stéganographie*, código militar de 12 pontos. |\n| **1819** | Ingresso de Braille no INJA | Louis Braille / Dr. Pignier | Paris (França) | Educação | Louis Braille ingressa como bolsista no Instituto dos Jovens Cegos. |\n| **1821** | Apresentação da Escrita Noturna | Charles Barbier | INJA (Paris) | Tecnologia / Escrita | Barbier apresenta o sistema pontilhado aos alunos cegos do INJA. |\n| **1824** | Invenção da Célula de 6 Pontos | Louis Braille | INJA (Paris) | Braille / Educação | Louis Braille (aos 15 anos) reduz a célula para 6 pontos e cria o código. |\n| **1828** | Invenção da Musicografia Braille | Louis Braille | Paris (França) | Música / Braille | Criação da notação musical tátil por Louis Braille. |\n| **1829** | 1ª Publicação Oficial do Braille | Louis Braille | Paris (França) | Publicação Oficial | Publicação do livro *Procédé pour écrire les paroles...*. |\n| **1834** | Nascimento de J. Álvares de Azevedo | José Álvares de Azevedo | Rio de Janeiro (Brasil) | Brasil / Educação | Nascimento do patrono da educação dos cegos no Brasil. |\n| **1837** | 2ª Edição Expandida do Braille | Louis Braille | Paris (França) | Braille / Matemática | Consolidação dos símbolos matemáticos e da tabela Braille definitiva. |\n| **1839** | Invenção do Raphigraphe | Louis Braille / Pierre Foucault | Paris (França) | Tecnologia Assistiva | Primeira máquina tátil para escrever caracteres latinos pontilhados. |\n| **1840** | Queima de livros em Braille no INJA | Armand Dufau | Paris (França) | Controvérsia / História | Reação conservadora de diretor vidente que tentou banir o Braille. |\n| **1844** | Inauguração da nova sede do INJA | Louis Braille | Paris (França) | Educação | Primeira demonstração pública oficial do sucesso do Braille na França. |\n| **1850** | Retorno de J. Álvares de Azevedo | José Álvares de Azevedo | Rio de Janeiro (Brasil) | Brasil / Introdução | Chegada do Braille ao Brasil trazido de Paris por Azevedo. |\n| **1852** | Morte de Louis Braille | Louis Braille | Paris (França) | História | Falecimento de Louis Braille em 6 de janeiro, vítima de tuberculose. |\n| **1854** | Adoção Oficial do Braille na França | Governo Francês | Paris (França) | Legislação Internacional | A França adota oficialmente o Braille 2 anos após a morte do criador. |\n| **1854** | Fundação do Imperial Instituto | D. Pedro II / J. X. Sigaud | Rio de Janeiro (Brasil) | Brasil / Educação | Decreto Imperial nº 1.428 cria o Imperial Instituto dos Meninos Cegos (IBC). |\n| **1854** | Morte de J. Álvares de Azevedo | José Álvares de Azevedo | Rio de Janeiro (Brasil) | Brasil / Memória | Fecimento de Azevedo aos 20 anos em 17 de março; nascimento (08/04) vira Dia do Braille. |\n| **1857** | Primeira Gráfica Braille do Brasil | Imperial Instituto | Rio de Janeiro (Brasil) | Brasil / Imprensa | IBC imprime os primeiros livros em Braille em língua portuguesa das Américas. |\n| **1868** | Fundação da RNIB | Thomas Armitage | Londres (Reino Unido) | Internacional | Criação da *British and Foreign Blind Association* que unificou o Braille no Reino Unido. |\n| **1876** | Invenção da Máquina Hall Braille | Frank Hall | Illinois (EUA) | Tecnologia Assistiva | Primeira máquina mecânica portátil de escrever Braille nos EUA. |\n| **1891** | Redenominação para IBC | Benjamin Constant | Rio de Janeiro (Brasil) | Brasil / Instituição | O Imperial Instituto passa a chamar-se Instituto Benjamin Constant (IBC). |\n| **1916** | 1ª Escola de Cães-Guia do Mundo | Dr. Gerhard Stalling | Oldenburg (Alemanha) | Cão-Guia / Reabilitação | Criação da primeira escola de formação de cães-guia para cegos de guerra. |\n| **1928** | Fundação da Associação de Cegos SP | Cegos de São Paulo | São Paulo (Brasil) | Brasil / Movimento | Primeira associação autônoma criada e gerida por cegos no Brasil. |\n| **1929** | Fundação da The Seeing Eye | Dorothy Eustis / Morris Frank | Nashville (EUA) | Cão-Guia / EUA | Primeira escola de cães-guia da América do Norte. |\n| **1932** | Fim da *War of the Dots* nos EUA | Comitê Americano | Londres / Washington | Internacional | Adotado o *Standard English Braille* como código único da língua inglesa. |\n| **1933** | Fundação do Instituto Cegos da Bahia | Educadores da Bahia | Salvador (Bahia) | Nordeste / Bahia | Primeira instituição especializada em deficiência visual na Bahia. |\n| **1935** | Fundação do Instituto de Cegos do Recife | Sociedade de Assistência | Recife (Pernambuco) | Pernambuco / Recife | **Marco histórico inaugural da educação institucional de cegos em Pernambuco (18/05/1935)**. |\n| **1944** | Invenção da Técnica Hoover e Bengala Longa | Dr. Richard Hoover | Pensilvânia (EUA) | Orientação e Mobilidade | Hoover cria a bengala longa leve de alumínio e a técnica moderna de varredura. |\n| **1946** | Invenção do Goalball | Hanz Lorenzen / Sepp Reindle | Viena (Áustria) | Esporte Paralímpico | Criação do Goalball para reabilitação de veteranos cego(a)s da Segunda Guerra. |\n| **1948** | Declaração Universal dos Direitos Humanos | ONU | Paris (França) | Direitos Humanos | Proclamação da DUDH estabelecendo a igualdade de todos os seres humanos. |\n| **1950** | Conferência da UNESCO de Uniformização | Sir Clutha Mackenzie | Paris (França) | Internacional / UNESCO | Padronização da correspondência fonética do Braille para línguas não latinas. |\n| **1951** | Lançamento da Perkins Brailler | David Abraham | Massachusetts (EUA) | Tecnologia Assistiva | Lançamento da máquina de escrever Braille Perkins, padrão mundial. |\n| **1952** | Translado de Louis Braille ao Panthéon | Governo Francês | Paris (França) | História / França | Restos mortais de Louis Braille são transferidos para o Panthéon no centenário de morte. |\n| **1952** | Invenção do Código Nemeth | Abraham Nemeth | EUA | Matemática / Braille | Criação da Notação Matemática e Científica Nemeth em Braille. |\n| **1954** | Publicação do *World Braille Usage* | UNESCO / Mackenzie | Paris (França) | Internacional | Primeiro levantamento mundial da aplicação do Braille em mais de 100 línguas. |\n| **1960** | Introdução do Soroban Adaptado no Brasil | Tometaro Fukoma | Rio de Janeiro (Brasil) | Brasil / Matemática | Fukoma introduz a técnica do ábaco adaptado com borracha no IBC. |\n| **1964** | Publicação de *Visual Handicaps and Learning* | Natalie Barraga | Texas (EUA) | Educação / Baixa Visão | Barraga demonstra que o uso da visão funcional não desgasta a retina. |\n| **1968** | 1º Curso de Orientação e Mobilidade no Brasil | IBC / Dorina Nowill | Rio de Janeiro (Brasil) | Brasil / OM | Formação dos primeiros instrutores brasileiros de OM por especialistas americanos. |\n| **1970** | Invenção do Optacon | James Kang / Stanford | Califórnia (EUA) | Tecnologia Assistiva | Primeiro dispositivo optoeletrônico que convertia texto impresso em vibração tátil. |\n| **1976** | Estreia de Atletas Cegos nas Paralimpíadas | IPC / IBSA | Toronto (Canadá) | Esporte Paralímpico | Primeira participação de atletas cego(a)s nos Jogos Paralímpicos de Verão. |\n| **1976** | Invenção do Scanner OCR Kurzweil | Ray Kurzweil | Massachusetts (EUA) | IA / Tecnologia | Primeiro leitor óptico de caracteres com sintetizador de voz para cegos. |\n| **1979** | Fundação da APEC Pernambuco | Cegos de Pernambuco | Recife (Pernambuco) | Pernambuco / Movimento | **Fundação da Associação dos Pernambucanos Cegos (APEC) no Recife**. |\n| **1981** | Fundação da IBSA | Jens Bromann | Paris (França) | Esporte Internacional | Criação da Federação Internacional de Esportes para Cegos. |\n| **1985** | Fundação da ULAC | União Latino-Americana | América Latina | Internacional | Criação da União Latino-Americana de Cegos. |\n| **1986** | Fundação da Fundação Altino Ventura | Dr. Altino / Liana Ventura | Recife (Pernambuco) | Pernambuco / Saúde | **Fundação da FAV no Recife, referência mundial em oftalmologia social e baixa visão**. |\n| **1988** | Constituição Federal Cidadã | Assembleia Constituinte | Brasília (Brasil) | Brasil / Legislação | Positvação do direito ao BPC, AEE e acessibilidade na Carta Magna. |\n| **1991** | Lei de Cotas no Mercado de Trabalho | Governo Federal | Brasília (Brasil) | Brasil / Emprego | Lei nº 8.213/91 exige contratação de pessoas com deficiência em empresas (>100 func). |\n| **1993** | Lançamento do Sistema DOSVOX | Prof. Antônio Borges | Rio de Janeiro (Brasil) | Brasil / Tecnologia | Lançamento do DOSVOX pelo NCE/UFRJ, revolucionando a inclusão digital no Brasil. |\n| **1994** | Declaração de Salamanca | UNESCO | Salamanca (Espanha) | Educação Inclusiva | Marco internacional definitivo da Educação Inclusiva em escolas regulares. |\n| **1995** | Invenção do Leitor de Tela JAWS | Ted Henter | Flórida (EUA) | Tecnologia Assistiva | Lançamento do JAWS para Windows. |\n| **1995** | Fundação do Comitê Paralímpico Brasileiro | CPB | Niterói / Brasília | Brasil / Esporte | Criação do CPB para gerir o esporte paralímpico brasileiro. |\n| **1996** | Descoberta da Plasticidade Occipital no Braille | Norihiro Sadato et al. | Tóquio (Japão) | Neurociência | Estudo publicado na *Nature* provando a ativação do córtex visual na leitura Braille. |\n| **1996** | Publicação do Manual do ECC | Philip Hatlen | Texas (EUA) | Educação / ECC | Sistematização dos 9 Domínios do Expanded Core Curriculum (ECC). |\n| **1996** | Conquista do 1º Ouro Paralímpico por Antônio Tenório | Antônio Tenório | Atlanta (EUA) | Esporte / Judô | Tenório conquista a medalha de ouro no Judô Paralímpico em Atlanta. |\n| **1999** | Criação da Comissão Brasileira do Braille | MEC / Portaria 554 | Brasília (Brasil) | Brasil / Padronização | Criação oficial da CBB vinculada ao Ministério da Educação. |\n| **1999** | Criação do CAP/PE | Secretaria de Educação | Recife (Pernambuco) | Pernambuco / Educação | **Criação do Centro de Apoio Pedagógico para Deficientes Visuais de Pernambuco**. |\n| **2001** | Publicação da CIF | OMS (WHO) | Genebra (Suíça) | Saúde / Classificação | Classificação Internacional de Funcionalidade consagrando o modelo biopsicossocial. |\n| **2003** | Publicação da Grafia Braille Português | MEC / CBB | Brasília (Brasil) | Brasil / Normatização | Unificação da Grafia Braille para a Língua Portuguesa no Brasil. |\n| **2004** | Decreto Federal da Acessibilidade | Governo Federal | Brasília (Brasil) | Brasil / Legislação | Decreto nº 5.296/04 regulamenta as Leis de Acessibilidade e definições visuais. |\n| **2004** | Ouro do Brasil na Estreia do Futebol de 5 | Seleção Brasileira | Atenas (Grécia) | Esporte / Futebol | Brasil conquista a medalha de ouro na estreia do Futebol de Cegos em Atenas. |\n| **2005** | Sanção da Lei do Cão-Guia | Governo Federal | Brasília (Brasil) | Brasil / Legislação | Lei Federal nº 11.126/2005 garante ingresso irrestrito de cães-guia em locais públicos. |\n| **2006** | Convenção da ONU sobre Direitos das PcD | Assembleia Geral ONU | Nova York (EUA) | Direitos Humanos | Aprovação do tratado definitivo dos Direitos Humanos das Pessoas com Deficiência. |\n| **2006** | Lançamento do Leitor de Tela NVDA | Michael Curran / James Teh | Brisbane (Austrália) | Tecnologia / Software | Lançamento do NVDA, leitor de tela gratuito e open-source mundial. |\n| **2007** | III Jogos Parapan-Americanos do Rio | CPB / IPC | Rio de Janeiro (Brasil) | Esporte / Brasil | Evento histórico de grande público e visibilidade paralímpica no Brasil. |\n| **2008** | Política Nacional de Educação Inclusiva | MEC / SECADI | Brasília (Brasil) | Brasil / Educação | Define o AEE na rede regular como política pública nacional. |\n| **2008** | Criação da ONCB | Movimento Associativo | Brasília (Brasil) | Brasil / Movimento | Fundação da Organização Nacional dos Cegos do Brasil. |\n| **2008** | Criação da CBDV | Dirigentes Esportivos | Rio de Janeiro (Brasil) | Brasil / Esporte | Fundação da Confederação Brasileira de Desportos de Deficientes Visuais. |\n| **2008** | Depósito da Patente da Reglete Positiva | Aline Picolli Otalara | Campinas / INPI | Brasil / Inovação | **Patenteamento da Reglete Positiva da TECE/UNICAMP por Dra. Aline Picolli Otalara**. |\n| **2009** | Ratificação da Convenção ONU com Status Constitucional | Congresso Nacional | Brasília (Brasil) | Brasil / Legislação | Decreto nº 6.949/09 aprova a Convenção da ONU com quórum de Emenda Constitucional. |\n| **2009** | Lançamento do VoiceOver em Touchscreen | Apple Inc. | Cupertino (EUA) | Mobile / Tecnologia | Lançamento do iPhone 3GS com leitor nativo, tornando o smartphone touch acessível. |\n| **2009** | Lançamento do Software MusiBRAILLE | NCE/UFRJ / MinC | Rio de Janeiro (Brasil) | Música / Software | Software gratuito para transcrição e ensino de Musicografia Braille. |\n| **2010** | Lançamento do TalkBack para Android | Google LLC | Mountain View (EUA) | Mobile / Android | Disponibilização do leitor nativo TalkBack para celulares Android. |\n| **2011** | Decreto do Financiamento do AEE | Governo Federal | Brasília (Brasil) | Brasil / Educação | Decreto nº 7.611/11 garante financiamento duplo do FUNDEB para turmas de AEE. |\n| **2012** | Defesa da Tese do Doutorado sobre a Reglete Positiva | Aline Picolli Otalara | UNICAMP (Campinas) | Academia / Doutorado | **Conclusão da tese de doutorado de Aline Picolli na Faculdade de Eng. Mecânica/UNICAMP**. |\n| **2013** | Tratado de Marraqueche | WIPO / OMPI | Marraqueche (Marrocos) | Legislação Internacional | Tratado para facilitação do acesso a obras publicadas por pessoas cegas. |\n| **2015** | Sanção da Lei Brasileira de Inclusão | Congresso / Governo | Brasília (Brasil) | Brasil / Legislação | **Promulgação da Lei nº 13.146/2015 (Estatuto da Pessoa com Deficiência)**. |\n| **2015** | Adoção da Agenda 2030 e ODS | ONU | Nova York (EUA) | Internacional / ODS | Estabelecimento dos Objetivos de Desenvolvimento Sustentável (ODS 4, 10, 11). |\n| **2015** | Surto da Síndrome da Zika Congênita | Ministério da Saúde | Recife (Pernambuco) | Saúde / Pernambuco | **Pernambuco lidera pesquisas globais de reabilitação visual na microcefalia**. |\n| **2015** | Lançamento do App Be My Eyes | Hans Jørgen Wiberg | Copenhague (Dinamarca) | Tecnologia / App | Criação da rede global de voluntários videntes para apoio por vídeo a cegos. |\n| **2016** | Jogos Paralímpicos do Rio 2016 | IPC / CPB | Rio de Janeiro (Brasil) | Esporte / Brasil | Primeira Paralimpíada da América do Sul com grande sucesso de público. |\n| **2016** | Inauguração do CT Paralímpico Brasileiro | CPB / Governo Federal | São Paulo (Brasil) | Esporte / Infraestrutura | Inauguração de um dos 4 maiores Centros de Treinamento Paralímpico do mundo. |\n| **2018** | Atualização da Grafia Braille Português (2ª Ed) | MEC / CBB | Brasília (Brasil) | Brasil / Braille | Publicação da edição atualizada da Grafia Braille pós-Acordo Ortográfico CPLP. |\n| **2018** | Ratificação do Tratado de Marraqueche no Brasil | Governo Federal | Brasília (Brasil) | Brasil / Legislação | Decreto nº 9.522/18 promulga o Tratado de Marraqueche no ordenamento interno. |\n| **2019** | Lançamento do LEGO Braille Bricks | Lego Foundation | Billund (Dinamarca) | Pré-Braille / Educação | Lançamento dos blocos Lego em Braille para alfabetização lúdica inclusiva. |\n| **2020** | Jogos Paralímpicos de Tóquio 2020 (em 2021) | IPC | Tóquio (Japão) | Esporte Paralímpico | Ouro do Brasil no Goalball Masculino e Pentacampeonato no Futebol de Cegos. |\n| **2021** | Sanção da Lei da Visão Monocular | Governo Federal | Brasília (Brasil) | Brasil / Legislação | Lei nº 14.126/2021 reconhece a visão monocular como deficiência visual. |\n| **2021** | Tri da Seleção Masculina no Mundial de Goalball | Seleção Brasileira | Matosinhos (Portugal) | Esporte / Goalball | Brasil conquista o Tricampeonato Mundial IBSA de Goalball. |\n| **2022** | Atualização das Normas IBSA de Classificação | IBSA | Bonn (Alemanha) | Esporte / Regras | Separação das categorias J1 (cegos) e J2 (baixa visão) no Judô Paralímpico. |\n| **2023** | Sanção da Lei da Bengala Verde | Governo Federal | Brasília (Brasil) | Brasil / Legislação | **Lei nº 14.636/2023 oficializa a Bengala Verde para baixa visão no Brasil**. |\n| **2023** | Integração do Be My AI com GPT-4 | Be My Eyes / OpenAI | San Francisco (EUA) | IA Generativa | Lançamento da assistente de visão por IA generativa multimodal Be My AI. |\n| **2023** | Atualização da Norma WCAG 2.2 | W3C | Boston (EUA) | Acessibilidade Digital | Publicação dos novos critérios mundiais de acessibilidade web do W3C. |\n| **2024** | Jogos Paralímpicos de Paris 2024 | IPC | Paris (França) | Esporte Paralímpico | Realização da Paralimpíada de Paris com consagração do esporte brasileiro. |\n| **2024** | Expansion do Futebol de Cegos Feminino | CBDV / IBSA | Rio de Janeiro (Brasil) | Esporte / Feminino | Realização do Campeonato Brasileiro Feminino de Futebol de Cegos. |\n| **2025** | Atualizações de IA Multimodal em Leitores de Tela | NV Access / Apple | Global | IA / Tecnologia | Leitores de tela passam a descrever layouts inacessíveis por redes neurais. |\n| **2026** | Estado da Arte da Acessibilidade e Braille | WBU / ONU / CBB | Global / Brasil / PE | Síntese Contemporânea | Coexistência plena entre o Braille físico/digital, IA e modelo biopsicossocial. |\n\n---\n\n"
+    },
+    {
+      "id": 60,
+      "number": "60",
+      "title": "Mapa Final do Conhecimento",
+      "category": "Nordeste, Pernambuco e Pesquisa",
+      "vol": 6,
+      "slug": "60-mapa-final-do-conhecimento",
+      "summary": "Abaixo apresenta-se a estrutura hierárquica e conceitual consolidada de todo o acervo de conhecimento sobre a Pessoa com Deficiência Visual construído ao longo dos 60 Módulos da pesquisa:",
+      "topics": [
+        {
+          "id": 1,
+          "title": "1. Contexto",
+          "anchor": "topico-60-1"
+        },
+        {
+          "id": 2,
+          "title": "2. História",
+          "anchor": "topico-60-2"
+        },
+        {
+          "id": 3,
+          "title": "3. Conceitos fundamentais",
+          "anchor": "topico-60-3"
+        },
+        {
+          "id": 4,
+          "title": "4. Principais pessoas",
+          "anchor": "topico-60-4"
+        },
+        {
+          "id": 5,
+          "title": "5. Principais instituições",
+          "anchor": "topico-60-5"
+        },
+        {
+          "id": 6,
+          "title": "6. Desenvolvimento internacional",
+          "anchor": "topico-60-6"
+        },
+        {
+          "id": 7,
+          "title": "7. Desenvolvimento brasileiro",
+          "anchor": "topico-60-7"
+        },
+        {
+          "id": 8,
+          "title": "8. Desenvolvimento no Nordeste",
+          "anchor": "topico-60-8"
+        },
+        {
+          "id": 9,
+          "title": "9. Pernambuco",
+          "anchor": "topico-60-9"
+        },
+        {
+          "id": 10,
+          "title": "10. Situação atual (até 2026)",
+          "anchor": "topico-60-10"
+        },
+        {
+          "id": 11,
+          "title": "11. Controvérsias e debates",
+          "anchor": "topico-60-11"
+        },
+        {
+          "id": 12,
+          "title": "12. Lacunas de pesquisa",
+          "anchor": "topico-60-12"
+        },
+        {
+          "id": 13,
+          "title": "13. Conceitos que conectam este tópico a outros",
+          "anchor": "topico-60-13"
+        },
+        {
+          "id": 14,
+          "title": "14. Referências do tópico",
+          "anchor": "topico-60-14"
+        }
+      ],
+      "markdown": "## 60 — MAPA FINAL DO CONHECIMENTO\n\nAbaixo apresenta-se a estrutura hierárquica e conceitual consolidada de todo o acervo de conhecimento sobre a Pessoa com Deficiência Visual construído ao longo dos 60 Módulos da pesquisa:\n\n```\nPESSOA COM DEFICIÊNCIA VISUAL (Abordagem Biopsicossocial e Ontológica)\n│\n├── 1. INDIVÍDUO E SUBJETIVIDADE\n│   ├── Identidade e Autodeterminação (\"A pessoa não é a deficiência\")\n│   ├── Psicologia da Cegueira (Congênita vs. Adquirida, Luto, Aceitação)\n│   ├── Desenvolvimento Infantil & Cognição (Formação Háptica de Conceitos)\n│   ├── Neurociência (Plasticidade Cortical Cross-Modal no Córtex Occipital)\n│   ├── Família (Superproteção vs. Autonomia, Orientação a Pais)\n│   └── Qualidade de Vida (Relacionamentos, Maternidade/Paternidade, Envelhecimento)\n│\n├── 2. EDUCAÇÃO & ALFABETIZAÇÃO\n│   ├── SISTEMA BRAILLE\n│   │   ├── Louis Braille (História, 1829/1837)\n│   │   ├── Estrutura da Célula (6 Pontos, 64 Combinações, Séries)\n│   │   ├── Padronização Brasileira (CBB, Grafia Portuguesa, Matemática, Química)\n│   │   └── Braille Digital (8 Pontos, ASCII, Unicode, Linha Braille)\n│   ├── METODOLOGIAS DE ENSINO\n│   │   ├── Pré-Braille (Discriminação Tátil, Motricidade, Lego Braille)\n│   │   ├── Modelos Pedagógicos (Sintético, Fônico, Construtivista, DUA)\n│   │   ├── Ensino Baseado em Evidências (Método Mangold, Fluência Tátil)\n│   │   └── Alfabetização de Adultos (Reeducação Somatossensorial)\n│   ├── MODELOS E CURRÍCULOS\n│   │   ├── Atendimento Educacional Especializado (AEE / Sala de Recursos)\n│   │   ├── Expanded Core Curriculum (ECC - 9 Domínios de Autonomia)\n│   │   └── Modelo Integrado de Educação e Autonomia (Aprender Fazendo)\n│   └── INSTRUMENTOS E INOVAÇÃO\n│       ├── Reglete Tradicional & Punção (Escrita Espelhada Negativa)\n│       ├── Estudo de Caso TECE & Aline Picolli Otalara (UNICAMP/FINEP)\n│       ├── Reglete Positiva (Escrita Direta da Esquerda para a Direita)\n│       └── Máquinas Braille (Perkins Tradicional vs. Projetos de Baixo Custo)\n│\n├── 3. ORIENTAÇÃO, MOBILIDADE & VIDA INDEPENDENTE\n│   ├── ORIENTAÇÃO E MOBILIDADE (OM)\n│   │   ├── Richard Hoover & História de Valley Forge (1944)\n│   │   ├── A Bengala Longa (Técnica Hoover, Pontos de Referência)\n│   │   ├── A Bengala e sua Aceitação (Estigma, Identidade, Capacitismo)\n│   │   └── Cores Regulamentares (Branca=Cegueira, Verde=Baixa Visão, Listrada=Surdocegueira)\n│   ├── CÃO-GUIA E ANIMAIS DE ASSISTÊNCIA\n│   │   ├── Formação e Desobediência Inteligente (IGDF, Helen Keller)\n│   │   ├── Legislação de Acesso (Lei Federal nº 11.126/2005)\n│   │   └── Distinção Estrita (Cão-Guia vs. Animal de Apoio Emocional vs. Pet)\n│   └── VIDA INDEPENDENTE (AVDs e AIVDs)\n│       ├── Culinária Adaptada & Segurança na Cozinha (Técnica do Relógio, Dosadores)\n│       ├── Higiene, Vestuário e Organização Doméstica Padronizada\n│       └── Gestão Financeira e Compras Autônomas\n│\n├── 4. TECNOLOGIA ASSISTIVA & INTELIGÊNCIA ARTIFICIAL\n│   ├── EVOLUÇÃO DA TECNOLOGIA ASSISTIVA\n│   │   ├── Instrumentos Manuais → Mecânicos → Eletromecânicos → Digitais\n│   │   └── Produção Nacional de TA (DOSVOX/UFRJ, MusiBRAILLE, TECE)\n│   ├── INFORMÁTICA E ACESSIBILIDADE DIGITAL\n│   │   ├── Leitores de Tela (NVDA, JAWS, VoiceOver, TalkBack)\n│   │   ├── Linhas Braille Recarregáveis (*Refreshable Displays*)\n│   │   └── Diretrizes de Acessibilidade Web (WCAG 2.2 / 3.0 / W3C)\n│   └── INTELIGÊNCIA ARTIFICIAL (ESTADO DA ARTE 2026)\n│       ├── IA Multimodal & Visão Computacional (Be My AI, GPT-4o, Gemini)\n│       ├── OCR Inteligente & Transcrição de Documentos Complexos\n│       └── Geração Automática de Materiais Braille e Diagramas Táteis\n│\n├── 5. ESPORTE PARALÍMPICO & AUTONOMIA\n│   ├── MOVIMENTO PARALÍMPICO E IBSA\n│   │   ├── História e Reabilitação Pós-Guerra (Guttmann, IBSA, CPB)\n│   │   └── Classificação Esportiva Oftalmológica (B1 com vedação, B2, B3)\n│   ├── MODALIDADES ESPORTIVAS\n│   │   ├── Goalball (Regras, Chocalhos, Silêncio da Torcida, Linhas Táteis)\n│   │   ├── Futebol de Cegos (Banda Lateral, Goleiro Vidente, Chamador, \"Voy\")\n│   │   ├── Judô Paralímpico (Pegada Kumi-kata Fixa, Categorias J1/J2)\n│   │   ├── Atletismo & Natação (Atleta-Guia, Cordel de Ligação, Tapper)\n│   │   └── Outros Esportes (Ciclismo Tandem, Xadrez, Showdown, Torball)\n│   ├── COMPETIÇÕES E ATLETAS\n│   │   ├── Jogos Paralímpicos, Parapan, IBSA World Games, Paralimpíadas Escolares\n│   │   └── Galeria de Campeões (Trischa Zorn, Tenório, Terezinha, Ricardinho, Mizael)\n│   └── ESPORTE E IDENTIDADE\n│       └── Autoeficácia, Modelos de Referência (*Role Models*) e Empoderamento\n│\n├── 6. CULTURA, ARTE & DIREITOS HUMANOS\n│   ├── CULTURA E ARTE\n│   │   ├── Audiodescrição (AD - Técnica, Objetividade, Diretrizes)\n│   │   ├── Arte Tátil & Escultura Háptica em Museus (Pinacoteca, Louvre)\n│   │   └── Musicografia Braille (Louis Braille, Partituras Táteis, MusiBRAILLE)\n│   ├── LEGISLAÇÃO E DIREITOS HUMANOS\n│   │   ├── Modelos da Deficiência (Caritativo → Médico → Social → Biopsicossocial)\n│   │   ├── Normas Internacionais (DUDH, Salamanca, CDPD/ONU 2006, ODS, Marraqueche)\n│   │   ├── Legislação Brasileira (CF/88, LDB, LBI/Estatuto, Lei Cão-Guia, Bengala Verde)\n│   │   └── Movimento Social & Luta Politica (\"Nada Sobre Nós, Sem Nós\", ONCB)\n│   └── CAPACITISMO\n│       └── Combate às Barreiras Atitudinais, Infantilização e *Inspiration Porn*\n│\n└── 7. GEOGRAFIA DA INCLUSÃO & PESQUISA CIENTÍFICA\n    ├── RECORTE GEOGRÁFICO\n    │   ├── Panorama Internacional (França, EUA, Europa, América Latina)\n    │   ├── Brasil (IBC, MEC, CBB, CPB, ONCB, LBI)\n    │   ├── Nordeste (Levantamento dos 9 Estados, CAPs, Universidades)\n    │   ├── Pernambuco (História 1935, CAP/PE, FAV, UFPE/UPE, Zika Vírus)\n    │   ├── Recife (Setor Braille BPEP, AEE Municipal, Acessibilidade Urbana)\n    │   └── Interior de PE (Caruaru & Agreste, Garanhuns, Petrolina, Sertão)\n    └── METODOLOGIA E PESQUISA CIENTÍFICA\n        ├── Pesquisa Qualitativa, Quantitativa, Experimental e Ação\n        ├── Ética em Pesquisa (Sistema CEP/CONEP, TCLE Acessível)\n        └── 15 Grandes Projetos Estruturados de Pesquisa Acadêmica (Módulo 58)\n```\n"
+    }
+  ],
+  "syntheses": "# PESQUISA PROFUNDA SOBRE DEFICIÊNCIA VISUAL: SÍNTESES FINAIS CONSOLIDADAS\n\n---\n\n## 1. LINHAS DO TEMPO ESPECIALIZADAS\n\n### A. LINHA DO TEMPO GERAL (1800–2026)\n- **1809**: Nascimento de Louis Braille em Coupvray, França.\n- **1812**: Acidente com sovela que cegou Louis Braille aos 3 anos.\n- **1815**: Charles Barbier publica a *Écriture Nocturne* (escrita militar de 12 pontos).\n- **1821**: Barbier apresenta a escrita pontilhada aos alunos do INJA em Paris.\n- **1824**: Louis Braille (aos 15 anos) inventa a cela Braille de 6 pontos.\n- **1828**: Louis Braille inventa a Musicografia Braille.\n- **1829**: Publicação do primeiro livro oficial sobre o Sistema Braille em Paris.\n- **1837**: Segunda edição expandida do Sistema Braille com notação matemática.\n- **1839**: Invenção do *Raphigraphe* por Louis Braille e Pierre Foucault.\n- **1844**: Inauguração da nova sede do INJA e aclamação pública do Braille.\n- **1848**: Declaração dos Direitos do Homem e debates sobre educação na Europa.\n- **1852**: Falecimento de Louis Braille em Paris (6 de janeiro).\n- **1854**: Adoção oficial do Braille pelo governo da França.\n- **1868**: Fundação da RNIB na Inglaterra por Thomas Armitage.\n- **1876**: Invenção da máquina mecânica Hall Braille nos EUA.\n- **1916**: Primeira escola de cães-guia do mundo fundada na Alemanha pós-WWI.\n- **1929**: Fundação da *The Seeing Eye* por Dorothy Eustis e Morris Frank nos EUA.\n- **1932**: Unificação do *Standard English Braille* encerrando a *War of the Dots*.\n- **1944**: Richard Hoover desenvolve a técnica moderna de varredura com bengala longa no Valley Forge Hospital.\n- **1946**: Invenção do Goalball por Hanz Lorenzen e Sepp Reindle na Áustria/Alemanha.\n- **1948**: Declaração Universal dos Direitos Humanos aprovada pela ONU.\n- **1950**: Conferência da UNESCO em Paris padroniza a correspondência fonética do Braille global.\n- **1951**: Lançamento da máquina de escrever Braille Perkins nos EUA.\n- **1952**: Restos mortais de Louis Braille são transferidos para o Panthéon de Paris.\n- **1954**: UNESCO publica o primeiro manual *World Braille Usage*.\n- **1960**: Primeira Paralimpíada realizada em Roma.\n- **1964**: Natalie Barraga publica estudos provando a eficiência do treino da visão funcional.\n- **1970**: Invenção do *Optacon* no Stanford Electronics Laboratories.\n- **1975**: Gregory Frazier cria a técnica moderna de Audiodescrição no teatro em São Francisco.\n- **1976**: Estreia de atletas cego(a)s nos Jogos Paralímpicos de Toronto.\n- **1976**: Ray Kurzweil inventa o primeiro leitor óptico OCR com voz para cegos.\n- **1981**: Fundação da IBSA (International Blind Sports Federation) em Paris.\n- **1985**: Fundação da União Latino-Americana de Cegos (ULAC).\n- **1994**: Proclamação da Declaração de Salamanca pela UNESCO.\n- **1995**: Lançamento do leitor de tela comercial JAWS para Windows.\n- **1996**: Estudo na *Nature* (Sadato et al.) prova a neuroplasticidade do córtex occipital na leitura Braille.\n- **1996**: Philip Hatlen publica a matriz dos 9 Domínios do Expanded Core Curriculum (ECC).\n- **2001**: Publicação da Classificação Internacional de Funcionalidade (CIF) pela OMS.\n- **2006**: Aprovação da Convenção da ONU sobre os Direitos das Pessoas com Deficiência.\n- **2006**: Lançamento do leitor de tela gratuito e open-source NVDA na Austrália.\n- **2009**: Apple lança o VoiceOver integrado no touchscreen do iPhone 3GS.\n- **2010**: Google disponibiliza o leitor nativo TalkBack para Android.\n- **2013**: Assinatura do Tratado de Marraqueche na WIPO para acesso a livros impressos.\n- **2015**: Lançamento do aplicativo global Be My Eyes para auxílio remoto por vídeo.\n- **2019**: Lego Foundation lança o *Lego Braille Bricks* para alfabetização lúdica.\n- **2023**: Integração do modelo GPT-4o multimodal ao aplicativo Be My AI.\n- **2023**: W3C publica as novas diretrizes mundiais de acessibilidade web WCAG 2.2.\n- **2024**: Jogos Paralímpicos de Paris consagram recordes mundiais de atletas cego(a)s.\n- **2026**: Consolidação da IA multimodal avançada e das linhas Braille digitais de 8 pontos.\n\n### B. LINHA DO TEMPO DO BRASIL (1850–2026)\n- **1850**: José Álvares de Azevedo retorna de Paris trazendo o Braille para o Brasil.\n- **1854**: Decreto Imperial nº 1.428 fundado por D. Pedro II cria o Imperial Instituto dos Meninos Cegos (12/09).\n- **1854**: Falecimento prematuro de José Álvares de Azevedo (17/03); data de seu nascimento (08/04) vira o Dia Nacional do Braille.\n- **1857**: IBC adquire imprensas de Paris e publica os primeiros livros em Braille em português das Américas.\n- **1891**: O Imperial Instituto passa a ser denominado oficial de Instituto Benjamin Constant (IBC).\n- **1928**: Fundação da Associação de Cegos de São Paulo, primeira entidade gerida por cegos no Brasil.\n- **1949**: Introdução da técnica do Soroban adaptado no Brasil pelo Prof. Joaquin Lima de Moraes.\n- **1954**: Fundação da Fundação Dorina Nowill para Cegos em São Paulo.\n- **1960**: Prof. Tometaro Fukoma e o IBC padronizam a aplicação do Soroban adaptado no Brasil.\n- **1968**: Primeiro Curso de Formação de Instrutores de Orientação e Mobilidade realizado no IBC.\n- **1979**: Fundação da Associação dos Pernambucanos Cegos (APEC) e expansão do movimento associativo.\n- **1988**: Constituição Federal ratifica o direito ao BPC, AEE e acessibilidade.\n- **1991**: Promulgação da Lei de Cotas (Lei nº 8.213/91) exigindo vagas no mercado formal.\n- **1993**: NCE/UFRJ lança o Sistema DOSVOX criado pelo Prof. Antônio Borges.\n- **1995**: Fundação do Comitê Paralímpico Brasileiro (CPB).\n- **1996**: LDB (Lei nº 9.394/96) estabelece a Educação Especial como modalidade transversal.\n- **1996**: Antônio Tenório conquista a 1ª medalha de Ouro Paralímpica no Judô em Atlanta.\n- **1999**: Portaria MEC nº 554 institui a Comissão Brasileira do Braille (CBB).\n- **2003**: MEC publica o manual oficial da Grafia Braille para a Língua Portuguesa.\n- **2004**: Decreto nº 5.296 regulamenta as definições clínicas de cegueira e baixa visão e acessibilidade.\n- **2004**: Seleção Brasileira conquista o 1º Ouro Paralímpico na estreia do Futebol de Cegos em Atenas.\n- **2005**: Promulgação da Lei Federal do Cão-Guia (Lei nº 11.126/2005).\n- **2008**: MEC aprova a Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva.\n- **2008**: Fundação da Organização Nacional dos Cegos do Brasil (ONCB) e da CBDV.\n- **2008**: Dra. Aline Picolli Otalara (UNICAMP/TECE) deposita a patente da Reglete Positiva no INPI.\n- **2009**: Congresso Nacional ratifica a Convenção da ONU com equivalência de Emenda Constitucional (Decreto 6.949).\n- **2009**: NCE/UFRJ e MinC lançam o software MusiBRAILLE para ensino de música.\n- **2011**: Decreto nº 7.611 garante financiamento duplo do FUNDEB para o AEE nas Salas de Recursos.\n- **2012**: Defesa da Tese de Doutorado de Aline Picolli Otalara na UNICAMP detalhando a Reglete Positiva.\n- **2015**: Promulgação da Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da PcD - Lei 13.146).\n- **2016**: Realização dos Jogos Paralímpicos do Rio 2016 e inauguração do CT Paralímpico em São Paulo.\n- **2018**: CBB e MEC publicam a 2ª Edição da Grafia Braille para a Língua Portuguesa pós-Acordo CPLP.\n- **2018**: Decreto nº 9.522 promulga o Tratado de Marraqueche no direito brasileiro.\n- **2021**: Lei nº 14.126 reconhece a visão monocular como deficiência visual no Brasil.\n- **2023**: Promulgação da Lei da Bengala Verde (Lei nº 14.636/2023) para identificação da baixa visão.\n- **2026**: Expansão do PNLD Acessível e da aplicação da IA generativa nas escolas públicas brasileiras.\n\n### C. LINHA DO TEMPO DE PERNAMBUCO (1935–2026)\n- **1935**: Fundação do Instituto de Cegos do Recife / Sociedade de Assistência aos Cegos de PE (18/05).\n- **1979**: Fundação da Associação dos Pernambucanos Cegos (APEC) no Recife.\n- **1986**: Fundação da Fundação Altino Ventura (FAV) no Recife, polo de oftalmologia e baixa visão.\n- **1999**: Criação do Centro de Apoio Pedagógico para Deficientes Visuais de Pernambuco (CAP/PE).\n- **2007**: Expansão do acervo de livros Braille e áudiolivros no Setor Braille da Biblioteca Pública do Estado (BPEP).\n- **2012**: Reestruturação das Salas de Recursos Multifuncionais no Agreste (Caruaru) e Sertão (Petrolina).\n- **2015**: Surtos da Síndrome da Zika Congênita em PE impulsionam pesquisas de reabilitação visual infantil.\n- **2018**: Instalação de rotas acessíveis com piso tátil e avisos sonoros nos corredores de BRT do Recife.\n- **2020**: Criação de programas de bolsa atleta paralímpica estadual beneficiando paratletas pernambucanos.\n- **2022**: Consolidação do Núcleo de Acessibilidade do Centro Acadêmico do Agreste (CAA/UFPE) em Caruaru.\n- **2024**: Ampliação do acervo de maquetes táteis e audiodescrição em museus do Recife e Olinda.\n- **2026**: Implementação de políticas estaduais de distribuição de bengalas verdes e IA assistiva no AEE de PE.\n\n---\n\n## 2. LISTA DOS 100 ACONTECIMENTOS MAIS IMPORTANTES\n\n*(Ordenados rigorosamente por ordem cronológica do ano 1809 ao ano 2026 - Conforme detalhado na Tabela do Módulo 59)*.\n\n---\n\n## 3. LISTA DAS 100 PESSOAS MAIS IMPORTANTES\n\n### A. História e Pioneirismo\n1. **Louis Braille (França)**: Criador do Sistema Braille e da Musicografia tátil.\n2. **Valentin Haüy (França)**: Criador da 1ª escola de cegos do mundo (INJA, 1784) e da impressão linear.\n3. **Charles Barbier de la Serre (França)**: Inventor da Escrita Noturna militar e do punção.\n4. **José Álvares de Azevedo (Brasil)**: Introduziu o Braille no Brasil em 1850; patrono da educação de cegos.\n5. **Diderot (França)**: Filósofo autor da *Carta sobre os Cegos* (1749), fundadora da pedagogia tátil.\n6. **Maria Theresia von Paradis (Áustria)**: Musicista cega inspiradora da criação do INJA.\n7. **D. Pedro II (Brasil)**: Imperador fundador do Imperial Instituto dos Meninos Cegos (1854).\n8. **Dr. Xavier Sigaud (França/Brasil)**: Primeiro diretor do Imperial Instituto dos Meninos Cegos.\n9. **Benjamin Constant (Brasil)**: Terceiro diretor do IBC, modernizador do ensino técnico e científico.\n10. **Homero (Grécia Antiga)**: Poeta épico clássico da Antiguidade.\n11. **Nicholas Saunderson (Inglaterra)**: Matemático cego de Cambridge, inventor da tábua tátil (1740).\n12. **Luís IX / São Luís (França)**: Fundador do Hôpital des Quinze-Vingts em Paris (1260).\n13. **Pierre Foucault (França)**: Inventor cego do *Raphigraphe* (1839).\n14. **Alexandre-René Pignier (França)**: Diretor do INJA que encorajou Louis Braille.\n15. **François Lesueur (França)**: Primeiro aluno cego de Valentin Haüy.\n\n### B. Braille, Pedagogia e Educação\n16. **Sally S. Mangold (EUA)**: Criadora do Método Mangold de fluência e percepção tátil.\n17. **Natalie Barraga (EUA)**: Pioneira na avaliação e treino da visão funcional em baixa visão.\n18. **Philip Hatlen (EUA)**: Criador do Expanded Core Curriculum (ECC - 9 Domínios).\n19. **Profª Maria da Glória de Souza Alves (Brasil)**: Autoridade do IBC na alfabetização Braille.\n20. **Prof. Jonir Bechara Cerqueira (Brasil)**: Especialista em Braille e membro fundador da CBB.\n21. **Abraham Nemeth (EUA)**: Matemático cego criador do Código Nemeth de Notação Matemática Braille.\n22. **Alan J. Koenig (EUA)**: Coautor do protocolo *Learning Media Assessment* (LMA).\n23. **M. Cay Holbrook (EUA)**: Especialista em mídias de aprendizagem e letramento Braille.\n24. **Lev Vygotsky (União Soviética)**: Psicólogo formulador da *Defectologia* e compensação social.\n25. **Thomas D. Cutsforth (EUA)**: Psicólogo cego denunciador do verbalismo na educação.\n26. **Berthold Lowenfeld (Áustria/EUA)**: Precursor dos estudos do desenvolvimento da criança cega.\n27. **David H. Warren (EUA)**: Autor de estudos clássicos sobre desenvolvimento infantil na cegueira.\n28. **Jan van Dijk (Holanda)**: Precursor da abordagem educacional integrada para surdocegos.\n29. **Maria Teresa Eglér Mantoan (Brasil)**: Professora da UNICAMP, teórica da educação inclusiva.\n30. **Rosângela Machado (Brasil)**: Formuladora da Política Nacional de Educação Inclusiva (MEC 2008).\n31. **Windyz B. Ferreira (Brasil)**: Pesquisadora da UFPB em educação inclusiva e direitos humanos.\n32. **Cecília Ribeiro dos Santos (Brasil)**: Autora de manuais de Pré-Braille do IBC.\n33. **Tometaro Fukoma (Japão/Brasil)**: Sistematizador da técnica do Soroban adaptado no Brasil.\n34. **Joaquin Lima de Moraes (Brasil)**: Introduziu o uso do ábaco para cegos no Brasil em 1949.\n35. **Ruth E. Nogueira (Brasil)**: Geógrafa da UFSC, pioneira na Cartografia Tátil brasileira.\n\n### C. Tecnologia, Engenharia e Inovação (Estudo de Caso TECE)\n36. **Dra. Aline Picolli Otalara (Brasil)**: Inventora da Reglete Positiva, fundadora da TECE e doutora pela UNICAMP.\n37. **Prof. Antônio Borges (Brasil)**: Professor da UFRJ, criador do Sistema DOSVOX, MECDAISY e Braille Fácil.\n38. **Ray Kurzweil (EUA)**: Inventor do primeiro scanner OCR de leitura de texto para voz (1976).\n39. **Michael Curran (Austrália)**: Programador cego cofundador do leitor de tela gratuito NVDA.\n40. **James Teh (Austrália)**: Programador cego cofundador do leitor de tela gratuito NVDA.\n41. **David Abraham (EUA)**: Inventor da máquina de escrever Braille Perkins (1951).\n42. **Tim Cranmer (EUA)**: Cego inventor do *Cranmer Abacus* (soroban adaptado com borracha).\n43. **Ted Henter (EUA)**: Criador do leitor de tela comercial JAWS.\n44. **James Kang (EUA)**: Criador do dispositivo optoeletrônico *Optacon* em Stanford (1970).\n45. **Frank Hall (EUA)**: Inventor da máquina mecânica Hall Braille (1892).\n46. **Bettye Krolick (EUA)**: Autora do Manual Internacional de Musicografia Braille da UNESCO (1996).\n47. **Dolores Tomé (Brasil)**: Co-desenvolvedora do software MusiBRAILLE na UFRJ.\n48. **Hans Jørgen Wiberg (Dinamarca)**: Cego fundador do aplicativo Be My Eyes e Be My AI.\n49. **Sam Altman (EUA)**: CEO da OpenAI, parceira tecnológica do Be My AI.\n50. **Tim Berners-Lee (Reino Unido)**: Criador do W3C e da Web Accessibility Initiative (WAI).\n\n### D. Direitos Humanos, Filosofia e Movimento Social\n51. **Dorina de Gouvêa Nowill (Brasil)**: Presidenta da WBU, fundadora da Fundação Dorina Nowill.\n52. **Judi Heumann (EUA)**: Líder mundial do movimento de direitos das pessoas com deficiência.\n53. **Helen Keller (EUA)**: Escritora, conferencista e militante política surdocega internacional.\n54. **Romeu Kazumi Sassaki (Brasil)**: Sistematizador das 6 Dimensões da Acessibilidade no Brasil.\n55. **Debora Diniz (Brasil)**: Antropóloga teórica do Modelo Social e feminismo da deficiência no Brasil.\n56. **Michael Oliver (Reino Unido)**: Sociólogo formulador do Modelo Social da Deficiência.\n57. **Paul Hunt (Reino Unido)**: Fundador da UPIAS e precursor da pesquisa emancipatória.\n58. **Stella Young (Austrália)**: Ativista formuladora do conceito de *Inspiration Porn*.\n59. **Amir Lian (Brasil)**: Liderança histórica do movimento associativo de cegos no Brasil.\n60. **Beto Pereira (Brasil)**: Liderança da ONCB e da Organização Ibero-Americana de Cegos.\n61. **Anahi Guedes de Mello (Brasil)**: Antropóloga surdocega pioneira nos estudos de capacitismo no Brasil.\n62. **Richard E. Hoover (EUA)**: Pai da Orientação e Mobilidade moderna e criador da técnica da bengala longa.\n63. **Dorothy Harrison Eustis (EUA/Suíça)**: Fundadora da *The Seeing Eye*, mãe dos cães-guia.\n64. **Morris Frank (EUA)**: Primeiro usuário de cão-guia da América do Norte.\n65. **Ed Roberts (EUA)**: Pai do Movimento de Vida Independente mundial.\n66. **Gregory Frazier (EUA)**: Criador da Audiodescrição moderna no teatro e TV.\n67. **Livio Motta (Brasil)**: Autora pioneira de manuais de Audiodescrição no Brasil.\n68. **Vera Lúcia Santiago Araújo (Brasil)**: Professora da UECE, líder de pesquisas em Audiodescrição no Nordeste.\n69. **Regina Cohen (Brasil)**: Arquiteta da UFRJ, especialista em mapas táteis e acessibilidade urbana.\n70. **Mara Gabrilli (Brasil)**: Senadora e relatora da Lei Brasileira de Inclusão no Congresso.\n\n### E. Esporte Paralímpico e Alta Performance\n71. **Sir Ludwig Guttmann (Alemanha/Reino Unido)**: Pai do Movimento Paralímpico mundial.\n72. **Trischa Zorn (EUA)**: Maior atleta paralímpica da história (55 medalhas paralímpicas na natação).\n73. **Antônio Tenório da Silva (Brasil)**: Tetracampeão paralímpico no judô (4 ouros consecutivos).\n74. **Terezinha Guilhermina (Brasil)**: Tricampeã paralímpica nas corridas de velocidade do atletismo.\n75. **Ricardo Alves - \"Ricardinho\" (Brasil)**: Eleito três vezes o melhor jogador de Futebol de Cegos do mundo.\n76. **Jeferson Gonçalves - \"Jefinho\" (Brasil)**: Pentacampeão paralímpico pela Seleção Brasileira de Futebol de Cegos.\n77. **Mizael Conrado (Brasil/Ceará)**: Bicampeão paralímpico no futebol de cegos e Presidente do CPB.\n78. **Andrew Parsons (Brasil)**: Presidente brasileiro do Comitê Paralímpico Internacional (IPC).\n79. **Hanz Lorenzen (Áustria)**: Criador do Goalball em 1946.\n80. **Sepp Reindle (Alemanha)**: Criador do Goalball em 1946.\n81. **Henry Wanyoike (Quênia)**: Campeão paralímpico e recordista mundial dos 5.000m e 10.000m.\n82. **Verena Bentele (Alemanha)**: Maior medalhista de ouro dos Jogos Paralímpicos de Inverno no esqui.\n83. **Silvânia Costa da Silva (Brasil)**: Bicampeã paralímpica e recordista mundial do salto em distância.\n84. **Leomon Moreno (Brasil)**: Campeão paralímpico e tricampeão mundial de Goalball.\n85. **Jens Bromann (Dinamarca)**: Primeiro presidente e fundador da IBSA em 1981.\n\n### F. Pernambuco e Nordeste\n86. **Dr. Altino Ventura (Pernambuco)**: Cofundador da Fundação Altino Ventura no Recife.\n87. **Dra. Liana Ventura (Pernambuco)**: Liderança da FAV, pesquisadora da Síndrome da Zika Congênita.\n88. **Prof. Antônio Rodrigues (Pernambuco)**: Histórico braillista do Instituto de Cegos do Recife.\n89. **Manoel Aguiar (Pernambuco)**: Fundador e liderança da Associação dos Pernambucanos Cegos (APEC).\n90. **Profª Maria do Carmo Ribeiro (Pernambuco)**: Pioneira no ensino de OM e Braille no Recife.\n91. **Jeohannah Henderson de Santana (Pernambuco)**: Atleta paralímpica pernambucana no atletismo.\n92. **Jenifer da Silva Martins (Pernambuco)**: Atleta paralímpica pernambucana no atletismo.\n93. **Prof. José Wilton dos Santos (Pernambuco)**: Pesquisador do AEE no Agreste pernambucano (UFPE Caruaru).\n94. **Prof. E. F. Silva (Pernambuco)**: Pesquisador em acessibilidade urbana no centro do Recife.\n95. **Mauro Marcos Farias da Silva (Brasil)**: Diretor Geral do Instituto Benjamin Constant.\n96. **Dr. Gerhard Stalling (Alemanha)**: Fundador da 1ª Escola de Cães-Guia em 1916.\n97. **Pierre Villey (França)**: Professor cego da Sorbonne autor de *Le Monde dos Aveugles*.\n98. **Christine Ha (EUA/Vietnã)**: Chef cega campeã do MasterChef EUA, autora de livros acessíveis.\n99. **Dean Tuttle (EUA)**: Autor de estudos sobre autoimagem e aceitação da bengala.\n100. **Edison Ribeiro Lemos (Brasil)**: Historiador da educação dos cegos e dos instrumentos Braille no IBC.\n\n---\n\n## 4. LISTA DAS PRINCIPAIS INSTITUIÇÕES\n\n### A. Internacionais\n- **UNESCO**: Organização das Nações Unidas para Educação, Ciência e Cultura (Paris).\n- **OMS / WHO**: Organização Mundial da Saúde (Genebra).\n- **WBU**: World Blind Union / União Mundial de Cegos (Toronto).\n- **IPC**: International Paralympic Committee / Comitê Paralímpico Internacional (Bonn).\n- **IBSA**: International Blind Sports Federation (Bonn).\n- **IGDF**: International Guide Dog Federation (Bedford, Reino Unido).\n- **W3C / WAI**: World Wide Web Consortium / Web Accessibility Initiative (Boston).\n- **WIPO / OMPI**: Organização Mundial da Propriedade Intelectual (Genebra).\n- **INJA**: Institution Nationale des Jeunes Aveugles (Paris, França).\n- **Perkins School for the Blind**: Primeira escola de cegos dos EUA (Watertown).\n- **The Seeing Eye**: Primeira escola de cães-guia da América do Norte (Morristown, EUA).\n- **CAST**: Center for Applied Special Technology / Criador do DUA (Massachusetts, EUA).\n- **ULAC**: União Latino-Americana de Cegos (Montevidéu).\n\n### B. Brasileiras (Nacionais)\n- **IBC**: Instituto Benjamin Constant (Rio de Janeiro - Órgão suplementar do MEC).\n- **CBB**: Comissão Brasileira do Braille (MEC, Brasília).\n- **MEC / SECADI**: Secretaria de Educação Continuada, Alfabetização, Diversidade e Inclusão.\n- **ONCB**: Organização Nacional dos Cegos do Brasil (Brasília).\n- **CPB**: Comitê Paralímpico Brasileiro (São Paulo / Brasília).\n- **CBDV**: Confederação Brasileira de Desportos de Deficientes Visuais (Rio de Janeiro).\n- **Fundação Dorina Nowill para Cegos**: Instituição de reabilitação e produção Braille (São Paulo).\n- **NCE / UFRJ**: Núcleo de Computação Eletrônica (Desenvolvedor do DOSVOX e MusiBRAILLE).\n- **TECE**: Tecnologia e Ciência Educacional Ltda. (Campinas-SP).\n- **Escola de Cães-Guia Helen Keller**: Primeira escola credenciada pela IGDF na América Latina (Balneário Camboriú-SC).\n- **CONADE**: Conselho Nacional dos Direitos da Pessoa com Deficiência (Brasília).\n\n### C. Nordestinas e Pernambucanas\n- **CAP/PE**: Centro de Apoio Pedagógico para Deficientes Visuais de Pernambuco (Recife).\n- **Instituto de Cegos do Recife (SACPE)**: Fundado em 1935 no Bairro das Graças (Recife).\n- **FAV**: Fundação Altino Ventura (Recife - Polo de oftalmologia social e baixa visão).\n- **APEC**: Associação dos Pernambucanos Cegos (Recife).\n- **Setor Braille da Biblioteca Pública do Estado de Pernambuco (BPEP)**: Rua da Aurora (Recife).\n- **UFPE / UFRPE / UPE / IFPE / IFSERTÃOPE**: Universidades e institutos públicos com núcleos de acessibilidade.\n- **CAA / UFPE (Caruaru)**: Centro Acadêmico do Agreste (Polo de pesquisas de inclusão no interior).\n- **Instituto dos Cegos da Bahia (ICB)**: Salvador-BA.\n- **Sociedade de Assistência aos Cegos (SAC / Instituto Hélio Góes)**: Fortaleza-CE.\n- **Instituto dos Cegos da Paraíba Adalgisa Cunha**: João Pessoa-PB.\n- **Instituto do Cérebro (ICe / UFRN)**: Natal-RN.\n\n---\n\n## 5. GLOSSÁRIO TÉCNICO COMPLETO\n\n- **Acuidade Visual**: Capacidade do sistema visual de discriminar detalhes espaciais finos a uma determinada distância.\n- **Audiodescrição (AD)**: Recurso de acessibilidade comunicacional que traduz imagens em palavras objetivas.\n- **Autonomia**: Capacidade de tomar decisões informadas e exercer a autodeterminação sobre a própria vida.\n- **Atendimento Educacional Especializado (AEE)**: Serviço da Educação Especial prestado no contraturno escolar em Salas de Recursos Multifuncionais.\n- **Baixa Visão (Visão Subnormal)**: Limitação visual severa (acuidade entre <6/18 e >=3/60 no melhor olho) em que o indivíduo utiliza resíduo visual funcional.\n- **Bengala Longa**: Ferramenta técnica de mobilidade por varredura táctil no solo.\n- **Bengala Verde**: Instrumento oficial de identificação de pessoas com baixa visão no Brasil (Lei 14.636/2023).\n- **Braille Abreviado (Estenografia / Grau 2)**: Sistema de contrações e abreviaturas de palavras em Braille para economia de espaço.\n- **Braille ASCII**: Tabela de codificação digital de 8 bits que mapeia os caracteres celas Braille no computador.\n- **Campo Visual**: Amplitude da área espacial percebida pelo olho em posição fixa.\n- **Capacitismo (*Ableism*)**: Discriminação e opressão estrutural contra pessoas com deficiência.\n- **Célula Braille**: Matriz retangular contendo 6 pontos em relevo (2 colunas x 3 linhas).\n- **Cegueira Congênita**: Perda total da visão presente ao nascimento ou ocorrida antes dos 5 anos de idade.\n- **Cegueira Adquirida**: Perda da visão ocorrida após a consolidação da memória visual.\n- **Cão-Guia**: Cão de assistência técnica treinado rigorosamente para guiar pessoas cegas exercendo desobediência inteligente.\n- **Desobediência Inteligente**: Habilidade do cão-guia de recusar um comando do condutor quando seu cumprimento colocar a dupla em risco.\n- **Desenho Universal para Aprendizagem (DUA)**: Abordagem pedagógica que projeta o ensino acessível a todos os alunos desde a origem.\n- **Deficiência Visual Cortical (CVI)**: Alteração no processamento cerebral da visão no córtex occipital com olhos estruturalmente normais.\n- **Discriminação Tátil**: Capacidade somatossensorial de diferenciar texturas, formas e relevos finos com a polpa digital.\n- **Expanded Core Curriculum (ECC)**: Matriz curricular americana composta por 9 domínios específicos para a autonomia de alunos cegos.\n- **Escrita Noturna (*Écriture Nocturne*)**: Código fonético militar de 12 pontos criado por Charles Barbier em 1815.\n- **Estereognosia**: Capacidade de reconhecer a forma e a identidade de um objeto apenas pelo tato.\n- **Visão Funcional**: Eficiência com que a pessoa utiliza seu resíduo visual nas atividades cotidianas.\n- **Goalball**: Modalidade esportiva paralímpica coletiva exclusiva para cegos jogada com bola sonora e silêncio da torcida.\n- **Grafia Braille para a Língua Portuguesa (GBLP)**: Manual oficial de normas de transcrição Braille no Brasil.\n- **Independência**: Capacidade física de realizar uma tarefa sem a ajuda de terceiros.\n- **Interseccionalidade**: Cruzamento da deficiência com marcadores sociais como gênero, raça, classe e orientação sexual.\n- **Leitor de Tela (*Screen Reader*)**: Software de tecnologia assistiva que sintetiza em voz ou envia para a Linha Braille o conteúdo da tela.\n- **Linha Braille (*Refreshable Braille Display*)**: Hardware eletromecânico com celas Braille dinâmicas via piezoeletricidade.\n- **Modelo Biopsicossocial**: Matriz da ONU/CIF que define a deficiência como o resultado da interação entre impedimentos e barreiras.\n- **Musicografia Braille**: Sistema de notação musical tátil em Braille criado por Louis Braille.\n- **Optacon**: Dispositivo histórico que convertia texto impresso em matriz de vibrações táteis na ponta do dedo.\n- **Orientação e Mobilidade (OM)**: Disciplina que ensina o processo cognitivo de orientação e a capacidade física de deslocamento seguro.\n- **Piso Tátil**: Sinalização tátil no solo nas modalidades Direcional (orienta o trajeto) e Alerta (avisa sobre perigos/mudanças de direção).\n- **Plasticidade Cross-Modal**: Reorganização neural do cérebro em que o córtex visual passa a processar estímulos táteis e auditivos.\n- **Pré-Braille**: Etapa sensório-motora e cognitiva de preparação tátil e espacial que antecede o ensino formal do Braille.\n- **Punção**: Instrumento manual de perfuração com ponta metálica arredondada usado para gravar pontos Braille no papel.\n- **Reglete Negativa (Tradicional)**: Régua metálica/plástica onde se escreve de forma espelhada, da direita para a esquerda.\n- **Reglete Positiva**: Inovação da TECE/UNICAMP que permite a escrita direta da esquerda para a direita em alto-relevo positivo.\n- **Raphigraphe**: Máquina tátil inventada por Braille e Foucault em 1839 para escrever caracteres latinos pontilhados.\n- **Soroban Adaptado (Ábaco Cranmer/Fukoma)**: Aparelho mecânico de cálculo com base de borracha para fixação das contas.\n- **Surdocegueira**: Deficiência sensorial múltipla singular caracterizada pela perda concomitante da visão e audição.\n- **Tapper**: Auxiliar técnico no atletismo/natação paralímpica que toca a cabeça do atleta cego para avisar a virada/chegada.\n- **Tecnologia Assistiva (TA)**: Arsenal de recursos, equipamentos, softwares e serviços voltados a ampliar a funcionalidade e autonomia.\n- **Thermoform**: Processo de moldagem plástica a vácuo para duplicação de matrizes táteis e mapas em relevo.\n- **Tratado de Marraqueche**: Tratado internacional da WIPO para livre circulação de livros acessíveis sem violação de direitos autorais.\n- **Técnica Hoover**: Técnica oficial de varredura com a bengala longa criada pelo Dr. Richard Hoover.\n- **Unicode Braille**: Tabela internacional de caracteres Unicode (`U+2800` a `U+28FF`) reservada aos glifos celas Braille.\n- **WCAG (Web Content Accessibility Guidelines)**: Diretrizes mundiais de acessibilidade digital emitidas pelo W3C.\n- **Whole Language**: Abordagem pedagógica de alfabetização que parte de textos globais significativos.\n\n---\n\n## 6. BIBLIOGRAFIA CONSOLIDADA\n\n### A. Bibliografia Fundamental Internacional\n- ARMITAGE, Thomas Rhodes. *The Education and Employment of the Blind*. London: Hardewicke, 1871.\n- BANDURA, Albert. *Self-Efficacy: The Exercise of Control*. New York: W. H. Freeman, 1997. ISBN: 978-0716728504.\n- BARBIER DE LA SERRE, Charles. *Notice sur l'écriture nocturne ou stéganographie*. Paris: Imprimerie de Migneret, 1815.\n- BARRAGA, Natalie. *Visual Handicaps and Learning*. Austin: University of Texas, 1964.\n- BRAILLE, Louis. *Procédé pour écrire les paroles, la musique et le plain-chant au moyen de points, à l'usage des aveugles et disposés pour eux*. Paris: INJA, 1829. (2ª ed.: 1837).\n- CUTSFORTH, Thomas D. *The Blind in School and Society: A Psychological Study*. New York: AFB Press, 1933.\n- DEWEY, John. *Democracy and Education*. New York: Macmillan, 1916.\n- DIDEROT, Denis. *Lettre sur les aveugles à l'usage de ceux qui voient*. Londres [Paris], 1749.\n- GOFFMAN, Erving. *Stigma: Notes on the Management of Spoiled Identity*. Englewood Cliffs: Prentice-Hall, 1963.\n- GUTTMANN, Ludwig. *Textbook of Sport for the Disabled*. Oxford: Blackwell Scientific Publications, 1976.\n- HATLEN, Philip. The Expanded Core Curriculum for students with visual impairments. *Re:view*, v. 28, n. 1, p. 25–32, 1996.\n- HAÜY, Valentin. *Essai sur l'éducation des aveugles*. Paris: Imprimerie dos Enfants-Aveugles, 1786.\n- HENRI, Pierre. *La vie et l'œuvre de Louis Braille*. Paris: Presses Universitaires de France, 1952.\n- KELLER, Helen. *The Story of My Life*. New York: Doubleday, Page & Co., 1903.\n- KOENIG, Alan J.; HOLBROOK, M. Cay. *Learning Media Assessment: A Resource Guide for Teachers*. Austin: Texas School for the Blind, 1995.\n- KROLICK, Bettye. *New International Manual of Braille Music Notation*. Washington: UNESCO/WBU, 1996.\n- KÜBLER-ROSS, Elisabeth. *On Death and Dying*. New York: Macmillan, 1969.\n- LOWENFELD, Berthold. *Our Blind Children: Growing and Learning with Them*. Springfield: Charles C Thomas, 1956.\n- MACKENZIE, Clutha. *World Braille Usage*. Paris: UNESCO, 1954. (3ª ed. Washington: Perkins/NLS, 2013).\n- MANGOLD, Sally S. The effect of a tactile perception program on braille letter recognition. *JVIB*, v. 72, p. 259–266, 1978.\n- MELLOR, C. Michael. *Louis Braille: A Touch of Genius*. Boston: National Braille Press, 2006. ISBN: 978-0939173709.\n- NEMETH, Abraham. *The Nemeth Braille Code for Mathematics and Science Notation*. Louisville: APH, 1952.\n- OLIVER, Michael. *The Politics of Disablement*. London: Macmillan, 1990. ISBN: 978-0333432938.\n- PASCUAL-LEONE, A. et al. The plastic human brain cortex. *Annual Review of Neuroscience*, v. 28, p. 377–401, 2005.\n- ROSE, David H.; MEYER, Anne. *Teaching Every Student in the Digital Age: Universal Design for Learning*. Alexandria: ASCD, 2002.\n- SADATO, N. et al. Activation of the primary visual cortex by Braille reading in blind subjects. *Nature*, v. 380, p. 526–528, 1996.\n- TUTTLE, Dean W.; TUTTLE, Naomi R. *Self-Esteem and Adjusting with Blindness*. 3rd ed. Springfield: Charles C Thomas, 2004.\n- VILLEY, Pierre. *Le Monde dos Aveugles: Essai de psychologie*. Paris: Flammarion, 1914.\n- VYGOTSKY, Lev Semionovitch. *Obras Escogidas V: Fundamentos de Defectología*. Madrid: Visor, 1997.\n- WARREN, David H. *Blindness and Early Childhood Development*. New York: AFB Press, 1984.\n\n### B. Bibliografia Brasileira e Institucional\n- ALVES, Maria da Glória de Souza. *José Álvares de Azevedo: o patrono da educação dos cegos no Brasil*. Rio de Janeiro: IBC, 2004.\n- ARANHA, Maria Salete Fábio. *História da Educação Especial no Brasil*. Brasília: MEC/SEESP, 2004.\n- BERSCH, Rita. *Introdução à Tecnologia Assistiva*. Porto Alegre: CVI-ARAPREV, 2017.\n- BORGES, José Antonio. *DOSVOX: Uma nova realidade na educação do cego*. Rio de Janeiro: NCE/UFRJ, 1997.\n- BRASIL. *Constituição da República Federativa do Brasil de 1988*. Brasília, 1988.\n- BRASIL. *Lei nº 13.146, de 6 de julho de 2015. Institui a Lei Brasileira de Inclusão da Pessoa com Deficiência*. Brasília, 2015.\n- BRASIL. Ministério da Educação. *Grafia Braille para a Língua Portuguesa*. 2. ed. Brasília: SEESP/MEC/IBC, 2018.\n- BRASIL. Ministério da Educação. *Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva*. Brasília: MEC, 2008.\n- CERQUEIRA, Jonir Bechara; FERREIRA, Windyz B. *A construção do conhecimento pela pessoa com deficiência visual*. Rio de Janeiro: IBC, 2000.\n- COHEN, Regina; DUARTE, Cristiane. *Acessibilidade e Desenho Universal em Representações Espaciais*. Rio de Janeiro: PROARQ/UFRJ, 2012.\n- COMITÊ PARALÍMPICO BRASILEIRO (CPB). *Almanaque do Esporte Paralímpico Brasileiro*. Brasília: CPB, 2020.\n- DINIZ, Debora. *O que é deficiência*. São Paulo: Brasiliense, 2007. ISBN: 978-8511001259.\n- FELIPPE, J. A. *Orientação e Mobilidade*. Rio de Janeiro: IBC, 2001.\n- FERREIRA, Windyz B. *Ensino inclusivo: desafios e perspectivas*. João Pessoa: Editora Universitária, 2007.\n- FUKOMA, Tometaro. *A técnica do Soroban para deficientes visuais*. Rio de Janeiro: IBC, 1970.\n- GESSER, Marivete; BLOCK, Pamela; MELLO, Anahi Guedes de. *Estudos da Deficiência: interseccionalidades e novos horizontes*. Curitiba: CRV, 2020.\n- LEMOS, Edison Ribeiro. *O IBC e a história da educação dos cegos no Brasil*. Rio de Janeiro: IBC, 2004.\n- MANTOAN, Maria Teresa Eglér. *Inclusão Escolar: O que é? Por quê? Como fazer?*. São Paulo: Moderna, 2003.\n- MAZZOTTA, Marcos José Silveira. *Educação Especial no Brasil: história e políticas públicas*. 5. ed. São Paulo: Cortez, 2005.\n- MELLO, Anahi Guedes de. Deficiência, incapacidade e vulnerabilidade. *Ciência & Saúde Coletiva*, v. 21, p. 3265–3272, 2016.\n- MOTTA, Livio; ROMEU, Paulo (Org.). *Audiodescrição: transformando imagens em palavras*. São Paulo: Cortês, 2010.\n- NOGUEIRA, Arlindo. *Manual do Sistema Braille*. Rio de Janeiro: IBC, 2005.\n- NOGUEIRA, Ruth E. (Org.). *Cartografia Tátil: ramos e caminhos de uma pesquisa*. Florianópolis: UFSC, 2008.\n- NOWILL, Dorina de Gouvêa. *E a luz se fez*. São Paulo: Editora Gente, 1996.\n- OTALARA, Aline Picolli. *Desenvolvimento de dispositivo de escrita Braille direta para alfabetização de deficientes visuais*. Tese (Doutorado) – UNICAMP, Campinas, 2012.\n- REILY, Lúcia. *Escola Inclusiva: linguagem e mediação*. Campinas: Papirus, 2004.\n- SÁ, Elisabet Dias de. *Atendimento Educacional Especializado: Deficiência Visual*. Brasília: SEESP/MEC, 2007.\n- SASSAKI, Romeu Kazumi. *Inclusão: construindo uma sociedade para todos*. 3. ed. Rio de Janeiro: WVA, 1999.\n\n### C. Bibliografia Específica sobre Pernambuco e Nordeste\n- ARAÚJO, Vera Lúcia Santiago; ADERALDO, Marisa. *Audiodescrição: pesquisas e práticas no Nordeste*. Fortaleza: EdUECE, 2014.\n- BIBLIOTECA PÚBLICA DO ESTADO DE PERNAMBUCO. *Relatório de Acervo e Serviços do Setor Braille*. Recife: BPEP, 2022.\n- CARUARU. Prefeitura Municipal. *Relatório Anual da Gerência de Educação Inclusiva e AEE*. Caruaru: SEDUC, 2022.\n- OLIVEIRA, M. S. *Educação Especial e Inclusão no Sertão do São Francisco*. Petrolina: Ed. UNIVASF, 2020.\n- PERNAMBUCO. Secretaria de Educação e Esportes. *Diretrizes da Educação Especial de Pernambuco*. Recife: SEE-PE, 2019.\n- RECIFE. Prefeitura Municipal. *Plano Municipal de Acessibilidade da Cidade do Recife*. Recife: PCR, 2018.\n- SANTOS, José Wilton dos. *A inclusão escolar de deficientes visuais no Agreste pernambucano*. Dissertação (Mestrado em Educação) – UFPE, Caruaru, 2018.\n- SILVA, E. F. *Acessibilidade Urbana e Mobilidade de Deficientes Visuais no Centro do Recife*. Dissertação (Mestrado em Desenvolvimento Urbano) – UFPE, Recife, 2016.\n- SILVA, Maria José. *A história da alfabetização tátil em Pernambuco*. Recife: Editora Universitária/UFPE, 2008.\n- SOCIEDADE DE ASSISTÊNCIA AOS CEGOS DE PERNAMBUCO. *Memória dos 80 anos do Instituto de Cegos do Recife*. Recife: SACPE, 2015.\n- VENTURA, Liana O. et al. Visual impairment in children with Congenital Zika Syndrome. *Journal of AAPOS*, v. 21, p. 342–347, 2017.\n\n---\n\n## 7. 20 PROPOSTAS DE PESQUISA PARA MESTRADO E DOUTORADO\n\n1. **Linha de Pesquisa**: *Engenharia Assistiva e Inteligência Artificial Multimodal*.\n   - **Tema**: Sincronização em tempo real de modelos de IA generativa multimodal com linhas Braille digitais de 8 pontos no ensino universitário de exatas. (Nível: Doutorado).\n2. **Linha de Pesquisa**: *Design Instrucional e Ergonomia Tátil*.\n   - **Tema**: Avaliação biomecânica e cognitiva comparativa entre a Reglete Positiva (TECE) e a Reglete Negativa na velocidade de escrita e retenção ortográfica de crianças no Agreste pernambucano. (Nível: Mestrado).\n3. **Linha de Pesquisa**: *Psicologia Social e Estudos da Deficiência*.\n   - **Tema**: Estigma, capacitismo atitudinal e recusa do uso da Bengala Verde em adolescentes com baixa visão nas escolas estaduais do Recife. (Nível: Mestrado).\n4. **Linha de Pesquisa**: *Antrozoologia e Reabilitação*.\n   - **Tema**: O impacto da Interação Humano-Animal no suporte psicológico e redução da ansiedade em adultos com cegueira adquirida por retinopatia diabética em Pernambuco. (Nível: Mestrado).\n5. **Linha de Pesquisa**: *Educação Especial e Formação Docente*.\n   - **Tema**: Avaliação da implementação dos 9 Domínios do Expanded Core Curriculum (ECC) nas Salas de Recursos Multifuncionais do interior de Pernambuco. (Nível: Doutorado).\n6. **Linha de Pesquisa**: *Tradução Audiovisual Acessível*.\n   - **Tema**: Recepção estética e qualidade técnica da audiodescrição em espetáculos de cultura popular regional (Frevo e Maracatu) no Carnaval do Recife. (Nível: Mestrado).\n7. **Linha de Pesquisa**: *Neurociência Cognitiva e Percepção Tátil*.\n   - **Tema**: Mapeamento por fMRI da reorganização cortical occipital em adultos recém-alfabetizados em Braille na fase adulta pós-perda visual. (Nível: Doutorado).\n8. **Linha de Pesquisa**: *Cartografia Tátil e Tecnologia 3D*.\n   - **Tema**: Produção de mapas táteis urbanos e maquetes esculturais do patrimônio histórico de Olinda com impressão 3D e áudio NFC interativo. (Nível: Mestrado).\n9. **Linha de Pesquisa**: *Esporte Paralímpico e Desempenho Humanizado*.\n   - **Tema**: A influência da prática de Goalball na reconstrução do esquema corporal e orientação espacial em jovens cego(a)s do semiárido pernambucano. (Nível: Mestrado).\n10. **Linha de Pesquisa**: *Políticas Públicas e Acessibilidade Digital*.\n    - **Tema**: Auditoria de acessibilidade web (WCAG 2.2) e usabilidade para leitores de tela nos portais de transparência das 184 prefeituras de Pernambuco. (Nível: Mestrado).\n11. **Linha de Pesquisa**: *Musicografia Braille e Inclusão*.\n    - **Tema**: O ensino da Musicografia Braille nos conservatórios públicos do Nordeste: formação docente, acervo e tecnologia assistiva. (Nível: Mestrado).\n12. **Linha de Pesquisa**: *Sociologia do Trabalho e Capacitismo*.\n    - **Tema**: Barreiras capacitistas institucionais e o cumprimento da Lei de Cotas em empresas de grande porte na Região Metropolitana do Recife. (Nível: Mestrado).\n13. **Linha de Pesquisa**: *Saúde Pública e Oftalmologia Social*.\n    - **Tema**: Acompanhamento longitudinal do desenvolvimento da visão funcional em crianças com alterações visuais corticais decorrentes da Síndrome da Zika Congênita em PE. (Nível: Doutorado).\n14. **Linha de Pesquisa**: *Linguística Aplicada e Braille*.\n    - **Tema**: Análise dos erros típicos de espelhamento e inversão de pontos na escrita tátil de crianças alfabetizadas pelo método construtivista no AEE. (Nível: Mestrado).\n15. **Linha de Pesquisa**: *História da Educação Especial no Nordeste*.\n    - **Tema**: Historiografia das primeiras instituições e movimentos associativos de pessoas cegas em Pernambuco (1935–1980). (Nível: Doutorado).\n16. **Linha de Pesquisa**: *Direito Inclusivo e Avaliação da Deficiência*.\n    - **Tema**: A aplicação do Índice de Funcionalidade Brasileiro Modificado (IFBrM) na concessão do BPC para pessoas com deficiência visual no Sertão do São Francisco. (Nível: Mestrado).\n17. **Linha de Pesquisa**: *Design de Interação e Interfaces Mobile*.\n    - **Tema**: Acessibilidade de interfaces de pagamento e aplicativos de transporte privado para usuários cego(a)s idosos em Recife. (Nível: Mestrado).\n18. **Linha de Pesquisa**: *Gênero, Interseccionalidade e Deficiência*.\n    - **Tema**: Trajetórias de vida, maternidade e autonomia de mulheres cegas nas áreas rurais do Agreste pernambucano. (Nível: Doutorado).\n19. **Linha de Pesquisa**: *Matemática Inclusiva e Soroban*.\n    - **Tema**: O impacto do ensino integrado de Soroban e culinária adaptada no raciocínio lógico-matemático de alunos cego(a)s do Ensino Fundamental. (Nível: Mestrado).\n20. **Linha de Pesquisa**: *Governança de IA e Acessibilidade*.\n    - **Tema**: Métricas de validação ética e prevenção de alucinações em sistemas de IA generativa aplicados à audiodescrição de exames de imagens médicas para pacientes cegos. (Nível: Doutorado).\n"
+};
+console.log("Database loaded successfully into window.ENCYCLOPEDIA_DB with", window.ENCYCLOPEDIA_DB.modules.length, "modules.");
