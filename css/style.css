@@ -1,25 +1,21 @@
-/* Custom CSS for EduBraille */
+/* CSS for Pessoa Cega: Análise Profunda */
 
-/* Focus Ring for Keyboard Accessibility */
+/* Smooth Scroll for Topic Anchor Navigation */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom Focus Outline */
 :focus-visible {
   outline: 2px solid #6366f1 !important;
   outline-offset: 2px !important;
 }
 
-/* Card Hover Animation */
-.module-card {
-  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.2s ease;
-}
-
-.module-card:hover {
-  transform: translateY(-3px);
-}
-
-/* Custom Markdown Rendering Styles */
+/* Markdown Reading Body Styling */
 .markdown-body h1 {
   font-family: 'Outfit', sans-serif;
   font-weight: 800;
-  font-size: 2.25rem;
+  font-size: 2rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
   color: #ffffff;
@@ -30,25 +26,27 @@
 .markdown-body h2 {
   font-family: 'Outfit', sans-serif;
   font-weight: 700;
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   margin-top: 2rem;
   margin-bottom: 0.75rem;
   color: #818cf8;
+  scroll-margin-top: 5rem;
 }
 
 .markdown-body h3 {
   font-family: 'Outfit', sans-serif;
   font-weight: 600;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
   color: #34d399;
+  scroll-margin-top: 5rem;
 }
 
 .markdown-body h4 {
   font-family: 'Outfit', sans-serif;
   font-weight: 600;
-  font-size: 1.05rem;
+  font-size: 1rem;
   margin-top: 1.25rem;
   margin-bottom: 0.5rem;
   color: #f472b6;
@@ -56,7 +54,7 @@
 
 .markdown-body p {
   margin-bottom: 1.15rem;
-  line-height: 1.75;
+  line-height: 1.8;
   color: #cbd5e1;
   font-size: 1rem;
 }
@@ -69,6 +67,7 @@
 .markdown-body li {
   margin-bottom: 0.4rem;
   color: #cbd5e1;
+  line-height: 1.6;
 }
 
 .markdown-body table {
