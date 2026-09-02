@@ -125,7 +125,6 @@ const compiledModules = modulesCatalog.map(item => {
 
   if (match) {
     const startIndex = match.index;
-    // Find next module header
     const restText = fileText.slice(startIndex + match[0].length);
     const nextMatch = restText.match(/## (?:MÓDULO |MODULO )?\d+ — /i);
     if (nextMatch) {
@@ -134,11 +133,20 @@ const compiledModules = modulesCatalog.map(item => {
       moduleMarkdown = fileText.slice(startIndex);
     }
   } else {
-    // Fallback if synth
     moduleMarkdown = `## Módulo ${item.number} — ${item.title}\n\nTexto acadêmico detalhado do Módulo ${item.number}.`;
   }
 
-  // Parse topics
+  // Embed anchor IDs in all ### 1. Contexto ... ### 14. Referências headings inside moduleMarkdown
+  standardTopics.forEach((topicName, idx) => {
+    const topicNum = idx + 1;
+    const anchorId = `topico-${item.id}-${topicNum}`;
+    
+    // Replace ### 1. Contexto or ### 01. Contexto or ### Contexto with anchor ID HTML
+    const subtopicRegex = new RegExp(`### (?:${topicNum}\\.|0${topicNum}\\.)?\\s*${topicName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`, 'gi');
+    moduleMarkdown = moduleMarkdown.replace(subtopicRegex, `<h3 id="${anchorId}" class="scroll-mt-24 text-indigo-400 font-heading font-bold text-xl mt-8 mb-3 pb-1 border-b border-slate-800">${topicNum}. ${topicName}</h3>`);
+  });
+
+  // Parse topics list with anchors
   const topics = standardTopics.map((topicName, idx) => ({
     id: idx + 1,
     title: `${idx + 1}. ${topicName}`,
@@ -146,10 +154,17 @@ const compiledModules = modulesCatalog.map(item => {
   }));
 
   // Summary preview
-  const firstParagraph = moduleMarkdown
-    .split('\n')
-    .filter(line => line.trim().length > 30 && !line.startsWith('#') && !line.startsWith('---'))[0] || 
-    `Estudo acadêmico aprofundado sobre ${item.title} no contexto internacional, brasileiro e pernambucano.`;
+  const lines = moduleMarkdown.split('\n').map(l => l.trim());
+  let firstParagraph = "";
+  for (let l of lines) {
+    if (l.length > 40 && !l.startsWith('<') && !l.startsWith('#') && !l.startsWith('---') && !l.startsWith('|')) {
+      firstParagraph = l;
+      break;
+    }
+  }
+  if (!firstParagraph) {
+    firstParagraph = `Estudo acadêmico aprofundado sobre ${item.title} no contexto internacional, brasileiro e pernambucano.`;
+  }
 
   return {
     id: item.id,
@@ -176,4 +191,4 @@ const fullEncyclopediaDB = {
 };
 
 fs.writeFileSync(path.join(dataDir, 'encyclopedia-db.json'), JSON.stringify(fullEncyclopediaDB, null, 2), 'utf8');
-console.log(`Successfully created data/encyclopedia-db.json with ${compiledModules.length} modules!`);
+console.log(`Successfully generated data/encyclopedia-db.json with ${compiledModules.length} modules and embedded topic anchors!`);

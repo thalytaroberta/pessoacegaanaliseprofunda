@@ -38,6 +38,41 @@ async function loadDatabase() {
   }
 }
 
+// Robust Markdown Renderer Fallback
+function safeRenderMarkdown(markdownText) {
+  if (!markdownText) return '<p class="text-slate-400">Nenhum conteúdo disponível.</p>';
+  
+  if (window.marked && typeof window.marked.parse === 'function') {
+    try {
+      return window.marked.parse(markdownText);
+    } catch (e) {
+      console.warn('marked.parse error, using fallback parser:', e);
+    }
+  } else if (typeof window.marked === 'function') {
+    try {
+      return window.marked(markdownText);
+    } catch (e) {
+      console.warn('marked() error, using fallback parser:', e);
+    }
+  }
+
+  // Pure JavaScript Fallback Markdown Parser
+  let html = markdownText
+    // Keep existing HTML tags intact (like <h3 id="...">)
+    .replace(/^## (.*$)/gim, '<h2 class="font-heading font-bold text-2xl text-white mt-8 mb-4 border-b border-slate-800 pb-2">$1</h2>')
+    .replace(/^# (.*$)/gim, '<h1 class="font-heading font-extrabold text-3xl text-indigo-400 mt-6 mb-4">$1</h1>')
+    .replace(/\*\*(.*?)\*\*/gim, '<strong class="text-white font-bold">$1</strong>')
+    .replace(/\*(.*?)\*/gim, '<em class="text-slate-200">$1</em>')
+    .replace(/^\> (.*$)/gim, '<blockquote class="border-l-4 border-indigo-500 pl-4 py-2 my-4 bg-indigo-950/30 text-indigo-200 rounded-r-lg">$1</blockquote>')
+    .replace(/^---$/gim, '<hr class="my-6 border-slate-800">')
+    .replace(/^\* (.*$)/gim, '<li class="ml-4 list-disc text-slate-300 my-1">$1</li>')
+    .replace(/^- (.*$)/gim, '<li class="ml-4 list-disc text-slate-300 my-1">$1</li>')
+    .replace(/\n\n/gim, '</p><p class="my-4 text-slate-300 leading-relaxed text-base">')
+    .replace(/\n/gim, '<br>');
+
+  return `<div class="prose prose-invert max-w-none"><p class="my-4 text-slate-300 leading-relaxed text-base">${html}</p></div>`;
+}
+
 function handleRoute() {
   const hash = window.location.hash || '#/';
 
@@ -129,7 +164,7 @@ function renderCatalogView() {
 
           <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
             ${categories[catName].map(m => `
-              <div onclick="window.location.hash='#/modulo/${m.id}'" class="cursor-pointer bg-slate-900 border border-slate-800 hover:border-indigo-500/60 rounded-2xl p-5 hover:-translate-y-1 transition-all duration-200 shadow-lg flex flex-col justify-between group">
+              <div onclick="window.location.hash='#/modulo/${m.id}'; renderModuleReadingView(${m.id});" class="cursor-pointer bg-slate-900 border border-slate-800 hover:border-indigo-500/60 rounded-2xl p-5 hover:-translate-y-1 transition-all duration-200 shadow-lg flex flex-col justify-between group">
                 <div class="space-y-3">
                   <div class="flex items-center justify-between">
                     <span class="font-mono text-xs font-bold text-indigo-400 bg-indigo-500/10 border border-indigo-500/20 px-2 py-0.5 rounded-md">
@@ -183,6 +218,8 @@ function renderModuleReadingView(moduleId) {
   const prevMod = db.modules.find(m => m.id === mod.id - 1);
   const nextMod = db.modules.find(m => m.id === mod.id + 1);
 
+  const renderedHTML = safeRenderMarkdown(mod.markdown);
+
   mainArea.innerHTML = `
     <div class="space-y-8 max-w-4xl mx-auto">
       
@@ -213,39 +250,39 @@ function renderModuleReadingView(moduleId) {
         </p>
       </div>
 
-      <!-- INTERACTIVE TOPIC INDEX (TABELA DE 14 TÓPICOS) -->
+      <!-- INTERACTIVE TOPIC INDEX (TABELA DE 14 TÓPICOS DO MÓDULO) -->
       <div class="bg-slate-900/80 border border-slate-800 rounded-2xl p-5 space-y-3">
         <h3 class="font-heading font-bold text-sm text-indigo-400 uppercase tracking-wider flex items-center gap-2">
-          <i data-lucide="list" class="w-4 h-4"></i> Tópicos deste Módulo de Estudo (Clique para ir ao tópico)
+          <i data-lucide="list" class="w-4 h-4"></i> Tópicos deste Módulo (Clique para rolar até o tópico)
         </h3>
 
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
           ${mod.topics.map(t => `
-            <a href="#${t.anchor}" onclick="scrollToTopic('${t.anchor}')" 
-               class="p-2 rounded-lg bg-slate-950 border border-slate-800 hover:border-indigo-500 text-slate-300 hover:text-white transition truncate flex items-center gap-2">
-              <span class="w-2 h-2 rounded-full bg-indigo-500"></span>
+            <button onclick="scrollToTopic('${t.anchor}')" 
+               class="text-left p-2 rounded-lg bg-slate-950 border border-slate-800 hover:border-indigo-500 text-slate-300 hover:text-white transition truncate flex items-center gap-2 focus:outline-none focus:ring-2 focus:ring-indigo-500">
+              <span class="w-2 h-2 rounded-full bg-indigo-500 flex-shrink-0"></span>
               <span class="truncate">${t.title}</span>
-            </a>
+            </button>
           `).join('')}
         </div>
       </div>
 
-      <!-- READING MATERIAL BODY (MARKDOWN) -->
+      <!-- READING MATERIAL BODY -->
       <article id="study-reading-body" class="markdown-body bg-slate-950 p-4 sm:p-8 rounded-3xl border border-slate-900 shadow-2xl">
-        ${marked.parse(mod.markdown)}
+        ${renderedHTML}
       </article>
 
       <!-- BOTTOM MODULE NAVIGATION (PREV / NEXT) -->
       <div class="pt-6 border-t border-slate-800 flex items-center justify-between gap-4">
         ${prevMod ? `
-          <a href="#/modulo/${prevMod.id}" class="bg-slate-900 border border-slate-800 hover:border-indigo-500 p-4 rounded-2xl text-left space-y-1 transition max-w-xs">
+          <a href="#/modulo/${prevMod.id}" onclick="renderModuleReadingView(${prevMod.id})" class="bg-slate-900 border border-slate-800 hover:border-indigo-500 p-4 rounded-2xl text-left space-y-1 transition max-w-xs">
             <span class="text-[11px] text-slate-500 font-semibold uppercase">Módulo Anterior</span>
             <div class="text-xs font-bold text-white truncate">Módulo ${prevMod.number}: ${prevMod.title}</div>
           </a>
         ` : '<div></div>'}
 
         ${nextMod ? `
-          <a href="#/modulo/${nextMod.id}" class="bg-slate-900 border border-slate-800 hover:border-indigo-500 p-4 rounded-2xl text-right space-y-1 transition max-w-xs">
+          <a href="#/modulo/${nextMod.id}" onclick="renderModuleReadingView(${nextMod.id})" class="bg-slate-900 border border-slate-800 hover:border-indigo-500 p-4 rounded-2xl text-right space-y-1 transition max-w-xs">
             <span class="text-[11px] text-indigo-400 font-semibold uppercase">Próximo Módulo →</span>
             <div class="text-xs font-bold text-white truncate">Módulo ${nextMod.number}: ${nextMod.title}</div>
           </a>
@@ -255,13 +292,16 @@ function renderModuleReadingView(moduleId) {
     </div>
   `;
 
+  window.scrollTo(0, 0);
   if (window.lucide) lucide.createIcons();
 }
 
 function scrollToTopic(anchorId) {
   const el = document.getElementById(anchorId);
   if (el) {
-    el.scrollIntoView({ behavior: 'smooth' });
+    el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  } else {
+    console.warn(`Elemento com ID ${anchorId} não encontrado.`);
   }
 }
 
@@ -278,7 +318,7 @@ function renderSynthesesView() {
       </div>
 
       <article class="markdown-body bg-slate-950 p-6 sm:p-8 rounded-3xl border border-slate-900 shadow-2xl">
-        ${marked.parse(db.syntheses)}
+        ${safeRenderMarkdown(db.syntheses)}
       </article>
     </div>
   `;
@@ -340,7 +380,7 @@ function setupSearch(inputId, dropdownId) {
       dropdown.innerHTML = `<div class="p-4 text-xs text-slate-400">Nenhum módulo encontrado para "${q}".</div>`;
     } else {
       dropdown.innerHTML = matches.slice(0, 10).map(m => `
-        <a href="#/modulo/${m.id}" onclick="document.getElementById('${dropdownId}').classList.add('hidden');" 
+        <a href="#/modulo/${m.id}" onclick="renderModuleReadingView(${m.id}); document.getElementById('${dropdownId}').classList.add('hidden');" 
            class="block p-3 hover:bg-slate-800 border-b border-slate-800/60 last:border-0 transition">
           <div class="text-[10px] text-indigo-400 font-bold uppercase">Módulo ${m.number} • ${m.category}</div>
           <div class="text-sm font-semibold text-white">${m.title}</div>
