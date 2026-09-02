@@ -1,44 +1,22 @@
-/* Custom Styles for Web Application */
+/* Custom CSS for EduBraille */
 
-/* Tailwind directives or custom utility classes */
-@import url('https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css');
-
-/* High Contrast Mode for Low Vision Accessibility */
-body.high-contrast {
-  background-color: #000000 !important;
-  color: #ffff00 !important;
+/* Focus Ring for Keyboard Accessibility */
+:focus-visible {
+  outline: 2px solid #6366f1 !important;
+  outline-offset: 2px !important;
 }
 
-body.high-contrast header,
-body.high-contrast aside,
-body.high-contrast main,
-body.high-contrast div,
-body.high-contrast article {
-  background-color: #000000 !important;
-  border-color: #ffff00 !important;
-  color: #ffff00 !important;
+/* Card Hover Animation */
+.module-card {
+  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.2s ease;
 }
 
-body.high-contrast a,
-body.high-contrast button,
-body.high-contrast h1,
-body.high-contrast h2,
-body.high-contrast h3,
-body.high-contrast h4,
-body.high-contrast p,
-body.high-contrast li,
-body.high-contrast span {
-  color: #ffff00 !important;
+.module-card:hover {
+  transform: translateY(-3px);
 }
 
-body.high-contrast input {
-  background-color: #000000 !important;
-  color: #ffffff !important;
-  border-color: #ffffff !important;
-}
-
-/* Custom Markdown Prose Styling */
-#markdown-body h1 {
+/* Custom Markdown Rendering Styles */
+.markdown-body h1 {
   font-family: 'Outfit', sans-serif;
   font-weight: 800;
   font-size: 2.25rem;
@@ -49,16 +27,16 @@ body.high-contrast input {
   padding-bottom: 0.5rem;
 }
 
-#markdown-body h2 {
+.markdown-body h2 {
   font-family: 'Outfit', sans-serif;
   font-weight: 700;
-  font-size: 1.75rem;
+  font-size: 1.6rem;
   margin-top: 2rem;
   margin-bottom: 0.75rem;
   color: #818cf8;
 }
 
-#markdown-body h3 {
+.markdown-body h3 {
   font-family: 'Outfit', sans-serif;
   font-weight: 600;
   font-size: 1.25rem;
@@ -67,67 +45,68 @@ body.high-contrast input {
   color: #34d399;
 }
 
-#markdown-body h4 {
+.markdown-body h4 {
   font-family: 'Outfit', sans-serif;
   font-weight: 600;
-  font-size: 1.1rem;
-  margin-top: 1rem;
+  font-size: 1.05rem;
+  margin-top: 1.25rem;
   margin-bottom: 0.5rem;
   color: #f472b6;
 }
 
-#markdown-body p {
-  margin-bottom: 1rem;
+.markdown-body p {
+  margin-bottom: 1.15rem;
   line-height: 1.75;
   color: #cbd5e1;
+  font-size: 1rem;
 }
 
-#markdown-body ul, #markdown-body ol {
+.markdown-body ul, .markdown-body ol {
   margin-bottom: 1.25rem;
   padding-left: 1.5rem;
 }
 
-#markdown-body li {
-  margin-bottom: 0.35rem;
+.markdown-body li {
+  margin-bottom: 0.4rem;
   color: #cbd5e1;
 }
 
-#markdown-body table {
+.markdown-body table {
   width: 100%;
   border-collapse: collapse;
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
-  background-color: rgba(15, 23, 42, 0.6);
+  background-color: #0f172a;
   border-radius: 0.75rem;
   overflow: hidden;
+  border: 1px solid #334155;
 }
 
-#markdown-body th, #markdown-body td {
+.markdown-body th, .markdown-body td {
   padding: 0.75rem 1rem;
   border: 1px solid #334155;
   text-align: left;
   font-size: 0.9rem;
 }
 
-#markdown-body th {
-  background-color: rgba(30, 41, 59, 0.8);
+.markdown-body th {
+  background-color: #1e293b;
   color: #f8fafc;
   font-weight: 600;
 }
 
-#markdown-body blockquote {
+.markdown-body blockquote {
   border-left: 4px solid #6366f1;
   padding-left: 1rem;
-  margin-left: 0;
-  margin-right: 0;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
   background-color: rgba(99, 102, 241, 0.1);
-  padding: 0.75rem 1rem;
+  padding: 0.85rem 1.15rem;
   border-radius: 0 0.5rem 0.5rem 0;
+  color: #e0e7ff;
 }
 
-#markdown-body code {
+.markdown-body code {
   font-family: 'JetBrains Mono', monospace;
   background-color: #1e293b;
   color: #38bdf8;
@@ -136,28 +115,19 @@ body.high-contrast input {
   font-size: 0.875em;
 }
 
-#markdown-body pre code {
-  display: block;
-  padding: 1rem;
-  overflow-x: auto;
-  background-color: #0f172a;
-  border: 1px solid #1e293b;
-  border-radius: 0.75rem;
-}
-
 /* Custom Scrollbar */
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 8px;
+  height: 8px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #090d16;
+  background: #020617;
 }
 
 ::-webkit-scrollbar-thumb {
   background: #1e293b;
-  border-radius: 3px;
+  border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
